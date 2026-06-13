@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sahir Vhora — SAP SuccessFactors Tools & Consulting</title>
+<meta name="description" content="Open-source SAP SuccessFactors tools for consultants: config audit, position integrity, object sync, pay transparency, release tracking, and more.">
+<meta property="og:title" content="Sahir Vhora">
+<meta property="og:description" content="Open-source SAP SuccessFactors tools for consultants.">
+<meta property="og:image" content="https://sahirvhora.github.io/og.png">
+<meta property="og:url" content="https://sahirvhora.github.io">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔧</text></svg>">
+
+<style>
+:root {
+  --bg: #090d14;
+  --bg-card: #0f1420;
+  --bg-hover: #161c2b;
+  --text: #e1e4e8;
+  --text-muted: #8b949e;
+  --border: #1c2333;
+  --gold: #c8a84e;
+  --gold-dim: #a8882e;
+  --accent: #58a6ff;
+  --radius: 10px;
+  --font: system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --mono: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
+}
+
+[data-theme="light"] {
+  --bg: #f6f8fa;
+  --bg-card: #ffffff;
+  --bg-hover: #f0f2f5;
+  --text: #1f2328;
+  --text-muted: #656d76;
+  --border: #d0d7de;
+  --gold: #b8860b;
+  --gold-dim: #9a7209;
+  --accent: #0969da;
+}
+
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font);
+  line-height: 1.6;
+  padding: 0 24px;
+  transition: background .3s, color .3s;
+}
+
+.container { max-width: 960px; margin: 0 auto; padding: 48px 0; }
+
+/* ── Theme toggle ── */
+.theme-toggle {
+  position: fixed; top: 16px; right: 20px; z-index: 100;
+  background: var(--bg-card); border: 1px solid var(--border);
+  color: var(--text); width: 40px; height: 40px; border-radius: 50%;
+  cursor: pointer; font-size: 18px; display: flex; align-items: center; justify-content: center;
+  transition: background .2s;
+}
+.theme-toggle:hover { background: var(--bg-hover); }
+
+/* ── Hero ── */
+.hero { text-align: center; padding: 60px 0 48px; }
+.hero h1 { font-size: 2.6rem; font-weight: 700; letter-spacing: -.03em; }
+.hero .title {
+  font-size: 1.15rem; color: var(--gold); margin-top: 8px;
+  font-family: var(--mono); font-weight: 500;
+}
+.hero p { margin-top: 16px; color: var(--text-muted); max-width: 600px; margin-left: auto; margin-right: auto; font-size: .95rem; }
+.hero-links { margin-top: 20px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
+.hero-links a {
+  color: var(--text); text-decoration: none; font-size: .9rem;
+  padding: 8px 20px; border: 1px solid var(--border); border-radius: 20px;
+  transition: all .2s; display: inline-flex; align-items: center; gap: 6px;
+}
+.hero-links a:hover { border-color: var(--gold); color: var(--gold); background: var(--bg-hover); }
+
+/* ── Section ── */
+.section { margin-top: 56px; }
+.section h2 {
+  font-size: 1.3rem; font-weight: 600; margin-bottom: 20px;
+  display: flex; align-items: center; gap: 10px;
+}
+.section h2 .count {
+  font-size: .75rem; color: var(--text-muted); font-weight: 400;
+  background: var(--bg-card); padding: 2px 10px; border-radius: 12px;
+  border: 1px solid var(--border);
+}
+
+/* ── Tool cards grid ── */
+.tool-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 14px;
+}
+.tool-card {
+  background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--radius); padding: 18px;
+  transition: all .2s; display: flex; flex-direction: column;
+}
+.tool-card:hover { border-color: var(--gold-dim); background: var(--bg-hover); }
+.tool-card h3 { font-size: .95rem; font-weight: 600; }
+.tool-card .desc { font-size: .82rem; color: var(--text-muted); margin-top: 6px; flex: 1; }
+.tool-card .tags { margin-top: 10px; display: flex; gap: 5px; flex-wrap: wrap; }
+.tool-card .tags span {
+  font-size: .68rem; padding: 2px 8px; border-radius: 10px;
+  background: var(--bg); border: 1px solid var(--border); color: var(--text-muted);
+  font-family: var(--mono);
+}
+.tool-card .links { margin-top: 12px; display: flex; gap: 12px; font-size: .8rem; }
+.tool-card .links a { color: var(--accent); text-decoration: none; }
+.tool-card .links a:hover { text-decoration: underline; color: var(--gold); }
+
+/* ── Other projects ── */
+.project-list { display: flex; flex-direction: column; gap: 10px; }
+.project-item {
+  display: flex; align-items: center; justify-content: space-between;
+  padding: 12px 16px; background: var(--bg-card); border: 1px solid var(--border);
+  border-radius: var(--radius); transition: all .2s; text-decoration: none; color: inherit;
+}
+.project-item:hover { border-color: var(--gold-dim); background: var(--bg-hover); }
+.project-item .left { display: flex; align-items: center; gap: 12px; }
+.project-item .emoji { font-size: 1.3rem; }
+.project-item .name { font-weight: 500; font-size: .9rem; }
+.project-item .brief { font-size: .8rem; color: var(--text-muted); }
+.project-item .arrow { color: var(--text-muted); font-size: .85rem; }
+
+/* ── Articles ── */
+.article-list { display: flex; flex-direction: column; gap: 8px; }
+.article-item {
+  padding: 12px 16px; border: 1px solid var(--border);
+  border-radius: var(--radius); background: var(--bg-card);
+  text-decoration: none; color: inherit; transition: all .2s; display: block;
+}
+.article-item:hover { border-color: var(--gold-dim); background: var(--bg-hover); }
+.article-item .a-title { font-weight: 500; font-size: .9rem; }
+.article-item .a-meta { font-size: .78rem; color: var(--text-muted); margin-top: 2px; }
+
+/* ── Footer ── */
+.footer { text-align: center; padding: 48px 0 24px; color: var(--text-muted); font-size: .8rem; }
+.footer a { color: var(--gold); text-decoration: none; }
+
+/* ── Responsive ── */
+@media (max-width: 640px) {
+  .hero h1 { font-size: 1.8rem; }
+  .tool-grid { grid-template-columns: 1fr; }
+  .container { padding: 32px 0; }
+}
+</style>
+</head>
+<body>
+
+<button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">☀️</button>
+
+<div class="container">
+
+<!-- ── Hero ── -->
+<header class="hero">
+  <h1>Sahir Vhora</h1>
+  <div class="title">SAP SuccessFactors Consultant · Tool Builder</div>
+  <p>I build open-source tools that help SAP SuccessFactors consultants work faster — config audits, position integrity, object sync, pay transparency, and release tracking. No fluff, no vendor lock-in.</p>
+  <div class="hero-links">
+    <a href="https://github.com/SahirVhora">GitHub</a>
+    <a href="https://linkedin.com/in/sahirvhora">LinkedIn</a>
+    <a href="https://sahirvhora.github.io/ai-yesterday">AI Yesterday</a>
+  </div>
+</header>
+
+<!-- ── SF Tools ── -->
+<section class="section">
+  <h2>SF Tools <span class="count">10</span></h2>
+  <div class="tool-grid">
+    <div class="tool-card">
+      <h3>Config Debt Radar</h3>
+      <div class="desc">Scan EC config debt. CLI + dashboard + MCP server for AI agents. Custom fields, picklists, MDF objects.</div>
+      <div class="tags"><span>Python</span><span>CLI</span><span>MCP</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-config-debt-radar">Repo</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Position Integrity Checker</h3>
+      <div class="desc">Validate position data integrity against foundation objects. HTML/Excel reports, configurable rules, OData v2.</div>
+      <div class="tags"><span>Python</span><span>Flask</span><span>OData</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-position-integrity-checker">Repo</a> <a href="https://sahirvhora.github.io/sf-position-integrity-checker/">Demo</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>ObjectSync</h3>
+      <div class="desc">Sync OM foundation objects PRD→Dev via OData v2. CLI + Python lib + web UI.</div>
+      <div class="tags"><span>Python</span><span>Flask</span><span>CLI</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-object-sync">Repo</a> <a href="https://sahirvhora.github.io/sf-object-sync/">Demo</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Config Compare</h3>
+      <div class="desc">Compare metadata and picklists across tenants. Diff reports for before/after change tracking.</div>
+      <div class="tags"><span>Python</span><span>HTML</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-config-compare">Repo</a> <a href="https://sahirvhora.github.io/sf-config-compare/">Demo</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Release Tracker</h3>
+      <div class="desc">Live tracker for 1H/2H SAP SF release changes. Impact-classified, plain-English summaries.</div>
+      <div class="tags"><span>Python</span><span>Playwright</span><span>HTML</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-release-update">Repo</a> <a href="https://sahirvhora.github.io/sf-release-update/">Live</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Impact Brief</h3>
+      <div class="desc">Personalised release impact briefs. Pick modules, get tiered action plan (Must Act / Should Test / Nice To Know).</div>
+      <div class="tags"><span>HTML</span><span>JS</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-impact-brief">Repo</a> <a href="https://sahirvhora.github.io/sf-impact-brief/">Demo</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Pay Transparency</h3>
+      <div class="desc">EU Pay Transparency Directive readiness. Pay range disclosure, Article 9 reporting, evidence workflows.</div>
+      <div class="tags"><span>Python</span><span>HTML</span><span>EU</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-pay-transparency">Repo</a> <a href="https://sahirvhora.github.io/sf-pay-transparency/">Demo</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Value Navigator</h3>
+      <div class="desc">Interactive consulting framework for EC, Compensation, and Performance & Goals value realisation.</div>
+      <div class="tags"><span>HTML</span><span>JS</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-value-navigator">Repo</a> <a href="https://sahirvhora.github.io/sf-value-navigator/">Demo</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>Agent Skills</h3>
+      <div class="desc">AI skills for SF consultants: config health, migration readiness, position audit, HR transformation workflows.</div>
+      <div class="tags"><span>AI</span><span>Skills</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-agent-skills">Repo</a> <a href="https://sahirvhora.github.io/sf-agent-skills/">Site</a></div>
+    </div>
+    <div class="tool-card">
+      <h3>SF Compass</h3>
+      <div class="desc">94 feasibility scenarios across 8 SF modules. Client-safe answers during workshops. Single HTML file, zero deps.</div>
+      <div class="tags"><span>HTML</span><span>JS</span></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-compass">Repo</a> <a href="https://sahirvhora.github.io/sf-compass/">Live</a></div>
+    </div>
+  </div>
+</section>
+
+<!-- ── Other Projects ── -->
+<section class="section">
+  <h2>Other Projects</h2>
+  <div class="project-list">
+    <a href="https://sahirvhora.github.io/ai-yesterday" class="project-item">
+      <div class="left"><span class="emoji">🤖</span><div><div class="name">AI Yesterday</div><div class="brief">Daily AI briefing — plain-English summaries of yesterday's AI news</div></div></div>
+      <span class="arrow">→</span>
+    </a>
+    <a href="https://sahirvhora.github.io/starlearn" class="project-item">
+      <div class="left"><span class="emoji">📚</span><div><div class="name">StarLearn</div><div class="brief">Free UK primary school learning — 494 topics, Years 4-6</div></div></div>
+      <span class="arrow">→</span>
+    </a>
+    <a href="https://sahirvhora.github.io/year4-prep" class="project-item">
+      <div class="left"><span class="emoji">✏️</span><div><div class="name">Year 4 Prep</div><div class="brief">SATs practice papers — 36 verified PDFs, auto-updated weekly</div></div></div>
+      <span class="arrow">→</span>
+    </a>
+    <a href="https://github.com/SahirVhora/worksheet-generator" class="project-item">
+      <div class="left"><span class="emoji">📝</span><div><div class="name">Worksheet Generator</div><div class="brief">Print SATs-style worksheets — Maths, Reading, SPaG</div></div></div>
+      <span class="arrow">→</span>
+    </a>
+    <a href="https://github.com/SahirVhora/public-pdf-action-pack" class="project-item">
+      <div class="left"><span class="emoji">📄</span><div><div class="name">Public PDF Action Pack</div><div class="brief">Turn public-sector PDFs into plain-English checklists</div></div></div>
+      <span class="arrow">→</span>
+    </a>
+  </div>
+</section>
+
+<!-- ── Articles ── -->
+<section class="section">
+  <h2>Articles</h2>
+  <div class="article-list">
+    <a href="https://www.linkedin.com/in/sahirvhora" class="article-item">
+      <div class="a-title">SAP SuccessFactors Config Debt: Why Metadata Tells the Real Story</div>
+      <div class="a-meta">LinkedIn · Mar 2026</div>
+    </a>
+    <a href="https://www.linkedin.com/in/sahirvhora" class="article-item">
+      <div class="a-title">Position Integrity in SAP SuccessFactors: A Practical Guide</div>
+      <div class="a-meta">LinkedIn · Feb 2026</div>
+    </a>
+  </div>
+</section>
+
+<!-- ── Footer ── -->
+<footer class="footer">
+  <a href="https://github.com/SahirVhora">GitHub</a> · <a href="https://linkedin.com/in/sahirvhora">LinkedIn</a><br>
+  Built with intent. No trackers. No sign-ups.
+</footer>
+
+</div>
+
+<script>
+(function() {
+  const toggle = document.getElementById('themeToggle');
+  const html = document.documentElement;
+  const stored = localStorage.getItem('theme');
+  if (stored) html.setAttribute('data-theme', stored);
+
+  function updateBtn() {
+    const theme = html.getAttribute('data-theme');
+    toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
+  }
+  updateBtn();
+
+  toggle.addEventListener('click', () => {
+    const cur = html.getAttribute('data-theme');
+    const next = cur === 'dark' ? 'light' : 'dark';
+    html.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+    updateBtn();
+  });
+})();
+</script>
+
+</body>
+</html>
