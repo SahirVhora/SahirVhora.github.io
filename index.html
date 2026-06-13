@@ -1,244 +1,223 @@
 <!DOCTYPE html>
-<html lang="en" data-theme="dark">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Sahir Vhora — SAP SuccessFactors Tools & Consulting</title>
 <meta name="description" content="Open-source SAP SuccessFactors tools for consultants: config audit, position integrity, object sync, pay transparency, release tracking, and more.">
 <meta property="og:title" content="Sahir Vhora">
-<meta property="og:description" content="Open-source SAP SuccessFactors tools for consultants.">
+<meta property="og:description" content="Open-source SAP SuccessFactors tools for consultants — config audit, position integrity, object sync, pay transparency, release tracking.">
 <meta property="og:image" content="https://sahirvhora.github.io/og.png">
 <meta property="og:url" content="https://sahirvhora.github.io">
 <meta name="twitter:card" content="summary_large_image">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🔧</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 
 <style>
-:root {
-  --bg: #090d14;
-  --bg-card: #0f1420;
-  --bg-hover: #161c2b;
-  --text: #e1e4e8;
-  --text-muted: #8b949e;
-  --border: #1c2333;
-  --gold: #c8a84e;
-  --gold-dim: #a8882e;
-  --accent: #58a6ff;
-  --radius: 10px;
-  --font: system-ui, -apple-system, 'Segoe UI', sans-serif;
-  --mono: 'SF Mono', 'Fira Code', 'Cascadia Code', monospace;
-}
-
-[data-theme="light"] {
-  --bg: #f6f8fa;
-  --bg-card: #ffffff;
-  --bg-hover: #f0f2f5;
-  --text: #1f2328;
-  --text-muted: #656d76;
-  --border: #d0d7de;
-  --gold: #b8860b;
-  --gold-dim: #9a7209;
-  --accent: #0969da;
-}
-
-* { margin:0; padding:0; box-sizing:border-box; }
+:root { color-scheme:dark; --bg:#07101d; --panel:#101927; --panel2:#152338; --line:#29394f; --text:#edf4ff; --muted:#a6b4c7; --blue:#60a5fa; --green:#34d399; --red:#fb7185; --gold:#fbbf24; --purple:#c084fc; }
+* { box-sizing:border-box; margin:0; padding:0; }
 body {
-  background: var(--bg);
-  color: var(--text);
-  font-family: var(--font);
-  line-height: 1.6;
-  padding: 0 24px;
-  transition: background .3s, color .3s;
+  margin:0;
+  font-family:Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background:radial-gradient(circle at 80% 0%, #21446f 0, var(--bg) 42%);
+  color:var(--text); line-height:1.55; min-height:100vh;
 }
-
-.container { max-width: 960px; margin: 0 auto; padding: 48px 0; }
+.wrap { max-width:1200px; margin:0 auto; padding:46px 22px; }
 
 /* ── Theme toggle ── */
-.theme-toggle {
-  position: fixed; top: 16px; right: 20px; z-index: 100;
-  background: var(--bg-card); border: 1px solid var(--border);
-  color: var(--text); width: 40px; height: 40px; border-radius: 50%;
-  cursor: pointer; font-size: 18px; display: flex; align-items: center; justify-content: center;
-  transition: background .2s;
+.theme-row { display:flex; justify-content:flex-end; margin-bottom:10px; }
+.theme-btn {
+  background:var(--panel); border:1px solid var(--line); color:var(--muted);
+  width:38px; height:38px; border-radius:50%; cursor:pointer; font-size:17px;
+  display:flex; align-items:center; justify-content:center; transition:.2s;
 }
-.theme-toggle:hover { background: var(--bg-hover); }
+.theme-btn:hover { border-color:var(--gold); background:var(--panel2); }
 
 /* ── Hero ── */
-.hero { text-align: center; padding: 60px 0 48px; }
-.hero h1 { font-size: 2.6rem; font-weight: 700; letter-spacing: -.03em; }
-.hero .title {
-  font-size: 1.15rem; color: var(--gold); margin-top: 8px;
-  font-family: var(--mono); font-weight: 500;
-}
-.hero p { margin-top: 16px; color: var(--text-muted); max-width: 600px; margin-left: auto; margin-right: auto; font-size: .95rem; }
-.hero-links { margin-top: 20px; display: flex; gap: 16px; justify-content: center; flex-wrap: wrap; }
-.hero-links a {
-  color: var(--text); text-decoration: none; font-size: .9rem;
-  padding: 8px 20px; border: 1px solid var(--border); border-radius: 20px;
-  transition: all .2s; display: inline-flex; align-items: center; gap: 6px;
-}
-.hero-links a:hover { border-color: var(--gold); color: var(--gold); background: var(--bg-hover); }
+.hero { display:grid; grid-template-columns:1.1fr .9fr; gap:26px; align-items:center; }
+.hero-left { }
+.eyebrow { color:var(--green); text-transform:uppercase; letter-spacing:.14em; font-size:13px; font-weight:800; }
+h1 { margin:12px 0 16px; font-size:clamp(34px,6vw,64px); line-height:1; font-weight:700; letter-spacing:-.02em; }
+h1 .gold { color:var(--gold); }
+.lead { color:var(--muted); font-size:20px; max-width:760px; }
+.actions { display:flex; flex-wrap:wrap; gap:12px; margin-top:26px; }
+a.btn { color:#06101d; background:var(--green); padding:12px 20px; border-radius:10px; text-decoration:none; font-weight:700; font-size:14px; transition:.2s; }
+a.btn:hover { filter:brightness(1.15); }
+a.btn.sec { color:var(--text); background:transparent; border:1px solid var(--line); }
+a.btn.sec:hover { border-color:var(--gold); color:var(--gold); }
 
 /* ── Section ── */
-.section { margin-top: 56px; }
-.section h2 {
-  font-size: 1.3rem; font-weight: 600; margin-bottom: 20px;
-  display: flex; align-items: center; gap: 10px;
-}
-.section h2 .count {
-  font-size: .75rem; color: var(--text-muted); font-weight: 400;
-  background: var(--bg-card); padding: 2px 10px; border-radius: 12px;
-  border: 1px solid var(--border);
+.section { margin-top:44px; }
+.section-header { display:flex; align-items:center; gap:12px; margin-bottom:18px; }
+.section-header h2 { font-size:clamp(20px,3vw,28px); font-weight:700; }
+.section-header .count {
+  font-size:12px; color:var(--muted); font-weight:700; background:var(--panel2);
+  padding:3px 10px; border-radius:8px; border:1px solid var(--line);
 }
 
-/* ── Tool cards grid ── */
-.tool-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 14px;
+/* ── Cards grid ── */
+.card-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(300px,1fr)); gap:14px; }
+.card {
+  background:linear-gradient(180deg,var(--panel),#0b1422); border:1px solid var(--line);
+  border-radius:18px; padding:20px; transition:all .25s;
+  display:flex; flex-direction:column; box-shadow:0 20px 60px rgba(0,0,0,.25);
 }
-.tool-card {
-  background: var(--bg-card); border: 1px solid var(--border);
-  border-radius: var(--radius); padding: 18px;
-  transition: all .2s; display: flex; flex-direction: column;
+.card:hover { border-color:var(--gold); transform:translateY(-2px); }
+.card h3 { font-size:16px; font-weight:700; }
+.card .desc { font-size:14px; color:var(--muted); margin-top:6px; flex:1; }
+.card .tags { margin-top:10px; display:flex; gap:5px; flex-wrap:wrap; }
+.card .tags span {
+  font-size:11px; padding:3px 8px; border-radius:6px; font-weight:700; letter-spacing:.04em;
+  background:#09101c; border:1px solid var(--line); color:var(--muted);
+  font-family:"Cascadia Code","Fira Code",monospace;
 }
-.tool-card:hover { border-color: var(--gold-dim); background: var(--bg-hover); }
-.tool-card h3 { font-size: .95rem; font-weight: 600; }
-.tool-card .desc { font-size: .82rem; color: var(--text-muted); margin-top: 6px; flex: 1; }
-.tool-card .tags { margin-top: 10px; display: flex; gap: 5px; flex-wrap: wrap; }
-.tool-card .tags span {
-  font-size: .68rem; padding: 2px 8px; border-radius: 10px;
-  background: var(--bg); border: 1px solid var(--border); color: var(--text-muted);
-  font-family: var(--mono);
-}
-.tool-card .links { margin-top: 12px; display: flex; gap: 12px; font-size: .8rem; }
-.tool-card .links a { color: var(--accent); text-decoration: none; }
-.tool-card .links a:hover { text-decoration: underline; color: var(--gold); }
+.card .links { margin-top:14px; display:flex; gap:14px; font-size:13px; }
+.card .links a { color:var(--blue); text-decoration:none; font-weight:600; }
+.card .links a:hover { color:var(--gold); text-decoration:underline; }
 
-/* ── Other projects ── */
-.project-list { display: flex; flex-direction: column; gap: 10px; }
+/* ── Project list ── */
+.project-list { display:flex; flex-direction:column; gap:10px; }
 .project-item {
-  display: flex; align-items: center; justify-content: space-between;
-  padding: 12px 16px; background: var(--bg-card); border: 1px solid var(--border);
-  border-radius: var(--radius); transition: all .2s; text-decoration: none; color: inherit;
+  display:flex; align-items:center; justify-content:space-between;
+  background:linear-gradient(180deg,var(--panel),#0b1422); border:1px solid var(--line);
+  border-radius:14px; padding:14px 18px; transition:all .25s;
+  text-decoration:none; color:inherit; box-shadow:0 10px 30px rgba(0,0,0,.2);
 }
-.project-item:hover { border-color: var(--gold-dim); background: var(--bg-hover); }
-.project-item .left { display: flex; align-items: center; gap: 12px; }
-.project-item .emoji { font-size: 1.3rem; }
-.project-item .name { font-weight: 500; font-size: .9rem; }
-.project-item .brief { font-size: .8rem; color: var(--text-muted); }
-.project-item .arrow { color: var(--text-muted); font-size: .85rem; }
+.project-item:hover { border-color:var(--gold); transform:translateY(-1px); }
+.project-item .left { display:flex; align-items:center; gap:14px; }
+.project-item .emoji { font-size:22px; line-height:1; }
+.project-item .name { font-weight:600; font-size:15px; }
+.project-item .brief { font-size:13px; color:var(--muted); margin-top:1px; }
+.project-item .arrow { color:var(--muted); font-size:16px; }
 
 /* ── Articles ── */
-.article-list { display: flex; flex-direction: column; gap: 8px; }
+.article-list { display:flex; flex-direction:column; gap:8px; }
 .article-item {
-  padding: 12px 16px; border: 1px solid var(--border);
-  border-radius: var(--radius); background: var(--bg-card);
-  text-decoration: none; color: inherit; transition: all .2s; display: block;
+  display:block; padding:14px 18px; border:1px solid var(--line);
+  border-radius:14px; background:linear-gradient(180deg,var(--panel),#0b1422);
+  text-decoration:none; color:inherit; transition:all .25s;
 }
-.article-item:hover { border-color: var(--gold-dim); background: var(--bg-hover); }
-.article-item .a-title { font-weight: 500; font-size: .9rem; }
-.article-item .a-meta { font-size: .78rem; color: var(--text-muted); margin-top: 2px; }
+.article-item:hover { border-color:var(--gold); transform:translateY(-1px); }
+.article-item .a-title { font-weight:600; font-size:15px; }
+.article-item .a-meta { font-size:13px; color:var(--muted); margin-top:3px; }
+.article-item .a-meta .tag {
+  display:inline-block; font-size:11px; font-weight:700; padding:2px 8px;
+  border-radius:6px; background:var(--panel2); border:1px solid var(--line);
+  color:var(--green); margin-right:6px;
+}
 
 /* ── Footer ── */
-.footer { text-align: center; padding: 48px 0 24px; color: var(--text-muted); font-size: .8rem; }
-.footer a { color: var(--gold); text-decoration: none; }
+.footer { text-align:center; padding:48px 0 16px; color:var(--muted); font-size:13px; }
+.footer a { color:var(--blue); text-decoration:none; font-weight:600; }
+.footer a:hover { color:var(--gold); text-decoration:underline; }
 
 /* ── Responsive ── */
-@media (max-width: 640px) {
-  .hero h1 { font-size: 1.8rem; }
-  .tool-grid { grid-template-columns: 1fr; }
-  .container { padding: 32px 0; }
-}
+@media (max-width:860px){ .hero{grid-template-columns:1fr} .wrap{padding:30px 16px} }
+@media (max-width:640px){ .card-grid{grid-template-columns:1fr} }
 </style>
 </head>
 <body>
 
-<button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">☀️</button>
+<div class="wrap">
 
-<div class="container">
+<div class="theme-row">
+  <button class="theme-btn" id="themeToggle" aria-label="Toggle theme">☀️</button>
+</div>
 
 <!-- ── Hero ── -->
-<header class="hero">
-  <h1>Sahir Vhora</h1>
-  <div class="title">SAP SuccessFactors Consultant · Tool Builder</div>
-  <p>I build open-source tools that help SAP SuccessFactors consultants work faster — config audits, position integrity, object sync, pay transparency, and release tracking. No fluff, no vendor lock-in.</p>
-  <div class="hero-links">
-    <a href="https://github.com/SahirVhora">GitHub</a>
-    <a href="https://linkedin.com/in/sahirvhora">LinkedIn</a>
-    <a href="https://sahirvhora.github.io/ai-yesterday">AI Yesterday</a>
+<div class="hero">
+  <div class="hero-left">
+    <div class="eyebrow">SAP SuccessFactors Consultant · Tool Builder</div>
+    <h1>Sahir <span class="gold">Vhora</span></h1>
+    <div class="lead">Build open-source tools that help SAP SuccessFactors consultants work faster — config audits, position integrity, object sync, pay transparency, and release tracking. No fluff, no vendor lock-in.</div>
+    <div class="actions">
+      <a href="https://github.com/SahirVhora" class="btn">GitHub</a>
+      <a href="https://www.linkedin.com/in/sahir-vhora-9242439/" class="btn sec">LinkedIn</a>
+      <a href="https://sahirvhora.github.io/ai-yesterday" class="btn sec">AI Yesterday</a>
+    </div>
   </div>
-</header>
+  <div>
+    <!-- optional accent graphic / avatar space -->
+  </div>
+</div>
 
 <!-- ── SF Tools ── -->
-<section class="section">
-  <h2>SF Tools <span class="count">10</span></h2>
-  <div class="tool-grid">
-    <div class="tool-card">
+<div class="section">
+  <div class="section-header">
+    <h2>SF Tools</h2>
+    <span class="count">10</span>
+  </div>
+  <div class="card-grid">
+    <div class="card">
       <h3>Config Debt Radar</h3>
       <div class="desc">Scan EC config debt. CLI + dashboard + MCP server for AI agents. Custom fields, picklists, MDF objects.</div>
       <div class="tags"><span>Python</span><span>CLI</span><span>MCP</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-config-debt-radar">Repo</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-config-debt-radar">Repo →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>Position Integrity Checker</h3>
-      <div class="desc">Validate position data integrity against foundation objects. HTML/Excel reports, configurable rules, OData v2.</div>
+      <div class="desc">Validate position data against foundation objects. HTML/Excel reports, configurable rules, OData v2.</div>
       <div class="tags"><span>Python</span><span>Flask</span><span>OData</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-position-integrity-checker">Repo</a> <a href="https://sahirvhora.github.io/sf-position-integrity-checker/">Demo</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-position-integrity-checker">Repo →</a> <a href="https://sahirvhora.github.io/sf-position-integrity-checker/">Demo →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>ObjectSync</h3>
-      <div class="desc">Sync OM foundation objects PRD→Dev via OData v2. CLI + Python lib + web UI.</div>
+      <div class="desc">Sync OM foundation objects PRD→Dev via OData v2. CLI + Python lib + web UI for safe controlled syncs.</div>
       <div class="tags"><span>Python</span><span>Flask</span><span>CLI</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-object-sync">Repo</a> <a href="https://sahirvhora.github.io/sf-object-sync/">Demo</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-object-sync">Repo →</a> <a href="https://sahirvhora.github.io/sf-object-sync/">Demo →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>Config Compare</h3>
       <div class="desc">Compare metadata and picklists across tenants. Diff reports for before/after change tracking.</div>
       <div class="tags"><span>Python</span><span>HTML</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-config-compare">Repo</a> <a href="https://sahirvhora.github.io/sf-config-compare/">Demo</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-config-compare">Repo →</a> <a href="https://sahirvhora.github.io/sf-config-compare/">Demo →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>Release Tracker</h3>
-      <div class="desc">Live tracker for 1H/2H SAP SF release changes. Impact-classified, plain-English summaries.</div>
+      <div class="desc">Live tracker for 1H/2H SAP SF release changes. Impact-classified, plain-English summaries, always current.</div>
       <div class="tags"><span>Python</span><span>Playwright</span><span>HTML</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-release-update">Repo</a> <a href="https://sahirvhora.github.io/sf-release-update/">Live</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-release-update">Repo →</a> <a href="https://sahirvhora.github.io/sf-release-update/">Live →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>Impact Brief</h3>
-      <div class="desc">Personalised release impact briefs. Pick modules, get tiered action plan (Must Act / Should Test / Nice To Know).</div>
+      <div class="desc">Personalised release impact briefs. Pick modules, get tiered action plan: Must Act / Should Test / Nice To Know.</div>
       <div class="tags"><span>HTML</span><span>JS</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-impact-brief">Repo</a> <a href="https://sahirvhora.github.io/sf-impact-brief/">Demo</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-impact-brief">Repo →</a> <a href="https://sahirvhora.github.io/sf-impact-brief/">Demo →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>Pay Transparency</h3>
       <div class="desc">EU Pay Transparency Directive readiness. Pay range disclosure, Article 9 reporting, evidence workflows.</div>
       <div class="tags"><span>Python</span><span>HTML</span><span>EU</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-pay-transparency">Repo</a> <a href="https://sahirvhora.github.io/sf-pay-transparency/">Demo</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-pay-transparency">Repo →</a> <a href="https://sahirvhora.github.io/sf-pay-transparency/">Demo →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>Value Navigator</h3>
       <div class="desc">Interactive consulting framework for EC, Compensation, and Performance & Goals value realisation.</div>
       <div class="tags"><span>HTML</span><span>JS</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-value-navigator">Repo</a> <a href="https://sahirvhora.github.io/sf-value-navigator/">Demo</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-value-navigator">Repo →</a> <a href="https://sahirvhora.github.io/sf-value-navigator/">Demo →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>Agent Skills</h3>
       <div class="desc">AI skills for SF consultants: config health, migration readiness, position audit, HR transformation workflows.</div>
       <div class="tags"><span>AI</span><span>Skills</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-agent-skills">Repo</a> <a href="https://sahirvhora.github.io/sf-agent-skills/">Site</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-agent-skills">Repo →</a> <a href="https://sahirvhora.github.io/sf-agent-skills/">Site →</a></div>
     </div>
-    <div class="tool-card">
+    <div class="card">
       <h3>SF Compass</h3>
-      <div class="desc">94 feasibility scenarios across 8 SF modules. Client-safe answers during workshops. Single HTML file, zero deps.</div>
+      <div class="desc">94 feasibility scenarios across 8 SF modules. Client-safe answers during workshops. Zero deps, single HTML file.</div>
       <div class="tags"><span>HTML</span><span>JS</span></div>
-      <div class="links"><a href="https://github.com/SahirVhora/sf-compass">Repo</a> <a href="https://sahirvhora.github.io/sf-compass/">Live</a></div>
+      <div class="links"><a href="https://github.com/SahirVhora/sf-compass">Repo →</a> <a href="https://sahirvhora.github.io/sf-compass/">Live →</a></div>
     </div>
   </div>
-</section>
+</div>
 
 <!-- ── Other Projects ── -->
-<section class="section">
-  <h2>Other Projects</h2>
+<div class="section">
+  <div class="section-header">
+    <h2>Other Projects</h2>
+  </div>
   <div class="project-list">
     <a href="https://sahirvhora.github.io/ai-yesterday" class="project-item">
       <div class="left"><span class="emoji">🤖</span><div><div class="name">AI Yesterday</div><div class="brief">Daily AI briefing — plain-English summaries of yesterday's AI news</div></div></div>
@@ -261,26 +240,28 @@ body {
       <span class="arrow">→</span>
     </a>
   </div>
-</section>
+</div>
 
 <!-- ── Articles ── -->
-<section class="section">
-  <h2>Articles</h2>
+<div class="section">
+  <div class="section-header">
+    <h2>Articles</h2>
+  </div>
   <div class="article-list">
-    <a href="https://www.linkedin.com/in/sahirvhora" class="article-item">
+    <a href="https://www.linkedin.com/in/sahir-vhora-9242439/" class="article-item">
       <div class="a-title">SAP SuccessFactors Config Debt: Why Metadata Tells the Real Story</div>
-      <div class="a-meta">LinkedIn · Mar 2026</div>
+      <div class="a-meta"><span class="tag">LinkedIn</span> Mar 2026</div>
     </a>
-    <a href="https://www.linkedin.com/in/sahirvhora" class="article-item">
+    <a href="https://www.linkedin.com/in/sahir-vhora-9242439/" class="article-item">
       <div class="a-title">Position Integrity in SAP SuccessFactors: A Practical Guide</div>
-      <div class="a-meta">LinkedIn · Feb 2026</div>
+      <div class="a-meta"><span class="tag">LinkedIn</span> Feb 2026</div>
     </a>
   </div>
-</section>
+</div>
 
 <!-- ── Footer ── -->
 <footer class="footer">
-  <a href="https://github.com/SahirVhora">GitHub</a> · <a href="https://linkedin.com/in/sahirvhora">LinkedIn</a><br>
+  <a href="https://github.com/SahirVhora">GitHub</a> · <a href="https://www.linkedin.com/in/sahir-vhora-9242439/">LinkedIn</a><br>
   Built with intent. No trackers. No sign-ups.
 </footer>
 
@@ -289,21 +270,44 @@ body {
 <script>
 (function() {
   const toggle = document.getElementById('themeToggle');
-  const html = document.documentElement;
+  const root = document.documentElement;
   const stored = localStorage.getItem('theme');
-  if (stored) html.setAttribute('data-theme', stored);
+  if (stored === 'light') { root.removeAttribute('data-theme'); applyLight(); }
+
+  function applyLight() {
+    root.style.setProperty('--bg','#f6f8fa');
+    root.style.setProperty('--panel','#ffffff');
+    root.style.setProperty('--panel2','#f0f2f5');
+    root.style.setProperty('--line','#d0d7de');
+    root.style.setProperty('--text','#1f2328');
+    root.style.setProperty('--muted','#656d76');
+    root.style.setProperty('--gold','#b8860b');
+    root.style.setProperty('--green','#1a7f37');
+    root.style.setProperty('--blue','#0969da');
+  }
+  function applyDark() {
+    root.style.setProperty('--bg','#07101d');
+    root.style.setProperty('--panel','#101927');
+    root.style.setProperty('--panel2','#152338');
+    root.style.setProperty('--line','#29394f');
+    root.style.setProperty('--text','#edf4ff');
+    root.style.setProperty('--muted','#a6b4c7');
+    root.style.setProperty('--gold','#fbbf24');
+    root.style.setProperty('--green','#34d399');
+    root.style.setProperty('--blue','#60a5fa');
+  }
 
   function updateBtn() {
-    const theme = html.getAttribute('data-theme');
+    const theme = localStorage.getItem('theme') || 'dark';
     toggle.textContent = theme === 'dark' ? '☀️' : '🌙';
   }
   updateBtn();
 
   toggle.addEventListener('click', () => {
-    const cur = html.getAttribute('data-theme');
+    const cur = localStorage.getItem('theme') || 'dark';
     const next = cur === 'dark' ? 'light' : 'dark';
-    html.setAttribute('data-theme', next);
     localStorage.setItem('theme', next);
+    if (next === 'light') applyLight(); else applyDark();
     updateBtn();
   });
 })();
