@@ -1,0 +1,46 @@
+name: Static checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate HTML and local links
+        run: |
+          python - <<'PY'
+          from html.parser import HTMLParser
+          from pathlib import Path
+          from urllib.parse import unquote, urlsplit
+
+          class Links(HTMLParser):
+              def __init__(self):
+                  super().__init__(); self.links = []
+              def handle_starttag(self, tag, attrs):
+                  values = dict(attrs)
+                  for key in ("href", "src"):
+                      if values.get(key): self.links.append(values[key])
+
+          errors = []
+          for page in Path('.').rglob('*.html'):
+              parser = Links(); parser.feed(page.read_text(encoding='utf-8'))
+              for raw in parser.links:
+                  parsed = urlsplit(raw)
+                  if parsed.scheme or parsed.netloc or raw.startswith(('#', 'mailto:', 'tel:', 'data:')):
+                      continue
+                  candidate = Path(unquote(parsed.path).lstrip('/')) if parsed.path.startswith('/') else page.parent / unquote(parsed.path)
+                  if parsed.path and not candidate.exists(): errors.append(f"{page}: missing {raw}")
+          if errors: raise SystemExit('\n'.join(errors))
+          PY
