@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T17:30:57.760385+00:00",
+  "updatedAt": "2026-10-03T17:32:00.585364+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -100,17 +100,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "882596cbc7639eb4",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "f4a4d0eb7bf936c1",
       "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
@@ -172,6 +161,17 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
+      "id": "882596cbc7639eb4",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
       "id": "b8087b88cb63ae7f",
       "title": "The eternal complement",
       "url": "https://openai.com/index/the-eternal-complement",
@@ -211,17 +211,6 @@
       }
     },
     {
-      "id": "2167384f51e2a446",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-01T00:00:00+00:00",
-      "excerpt": "As it opens a new location, the social club prepares grant applications…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "4fa2cfcf9344e608",
       "title": "The cash hiding in plain sight",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight",
@@ -241,6 +230,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-01T00:00:00+00:00",
       "excerpt": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "2167384f51e2a446",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-01T00:00:00+00:00",
+      "excerpt": "As it opens a new location, the social club prepares grant applications…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -305,17 +305,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "e11bf9d08db2489d",
-      "title": "Quantum Light Reveals How Solvents Affect Molecules",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s117",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-09-30T10:00:00+00:00",
-      "excerpt": "Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "061338e668ed6974",
       "title": "Helping small businesses put AI to work",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
@@ -324,6 +313,17 @@
       "evidence": "Company announcement",
       "published": "2026-09-30T10:00:00+00:00",
       "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "e11bf9d08db2489d",
+      "title": "Quantum Light Reveals How Solvents Affect Molecules",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s117",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-09-30T10:00:00+00:00",
+      "excerpt": "Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {

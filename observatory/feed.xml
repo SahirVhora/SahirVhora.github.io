@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sat, 03 Oct 2026 17:30:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 17:32:00 +0000</lastBuildDate>
     <item>
       <title>A model guide for the GPT-6 family</title>
       <link>https://openai.com/index/practical-guide-building-gpt-6</link>
@@ -27,14 +27,6 @@
       <guid>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
       <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Chatham scales its capital markets expertise with OpenAI</title>
-      <link>https://openai.com/index/chatham-financial</link>
-      <guid>https://openai.com/index/chatham-financial</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
       <category>ai</category>
     </item>
     <item>
@@ -78,6 +70,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Chatham scales its capital markets expertise with OpenAI</title>
+      <link>https://openai.com/index/chatham-financial</link>
+      <guid>https://openai.com/index/chatham-financial</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>The eternal complement</title>
       <link>https://openai.com/index/the-eternal-complement</link>
       <guid>https://openai.com/index/the-eternal-complement</guid>
@@ -102,14 +102,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-      <link>https://openai.com/index/the-den-family-social</link>
-      <guid>https://openai.com/index/the-den-family-social</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As it opens a new location, the social club prepares grant applications…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>The cash hiding in plain sight</title>
       <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight</link>
       <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight</guid>
@@ -124,6 +116,14 @@
       <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
       <description>The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
+      <link>https://openai.com/index/the-den-family-social</link>
+      <guid>https://openai.com/index/the-den-family-social</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As it opens a new location, the social club prepares grant applications…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -166,20 +166,20 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Quantum Light Reveals How Solvents Affect Molecules</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s117</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s117</guid>
-      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>Helping small businesses put AI to work</title>
       <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
       <guid>https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
       <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
       <description>OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside…</description>
       <category>ai</category>
+    </item>
+    <item>
+      <title>Quantum Light Reveals How Solvents Affect Molecules</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s117</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s117</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…</description>
+      <category>physics</category>
     </item>
     <item>
       <title>Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
