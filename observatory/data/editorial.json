@@ -1,0 +1,32 @@
+{
+  "http://link.aps.org/doi/10.1103/Physics.19.s131": {
+    "summary": "Researchers use trapped atoms to imitate how particles form in a powerful electric field. A controllable laboratory system can help explore a process that is difficult to study directly.",
+    "question": "What makes one physical system a useful model of another? Look for which behaviour it reproduces, and which details it leaves out.",
+    "caveat": "This is a simulation using atoms. It should not be confused with directly creating the same particles under the original conditions.",
+    "basis": "Paraphrased from the APS publisher feed description; not a full-paper review."
+  },
+  "https://openai.com/index/practical-guide-building-gpt-6": {
+    "summary": "OpenAI's new guide covers model selection and the work needed to turn a prototype into a reliable workflow. The practical theme: choosing a model is only one part of the system.",
+    "question": "Which matters most in your next pilot: accuracy, response time, or cost? Define the test before choosing a model.",
+    "caveat": "This is vendor guidance. It does not establish which model performs best on your own tasks.",
+    "basis": "Paraphrased from the publisher's RSS description; not a full-article review."
+  },
+  "https://deepmind.google/blog/introducing-synthid-bio/": {
+    "summary": "DeepMind describes an early method for marking proteins created with AI while keeping their biological function. It brings the question of AI provenance into biology.",
+    "question": "Where would knowing that something was AI-generated change how you evaluate it?",
+    "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
+    "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
+  },
+  "https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925": {
+    "summary": "MIT profiles a doctoral researcher working on an international neutrino experiment. It offers a human entry point into the patient experimental work behind fundamental physics.",
+    "question": "How can scientists learn about particles they cannot observe directly? Look for the signals left by their interactions.",
+    "caveat": "This is a researcher profile. The headline should not be read as an announcement of a new physical law.",
+    "basis": "Paraphrased from the publisher's RSS title and description; not a full-article review."
+  },
+  "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai": {
+    "summary": "An insurance discussion explores how AI agents change the case for software modernisation. Existing investments still matter when deciding whether to continue, redirect, or accelerate a programme.",
+    "question": "What new evidence would justify changing your transformation roadmap, rather than simply adding another AI feature?",
+    "caveat": "These are industry perspectives in insurance. Applying them to another sector requires checking its constraints.",
+    "basis": "Paraphrased from the publisher's RSS description; not a full-article review."
+  }
+}

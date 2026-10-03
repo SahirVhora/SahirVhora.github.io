@@ -1,0 +1,710 @@
+{
+  "version": 1,
+  "updatedAt": "2026-10-03T17:30:57.760385+00:00",
+  "sources": [
+    {
+      "name": "APS Physics",
+      "category": "physics",
+      "url": "https://feeds.aps.org/rss/recent/physics.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "Google DeepMind",
+      "category": "ai",
+      "url": "https://deepmind.google/blog/rss.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "Hugging Face",
+      "category": "ai",
+      "url": "https://huggingface.co/blog/feed.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "MIT Physics",
+      "category": "physics",
+      "url": "https://news.mit.edu/rss/topic/physics",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "MIT Sloan Management Review",
+      "category": "consulting",
+      "url": "https://sloanreview.mit.edu/feed/",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "McKinsey",
+      "category": "consulting",
+      "url": "https://www.mckinsey.com/insights/rss",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "OpenAI",
+      "category": "ai",
+      "url": "https://openai.com/news/rss.xml",
+      "ok": true,
+      "count": 7
+    },
+    {
+      "name": "SAP News",
+      "category": "consulting",
+      "url": "https://news.sap.com/feed/",
+      "ok": true,
+      "count": 7
+    }
+  ],
+  "stories": [
+    {
+      "id": "c38af6e5cae43e23",
+      "title": "A model guide for the GPT-6 family",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-02T16:15:00+00:00",
+      "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00",
+      "brief": {
+        "summary": "OpenAI's new guide covers model selection and the work needed to turn a prototype into a reliable workflow. The practical theme: choosing a model is only one part of the system.",
+        "question": "Which matters most in your next pilot: accuracy, response time, or cost? Define the test before choosing a model.",
+        "caveat": "This is vendor guidance. It does not establish which model performs best on your own tasks.",
+        "basis": "Paraphrased from the publisher's RSS description; not a full-article review."
+      }
+    },
+    {
+      "id": "e81b1dea7ce0fb42",
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://huggingface.co/blog/allenai/astabrief",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-02T15:19:50+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "56c490db040147f1",
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-02T04:01:31+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "882596cbc7639eb4",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "f4a4d0eb7bf936c1",
+      "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Agentic AI is reshaping the case for modernization in insurance. Leaders from Guidewire, Bessemer…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00",
+      "brief": {
+        "summary": "An insurance discussion explores how AI agents change the case for software modernisation. Existing investments still matter when deciding whether to continue, redirect, or accelerate a programme.",
+        "question": "What new evidence would justify changing your transformation roadmap, rather than simply adding another AI feature?",
+        "caveat": "These are industry perspectives in insurance. Applying them to another sector requires checking its constraints.",
+        "basis": "Paraphrased from the publisher's RSS description; not a full-article review."
+      }
+    },
+    {
+      "id": "e3176598bd9875cc",
+      "title": "Siemens’s next reinvention: An interview with Cedrik Neike",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "d4b2ddbbb177f083",
+      "title": "State of Consumer Africa 2026: Meeting the pragmatic shopper",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "3f018fa12af8be46",
+      "title": "The bank’s digital twin: The future of nonfinancial risk management",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "The risk function’s fundamental purpose has not changed, but the nature of the risks, the…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "924078ee0dfff5af",
+      "title": "Shareholder activism is changing. Are companies ready?",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "b8087b88cb63ae7f",
+      "title": "The eternal complement",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-01T17:00:00+00:00",
+      "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "637d3dfa247fa816",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-01T16:00:00+00:00",
+      "excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "2af4893eb88cb671",
+      "title": "Simulating Particle Creation with Cold Atoms",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s131",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-01T10:00:00+00:00",
+      "excerpt": "Author(s): Michael Schirber Researchers observe atoms trapped in an optical lattice mimicking particles created in a strong electric field.…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00",
+      "brief": {
+        "summary": "Researchers use trapped atoms to imitate how particles form in a powerful electric field. A controllable laboratory system can help explore a process that is difficult to study directly.",
+        "question": "What makes one physical system a useful model of another? Look for which behaviour it reproduces, and which details it leaves out.",
+        "caveat": "This is a simulation using atoms. It should not be confused with directly creating the same particles under the original conditions.",
+        "basis": "Paraphrased from the APS publisher feed description; not a full-paper review."
+      }
+    },
+    {
+      "id": "2167384f51e2a446",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-01T00:00:00+00:00",
+      "excerpt": "As it opens a new location, the social club prepares grant applications…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "4fa2cfcf9344e608",
+      "title": "The cash hiding in plain sight",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-01T00:00:00+00:00",
+      "excerpt": "Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "2ea9a91d99d3e1de",
+      "title": "Modernizing for the mission: An interview with Jamie Wolff",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-01T00:00:00+00:00",
+      "excerpt": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "ce56aa83d0064ef1",
+      "title": "Gemini 4 Argon: our next era of frontier intelligence",
+      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-09-30T20:01:45+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+    },
+    {
+      "id": "c696e8b1f3422473",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-09-30T15:03:07+00:00",
+      "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "brief": {
+        "summary": "DeepMind describes an early method for marking proteins created with AI while keeping their biological function. It brings the question of AI provenance into biology.",
+        "question": "Where would knowing that something was AI-generated change how you evaluate it?",
+        "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
+        "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
+      }
+    },
+    {
+      "id": "5d295a9bb1fce1b7",
+      "title": "SAP Named a Leader in the IDC MarketScape: Worldwide Agentic Marketing for B2C Enterprises 2026 Vendor Assessment",
+      "url": "https://news.sap.com/2026/09/sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-09-30T11:15:00+00:00",
+      "excerpt": "SAP is committed to helping enterprises deliver intelligent,…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "1b066c0987bc0226",
+      "title": "Turn Energy Efficiency Into Strategic Advantage",
+      "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-09-30T11:00:08+00:00",
+      "excerpt": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "90249c2a3882c6d3",
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-09-30T10:30:00+00:00",
+      "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "e11bf9d08db2489d",
+      "title": "Quantum Light Reveals How Solvents Affect Molecules",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s117",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-09-30T10:00:00+00:00",
+      "excerpt": "Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "061338e668ed6974",
+      "title": "Helping small businesses put AI to work",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-09-30T10:00:00+00:00",
+      "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "74c2ff7e2707d1f6",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-09-30T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "dc53fce90c6f36f5",
+      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-09-29T15:30:38+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "afa8c33f8eb7996a",
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-09-29T13:07:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "e67d7d6a5defb071",
+      "title": "How to Outcompete Your Client’s AI",
+      "url": "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-09-29T11:00:55+00:00",
+      "excerpt": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "5ac3df83f9d4443c",
+      "title": "AI’s Future Runs Through Sustainability",
+      "url": "https://news.sap.com/2026/09/new-york-climate-week-ai-sustainability/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-09-29T10:15:00+00:00",
+      "excerpt": "Energy costs, physical risk, and AI's appetite for resources put sustainability at the center of business at New York Climate…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "397ada8787042016",
+      "title": "Coming Soon: A Smarter, More Transparent Feedback Experience",
+      "url": "https://news.sap.com/2026/09/coming-soon-customer-influence-feedback-experience/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-09-28T11:15:00+00:00",
+      "excerpt": "At SAP, customer feedback has always been part of how we build our software.",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "5b5f0b6ddfd9c30c",
+      "title": "Calling All Innovators: Submissions Officially Open for 2027 SAP Innovation Awards",
+      "url": "https://news.sap.com/2026/09/submissions-officially-open-2027-sap-innovation-awards/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-09-28T10:15:00+00:00",
+      "excerpt": "The awards recognize organizations that take on tough business challenges, leverage SAP technology, and…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "09d1d26fa19dd694",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-09-28T09:44:05+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "6ab2237eb09e9032",
+      "title": "SAP and NVIDIA OpenShell: Working Toward Governance and Security for Auditable AI Agents in Enterprise Systems",
+      "url": "https://news.sap.com/2026/09/sap-nvidia-openshell-auditable-ai-agents-enterprise-systems/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-09-28T09:00:00+00:00",
+      "excerpt": "The two companies are helping shape and strengthen the…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "553830d231d34627",
+      "title": "Scattering neutrinos to probe the fundamental laws of the universe",
+      "url": "https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-09-25T04:00:00+00:00",
+      "excerpt": "As she became integral to an international particle physics experiment, PhD student Faith Reyes found…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00",
+      "brief": {
+        "summary": "MIT profiles a doctoral researcher working on an international neutrino experiment. It offers a human entry point into the patient experimental work behind fundamental physics.",
+        "question": "How can scientists learn about particles they cannot observe directly? Look for the signals left by their interactions.",
+        "caveat": "This is a researcher profile. The headline should not be read as an announcement of a new physical law.",
+        "basis": "Paraphrased from the publisher's RSS title and description; not a full-article review."
+      }
+    },
+    {
+      "id": "34692efacd3b982a",
+      "title": "Introducing Gemini 3.8 Live with Live Avatar",
+      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-09-24T16:20:39+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+    },
+    {
+      "id": "280bf64dcca75cee",
+      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-09-24T14:08:57+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "03ad990b7a37e927",
+      "title": "SAP Named a Leader in the 2026 IDC MarketScape for AI-Enabled Direct Spend",
+      "url": "https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-09-24T13:15:00+00:00",
+      "excerpt": "SAP is invested in helping manufacturers connect sourcing, engineering, planning, and supplier…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "1f9e265ed255c4db",
+      "title": "What Implementation Teams Wish Organizations Knew About Enterprise RFPs",
+      "url": "https://news.sap.com/2026/09/rfps-what-implementation-teams-wish-organizations-knew/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-09-24T12:15:00+00:00",
+      "excerpt": "RFPs are common in the world of enterprise software. Truly successful ones, less so.",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "68ead6b6af2b7144",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
+      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-09-23T16:00:57+00:00",
+      "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+    },
+    {
+      "id": "81481aa316e38773",
+      "title": "Gemini 3.8 text-to-speech says hello",
+      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-09-23T15:25:14+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+    },
+    {
+      "id": "b5ec0f6a6dacebc0",
+      "title": "Why Design Thinking Needs a Responsibility Reboot",
+      "url": "https://sloanreview.mit.edu/article/why-design-thinking-needs-a-responsibility-reboot/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-09-23T11:00:47+00:00",
+      "excerpt": "Marie Montocchio/Ikon Images For years, social media companies have come under fire for promoting divisive, false, and dangerous…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "7b713bac8017ae3f",
+      "title": "A Type-I Superconductor Breaks Time-Reversal Symmetry",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s115",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-09-23T10:00:00+00:00",
+      "excerpt": "Author(s): Rachel Berkowitz A hallmark property of unconventional superconductivity has been discovered in a type-I superconductor, whereas it’s normally…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "51c70acea37537fb",
+      "title": "Five Urgent Priorities for CMOs in 2027",
+      "url": "https://sloanreview.mit.edu/article/five-urgent-priorities-for-cmos-in-2027/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-09-22T11:00:03+00:00",
+      "excerpt": "Matt Harrison Clough/Ikon Images In an unpredictable economy and fractured media landscape, marketing leaders are navigating a period…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "f12725b4364b8e28",
+      "title": "How Sustainability Transformations Quietly Lose Their Edge",
+      "url": "https://sloanreview.mit.edu/article/how-sustainability-transformations-quietly-lose-their-edge/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-09-21T11:00:43+00:00",
+      "excerpt": "Gillian Blease/Ikon Images Corporate sustainability is facing headwinds. Net-zero pledges are being quietly walked back. Regulatory pressure is…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "1b9e7aa25b3d79f7",
+      "title": "Collimating Positrons with Superconducting Magnets",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.127",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-09-18T10:00:00+00:00",
+      "excerpt": "Author(s): Sam Jarman A recent experiment points the way toward making the intense, energetic beams of positrons needed for next-generation…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "37b027149dbf3256",
+      "title": "New artist residency program at MIT expands views of the cosmos",
+      "url": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-09-16T18:30:00+00:00",
+      "excerpt": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "bceb9b07c5b296ae",
+      "title": "Bypassing the Speed Limit for Thermally Driven Demagnetization",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.124",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-09-16T10:00:00+00:00",
+      "excerpt": "Author(s): Daniel Steil Contrary to expectations, the magnetization dynamics of a ferromagnet can be accelerated by increasing…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "500a01e6619b4a02",
+      "title": "How to Synchronize a Long-Distance Quantum Network",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s120",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-09-16T10:00:00+00:00",
+      "excerpt": "Author(s): Sophia Chen Researchers demonstrate a new quantum memory device that will enable faraway nodes in a network…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "947e89eaa83a27ae",
+      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-09-15T17:05:57+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+    },
+    {
+      "id": "86422d8e1e0009af",
+      "title": "How B2B Marketers Misunderstand Their Customers",
+      "url": "https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-09-15T11:00:37+00:00",
+      "excerpt": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "916843050ec02be8",
+      "title": "How Reliable Are Quantum Batteries?",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s114",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-09-15T10:00:00+00:00",
+      "excerpt": "Author(s): Marric Stephens Increasing the charging rate of a quantum battery leads to unavoidable fluctuations in the total energy stored.…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "dec6290306e06b9b",
+      "title": "How AI Creates a Capability Mirage",
+      "url": "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-09-14T11:00:15+00:00",
+      "excerpt": "PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "f0e27f432f48fb86",
+      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-09-08T14:00:15+00:00",
+      "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter…",
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+    },
+    {
+      "id": "b02649524ea87ea0",
+      "title": "New research shows a neutrino laser is impossible",
+      "url": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-09-02T14:00:00+00:00",
+      "excerpt": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "2454552264b02567",
+      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
+      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-08-31T19:30:00+00:00",
+      "excerpt": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "46c4716838d5f79d",
+      "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
+      "url": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-08-12T15:00:00+00:00",
+      "excerpt": "The mashup of a black hole and an enormous star has never been…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "2b22633f5e80ceea",
+      "title": "On the hunt for dark matter",
+      "url": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-08-11T04:00:00+00:00",
+      "excerpt": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "4c52b2bdf8e921c3",
+      "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
+      "url": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-08-07T09:00:00+00:00",
+      "excerpt": "The study could help scientists understand how superconductivity and other more complex phenomena emerge…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>The Observatory</title>
+    <link>https://sahirvhora.github.io/observatory/</link>
+    <description>AI, physics and consulting. A small daily reading ritual.</description>
+    <lastBuildDate>Sat, 03 Oct 2026 17:30:57 +0000</lastBuildDate>
+    <item>
+      <title>A model guide for the GPT-6 family</title>
+      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
+      <guid>https://openai.com/index/practical-guide-building-gpt-6</guid>
+      <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
+      <description>OpenAI's new guide covers model selection and the work needed to turn a prototype into a reliable workflow. The practical theme: choosing a model is only one part of the system.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
+      <link>https://huggingface.co/blog/allenai/astabrief</link>
+      <guid>https://huggingface.co/blog/allenai/astabrief</guid>
+      <pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
+      <guid>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
+      <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Chatham scales its capital markets expertise with OpenAI</title>
+      <link>https://openai.com/index/chatham-financial</link>
+      <guid>https://openai.com/index/chatham-financial</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Pause, pivot, or accelerate: SaaS in the age of agentic AI</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>An insurance discussion explores how AI agents change the case for software modernisation. Existing investments still matter when deciding whether to continue, redirect, or accelerate a programme.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Siemens’s next reinvention: An interview with Cedrik Neike</title>
+      <link>https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike</link>
+      <guid>https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>State of Consumer Africa 2026: Meeting the pragmatic shopper</title>
+      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper</link>
+      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The bank’s digital twin: The future of nonfinancial risk management</title>
+      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management</link>
+      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The risk function’s fundamental purpose has not changed, but the nature of the risks, the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Shareholder activism is changing. Are companies ready?</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The eternal complement</title>
+      <link>https://openai.com/index/the-eternal-complement</link>
+      <guid>https://openai.com/index/the-eternal-complement</guid>
+      <pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
+      <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Albertsons Companies is reimagining retail from the inside out</title>
+      <link>https://openai.com/index/albertsons-reimagining-retail</link>
+      <guid>https://openai.com/index/albertsons-reimagining-retail</guid>
+      <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
+      <description>Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Simulating Particle Creation with Cold Atoms</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s131</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s131</guid>
+      <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Researchers use trapped atoms to imitate how particles form in a powerful electric field. A controllable laboratory system can help explore a process that is difficult to study directly.</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
+      <link>https://openai.com/index/the-den-family-social</link>
+      <guid>https://openai.com/index/the-den-family-social</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As it opens a new location, the social club prepares grant applications…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The cash hiding in plain sight</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Modernizing for the mission: An interview with Jamie Wolff</title>
+      <link>https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff</link>
+      <guid>https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff</guid>
+      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Gemini 4 Argon: our next era of frontier intelligence</title>
+      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
+      <guid>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
+      <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Introducing SynthID Bio</title>
+      <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
+      <guid>https://deepmind.google/blog/introducing-synthid-bio/</guid>
+      <pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
+      <description>DeepMind describes an early method for marking proteins created with AI while keeping their biological function. It brings the question of AI provenance into biology.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP Named a Leader in the IDC MarketScape: Worldwide Agentic Marketing for B2C Enterprises 2026 Vendor Assessment</title>
+      <link>https://news.sap.com/2026/09/sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/</link>
+      <guid>https://news.sap.com/2026/09/sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/</guid>
+      <pubDate>Wed, 30 Sep 2026 11:15:00 +0000</pubDate>
+      <description>SAP is committed to helping enterprises deliver intelligent,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Turn Energy Efficiency Into Strategic Advantage</title>
+      <link>https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/</link>
+      <guid>https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/</guid>
+      <pubDate>Wed, 30 Sep 2026 11:00:08 +0000</pubDate>
+      <description>Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Disrupting a coordinated model-distillation campaign</title>
+      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
+      <guid>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
+      <pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
+      <description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Quantum Light Reveals How Solvents Affect Molecules</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s117</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s117</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Helping small businesses put AI to work</title>
+      <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
+      <guid>https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
+      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
+      <description>OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
+      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
+      <guid>https://huggingface.co/blog/open-tts-leaderboard</guid>
+      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
+      <guid>https://huggingface.co/blog/nvidia/kumo-tabular</guid>
+      <pubDate>Tue, 29 Sep 2026 15:30:38 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
+      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
+      <guid>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
+      <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How to Outcompete Your Client’s AI</title>
+      <link>https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/</link>
+      <guid>https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/</guid>
+      <pubDate>Tue, 29 Sep 2026 11:00:55 +0000</pubDate>
+      <description>Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>AI’s Future Runs Through Sustainability</title>
+      <link>https://news.sap.com/2026/09/new-york-climate-week-ai-sustainability/</link>
+      <guid>https://news.sap.com/2026/09/new-york-climate-week-ai-sustainability/</guid>
+      <pubDate>Tue, 29 Sep 2026 10:15:00 +0000</pubDate>
+      <description>Energy costs, physical risk, and AI's appetite for resources put sustainability at the center of business at New York Climate…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Coming Soon: A Smarter, More Transparent Feedback Experience</title>
+      <link>https://news.sap.com/2026/09/coming-soon-customer-influence-feedback-experience/</link>
+      <guid>https://news.sap.com/2026/09/coming-soon-customer-influence-feedback-experience/</guid>
+      <pubDate>Mon, 28 Sep 2026 11:15:00 +0000</pubDate>
+      <description>At SAP, customer feedback has always been part of how we build our software.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Calling All Innovators: Submissions Officially Open for 2027 SAP Innovation Awards</title>
+      <link>https://news.sap.com/2026/09/submissions-officially-open-2027-sap-innovation-awards/</link>
+      <guid>https://news.sap.com/2026/09/submissions-officially-open-2027-sap-innovation-awards/</guid>
+      <pubDate>Mon, 28 Sep 2026 10:15:00 +0000</pubDate>
+      <description>The awards recognize organizations that take on tough business challenges, leverage SAP technology, and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Holo4: powering generalist computer-use agents</title>
+      <link>https://huggingface.co/blog/Hcompany/holo4</link>
+      <guid>https://huggingface.co/blog/Hcompany/holo4</guid>
+      <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP and NVIDIA OpenShell: Working Toward Governance and Security for Auditable AI Agents in Enterprise Systems</title>
+      <link>https://news.sap.com/2026/09/sap-nvidia-openshell-auditable-ai-agents-enterprise-systems/</link>
+      <guid>https://news.sap.com/2026/09/sap-nvidia-openshell-auditable-ai-agents-enterprise-systems/</guid>
+      <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+      <description>The two companies are helping shape and strengthen the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Scattering neutrinos to probe the fundamental laws of the universe</title>
+      <link>https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925</link>
+      <guid>https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925</guid>
+      <pubDate>Fri, 25 Sep 2026 04:00:00 +0000</pubDate>
+      <description>MIT profiles a doctoral researcher working on an international neutrino experiment. It offers a human entry point into the patient experimental work behind fundamental physics.</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.8 Live with Live Avatar</title>
+      <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
+      <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Accelerating vision-language models with LFM2.5-VL-DSpark</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</link>
+      <guid>https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark</guid>
+      <pubDate>Thu, 24 Sep 2026 14:08:57 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP Named a Leader in the 2026 IDC MarketScape for AI-Enabled Direct Spend</title>
+      <link>https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/</link>
+      <guid>https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/</guid>
+      <pubDate>Thu, 24 Sep 2026 13:15:00 +0000</pubDate>
+      <description>SAP is invested in helping manufacturers connect sourcing, engineering, planning, and supplier…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>What Implementation Teams Wish Organizations Knew About Enterprise RFPs</title>
+      <link>https://news.sap.com/2026/09/rfps-what-implementation-teams-wish-organizations-knew/</link>
+      <guid>https://news.sap.com/2026/09/rfps-what-implementation-teams-wish-organizations-knew/</guid>
+      <pubDate>Thu, 24 Sep 2026 12:15:00 +0000</pubDate>
+      <description>RFPs are common in the world of enterprise software. Truly successful ones, less so.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Advancing Private AI Compute with secure, server-side memory</title>
+      <link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
+      <guid>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
+      <pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
+      <description>Introducing private, server-side memory to Private AI Compute for personal AI.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Gemini 3.8 text-to-speech says hello</title>
+      <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
+      <guid>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
+      <pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Why Design Thinking Needs a Responsibility Reboot</title>
+      <link>https://sloanreview.mit.edu/article/why-design-thinking-needs-a-responsibility-reboot/</link>
+      <guid>https://sloanreview.mit.edu/article/why-design-thinking-needs-a-responsibility-reboot/</guid>
+      <pubDate>Wed, 23 Sep 2026 11:00:47 +0000</pubDate>
+      <description>Marie Montocchio/Ikon Images For years, social media companies have come under fire for promoting divisive, false, and dangerous…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>A Type-I Superconductor Breaks Time-Reversal Symmetry</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s115</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s115</guid>
+      <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Rachel Berkowitz A hallmark property of unconventional superconductivity has been discovered in a type-I superconductor, whereas it’s normally…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Five Urgent Priorities for CMOs in 2027</title>
+      <link>https://sloanreview.mit.edu/article/five-urgent-priorities-for-cmos-in-2027/</link>
+      <guid>https://sloanreview.mit.edu/article/five-urgent-priorities-for-cmos-in-2027/</guid>
+      <pubDate>Tue, 22 Sep 2026 11:00:03 +0000</pubDate>
+      <description>Matt Harrison Clough/Ikon Images In an unpredictable economy and fractured media landscape, marketing leaders are navigating a period…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>How Sustainability Transformations Quietly Lose Their Edge</title>
+      <link>https://sloanreview.mit.edu/article/how-sustainability-transformations-quietly-lose-their-edge/</link>
+      <guid>https://sloanreview.mit.edu/article/how-sustainability-transformations-quietly-lose-their-edge/</guid>
+      <pubDate>Mon, 21 Sep 2026 11:00:43 +0000</pubDate>
+      <description>Gillian Blease/Ikon Images Corporate sustainability is facing headwinds. Net-zero pledges are being quietly walked back. Regulatory pressure is…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Collimating Positrons with Superconducting Magnets</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.127</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.127</guid>
+      <pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sam Jarman A recent experiment points the way toward making the intense, energetic beams of positrons needed for next-generation…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>New artist residency program at MIT expands views of the cosmos</title>
+      <link>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</link>
+      <guid>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</guid>
+      <pubDate>Wed, 16 Sep 2026 18:30:00 +0000</pubDate>
+      <description>Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Bypassing the Speed Limit for Thermally Driven Demagnetization</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.124</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.124</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Daniel Steil Contrary to expectations, the magnetization dynamics of a ferromagnet can be accelerated by increasing…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>How to Synchronize a Long-Distance Quantum Network</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s120</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s120</guid>
+      <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sophia Chen Researchers demonstrate a new quantum memory device that will enable faraway nodes in a network…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
+      <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</guid>
+      <pubDate>Tue, 15 Sep 2026 17:05:57 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How B2B Marketers Misunderstand Their Customers</title>
+      <link>https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/</link>
+      <guid>https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/</guid>
+      <pubDate>Tue, 15 Sep 2026 11:00:37 +0000</pubDate>
+      <description>Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>How Reliable Are Quantum Batteries?</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s114</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s114</guid>
+      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Marric Stephens Increasing the charging rate of a quantum battery leads to unavoidable fluctuations in the total energy stored.…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>How AI Creates a Capability Mirage</title>
+      <link>https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/</link>
+      <guid>https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/</guid>
+      <pubDate>Mon, 14 Sep 2026 11:00:15 +0000</pubDate>
+      <description>PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
+      <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
+      <guid>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</guid>
+      <pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
+      <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>New research shows a neutrino laser is impossible</title>
+      <link>https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902</link>
+      <guid>https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902</guid>
+      <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
+      <description>Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>MIT Quantum Initiative launches postdoctoral fellowship program</title>
+      <link>https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</link>
+      <guid>https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</guid>
+      <pubDate>Mon, 31 Aug 2026 19:30:00 +0000</pubDate>
+      <description>The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Astronomers discover a brand-new type of astrophysical object: A black hole star</title>
+      <link>https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812</link>
+      <guid>https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812</guid>
+      <pubDate>Wed, 12 Aug 2026 15:00:00 +0000</pubDate>
+      <description>The mashup of a black hole and an enormous star has never been…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>On the hunt for dark matter</title>
+      <link>https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811</link>
+      <guid>https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811</guid>
+      <pubDate>Tue, 11 Aug 2026 04:00:00 +0000</pubDate>
+      <description>From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases</title>
+      <link>https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807</link>
+      <guid>https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807</guid>
+      <pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
+      <description>The study could help scientists understand how superconductivity and other more complex phenomena emerge…</description>
+      <category>physics</category>
+    </item>
+  </channel>
+</rss>

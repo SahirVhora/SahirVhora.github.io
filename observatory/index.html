@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#111521">
+  <meta name="description" content="A small daily reading ritual for AI, physics and consulting. Discover a useful idea, follow the evidence, and build your own constellation of knowledge.">
+  <title>The Observatory · Your daily perspective</title>
+  <link rel="icon" href="icon.svg" type="image/svg+xml">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="alternate" type="application/rss+xml" title="The Observatory" href="feed.xml">
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to stories</a>
+  <header class="topbar">
+    <a class="brand" href="./" aria-label="The Observatory home"><span class="brand-mark" aria-hidden="true">✳</span><span>THE OBSERVATORY<small>A little perspective, every day.</small></span></a>
+    <div class="header-actions"><button id="theme" class="quiet" aria-label="Switch colour theme">Light mode</button><button id="setup" class="quiet">On your phone</button></div>
+  </header>
+  <div class="layout">
+    <aside class="sidebar" aria-label="Reading views">
+      <p class="eyebrow">YOUR READING DESK</p>
+      <nav id="views"><button data-view="today" class="nav-item active" aria-pressed="true"><span>◉</span> Your daily three</button><button data-view="new" class="nav-item" aria-pressed="false"><span>◷</span> Since your last visit <b id="new-count"></b></button><button data-view="saved" class="nav-item" aria-pressed="false"><span>◇</span> Your collection <b id="saved-count">0</b></button><button data-view="all" class="nav-item" aria-pressed="false"><span>≋</span> Explore the feed</button></nav>
+      <div class="sidebar-note"><span class="mini-orbit" aria-hidden="true">✧</span><p>Curiosity has no backlog.</p><small>Read something useful.<br>Leave the rest for another day.</small></div>
+      <button id="sources-button" class="text-button">Sources & freshness</button>
+      <a class="sidebar-link" href="feed.xml">Subscribe with RSS</a>
+    </aside>
+    <main id="main" tabindex="-1">
+      <section class="intro"><div><p class="eyebrow" id="edition-date">YOUR PERSONAL OBSERVATORY</p><h1 id="view-title">A wider view.<br><em>A sharper mind.</em></h1><p id="view-description">One idea for your work. One for your wonder. One to connect them.</p></div><div class="edition-stamp"><span>YOUR DAILY</span><strong>03</strong><span>POINTS OF VIEW</span></div></section>
+      <div class="reading-bar"><span id="freshness" role="status">Opening your edition…</span><button id="refresh" class="text-button">Check for updates</button></div>
+      <div id="warning" class="notice" hidden></div>
+      <section class="topic-row" aria-label="Topic filter"><button data-topic="all" class="topic active" aria-pressed="true">All perspectives</button><button data-topic="ai" class="topic" aria-pressed="false"><span class="topic-dot ai"></span>AI</button><button data-topic="physics" class="topic" aria-pressed="false"><span class="topic-dot physics"></span>Physics</button><button data-topic="consulting" class="topic" aria-pressed="false"><span class="topic-dot consulting"></span>Consulting</button><button id="surprise" class="text-button surprise">Surprise me ✧</button></section>
+      <section id="stories" class="stories" aria-label="Selected stories" aria-live="polite"><div class="empty">Loading source-backed stories…</div></section>
+      <section id="ritual" class="ritual"><span class="eyebrow">THE TWO-MINUTE TAKEAWAY</span><h2>What stayed with you?</h2><p>Close the article. Write one idea in your own words.</p><label class="sr-only" for="reflection">Your takeaway</label><textarea id="reflection" rows="3" maxlength="2000" placeholder="Today I learned…"></textarea><div class="reflection-footer"><span id="reflection-status">Private to this browser. Not uploaded.</span><button id="save-reflection" class="small-button">Keep this thought</button></div></section>
+      <footer><p>Enough to start thinking. Sources when you want to go further.</p><a href="../">Sahir's projects</a><button id="about" class="text-button">How this works</button></footer>
+    </main>
+    <aside class="right-rail">
+      <section class="constellation"><p class="eyebrow">YOUR CONSTELLATION</p><svg viewBox="0 0 260 205" role="img" aria-label="Your saved stories connect AI, physics and consulting"><path d="M48 135 L131 44 L218 142 Z M48 135 L132 127 L131 44 M132 127 L218 142" class="map-lines"/><circle cx="131" cy="44" r="7" class="star ai-star"/><circle cx="48" cy="135" r="7" class="star physics-star"/><circle cx="218" cy="142" r="7" class="star consulting-star"/><circle cx="132" cy="127" r="4" class="center-star"/><text x="131" y="24" text-anchor="middle">AI</text><text x="48" y="166" text-anchor="middle">PHYSICS</text><text x="205" y="173" text-anchor="middle">CONSULTING</text></svg><p><strong id="constellation-count">0</strong> ideas collected</p><small>Save what moves you. Watch your interests take shape.</small></section>
+      <section class="bridge"><span class="eyebrow">CONNECT THE DOTS</span><h2 id="bridge-title">What would change your mind?</h2><p id="bridge-body">A physics experiment tests a prediction. An AI evaluation tests a capability. A consulting pilot tests an assumption.</p><div class="bridge-question" id="bridge-question">Before your next pilot, write down what result would make you stop.</div><small>Thinking prompt · an analogy, not a research finding.</small><button id="next-bridge" class="text-button">Another connection</button></section>
+      <section class="recall"><p class="eyebrow">A MOMENT TO REMEMBER</p><h2 id="recall-question">Is a confident answer strong evidence?</h2><button id="recall-reveal" class="small-button">Reveal the thought</button><p id="recall-answer" hidden>Confidence describes presentation. Evidence comes from checking claims against reliable sources and repeatable observations.</p></section>
+    </aside>
+  </div>
+  <dialog id="dialog"><div class="dialog-top"><span class="eyebrow" id="dialog-label">THE OBSERVATORY</span><button id="close-dialog" class="quiet" aria-label="Close dialog">Close ✕</button></div><div id="dialog-content"></div></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <noscript><p class="notice">JavaScript is needed for the reading desk. You can still <a href="feed.xml">open the RSS feed</a>.</p></noscript>
+</body>
+</html>
