@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T12:26:15.073541+00:00",
+  "updatedAt": "2026-10-04T20:12:29.823052+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -263,7 +264,8 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "c696e8b1f3422473",
@@ -280,7 +282,8 @@
         "question": "Where would knowing that something was AI-generated change how you evaluate it?",
         "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      }
+      },
+      "retained": true
     },
     {
       "id": "5d295a9bb1fce1b7",
@@ -462,7 +465,8 @@
       "evidence": "Company research",
       "published": "2026-09-24T16:20:39+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "03ad990b7a37e927",
@@ -495,7 +499,8 @@
       "evidence": "Company research",
       "published": "2026-09-23T16:00:57+00:00",
       "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "81481aa316e38773",
@@ -506,7 +511,8 @@
       "evidence": "Company research",
       "published": "2026-09-23T15:25:14+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "b5ec0f6a6dacebc0",
@@ -605,7 +611,8 @@
       "evidence": "Company research",
       "published": "2026-09-15T17:05:57+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "86422d8e1e0009af",
@@ -649,7 +656,8 @@
       "evidence": "Company research",
       "published": "2026-09-08T14:00:15+00:00",
       "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter…",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "b02649524ea87ea0",
