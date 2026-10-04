@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03T17:32:00.585364+00:00",
+  "updatedAt": "2026-10-04T12:26:15.073541+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,17 @@
   ],
   "stories": [
     {
+      "id": "bd1136d0fcfd6f13",
+      "title": "The Agent Said It Was Done. The Database Disagreed.",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-03T22:56:48+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-04T12:26:15.073541+00:00"
+    },
+    {
       "id": "c38af6e5cae43e23",
       "title": "A model guide for the GPT-6 family",
       "url": "https://openai.com/index/practical-guide-building-gpt-6",
@@ -97,6 +108,17 @@
       "evidence": "Community / technical",
       "published": "2026-10-02T04:01:31+00:00",
       "excerpt": "",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
+      "id": "882596cbc7639eb4",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -161,17 +183,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "882596cbc7639eb4",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "b8087b88cb63ae7f",
       "title": "The eternal complement",
       "url": "https://openai.com/index/the-eternal-complement",
@@ -211,6 +222,17 @@
       }
     },
     {
+      "id": "2167384f51e2a446",
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "url": "https://openai.com/index/the-den-family-social",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-01T00:00:00+00:00",
+      "excerpt": "As it opens a new location, the social club prepares grant applications…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
       "id": "4fa2cfcf9344e608",
       "title": "The cash hiding in plain sight",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight",
@@ -230,17 +252,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-01T00:00:00+00:00",
       "excerpt": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "2167384f51e2a446",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-01T00:00:00+00:00",
-      "excerpt": "As it opens a new location, the social club prepares grant applications…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -452,17 +463,6 @@
       "published": "2026-09-24T16:20:39+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-03T17:28:40.970059+00:00"
-    },
-    {
-      "id": "280bf64dcca75cee",
-      "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-09-24T14:08:57+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
       "id": "03ad990b7a37e927",
