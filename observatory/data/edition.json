@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04T20:12:29.823052+00:00",
+  "updatedAt": "2026-10-05T14:47:33.343202+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,39 @@
     }
   ],
   "stories": [
+    {
+      "id": "0da323f7013dfcae",
+      "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
+      "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-05T11:00:22+00:00",
+      "excerpt": "Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine…",
+      "firstSeen": "2026-10-05T14:47:33.343202+00:00"
+    },
+    {
+      "id": "2d8e70fb45cef747",
+      "title": "Building advertising for the way people use AI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-05T10:00:00+00:00",
+      "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand…",
+      "firstSeen": "2026-10-05T14:47:33.343202+00:00"
+    },
+    {
+      "id": "66df750a760c00ea",
+      "title": "AI is changing work. Now it has to change the organization",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-05T00:00:00+00:00",
+      "excerpt": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…",
+      "firstSeen": "2026-10-05T14:47:33.343202+00:00"
+    },
     {
       "id": "bd1136d0fcfd6f13",
       "title": "The Agent Said It Was Done. The Database Disagreed.",
@@ -245,17 +278,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "2ea9a91d99d3e1de",
-      "title": "Modernizing for the mission: An interview with Jamie Wolff",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-01T00:00:00+00:00",
-      "excerpt": "The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "ce56aa83d0064ef1",
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
@@ -316,17 +338,6 @@
       "evidence": "Company announcement",
       "published": "2026-09-30T10:30:00+00:00",
       "excerpt": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "061338e668ed6974",
-      "title": "Helping small businesses put AI to work",
-      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-09-30T10:00:00+00:00",
-      "excerpt": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -634,17 +645,6 @@
       "evidence": "Research commentary",
       "published": "2026-09-15T10:00:00+00:00",
       "excerpt": "Author(s): Marric Stephens Increasing the charging rate of a quantum battery leads to unavoidable fluctuations in the total energy stored.…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "dec6290306e06b9b",
-      "title": "How AI Creates a Capability Mirage",
-      "url": "https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-09-14T11:00:15+00:00",
-      "excerpt": "PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {

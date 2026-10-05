@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:47:33 +0000</lastBuildDate>
+    <item>
+      <title>Rehearsal Intelligence: Using Digital Twins for Crisis Readiness</title>
+      <link>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</link>
+      <guid>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</guid>
+      <pubDate>Mon, 05 Oct 2026 11:00:22 +0000</pubDate>
+      <description>Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Building advertising for the way people use AI</title>
+      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
+      <guid>https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
+      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
+      <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>AI is changing work. Now it has to change the organization</title>
+      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</link>
+      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>The Agent Said It Was Done. The Database Disagreed.</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
@@ -126,14 +150,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Modernizing for the mission: An interview with Jamie Wolff</title>
-      <link>https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff</link>
-      <guid>https://www.mckinsey.com/industries/public-sector/our-insights/modernizing-for-the-mission-an-interview-with-jamie-wolff</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The National Nuclear Security Administration’s CIO shares that modernization means rebuilding infrastructure, data, and talent at…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
       <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
       <guid>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
@@ -171,14 +187,6 @@
       <guid>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
       <pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
       <description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Helping small businesses put AI to work</title>
-      <link>https://openai.com/index/helping-small-businesses-put-ai-to-work</link>
-      <guid>https://openai.com/index/helping-small-businesses-put-ai-to-work</guid>
-      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
-      <description>OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside…</description>
       <category>ai</category>
     </item>
     <item>
@@ -396,14 +404,6 @@
       <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Marric Stephens Increasing the charging rate of a quantum battery leads to unavoidable fluctuations in the total energy stored.…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>How AI Creates a Capability Mirage</title>
-      <link>https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/</link>
-      <guid>https://sloanreview.mit.edu/article/how-ai-creates-a-capability-mirage/</guid>
-      <pubDate>Mon, 14 Sep 2026 11:00:15 +0000</pubDate>
-      <description>PPaint/Ikon Images Dry rot. A Potemkin village. The Wizard of Oz. What do those things have in common? In…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
