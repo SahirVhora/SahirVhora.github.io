@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 14:47:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:10:39 +0000</lastBuildDate>
+    <item>
+      <title>Our approach to EU text provenance rules</title>
+      <link>https://openai.com/index/eu-text-provenance</link>
+      <guid>https://openai.com/index/eu-text-provenance</guid>
+      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
+      <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>Rehearsal Intelligence: Using Digital Twins for Crisis Readiness</title>
       <link>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</link>
@@ -27,6 +35,14 @@
       <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <description>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Scaling AI inference</title>
+      <link>https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference</link>
+      <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -59,14 +75,6 @@
       <guid>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
       <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Chatham scales its capital markets expertise with OpenAI</title>
-      <link>https://openai.com/index/chatham-financial</link>
-      <guid>https://openai.com/index/chatham-financial</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
       <category>ai</category>
     </item>
     <item>
@@ -110,6 +118,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Chatham scales its capital markets expertise with OpenAI</title>
+      <link>https://openai.com/index/chatham-financial</link>
+      <guid>https://openai.com/index/chatham-financial</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>The eternal complement</title>
       <link>https://openai.com/index/the-eternal-complement</link>
       <guid>https://openai.com/index/the-eternal-complement</guid>
@@ -142,14 +158,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The cash hiding in plain sight</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-cash-hiding-in-plain-sight</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Companies often have significant opportunities to unlock cash. Four practices can help CFOs free it up.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
       <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
       <guid>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
@@ -180,14 +188,6 @@
       <pubDate>Wed, 30 Sep 2026 11:00:08 +0000</pubDate>
       <description>Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Disrupting a coordinated model-distillation campaign</title>
-      <link>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</link>
-      <guid>https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign</guid>
-      <pubDate>Wed, 30 Sep 2026 10:30:00 +0000</pubDate>
-      <description>Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Quantum Light Reveals How Solvents Affect Molecules</title>
