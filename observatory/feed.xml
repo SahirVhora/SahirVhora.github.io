@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 13:22:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 21:39:45 +0000</lastBuildDate>
+    <item>
+      <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
+      <link>https://openai.com/index/atlassian-partnership</link>
+      <guid>https://openai.com/index/atlassian-partnership</guid>
+      <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
+      <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI</title>
       <link>https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/</link>
@@ -36,6 +44,22 @@
       <pubDate>Tue, 06 Oct 2026 11:00:14 +0000</pubDate>
       <description>Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Advancing computer use with Ironclad</title>
+      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
+      <guid>https://openai.com/index/advancing-computer-use-with-ironclad</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Elucidating Superconductivity with Ultrasound</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s122</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s122</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…</description>
+      <category>physics</category>
     </item>
     <item>
       <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
@@ -174,28 +198,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>How Albertsons Companies is reimagining retail from the inside out</title>
-      <link>https://openai.com/index/albertsons-reimagining-retail</link>
-      <guid>https://openai.com/index/albertsons-reimagining-retail</guid>
-      <pubDate>Thu, 01 Oct 2026 16:00:00 +0000</pubDate>
-      <description>Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Simulating Particle Creation with Cold Atoms</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s131</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s131</guid>
       <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
       <description>Researchers use trapped atoms to imitate how particles form in a powerful electric field. A controllable laboratory system can help explore a process that is difficult to study directly.</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>The Den frees up 10-15 hours a week to grow with ChatGPT Work</title>
-      <link>https://openai.com/index/the-den-family-social</link>
-      <guid>https://openai.com/index/the-den-family-social</guid>
-      <pubDate>Thu, 01 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As it opens a new location, the social club prepares grant applications…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
@@ -396,14 +404,6 @@
       <pubDate>Tue, 15 Sep 2026 17:05:57 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>How Reliable Are Quantum Batteries?</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s114</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s114</guid>
-      <pubDate>Tue, 15 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Marric Stephens Increasing the charging rate of a quantum battery leads to unavoidable fluctuations in the total energy stored.…</description>
-      <category>physics</category>
     </item>
     <item>
       <title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>

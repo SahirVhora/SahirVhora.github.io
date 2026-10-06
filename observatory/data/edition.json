@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T13:22:51.544108+00:00",
+  "updatedAt": "2026-10-06T21:39:45.583238+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -61,6 +62,17 @@
   ],
   "stories": [
     {
+      "id": "2896758265cec81d",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T16:00:00+00:00",
+      "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge…",
+      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
+    },
+    {
       "id": "f78f637f8f35eae8",
       "title": "SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI",
       "url": "https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/",
@@ -103,6 +115,28 @@
       "published": "2026-10-06T11:00:14+00:00",
       "excerpt": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…",
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "f57eff9c23a4454b",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T10:00:00+00:00",
+      "excerpt": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…",
+      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
+    },
+    {
+      "id": "2b38ffe766a4c682",
+      "title": "Elucidating Superconductivity with Ultrasound",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s122",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-06T10:00:00+00:00",
+      "excerpt": "Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…",
+      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
     },
     {
       "id": "fe424883c3cacf66",
@@ -304,17 +338,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "637d3dfa247fa816",
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-01T16:00:00+00:00",
-      "excerpt": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "2af4893eb88cb671",
       "title": "Simulating Particle Creation with Cold Atoms",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s131",
@@ -332,17 +355,6 @@
       }
     },
     {
-      "id": "2167384f51e2a446",
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "url": "https://openai.com/index/the-den-family-social",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-01T00:00:00+00:00",
-      "excerpt": "As it opens a new location, the social club prepares grant applications…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "ce56aa83d0064ef1",
       "title": "Gemini 4 Argon: our next era of frontier intelligence",
       "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
@@ -351,7 +363,8 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "c696e8b1f3422473",
@@ -368,7 +381,8 @@
         "question": "Where would knowing that something was AI-generated change how you evaluate it?",
         "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      }
+      },
+      "retained": true
     },
     {
       "id": "5d295a9bb1fce1b7",
@@ -506,7 +520,8 @@
       "evidence": "Company research",
       "published": "2026-09-24T16:20:39+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "68ead6b6af2b7144",
@@ -517,7 +532,8 @@
       "evidence": "Company research",
       "published": "2026-09-23T16:00:57+00:00",
       "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "81481aa316e38773",
@@ -528,7 +544,8 @@
       "evidence": "Company research",
       "published": "2026-09-23T15:25:14+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "b5ec0f6a6dacebc0",
@@ -627,18 +644,8 @@
       "evidence": "Company research",
       "published": "2026-09-15T17:05:57+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
-    },
-    {
-      "id": "916843050ec02be8",
-      "title": "How Reliable Are Quantum Batteries?",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s114",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-09-15T10:00:00+00:00",
-      "excerpt": "Author(s): Marric Stephens Increasing the charging rate of a quantum battery leads to unavoidable fluctuations in the total energy stored.…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "f0e27f432f48fb86",
@@ -649,7 +656,8 @@
       "evidence": "Company research",
       "published": "2026-09-08T14:00:15+00:00",
       "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter…",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "b02649524ea87ea0",
