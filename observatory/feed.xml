@@ -4,7 +4,71 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 23:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:22:51 +0000</lastBuildDate>
+    <item>
+      <title>SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI</title>
+      <link>https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/</link>
+      <guid>https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:45:00 +0000</pubDate>
+      <description>WALLDORF and GHENT — TechWolf is expected to become an…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Innovation News Guide: Advancing the Autonomous Enterprise</title>
+      <link>https://www.sap.com/topics/events/connect/innovation-news-guide-2026</link>
+      <guid>https://www.sap.com/topics/events/connect/innovation-news-guide-2026</guid>
+      <pubDate>Tue, 06 Oct 2026 11:30:00 +0000</pubDate>
+      <description>New innovations are bringing the Autonomous Enterprise to life.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Puts the Autonomous Enterprise to Work</title>
+      <link>https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/</link>
+      <guid>https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:30:00 +0000</pubDate>
+      <description>LAS VEGAS — Joule Work, Joule Assistants and SAP Business AI Platform help organizations turn business AI into…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The Real Reasons Why Digital Projects Fail</title>
+      <link>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</link>
+      <guid>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</guid>
+      <pubDate>Tue, 06 Oct 2026 11:00:14 +0000</pubDate>
+      <description>Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
+      <guid>https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
+      <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Using production rates to excel at executing construction projects</title>
+      <link>https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects</link>
+      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Medtech needs more than a market rotation to win back investors</title>
+      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors</link>
+      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic</title>
+      <link>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic</link>
+      <guid>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic</guid>
+      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
+      <description>From shipping and rare earths to energy and security, the Arctic is gaining…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Our approach to EU text provenance rules</title>
       <link>https://openai.com/index/eu-text-provenance</link>
@@ -30,19 +94,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>AI is changing work. Now it has to change the organization</title>
-      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</link>
-      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Scaling AI inference</title>
       <link>https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference</link>
       <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference</guid>
       <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
       <description>Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>AI is changing work. Now it has to change the organization</title>
+      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</link>
+      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</guid>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -78,6 +142,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Chatham scales its capital markets expertise with OpenAI</title>
+      <link>https://openai.com/index/chatham-financial</link>
+      <guid>https://openai.com/index/chatham-financial</guid>
+      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Pause, pivot, or accelerate: SaaS in the age of agentic AI</title>
       <link>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</link>
       <guid>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</guid>
@@ -92,38 +164,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <description>As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>State of Consumer Africa 2026: Meeting the pragmatic shopper</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The bank’s digital twin: The future of nonfinancial risk management</title>
-      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management</link>
-      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The risk function’s fundamental purpose has not changed, but the nature of the risks, the…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Shareholder activism is changing. Are companies ready?</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Chatham scales its capital markets expertise with OpenAI</title>
-      <link>https://openai.com/index/chatham-financial</link>
-      <guid>https://openai.com/index/chatham-financial</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>The eternal complement</title>
@@ -254,22 +294,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Holo4: powering generalist computer-use agents</title>
-      <link>https://huggingface.co/blog/Hcompany/holo4</link>
-      <guid>https://huggingface.co/blog/Hcompany/holo4</guid>
-      <pubDate>Mon, 28 Sep 2026 09:44:05 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>SAP and NVIDIA OpenShell: Working Toward Governance and Security for Auditable AI Agents in Enterprise Systems</title>
-      <link>https://news.sap.com/2026/09/sap-nvidia-openshell-auditable-ai-agents-enterprise-systems/</link>
-      <guid>https://news.sap.com/2026/09/sap-nvidia-openshell-auditable-ai-agents-enterprise-systems/</guid>
-      <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
-      <description>The two companies are helping shape and strengthen the…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Scattering neutrinos to probe the fundamental laws of the universe</title>
       <link>https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925</link>
       <guid>https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925</guid>
@@ -284,22 +308,6 @@
       <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>SAP Named a Leader in the 2026 IDC MarketScape for AI-Enabled Direct Spend</title>
-      <link>https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/</link>
-      <guid>https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/</guid>
-      <pubDate>Thu, 24 Sep 2026 13:15:00 +0000</pubDate>
-      <description>SAP is invested in helping manufacturers connect sourcing, engineering, planning, and supplier…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>What Implementation Teams Wish Organizations Knew About Enterprise RFPs</title>
-      <link>https://news.sap.com/2026/09/rfps-what-implementation-teams-wish-organizations-knew/</link>
-      <guid>https://news.sap.com/2026/09/rfps-what-implementation-teams-wish-organizations-knew/</guid>
-      <pubDate>Thu, 24 Sep 2026 12:15:00 +0000</pubDate>
-      <description>RFPs are common in the world of enterprise software. Truly successful ones, less so.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Advancing Private AI Compute with secure, server-side memory</title>
@@ -390,14 +398,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>How B2B Marketers Misunderstand Their Customers</title>
-      <link>https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/</link>
-      <guid>https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/</guid>
-      <pubDate>Tue, 15 Sep 2026 11:00:37 +0000</pubDate>
-      <description>Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>How Reliable Are Quantum Batteries?</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s114</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s114</guid>
@@ -443,14 +443,6 @@
       <guid>https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811</guid>
       <pubDate>Tue, 11 Aug 2026 04:00:00 +0000</pubDate>
       <description>From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases</title>
-      <link>https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807</link>
-      <guid>https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807</guid>
-      <pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
-      <description>The study could help scientists understand how superconductivity and other more complex phenomena emerge…</description>
       <category>physics</category>
     </item>
   </channel>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05T23:10:39.687776+00:00",
+  "updatedAt": "2026-10-06T13:22:51.544108+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 7
+      "count": 6
     },
     {
       "name": "MIT Sloan Management Review",
@@ -60,6 +60,94 @@
     }
   ],
   "stories": [
+    {
+      "id": "f78f637f8f35eae8",
+      "title": "SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI",
+      "url": "https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T11:45:00+00:00",
+      "excerpt": "WALLDORF and GHENT — TechWolf is expected to become an…",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "17eeebe717591b3e",
+      "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
+      "url": "https://www.sap.com/topics/events/connect/innovation-news-guide-2026",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T11:30:00+00:00",
+      "excerpt": "New innovations are bringing the Autonomous Enterprise to life.",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "c5c6b327ef72f8ec",
+      "title": "SAP Puts the Autonomous Enterprise to Work",
+      "url": "https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T11:30:00+00:00",
+      "excerpt": "LAS VEGAS — Joule Work, Joule Assistants and SAP Business AI Platform help organizations turn business AI into…",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "9e404219683ad718",
+      "title": "The Real Reasons Why Digital Projects Fail",
+      "url": "https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-06T11:00:14+00:00",
+      "excerpt": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "fe424883c3cacf66",
+      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-06T06:44:39+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "fc591d919e284c33",
+      "title": "Using production rates to excel at executing construction projects",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-06T00:00:00+00:00",
+      "excerpt": "As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to…",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "19692943562e058d",
+      "title": "Medtech needs more than a market rotation to win back investors",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-06T00:00:00+00:00",
+      "excerpt": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies…",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
+    {
+      "id": "ee794aa3c55110ff",
+      "title": "Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-06T00:00:00+00:00",
+      "excerpt": "From shipping and rare earths to energy and security, the Arctic is gaining…",
+      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+    },
     {
       "id": "d2b5b29b4c815525",
       "title": "Our approach to EU text provenance rules",
@@ -94,17 +182,6 @@
       "firstSeen": "2026-10-05T14:47:33.343202+00:00"
     },
     {
-      "id": "66df750a760c00ea",
-      "title": "AI is changing work. Now it has to change the organization",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-05T00:00:00+00:00",
-      "excerpt": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…",
-      "firstSeen": "2026-10-05T14:47:33.343202+00:00"
-    },
-    {
       "id": "8d266a285de57c86",
       "title": "Scaling AI inference",
       "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
@@ -114,6 +191,17 @@
       "published": "2026-10-05T00:00:00+00:00",
       "excerpt": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
       "firstSeen": "2026-10-05T23:10:39.687776+00:00"
+    },
+    {
+      "id": "66df750a760c00ea",
+      "title": "AI is changing work. Now it has to change the organization",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-05T00:00:00+00:00",
+      "excerpt": "The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…",
+      "firstSeen": "2026-10-05T14:47:33.343202+00:00"
     },
     {
       "id": "bd1136d0fcfd6f13",
@@ -166,6 +254,17 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
+      "id": "882596cbc7639eb4",
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-02T00:00:00+00:00",
+      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
+      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+    },
+    {
       "id": "f4a4d0eb7bf936c1",
       "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
@@ -191,50 +290,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-02T00:00:00+00:00",
       "excerpt": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "d4b2ddbbb177f083",
-      "title": "State of Consumer Africa 2026: Meeting the pragmatic shopper",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer-africa-2026-meeting-the-pragmatic-shopper",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "Household budgets in Africa are tight and channels increasingly fragmented. Four trends are redefining how consumers…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "3f018fa12af8be46",
-      "title": "The bank’s digital twin: The future of nonfinancial risk management",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-banks-digital-twin-the-future-of-nonfinancial-risk-management",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "The risk function’s fundamental purpose has not changed, but the nature of the risks, the…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "924078ee0dfff5af",
-      "title": "Shareholder activism is changing. Are companies ready?",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/shareholder-activism-is-changing-are-companies-ready",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "Boards and CEOs can build value-creation plans that withstand and even benefit from shareholder activist scrutiny.",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "882596cbc7639eb4",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -426,28 +481,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "09d1d26fa19dd694",
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-09-28T09:44:05+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "6ab2237eb09e9032",
-      "title": "SAP and NVIDIA OpenShell: Working Toward Governance and Security for Auditable AI Agents in Enterprise Systems",
-      "url": "https://news.sap.com/2026/09/sap-nvidia-openshell-auditable-ai-agents-enterprise-systems/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-09-28T09:00:00+00:00",
-      "excerpt": "The two companies are helping shape and strengthen the…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "553830d231d34627",
       "title": "Scattering neutrinos to probe the fundamental laws of the universe",
       "url": "https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925",
@@ -474,28 +507,6 @@
       "published": "2026-09-24T16:20:39+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-03T17:28:40.970059+00:00"
-    },
-    {
-      "id": "03ad990b7a37e927",
-      "title": "SAP Named a Leader in the 2026 IDC MarketScape for AI-Enabled Direct Spend",
-      "url": "https://news.sap.com/2026/09/sap-a-leader-2026-idc-marketscape-ai-enabled-direct-spend/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-09-24T13:15:00+00:00",
-      "excerpt": "SAP is invested in helping manufacturers connect sourcing, engineering, planning, and supplier…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "1f9e265ed255c4db",
-      "title": "What Implementation Teams Wish Organizations Knew About Enterprise RFPs",
-      "url": "https://news.sap.com/2026/09/rfps-what-implementation-teams-wish-organizations-knew/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-09-24T12:15:00+00:00",
-      "excerpt": "RFPs are common in the world of enterprise software. Truly successful ones, less so.",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
       "id": "68ead6b6af2b7144",
@@ -619,17 +630,6 @@
       "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
-      "id": "86422d8e1e0009af",
-      "title": "How B2B Marketers Misunderstand Their Customers",
-      "url": "https://sloanreview.mit.edu/article/how-b2b-marketers-misunderstand-their-customers/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-09-15T11:00:37+00:00",
-      "excerpt": "Nick Lowndes/Ikon Images Businesses are striving to adapt ever faster to keep pace with rapid change, and yet B2B…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "916843050ec02be8",
       "title": "How Reliable Are Quantum Batteries?",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s114",
@@ -693,17 +693,6 @@
       "evidence": "University reporting",
       "published": "2026-08-11T04:00:00+00:00",
       "excerpt": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "4c52b2bdf8e921c3",
-      "title": "Physicists watch a material’s electrons assemble, and reassemble, into coexisting phases",
-      "url": "https://news.mit.edu/2026/physicists-watch-materials-electrons-assemble-reassemble-coexisting-phases-0807",
-      "category": "physics",
-      "source": "MIT Physics",
-      "evidence": "University reporting",
-      "published": "2026-08-07T09:00:00+00:00",
-      "excerpt": "The study could help scientists understand how superconductivity and other more complex phenomena emerge…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     }
   ]
