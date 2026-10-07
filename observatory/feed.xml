@@ -4,13 +4,101 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 21:39:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:29:58 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Falcon ASR</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP Showcases the Autonomous Enterprise in Action</title>
+      <link>https://news.sap.com/2026/10/sap-connect-keynote-autonomous-enterprise-in-action/</link>
+      <guid>https://news.sap.com/2026/10/sap-connect-keynote-autonomous-enterprise-in-action/</guid>
+      <pubDate>Wed, 07 Oct 2026 13:00:00 +0000</pubDate>
+      <description>SAP executives led by CEO Christian Klein demonstrated the Autonomous Enterprise powered by SAP Business AI Platform.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
+      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP Accelerates Autonomous HCM</title>
+      <link>https://news.sap.com/2026/10/sap-accelerates-autonomous-hcm/</link>
+      <guid>https://news.sap.com/2026/10/sap-accelerates-autonomous-hcm/</guid>
+      <pubDate>Wed, 07 Oct 2026 12:01:00 +0000</pubDate>
+      <description>New innovations automate work and redesign workforce strategies.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>AI Can Act. Can Your Business Follow Through?</title>
+      <link>https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/</link>
+      <guid>https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Customer experience is ultimately defined by whether a business can follow through on customer commitments and deliver…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Spoiler Alert: The Future of Work Is Already Here</title>
+      <link>https://news.sap.com/2026/10/future-of-work-is-here/</link>
+      <guid>https://news.sap.com/2026/10/future-of-work-is-here/</guid>
+      <pubDate>Wed, 07 Oct 2026 11:59:00 +0000</pubDate>
+      <description>The question is whether we’re building the best version.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>When Compliance Workarounds Backfire</title>
+      <link>https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/</link>
+      <guid>https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/</guid>
+      <pubDate>Wed, 07 Oct 2026 11:00:04 +0000</pubDate>
+      <description>John Holcroft/Ikon Images In 2021, Barcelona-based delivery platform Glovo was faced with a law that threatened its business model. Spain had…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know</title>
+      <link>https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/</link>
+      <guid>https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/</guid>
+      <pubDate>Wed, 07 Oct 2026 07:30:00 +0000</pubDate>
+      <description>Understand the coming changes and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
+      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
+      <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
+      <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
       <link>https://openai.com/index/atlassian-partnership</link>
       <guid>https://openai.com/index/atlassian-partnership</guid>
       <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
       <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Jump Trading is scaling quant research with ChatGPT</title>
+      <link>https://openai.com/index/jump-trading</link>
+      <guid>https://openai.com/index/jump-trading</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Sharing AI progress in mathematics</title>
+      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
+      <guid>https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
+      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
+      <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and…</description>
       <category>ai</category>
     </item>
     <item>
@@ -30,28 +118,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>SAP Puts the Autonomous Enterprise to Work</title>
-      <link>https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/</link>
-      <guid>https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/</guid>
-      <pubDate>Tue, 06 Oct 2026 11:30:00 +0000</pubDate>
-      <description>LAS VEGAS — Joule Work, Joule Assistants and SAP Business AI Platform help organizations turn business AI into…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The Real Reasons Why Digital Projects Fail</title>
       <link>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</link>
       <guid>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</guid>
       <pubDate>Tue, 06 Oct 2026 11:00:14 +0000</pubDate>
       <description>Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Advancing computer use with Ironclad</title>
-      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
-      <guid>https://openai.com/index/advancing-computer-use-with-ironclad</guid>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Elucidating Superconductivity with Ultrasound</title>
@@ -62,11 +134,11 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-emirati</link>
-      <guid>https://huggingface.co/blog/tiiuae/falcon-emirati</guid>
-      <pubDate>Tue, 06 Oct 2026 06:44:39 +0000</pubDate>
-      <description />
+      <title>Advancing computer use with Ironclad</title>
+      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
+      <guid>https://openai.com/index/advancing-computer-use-with-ironclad</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…</description>
       <category>ai</category>
     </item>
     <item>
@@ -166,14 +238,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Chatham scales its capital markets expertise with OpenAI</title>
-      <link>https://openai.com/index/chatham-financial</link>
-      <guid>https://openai.com/index/chatham-financial</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Pause, pivot, or accelerate: SaaS in the age of agentic AI</title>
       <link>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</link>
       <guid>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</guid>
@@ -188,14 +252,6 @@
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <description>As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>The eternal complement</title>
-      <link>https://openai.com/index/the-eternal-complement</link>
-      <guid>https://openai.com/index/the-eternal-complement</guid>
-      <pubDate>Thu, 01 Oct 2026 17:00:00 +0000</pubDate>
-      <description>Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Simulating Particle Creation with Cold Atoms</title>
@@ -222,14 +278,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>SAP Named a Leader in the IDC MarketScape: Worldwide Agentic Marketing for B2C Enterprises 2026 Vendor Assessment</title>
-      <link>https://news.sap.com/2026/09/sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/</link>
-      <guid>https://news.sap.com/2026/09/sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/</guid>
-      <pubDate>Wed, 30 Sep 2026 11:15:00 +0000</pubDate>
-      <description>SAP is committed to helping enterprises deliver intelligent,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Turn Energy Efficiency Into Strategic Advantage</title>
       <link>https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/</link>
       <guid>https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/</guid>
@@ -254,14 +302,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-tabular</link>
-      <guid>https://huggingface.co/blog/nvidia/kumo-tabular</guid>
-      <pubDate>Tue, 29 Sep 2026 15:30:38 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
       <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
       <guid>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
@@ -275,30 +315,6 @@
       <guid>https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/</guid>
       <pubDate>Tue, 29 Sep 2026 11:00:55 +0000</pubDate>
       <description>Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>AI’s Future Runs Through Sustainability</title>
-      <link>https://news.sap.com/2026/09/new-york-climate-week-ai-sustainability/</link>
-      <guid>https://news.sap.com/2026/09/new-york-climate-week-ai-sustainability/</guid>
-      <pubDate>Tue, 29 Sep 2026 10:15:00 +0000</pubDate>
-      <description>Energy costs, physical risk, and AI's appetite for resources put sustainability at the center of business at New York Climate…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Coming Soon: A Smarter, More Transparent Feedback Experience</title>
-      <link>https://news.sap.com/2026/09/coming-soon-customer-influence-feedback-experience/</link>
-      <guid>https://news.sap.com/2026/09/coming-soon-customer-influence-feedback-experience/</guid>
-      <pubDate>Mon, 28 Sep 2026 11:15:00 +0000</pubDate>
-      <description>At SAP, customer feedback has always been part of how we build our software.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Calling All Innovators: Submissions Officially Open for 2027 SAP Innovation Awards</title>
-      <link>https://news.sap.com/2026/09/submissions-officially-open-2027-sap-innovation-awards/</link>
-      <guid>https://news.sap.com/2026/09/submissions-officially-open-2027-sap-innovation-awards/</guid>
-      <pubDate>Mon, 28 Sep 2026 10:15:00 +0000</pubDate>
-      <description>The awards recognize organizations that take on tough business challenges, leverage SAP technology, and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -358,14 +374,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>How Sustainability Transformations Quietly Lose Their Edge</title>
-      <link>https://sloanreview.mit.edu/article/how-sustainability-transformations-quietly-lose-their-edge/</link>
-      <guid>https://sloanreview.mit.edu/article/how-sustainability-transformations-quietly-lose-their-edge/</guid>
-      <pubDate>Mon, 21 Sep 2026 11:00:43 +0000</pubDate>
-      <description>Gillian Blease/Ikon Images Corporate sustainability is facing headwinds. Net-zero pledges are being quietly walked back. Regulatory pressure is…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Collimating Positrons with Superconducting Magnets</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.127</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.127</guid>
@@ -403,14 +411,6 @@
       <guid>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</guid>
       <pubDate>Tue, 15 Sep 2026 17:05:57 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome</title>
-      <link>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</link>
-      <guid>https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/</guid>
-      <pubDate>Tue, 08 Sep 2026 14:00:15 +0000</pubDate>
-      <description>AlphaGenome Atlas maps the molecular effects of 9 billion single-letter…</description>
       <category>ai</category>
     </item>
     <item>

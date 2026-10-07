@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06T21:39:45.583238+00:00",
+  "updatedAt": "2026-10-07T13:29:58.067244+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -62,6 +61,105 @@
   ],
   "stories": [
     {
+      "id": "16b7810afb00bdc0",
+      "title": "Introducing Falcon ASR",
+      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-07T13:21:03+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "08fbfe15b1886a1d",
+      "title": "SAP Showcases the Autonomous Enterprise in Action",
+      "url": "https://news.sap.com/2026/10/sap-connect-keynote-autonomous-enterprise-in-action/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T13:00:00+00:00",
+      "excerpt": "SAP executives led by CEO Christian Klein demonstrated the Autonomous Enterprise powered by SAP Business AI Platform.",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "67f5f61696a2949d",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-07T12:45:31+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "0386b546fafb5447",
+      "title": "SAP Accelerates Autonomous HCM",
+      "url": "https://news.sap.com/2026/10/sap-accelerates-autonomous-hcm/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T12:01:00+00:00",
+      "excerpt": "New innovations automate work and redesign workforce strategies.",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "657edcc628e378a8",
+      "title": "AI Can Act. Can Your Business Follow Through?",
+      "url": "https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T12:00:00+00:00",
+      "excerpt": "Customer experience is ultimately defined by whether a business can follow through on customer commitments and deliver…",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "30025f3013629b98",
+      "title": "Spoiler Alert: The Future of Work Is Already Here",
+      "url": "https://news.sap.com/2026/10/future-of-work-is-here/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T11:59:00+00:00",
+      "excerpt": "The question is whether we’re building the best version.",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "1c16c0505c472443",
+      "title": "When Compliance Workarounds Backfire",
+      "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-07T11:00:04+00:00",
+      "excerpt": "John Holcroft/Ikon Images In 2021, Barcelona-based delivery platform Glovo was faced with a law that threatened its business model. Spain had…",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "8993c160ab43569c",
+      "title": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know",
+      "url": "https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T07:30:00+00:00",
+      "excerpt": "Understand the coming changes and…",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "c11a83f73b42d756",
+      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-06T19:57:04+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
       "id": "2896758265cec81d",
       "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
       "url": "https://openai.com/index/atlassian-partnership",
@@ -71,6 +169,28 @@
       "published": "2026-10-06T16:00:00+00:00",
       "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge…",
       "firstSeen": "2026-10-06T21:39:45.583238+00:00"
+    },
+    {
+      "id": "ebb413cc5359756b",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "url": "https://openai.com/index/jump-trading",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T12:00:00+00:00",
+      "excerpt": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data…",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "00427e47df5ef306",
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T12:00:00+00:00",
+      "excerpt": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and…",
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "f78f637f8f35eae8",
@@ -95,17 +215,6 @@
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
     },
     {
-      "id": "c5c6b327ef72f8ec",
-      "title": "SAP Puts the Autonomous Enterprise to Work",
-      "url": "https://news.sap.com/2026/10/sap-connect-sap-puts-autonomous-enterprise-to-work/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-06T11:30:00+00:00",
-      "excerpt": "LAS VEGAS — Joule Work, Joule Assistants and SAP Business AI Platform help organizations turn business AI into…",
-      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
       "id": "9e404219683ad718",
       "title": "The Real Reasons Why Digital Projects Fail",
       "url": "https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/",
@@ -115,17 +224,6 @@
       "published": "2026-10-06T11:00:14+00:00",
       "excerpt": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…",
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
-      "id": "f57eff9c23a4454b",
-      "title": "Advancing computer use with Ironclad",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-06T10:00:00+00:00",
-      "excerpt": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…",
-      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
     },
     {
       "id": "2b38ffe766a4c682",
@@ -139,15 +237,15 @@
       "firstSeen": "2026-10-06T21:39:45.583238+00:00"
     },
     {
-      "id": "fe424883c3cacf66",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
+      "id": "f57eff9c23a4454b",
+      "title": "Advancing computer use with Ironclad",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
       "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-06T06:44:39+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-06T10:00:00+00:00",
+      "excerpt": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…",
+      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
     },
     {
       "id": "fc591d919e284c33",
@@ -288,17 +386,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "882596cbc7639eb4",
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "f4a4d0eb7bf936c1",
       "title": "Pause, pivot, or accelerate: SaaS in the age of agentic AI",
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai",
@@ -327,17 +414,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "b8087b88cb63ae7f",
-      "title": "The eternal complement",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-01T17:00:00+00:00",
-      "excerpt": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "2af4893eb88cb671",
       "title": "Simulating Particle Creation with Cold Atoms",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s131",
@@ -363,8 +439,7 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "c696e8b1f3422473",
@@ -381,19 +456,7 @@
         "question": "Where would knowing that something was AI-generated change how you evaluate it?",
         "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      },
-      "retained": true
-    },
-    {
-      "id": "5d295a9bb1fce1b7",
-      "title": "SAP Named a Leader in the IDC MarketScape: Worldwide Agentic Marketing for B2C Enterprises 2026 Vendor Assessment",
-      "url": "https://news.sap.com/2026/09/sap-a-leader-idc-marketscape-worldwide-agentic-marketing-b2c-enterprises/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-09-30T11:15:00+00:00",
-      "excerpt": "SAP is committed to helping enterprises deliver intelligent,…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+      }
     },
     {
       "id": "1b066c0987bc0226",
@@ -429,17 +492,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "dc53fce90c6f36f5",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-09-29T15:30:38+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "afa8c33f8eb7996a",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
@@ -459,39 +511,6 @@
       "evidence": "Management perspective",
       "published": "2026-09-29T11:00:55+00:00",
       "excerpt": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "5ac3df83f9d4443c",
-      "title": "AI’s Future Runs Through Sustainability",
-      "url": "https://news.sap.com/2026/09/new-york-climate-week-ai-sustainability/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-09-29T10:15:00+00:00",
-      "excerpt": "Energy costs, physical risk, and AI's appetite for resources put sustainability at the center of business at New York Climate…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "397ada8787042016",
-      "title": "Coming Soon: A Smarter, More Transparent Feedback Experience",
-      "url": "https://news.sap.com/2026/09/coming-soon-customer-influence-feedback-experience/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-09-28T11:15:00+00:00",
-      "excerpt": "At SAP, customer feedback has always been part of how we build our software.",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "5b5f0b6ddfd9c30c",
-      "title": "Calling All Innovators: Submissions Officially Open for 2027 SAP Innovation Awards",
-      "url": "https://news.sap.com/2026/09/submissions-officially-open-2027-sap-innovation-awards/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-09-28T10:15:00+00:00",
-      "excerpt": "The awards recognize organizations that take on tough business challenges, leverage SAP technology, and…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -520,8 +539,7 @@
       "evidence": "Company research",
       "published": "2026-09-24T16:20:39+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "68ead6b6af2b7144",
@@ -532,8 +550,7 @@
       "evidence": "Company research",
       "published": "2026-09-23T16:00:57+00:00",
       "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "81481aa316e38773",
@@ -544,8 +561,7 @@
       "evidence": "Company research",
       "published": "2026-09-23T15:25:14+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "b5ec0f6a6dacebc0",
@@ -578,17 +594,6 @@
       "evidence": "Management perspective",
       "published": "2026-09-22T11:00:03+00:00",
       "excerpt": "Matt Harrison Clough/Ikon Images In an unpredictable economy and fractured media landscape, marketing leaders are navigating a period…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "f12725b4364b8e28",
-      "title": "How Sustainability Transformations Quietly Lose Their Edge",
-      "url": "https://sloanreview.mit.edu/article/how-sustainability-transformations-quietly-lose-their-edge/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-09-21T11:00:43+00:00",
-      "excerpt": "Gillian Blease/Ikon Images Corporate sustainability is facing headwinds. Net-zero pledges are being quietly walked back. Regulatory pressure is…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -644,20 +649,7 @@
       "evidence": "Company research",
       "published": "2026-09-15T17:05:57+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
-    },
-    {
-      "id": "f0e27f432f48fb86",
-      "title": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "url": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-09-08T14:00:15+00:00",
-      "excerpt": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter…",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "b02649524ea87ea0",
