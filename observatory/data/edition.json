@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T13:29:58.067244+00:00",
+  "updatedAt": "2026-10-07T22:01:20.215351+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,15 +61,15 @@
   ],
   "stories": [
     {
-      "id": "16b7810afb00bdc0",
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
+      "id": "88e871d5a8d26738",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
       "category": "ai",
       "source": "Hugging Face",
       "evidence": "Community / technical",
-      "published": "2026-10-07T13:21:03+00:00",
+      "published": "2026-10-07T16:54:33+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
       "id": "08fbfe15b1886a1d",
@@ -103,6 +103,17 @@
       "published": "2026-10-07T12:01:00+00:00",
       "excerpt": "New innovations automate work and redesign workforce strategies.",
       "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "661f64ddb5f472a2",
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T12:00:00+00:00",
+      "excerpt": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside…",
+      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
       "id": "657edcc628e378a8",
@@ -147,6 +158,39 @@
       "published": "2026-10-07T07:30:00+00:00",
       "excerpt": "Understand the coming changes and…",
       "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+    },
+    {
+      "id": "4e324623ab7ca6fe",
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "url": "https://openai.com/index/radisson",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T07:00:00+00:00",
+      "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and…",
+      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
+    },
+    {
+      "id": "a097ef0d441a7216",
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-07T00:00:00+00:00",
+      "excerpt": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you…",
+      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
+    },
+    {
+      "id": "3d924819a7239f25",
+      "title": "Why AI’s easiest wins are misleading CEOs",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-07T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
       "id": "c11a83f73b42d756",
@@ -226,17 +270,6 @@
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
     },
     {
-      "id": "2b38ffe766a4c682",
-      "title": "Elucidating Superconductivity with Ultrasound",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s122",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-06T10:00:00+00:00",
-      "excerpt": "Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…",
-      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
-    },
-    {
       "id": "f57eff9c23a4454b",
       "title": "Advancing computer use with Ironclad",
       "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
@@ -245,6 +278,28 @@
       "evidence": "Company announcement",
       "published": "2026-10-06T10:00:00+00:00",
       "excerpt": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…",
+      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
+    },
+    {
+      "id": "363510b1cb35eeb4",
+      "title": "Nobel Prize: Neutrinos from Far, Far Away",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.138",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-06T10:00:00+00:00",
+      "excerpt": "Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…",
+      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
+    },
+    {
+      "id": "2b38ffe766a4c682",
+      "title": "Elucidating Superconductivity with Ultrasound",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s122",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-06T10:00:00+00:00",
+      "excerpt": "Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…",
       "firstSeen": "2026-10-06T21:39:45.583238+00:00"
     },
     {
@@ -281,17 +336,6 @@
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
     },
     {
-      "id": "d2b5b29b4c815525",
-      "title": "Our approach to EU text provenance rules",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-05T15:00:00+00:00",
-      "excerpt": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why…",
-      "firstSeen": "2026-10-05T23:10:39.687776+00:00"
-    },
-    {
       "id": "0da323f7013dfcae",
       "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
       "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
@@ -300,17 +344,6 @@
       "evidence": "Management perspective",
       "published": "2026-10-05T11:00:22+00:00",
       "excerpt": "Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine…",
-      "firstSeen": "2026-10-05T14:47:33.343202+00:00"
-    },
-    {
-      "id": "2d8e70fb45cef747",
-      "title": "Building advertising for the way people use AI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-05T10:00:00+00:00",
-      "excerpt": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand…",
       "firstSeen": "2026-10-05T14:47:33.343202+00:00"
     },
     {
@@ -345,23 +378,6 @@
       "published": "2026-10-03T22:56:48+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-04T12:26:15.073541+00:00"
-    },
-    {
-      "id": "c38af6e5cae43e23",
-      "title": "A model guide for the GPT-6 family",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-02T16:15:00+00:00",
-      "excerpt": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00",
-      "brief": {
-        "summary": "OpenAI's new guide covers model selection and the work needed to turn a prototype into a reliable workflow. The practical theme: choosing a model is only one part of the system.",
-        "question": "Which matters most in your next pilot: accuracy, response time, or cost? Define the test before choosing a model.",
-        "caveat": "This is vendor guidance. It does not establish which model performs best on your own tasks.",
-        "basis": "Paraphrased from the publisher's RSS description; not a full-article review."
-      }
     },
     {
       "id": "e81b1dea7ce0fb42",
@@ -401,17 +417,6 @@
         "caveat": "These are industry perspectives in insurance. Applying them to another sector requires checking its constraints.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-article review."
       }
-    },
-    {
-      "id": "e3176598bd9875cc",
-      "title": "Siemens’s next reinvention: An interview with Cedrik Neike",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-02T00:00:00+00:00",
-      "excerpt": "As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
       "id": "2af4893eb88cb671",
@@ -627,17 +632,6 @@
       "evidence": "Research commentary",
       "published": "2026-09-16T10:00:00+00:00",
       "excerpt": "Author(s): Daniel Steil Contrary to expectations, the magnetization dynamics of a ferromagnet can be accelerated by increasing…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "500a01e6619b4a02",
-      "title": "How to Synchronize a Long-Distance Quantum Network",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s120",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-09-16T10:00:00+00:00",
-      "excerpt": "Author(s): Sophia Chen Researchers demonstrate a new quantum memory device that will enable faraway nodes in a network…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {

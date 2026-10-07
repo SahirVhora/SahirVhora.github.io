@@ -4,12 +4,12 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 13:29:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:01:20 +0000</lastBuildDate>
     <item>
-      <title>Introducing Falcon ASR</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
-      <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
-      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
+      <title>Multimodal open d1 decision models for the edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid>https://huggingface.co/blog/LiquidAI/open-d1</guid>
+      <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -36,6 +36,14 @@
       <pubDate>Wed, 07 Oct 2026 12:01:00 +0000</pubDate>
       <description>New innovations automate work and redesign workforce strategies.</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Helping teens learn, plan, and shape the future of AI</title>
+      <link>https://openai.com/index/teens-learn-and-plan</link>
+      <guid>https://openai.com/index/teens-learn-and-plan</guid>
+      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
+      <description>College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>AI Can Act. Can Your Business Follow Through?</title>
@@ -67,6 +75,30 @@
       <guid>https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/</guid>
       <pubDate>Wed, 07 Oct 2026 07:30:00 +0000</pubDate>
       <description>Understand the coming changes and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
+      <link>https://openai.com/index/radisson</link>
+      <guid>https://openai.com/index/radisson</guid>
+      <pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>GPT-6 and Intelligent UI for everyone</title>
+      <link>https://openai.com/index/gpt-6-for-everyone</link>
+      <guid>https://openai.com/index/gpt-6-for-everyone</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Why AI’s easiest wins are misleading CEOs</title>
+      <link>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</link>
+      <guid>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</guid>
+      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
       <category>consulting</category>
     </item>
     <item>
@@ -126,20 +158,28 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Elucidating Superconductivity with Ultrasound</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s122</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s122</guid>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>Advancing computer use with Ironclad</title>
       <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
       <guid>https://openai.com/index/advancing-computer-use-with-ironclad</guid>
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
       <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…</description>
       <category>ai</category>
+    </item>
+    <item>
+      <title>Nobel Prize: Neutrinos from Far, Far Away</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.138</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.138</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Elucidating Superconductivity with Ultrasound</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s122</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s122</guid>
+      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…</description>
+      <category>physics</category>
     </item>
     <item>
       <title>Using production rates to excel at executing construction projects</title>
@@ -166,28 +206,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Our approach to EU text provenance rules</title>
-      <link>https://openai.com/index/eu-text-provenance</link>
-      <guid>https://openai.com/index/eu-text-provenance</guid>
-      <pubDate>Mon, 05 Oct 2026 15:00:00 +0000</pubDate>
-      <description>How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Rehearsal Intelligence: Using Digital Twins for Crisis Readiness</title>
       <link>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</link>
       <guid>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</guid>
       <pubDate>Mon, 05 Oct 2026 11:00:22 +0000</pubDate>
       <description>Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Building advertising for the way people use AI</title>
-      <link>https://openai.com/index/new-chatgpt-ads-format-and-measurement</link>
-      <guid>https://openai.com/index/new-chatgpt-ads-format-and-measurement</guid>
-      <pubDate>Mon, 05 Oct 2026 10:00:00 +0000</pubDate>
-      <description>OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Scaling AI inference</title>
@@ -214,14 +238,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>A model guide for the GPT-6 family</title>
-      <link>https://openai.com/index/practical-guide-building-gpt-6</link>
-      <guid>https://openai.com/index/practical-guide-building-gpt-6</guid>
-      <pubDate>Fri, 02 Oct 2026 16:15:00 +0000</pubDate>
-      <description>OpenAI's new guide covers model selection and the work needed to turn a prototype into a reliable workflow. The practical theme: choosing a model is only one part of the system.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
       <link>https://huggingface.co/blog/allenai/astabrief</link>
       <guid>https://huggingface.co/blog/allenai/astabrief</guid>
@@ -243,14 +259,6 @@
       <guid>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</guid>
       <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
       <description>An insurance discussion explores how AI agents change the case for software modernisation. Existing investments still matter when deciding whether to continue, redirect, or accelerate a programme.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Siemens’s next reinvention: An interview with Cedrik Neike</title>
-      <link>https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike</link>
-      <guid>https://www.mckinsey.com/industries/industrials/our-insights/siemens-next-reinvention-an-interview-with-cedrik-neike</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As technology transforms the factory floor, industrial companies are confronting a broader question: What will it take…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -395,14 +403,6 @@
       <guid>http://link.aps.org/doi/10.1103/Physics.19.124</guid>
       <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Daniel Steil Contrary to expectations, the magnetization dynamics of a ferromagnet can be accelerated by increasing…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>How to Synchronize a Long-Distance Quantum Network</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s120</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s120</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Sophia Chen Researchers demonstrate a new quantum memory device that will enable faraway nodes in a network…</description>
       <category>physics</category>
     </item>
     <item>
