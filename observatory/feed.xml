@@ -4,7 +4,23 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:36:11 +0000</lastBuildDate>
+    <item>
+      <title>How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI</title>
+      <link>https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/</link>
+      <guid>https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:01:00 +0000</pubDate>
+      <description>Joule Work and the SAP Business AI Platform provide…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Expands Joule Assistants and Agents to Advance Autonomous Supply Chain Management</title>
+      <link>https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/</link>
+      <guid>https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <description>The next phase of supply chain AI needs to help organizations turn insights…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Multimodal open d1 decision models for the edge</title>
       <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
@@ -70,6 +86,22 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Hybrid Quantum Computer Could Simulate Both Fermions and Bosons</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.135</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.135</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Anthony Ciavarella Pairing superconducting qubits with microwave cavities could reduce the hardware requirements for quantum…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Quantum Light Leaves Its Fingerprint on Electrons</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s123</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s123</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Ryan Wilkinson When intense quantum light knocks electrons out of atoms, the statistics of the light can…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know</title>
       <link>https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/</link>
       <guid>https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/</guid>
@@ -132,22 +164,6 @@
       <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
       <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and…</description>
       <category>ai</category>
-    </item>
-    <item>
-      <title>SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI</title>
-      <link>https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/</link>
-      <guid>https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/</guid>
-      <pubDate>Tue, 06 Oct 2026 11:45:00 +0000</pubDate>
-      <description>WALLDORF and GHENT — TechWolf is expected to become an…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Innovation News Guide: Advancing the Autonomous Enterprise</title>
-      <link>https://www.sap.com/topics/events/connect/innovation-news-guide-2026</link>
-      <guid>https://www.sap.com/topics/events/connect/innovation-news-guide-2026</guid>
-      <pubDate>Tue, 06 Oct 2026 11:30:00 +0000</pubDate>
-      <description>New innovations are bringing the Autonomous Enterprise to life.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>The Real Reasons Why Digital Projects Fail</title>
@@ -382,27 +398,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Collimating Positrons with Superconducting Magnets</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.127</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.127</guid>
-      <pubDate>Fri, 18 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Sam Jarman A recent experiment points the way toward making the intense, energetic beams of positrons needed for next-generation…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>New artist residency program at MIT expands views of the cosmos</title>
       <link>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</link>
       <guid>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</guid>
       <pubDate>Wed, 16 Sep 2026 18:30:00 +0000</pubDate>
       <description>Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Bypassing the Speed Limit for Thermally Driven Demagnetization</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.124</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.124</guid>
-      <pubDate>Wed, 16 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Daniel Steil Contrary to expectations, the magnetization dynamics of a ferromagnet can be accelerated by increasing…</description>
       <category>physics</category>
     </item>
     <item>

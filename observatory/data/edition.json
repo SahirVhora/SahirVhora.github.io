@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-07T22:01:20.215351+00:00",
+  "updatedAt": "2026-10-08T13:36:11.181371+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -60,6 +60,28 @@
     }
   ],
   "stories": [
+    {
+      "id": "abf919255c976e72",
+      "title": "How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI",
+      "url": "https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-08T12:01:00+00:00",
+      "excerpt": "Joule Work and the SAP Business AI Platform provide…",
+      "firstSeen": "2026-10-08T13:36:11.181371+00:00"
+    },
+    {
+      "id": "2dcf540bef0f0b6e",
+      "title": "SAP Expands Joule Assistants and Agents to Advance Autonomous Supply Chain Management",
+      "url": "https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-08T12:00:00+00:00",
+      "excerpt": "The next phase of supply chain AI needs to help organizations turn insights…",
+      "firstSeen": "2026-10-08T13:36:11.181371+00:00"
+    },
     {
       "id": "88e871d5a8d26738",
       "title": "Multimodal open d1 decision models for the edge",
@@ -149,6 +171,28 @@
       "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
+      "id": "5043b746e2201a64",
+      "title": "Hybrid Quantum Computer Could Simulate Both Fermions and Bosons",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.135",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-07T10:00:00+00:00",
+      "excerpt": "Author(s): Anthony Ciavarella Pairing superconducting qubits with microwave cavities could reduce the hardware requirements for quantum…",
+      "firstSeen": "2026-10-08T13:36:11.181371+00:00"
+    },
+    {
+      "id": "5d83c55ffef67d9d",
+      "title": "Quantum Light Leaves Its Fingerprint on Electrons",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s123",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-07T10:00:00+00:00",
+      "excerpt": "Author(s): Ryan Wilkinson When intense quantum light knocks electrons out of atoms, the statistics of the light can…",
+      "firstSeen": "2026-10-08T13:36:11.181371+00:00"
+    },
+    {
       "id": "8993c160ab43569c",
       "title": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know",
       "url": "https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/",
@@ -235,28 +279,6 @@
       "published": "2026-10-06T12:00:00+00:00",
       "excerpt": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and…",
       "firstSeen": "2026-10-07T13:29:58.067244+00:00"
-    },
-    {
-      "id": "f78f637f8f35eae8",
-      "title": "SAP to Acquire TechWolf, Giving Enterprises Evidence-Based View of Work in the Age of AI",
-      "url": "https://news.sap.com/2026/10/sap-to-acquire-techwolf-evidence-based-work-age-of-ai/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-06T11:45:00+00:00",
-      "excerpt": "WALLDORF and GHENT — TechWolf is expected to become an…",
-      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
-      "id": "17eeebe717591b3e",
-      "title": "Innovation News Guide: Advancing the Autonomous Enterprise",
-      "url": "https://www.sap.com/topics/events/connect/innovation-news-guide-2026",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-06T11:30:00+00:00",
-      "excerpt": "New innovations are bringing the Autonomous Enterprise to life.",
-      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
     },
     {
       "id": "9e404219683ad718",
@@ -602,17 +624,6 @@
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
-      "id": "1b9e7aa25b3d79f7",
-      "title": "Collimating Positrons with Superconducting Magnets",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.127",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-09-18T10:00:00+00:00",
-      "excerpt": "Author(s): Sam Jarman A recent experiment points the way toward making the intense, energetic beams of positrons needed for next-generation…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
       "id": "37b027149dbf3256",
       "title": "New artist residency program at MIT expands views of the cosmos",
       "url": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916",
@@ -621,17 +632,6 @@
       "evidence": "University reporting",
       "published": "2026-09-16T18:30:00+00:00",
       "excerpt": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "bceb9b07c5b296ae",
-      "title": "Bypassing the Speed Limit for Thermally Driven Demagnetization",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.124",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-09-16T10:00:00+00:00",
-      "excerpt": "Author(s): Daniel Steil Contrary to expectations, the magnetization dynamics of a ferromagnet can be accelerated by increasing…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
