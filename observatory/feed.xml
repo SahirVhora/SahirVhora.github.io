@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 13:36:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:07:14 +0000</lastBuildDate>
+    <item>
+      <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
+      <link>https://openai.com/index/oracle</link>
+      <guid>https://openai.com/index/oracle</guid>
+      <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
+      <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI</title>
       <link>https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/</link>
@@ -12,6 +20,14 @@
       <pubDate>Thu, 08 Oct 2026 12:01:00 +0000</pubDate>
       <description>Joule Work and the SAP Business AI Platform provide…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
+      <link>https://openai.com/index/pollo-ai</link>
+      <guid>https://openai.com/index/pollo-ai</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>SAP Expands Joule Assistants and Agents to Advance Autonomous Supply Chain Management</title>
@@ -22,10 +38,42 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Disrupting AI-enabled “false front” operations</title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <guid>https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Shapers and Founders: Understanding the owner mindset</title>
+      <link>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset</link>
+      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The playbook for seeing around geopolitical corners</title>
+      <link>https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners</link>
+      <guid>https://www.mckinsey.com/capabilities/geopolitics/our-insights/the-playbook-for-seeing-around-geopolitical-corners</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>From black swans to gray rhinos, geopolitical shocks are multiplying. Here’s the tool kit smart leaders use to…</description>
+      <category>consulting</category>
+    </item>
+    <item>
       <title>Multimodal open d1 decision models for the edge</title>
       <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
       <guid>https://huggingface.co/blog/LiquidAI/open-d1</guid>
       <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Introducing Falcon ASR</title>
+      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
+      <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
+      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -94,6 +142,14 @@
       <category>physics</category>
     </item>
     <item>
+      <title>First Nuclear Clocks Kick Off a Precision Race</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.139</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.139</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Matteo Rini Two independent teams have built operating nuclear clocks—devices that might one day rival the…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>Quantum Light Leaves Its Fingerprint on Electrons</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s123</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s123</guid>
@@ -150,36 +206,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>How Jump Trading is scaling quant research with ChatGPT</title>
-      <link>https://openai.com/index/jump-trading</link>
-      <guid>https://openai.com/index/jump-trading</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-      <description>Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Sharing AI progress in mathematics</title>
-      <link>https://openai.com/index/sharing-ai-progress-in-mathematics</link>
-      <guid>https://openai.com/index/sharing-ai-progress-in-mathematics</guid>
-      <pubDate>Tue, 06 Oct 2026 12:00:00 +0000</pubDate>
-      <description>OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>The Real Reasons Why Digital Projects Fail</title>
       <link>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</link>
       <guid>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</guid>
       <pubDate>Tue, 06 Oct 2026 11:00:14 +0000</pubDate>
       <description>Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Advancing computer use with Ironclad</title>
-      <link>https://openai.com/index/advancing-computer-use-with-ironclad</link>
-      <guid>https://openai.com/index/advancing-computer-use-with-ironclad</guid>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Nobel Prize: Neutrinos from Far, Far Away</title>
@@ -238,14 +270,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>AI is changing work. Now it has to change the organization</title>
-      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</link>
-      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/ai-is-changing-work-now-it-has-to-change-the-organization</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The first phase of enterprise AI put powerful new tools in people’s hands. Capturing…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The Agent Said It Was Done. The Database Disagreed.</title>
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
       <guid>https://huggingface.co/blog/microsoft/thinkingbox</guid>
@@ -268,14 +292,6 @@
       <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>Pause, pivot, or accelerate: SaaS in the age of agentic AI</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/pause-pivot-or-accelerate-saas-in-the-age-of-agentic-ai</guid>
-      <pubDate>Fri, 02 Oct 2026 00:00:00 +0000</pubDate>
-      <description>An insurance discussion explores how AI agents change the case for software modernisation. Existing investments still matter when deciding whether to continue, redirect, or accelerate a programme.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Simulating Particle Creation with Cold Atoms</title>
@@ -326,14 +342,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents</title>
-      <link>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</link>
-      <guid>https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source</guid>
-      <pubDate>Tue, 29 Sep 2026 13:07:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>How to Outcompete Your Client’s AI</title>
       <link>https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/</link>
       <guid>https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/</guid>
@@ -380,14 +388,6 @@
       <pubDate>Wed, 23 Sep 2026 11:00:47 +0000</pubDate>
       <description>Marie Montocchio/Ikon Images For years, social media companies have come under fire for promoting divisive, false, and dangerous…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>A Type-I Superconductor Breaks Time-Reversal Symmetry</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s115</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s115</guid>
-      <pubDate>Wed, 23 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Rachel Berkowitz A hallmark property of unconventional superconductivity has been discovered in a type-I superconductor, whereas it’s normally…</description>
-      <category>physics</category>
     </item>
     <item>
       <title>Five Urgent Priorities for CMOs in 2027</title>
