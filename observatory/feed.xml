@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 22:07:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 13:22:29 +0000</lastBuildDate>
+    <item>
+      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
+      <link>https://openai.com/index/sophos</link>
+      <guid>https://openai.com/index/sophos</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The six strategy roles a CEO must not delegate</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>As the world order turns, leading companies are keeping pace. Here’s how</title>
+      <link>https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how</link>
+      <guid>https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Leading companies are tracking six emerging patterns of geopolitical change and realigning their…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>For CPG companies, agentic AI’s real payoff is growth</title>
+      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth</link>
+      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth</guid>
+      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
       <link>https://openai.com/index/oracle</link>
@@ -30,6 +62,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>LegalOn halves Codex costs while maintaining development speed</title>
+      <link>https://openai.com/index/legalon-halves-codex-costs</link>
+      <guid>https://openai.com/index/legalon-halves-codex-costs</guid>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
+      <description>LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>SAP Expands Joule Assistants and Agents to Advance Autonomous Supply Chain Management</title>
       <link>https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/</link>
       <guid>https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/</guid>
@@ -38,11 +78,27 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>How To Arrange Hundreds of Atoms Between Two Mirrors</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s126</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s126</guid>
+      <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sophia Chen A new device in which more than 600 atoms are manipulated within a…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>Disrupting AI-enabled “false front” operations</title>
       <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
       <guid>https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The model that didn't exist, so you made it yourself</title>
+      <link>https://huggingface.co/blog/building-with-ml-intern</link>
+      <guid>https://huggingface.co/blog/building-with-ml-intern</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -174,14 +230,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>GPT-6 and Intelligent UI for everyone</title>
-      <link>https://openai.com/index/gpt-6-for-everyone</link>
-      <guid>https://openai.com/index/gpt-6-for-everyone</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description>GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Why AI’s easiest wins are misleading CEOs</title>
       <link>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</link>
       <guid>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</guid>
@@ -195,14 +243,6 @@
       <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
       <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Atlassian and OpenAI expand partnership to turn enterprise knowledge into action</title>
-      <link>https://openai.com/index/atlassian-partnership</link>
-      <guid>https://openai.com/index/atlassian-partnership</guid>
-      <pubDate>Tue, 06 Oct 2026 16:00:00 +0000</pubDate>
-      <description>Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge…</description>
       <category>ai</category>
     </item>
     <item>
@@ -238,35 +278,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Medtech needs more than a market rotation to win back investors</title>
-      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors</link>
-      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic</title>
-      <link>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic</link>
-      <guid>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>From shipping and rare earths to energy and security, the Arctic is gaining…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Rehearsal Intelligence: Using Digital Twins for Crisis Readiness</title>
       <link>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</link>
       <guid>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</guid>
       <pubDate>Mon, 05 Oct 2026 11:00:22 +0000</pubDate>
       <description>Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Scaling AI inference</title>
-      <link>https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference</link>
-      <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference</guid>
-      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -324,22 +340,6 @@
       <pubDate>Wed, 30 Sep 2026 11:00:08 +0000</pubDate>
       <description>Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Quantum Light Reveals How Solvents Affect Molecules</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s117</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s117</guid>
-      <pubDate>Wed, 30 Sep 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning</title>
-      <link>https://huggingface.co/blog/open-tts-leaderboard</link>
-      <guid>https://huggingface.co/blog/open-tts-leaderboard</guid>
-      <pubDate>Wed, 30 Sep 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>How to Outcompete Your Client’s AI</title>

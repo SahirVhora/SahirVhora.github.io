@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08T22:07:14.006663+00:00",
+  "updatedAt": "2026-10-09T13:22:29.919033+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -62,6 +61,50 @@
   ],
   "stories": [
     {
+      "id": "570fe3204556675e",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-09T07:00:00+00:00",
+      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…",
+      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
+    },
+    {
+      "id": "2535d6e5f6e54b7c",
+      "title": "The six strategy roles a CEO must not delegate",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-09T00:00:00+00:00",
+      "excerpt": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
+      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
+    },
+    {
+      "id": "a700763e1492682b",
+      "title": "As the world order turns, leading companies are keeping pace. Here’s how",
+      "url": "https://www.mckinsey.com/capabilities/geopolitics/our-insights/as-the-world-order-turns-leading-companies-are-keeping-pace-heres-how",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-09T00:00:00+00:00",
+      "excerpt": "Leading companies are tracking six emerging patterns of geopolitical change and realigning their…",
+      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
+    },
+    {
+      "id": "eee6ec015a6ad25d",
+      "title": "For CPG companies, agentic AI’s real payoff is growth",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-09T00:00:00+00:00",
+      "excerpt": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost…",
+      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
+    },
+    {
       "id": "db7b9e6fe248e314",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
@@ -95,6 +138,17 @@
       "firstSeen": "2026-10-08T22:07:14.006663+00:00"
     },
     {
+      "id": "45d6a2b79938283a",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-08T12:00:00+00:00",
+      "excerpt": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and…",
+      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
+    },
+    {
       "id": "2dcf540bef0f0b6e",
       "title": "SAP Expands Joule Assistants and Agents to Advance Autonomous Supply Chain Management",
       "url": "https://news.sap.com/2026/10/joule-assistants-agents-advance-autonomous-scm/",
@@ -106,6 +160,17 @@
       "firstSeen": "2026-10-08T13:36:11.181371+00:00"
     },
     {
+      "id": "6b63bc7da001d6bb",
+      "title": "How To Arrange Hundreds of Atoms Between Two Mirrors",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s126",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-08T10:00:00+00:00",
+      "excerpt": "Author(s): Sophia Chen A new device in which more than 600 atoms are manipulated within a…",
+      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
+    },
+    {
       "id": "d9e485b409fe8517",
       "title": "Disrupting AI-enabled “false front” operations",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
@@ -115,6 +180,17 @@
       "published": "2026-10-08T00:00:00+00:00",
       "excerpt": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "firstSeen": "2026-10-08T22:07:14.006663+00:00"
+    },
+    {
+      "id": "ffd2818196374b7e",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-08T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
     },
     {
       "id": "301371a4dc28f536",
@@ -293,17 +369,6 @@
       "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
-      "id": "a097ef0d441a7216",
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-07T00:00:00+00:00",
-      "excerpt": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you…",
-      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
-    },
-    {
       "id": "3d924819a7239f25",
       "title": "Why AI’s easiest wins are misleading CEOs",
       "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
@@ -323,19 +388,7 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
-      "retained": true
-    },
-    {
-      "id": "2896758265cec81d",
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-06T16:00:00+00:00",
-      "excerpt": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge…",
-      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "9e404219683ad718",
@@ -382,28 +435,6 @@
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
     },
     {
-      "id": "19692943562e058d",
-      "title": "Medtech needs more than a market rotation to win back investors",
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/medtech-needs-more-than-a-market-rotation-to-win-back-investors",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-06T00:00:00+00:00",
-      "excerpt": "With industry performance plateauing, medtech leaders must earn back investor trust with fresh strategies…",
-      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
-      "id": "ee794aa3c55110ff",
-      "title": "Author Talks: Rana Foroohar on a new ‘great game’ in the Arctic",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-rana-foroohar-on-a-new-great-game-in-the-arctic",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-06T00:00:00+00:00",
-      "excerpt": "From shipping and rare earths to energy and security, the Arctic is gaining…",
-      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
       "id": "0da323f7013dfcae",
       "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
       "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
@@ -413,17 +444,6 @@
       "published": "2026-10-05T11:00:22+00:00",
       "excerpt": "Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine…",
       "firstSeen": "2026-10-05T14:47:33.343202+00:00"
-    },
-    {
-      "id": "8d266a285de57c86",
-      "title": "Scaling AI inference",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/scaling-ai-inference",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-05T00:00:00+00:00",
-      "excerpt": "Inference is reshaping AI economics, infrastructure architectures, and investment priorities across the semiconductor ecosystem.",
-      "firstSeen": "2026-10-05T23:10:39.687776+00:00"
     },
     {
       "id": "bd1136d0fcfd6f13",
@@ -484,8 +504,7 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "c696e8b1f3422473",
@@ -502,8 +521,7 @@
         "question": "Where would knowing that something was AI-generated change how you evaluate it?",
         "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      },
-      "retained": true
+      }
     },
     {
       "id": "1b066c0987bc0226",
@@ -514,28 +532,6 @@
       "evidence": "Management perspective",
       "published": "2026-09-30T11:00:08+00:00",
       "excerpt": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "e11bf9d08db2489d",
-      "title": "Quantum Light Reveals How Solvents Affect Molecules",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s117",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-09-30T10:00:00+00:00",
-      "excerpt": "Author(s): Ryan Wilkinson Pairs of photons provide a gentle way to measure the impact of a molecule’s environment…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "74c2ff7e2707d1f6",
-      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-      "url": "https://huggingface.co/blog/open-tts-leaderboard",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-09-30T00:00:00+00:00",
-      "excerpt": "",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
@@ -575,8 +571,7 @@
       "evidence": "Company research",
       "published": "2026-09-24T16:20:39+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "68ead6b6af2b7144",
@@ -587,8 +582,7 @@
       "evidence": "Company research",
       "published": "2026-09-23T16:00:57+00:00",
       "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "81481aa316e38773",
@@ -599,8 +593,7 @@
       "evidence": "Company research",
       "published": "2026-09-23T15:25:14+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "b5ec0f6a6dacebc0",
@@ -644,8 +637,7 @@
       "evidence": "Company research",
       "published": "2026-09-15T17:05:57+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "b02649524ea87ea0",
