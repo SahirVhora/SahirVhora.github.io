@@ -4,13 +4,29 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 13:22:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 21:42:57 +0000</lastBuildDate>
+    <item>
+      <title>Impactful scheduling for GPU clusters</title>
+      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
+      <guid>https://huggingface.co/blog/allenai/impactful-scheduling</guid>
+      <pubDate>Fri, 09 Oct 2026 15:20:29 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
       <link>https://openai.com/index/sophos</link>
       <guid>https://openai.com/index/sophos</guid>
       <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
       <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
+      <link>https://openai.com/index/asana-browser-agent</link>
+      <guid>https://openai.com/index/asana-browser-agent</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x…</description>
       <category>ai</category>
     </item>
     <item>
@@ -222,14 +238,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Radisson Hotel Group brings hotel discovery into ChatGPT</title>
-      <link>https://openai.com/index/radisson</link>
-      <guid>https://openai.com/index/radisson</guid>
-      <pubDate>Wed, 07 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Why AI’s easiest wins are misleading CEOs</title>
       <link>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</link>
       <guid>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</guid>
@@ -254,11 +262,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Nobel Prize: Neutrinos from Far, Far Away</title>
+      <title>Nobel Prize: Neutrinos from Far, Far Away (Updated)</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.138</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.138</guid>
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…</description>
+      <description>Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole…</description>
       <category>physics</category>
     </item>
     <item>
@@ -290,14 +298,6 @@
       <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
       <guid>https://huggingface.co/blog/microsoft/thinkingbox</guid>
       <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Open-sourcing AstaBrief, the fast report-generation model in Asta</title>
-      <link>https://huggingface.co/blog/allenai/astabrief</link>
-      <guid>https://huggingface.co/blog/allenai/astabrief</guid>
-      <pubDate>Fri, 02 Oct 2026 15:19:50 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>

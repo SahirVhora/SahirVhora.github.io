@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T13:22:29.919033+00:00",
+  "updatedAt": "2026-10-09T21:42:57.284080+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,17 @@
   ],
   "stories": [
     {
+      "id": "e05551817b225bef",
+      "title": "Impactful scheduling for GPU clusters",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-09T15:20:29+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-09T21:42:57.284080+00:00"
+    },
+    {
       "id": "570fe3204556675e",
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
       "url": "https://openai.com/index/sophos",
@@ -70,6 +81,17 @@
       "published": "2026-10-09T07:00:00+00:00",
       "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…",
       "firstSeen": "2026-10-09T13:22:29.919033+00:00"
+    },
+    {
+      "id": "9bf93d58cc35db99",
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-09T07:00:00+00:00",
+      "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x…",
+      "firstSeen": "2026-10-09T21:42:57.284080+00:00"
     },
     {
       "id": "2535d6e5f6e54b7c",
@@ -358,17 +380,6 @@
       "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
-      "id": "4e324623ab7ca6fe",
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "url": "https://openai.com/index/radisson",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-07T07:00:00+00:00",
-      "excerpt": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and…",
-      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
-    },
-    {
       "id": "3d924819a7239f25",
       "title": "Why AI’s easiest wins are misleading CEOs",
       "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos",
@@ -403,13 +414,13 @@
     },
     {
       "id": "363510b1cb35eeb4",
-      "title": "Nobel Prize: Neutrinos from Far, Far Away",
+      "title": "Nobel Prize: Neutrinos from Far, Far Away (Updated)",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.138",
       "category": "physics",
       "source": "APS Physics",
       "evidence": "Research commentary",
       "published": "2026-10-06T10:00:00+00:00",
-      "excerpt": "Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…",
+      "excerpt": "Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole…",
       "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
@@ -455,17 +466,6 @@
       "published": "2026-10-03T22:56:48+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-04T12:26:15.073541+00:00"
-    },
-    {
-      "id": "e81b1dea7ce0fb42",
-      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-      "url": "https://huggingface.co/blog/allenai/astabrief",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-02T15:19:50+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {
       "id": "56c490db040147f1",
