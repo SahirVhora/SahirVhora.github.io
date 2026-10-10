@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09T21:42:57.284080+00:00",
+  "updatedAt": "2026-10-10T12:37:28.664458+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "name": "MIT Sloan Management Review",
@@ -670,17 +670,6 @@
       "evidence": "University reporting",
       "published": "2026-08-12T15:00:00+00:00",
       "excerpt": "The mashup of a black hole and an enormous star has never been…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "2b22633f5e80ceea",
-      "title": "On the hunt for dark matter",
-      "url": "https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811",
-      "category": "physics",
-      "source": "MIT Physics",
-      "evidence": "University reporting",
-      "published": "2026-08-11T04:00:00+00:00",
-      "excerpt": "From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     }
   ]

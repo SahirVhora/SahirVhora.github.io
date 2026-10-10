@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 21:42:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:37:28 +0000</lastBuildDate>
     <item>
       <title>Impactful scheduling for GPU clusters</title>
       <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
@@ -435,14 +435,6 @@
       <guid>https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812</guid>
       <pubDate>Wed, 12 Aug 2026 15:00:00 +0000</pubDate>
       <description>The mashup of a black hole and an enormous star has never been…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>On the hunt for dark matter</title>
-      <link>https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811</link>
-      <guid>https://news.mit.edu/2026/hunt-dark-matter-jessica-fry-0811</guid>
-      <pubDate>Tue, 11 Aug 2026 04:00:00 +0000</pubDate>
-      <description>From Broadway to MIT’s Laboratory for Nuclear Science, PhD student Jessica Fry doesn’t do anything halfway. Now she’s hunting…</description>
       <category>physics</category>
     </item>
   </channel>
