@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sahirvhora.github.io/sitemap.xml
+Sitemap: https://sahirvhora.github.io/sf-compass/sitemap.xml
+Sitemap: https://sahirvhora.github.io/sf-agent-workforce/sitemap.xml
