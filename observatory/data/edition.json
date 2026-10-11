@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T12:56:14.082453+00:00",
+  "updatedAt": "2026-10-11T20:58:38.188215+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -29,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "name": "MIT Sloan Management Review",
@@ -400,8 +399,7 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
-      "retained": true
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "9e404219683ad718",
@@ -506,8 +504,7 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "c696e8b1f3422473",
@@ -524,8 +521,7 @@
         "question": "Where would knowing that something was AI-generated change how you evaluate it?",
         "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      },
-      "retained": true
+      }
     },
     {
       "id": "1b066c0987bc0226",
@@ -575,8 +571,7 @@
       "evidence": "Company research",
       "published": "2026-09-24T16:20:39+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "68ead6b6af2b7144",
@@ -587,8 +582,7 @@
       "evidence": "Company research",
       "published": "2026-09-23T16:00:57+00:00",
       "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "81481aa316e38773",
@@ -599,8 +593,7 @@
       "evidence": "Company research",
       "published": "2026-09-23T15:25:14+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "b5ec0f6a6dacebc0",
@@ -644,8 +637,7 @@
       "evidence": "Company research",
       "published": "2026-09-15T17:05:57+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "b02649524ea87ea0",
@@ -667,17 +659,6 @@
       "evidence": "University reporting",
       "published": "2026-08-31T19:30:00+00:00",
       "excerpt": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "46c4716838d5f79d",
-      "title": "Astronomers discover a brand-new type of astrophysical object: A black hole star",
-      "url": "https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812",
-      "category": "physics",
-      "source": "MIT Physics",
-      "evidence": "University reporting",
-      "published": "2026-08-12T15:00:00+00:00",
-      "excerpt": "The mashup of a black hole and an enormous star has never been…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     }
   ]

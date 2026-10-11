@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 12:56:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 20:58:38 +0000</lastBuildDate>
     <item>
       <title>Impactful scheduling for GPU clusters</title>
       <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
@@ -427,14 +427,6 @@
       <guid>https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</guid>
       <pubDate>Mon, 31 Aug 2026 19:30:00 +0000</pubDate>
       <description>The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Astronomers discover a brand-new type of astrophysical object: A black hole star</title>
-      <link>https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812</link>
-      <guid>https://news.mit.edu/2026/astronomers-discover-brand-new-type-astrophysical-object-black-hole-star-0812</guid>
-      <pubDate>Wed, 12 Aug 2026 15:00:00 +0000</pubDate>
-      <description>The mashup of a black hole and an enormous star has never been…</description>
       <category>physics</category>
     </item>
   </channel>
