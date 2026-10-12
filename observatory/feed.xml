@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 12 Oct 2026 15:33:40 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 23:38:11 +0000</lastBuildDate>
     <item>
       <title>The Next Chapter in Spend Management: AI Innovations Across SAP Ariba, SAP Fieldglass, and SAP Concur</title>
       <link>https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/</link>
@@ -27,6 +27,14 @@
       <guid>https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/</guid>
       <pubDate>Mon, 12 Oct 2026 11:15:00 +0000</pubDate>
       <description>We're bringing together agentic AI, trusted workforce data, and HR applications to help…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Meesho: Making e-commerce everyone’s business</title>
+      <link>https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business</link>
+      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -134,19 +142,19 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Disrupting AI-enabled “false front” operations</title>
-      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
-      <guid>https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>The model that didn't exist, so you made it yourself</title>
       <link>https://huggingface.co/blog/building-with-ml-intern</link>
       <guid>https://huggingface.co/blog/building-with-ml-intern</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Disrupting AI-enabled “false front” operations</title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <guid>https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
+      <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
       <category>ai</category>
     </item>
     <item>
@@ -246,14 +254,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Why AI’s easiest wins are misleading CEOs</title>
-      <link>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</link>
-      <guid>https://www.mckinsey.com/capabilities/transformation/our-insights/why-ais-easiest-wins-are-misleading-ceos</guid>
-      <pubDate>Wed, 07 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>consulting</category>
-    </item>
-    <item>
       <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
       <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
       <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
@@ -290,7 +290,7 @@
       <link>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</link>
       <guid>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</guid>
       <pubDate>Mon, 05 Oct 2026 11:00:22 +0000</pubDate>
-      <description>Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike pushed a routine…</description>
+      <description>Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike released a defective…</description>
       <category>consulting</category>
     </item>
     <item>
