@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11T20:58:38.188215+00:00",
+  "updatedAt": "2026-10-12T15:33:40.002973+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -60,6 +60,50 @@
     }
   ],
   "stories": [
+    {
+      "id": "f552a4d3700c42d1",
+      "title": "The Next Chapter in Spend Management: AI Innovations Across SAP Ariba, SAP Fieldglass, and SAP Concur",
+      "url": "https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-12T12:00:00+00:00",
+      "excerpt": "New capabilities and partner innovations help organizations turn spend…",
+      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
+    },
+    {
+      "id": "e0a3cf1038dfafd1",
+      "title": "SAP Advances Finance Operations with Embedded Payments, New Consolidation Capabilities, and Expanded AI",
+      "url": "https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-12T12:00:00+00:00",
+      "excerpt": "Finance teams can move quickly from insight to execution while maintaining governance…",
+      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
+    },
+    {
+      "id": "a69cc0e9ca7b1ad6",
+      "title": "SAP SuccessFactors 2H 2026 Release: Delivering the Future of Human Capital Management",
+      "url": "https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-12T11:15:00+00:00",
+      "excerpt": "We're bringing together agentic AI, trusted workforce data, and HR applications to help…",
+      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
+    },
+    {
+      "id": "79d1da4853003a93",
+      "title": "Asset management 2026: Plenty for the few?",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-12T00:00:00+00:00",
+      "excerpt": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
+      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
+    },
     {
       "id": "e05551817b225bef",
       "title": "Impactful scheduling for GPU clusters",
@@ -303,28 +347,6 @@
       "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
-      "id": "657edcc628e378a8",
-      "title": "AI Can Act. Can Your Business Follow Through?",
-      "url": "https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-07T12:00:00+00:00",
-      "excerpt": "Customer experience is ultimately defined by whether a business can follow through on customer commitments and deliver…",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
-    },
-    {
-      "id": "30025f3013629b98",
-      "title": "Spoiler Alert: The Future of Work Is Already Here",
-      "url": "https://news.sap.com/2026/10/future-of-work-is-here/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-07T11:59:00+00:00",
-      "excerpt": "The question is whether we’re building the best version.",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
-    },
-    {
       "id": "1c16c0505c472443",
       "title": "When Compliance Workarounds Backfire",
       "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/",
@@ -367,17 +389,6 @@
       "published": "2026-10-07T10:00:00+00:00",
       "excerpt": "Author(s): Ryan Wilkinson When intense quantum light knocks electrons out of atoms, the statistics of the light can…",
       "firstSeen": "2026-10-08T13:36:11.181371+00:00"
-    },
-    {
-      "id": "8993c160ab43569c",
-      "title": "Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know",
-      "url": "https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-07T07:30:00+00:00",
-      "excerpt": "Understand the coming changes and…",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "3d924819a7239f25",
@@ -433,17 +444,6 @@
       "published": "2026-10-06T10:00:00+00:00",
       "excerpt": "Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…",
       "firstSeen": "2026-10-06T21:39:45.583238+00:00"
-    },
-    {
-      "id": "fc591d919e284c33",
-      "title": "Using production rates to excel at executing construction projects",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-06T00:00:00+00:00",
-      "excerpt": "As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to…",
-      "firstSeen": "2026-10-06T13:22:51.544108+00:00"
     },
     {
       "id": "0da323f7013dfcae",

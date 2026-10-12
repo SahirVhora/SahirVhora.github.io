@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 11 Oct 2026 20:58:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 15:33:40 +0000</lastBuildDate>
+    <item>
+      <title>The Next Chapter in Spend Management: AI Innovations Across SAP Ariba, SAP Fieldglass, and SAP Concur</title>
+      <link>https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/</link>
+      <guid>https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <description>New capabilities and partner innovations help organizations turn spend…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Advances Finance Operations with Embedded Payments, New Consolidation Capabilities, and Expanded AI</title>
+      <link>https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai/</link>
+      <guid>https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai/</guid>
+      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Finance teams can move quickly from insight to execution while maintaining governance…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP SuccessFactors 2H 2026 Release: Delivering the Future of Human Capital Management</title>
+      <link>https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/</link>
+      <guid>https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/</guid>
+      <pubDate>Mon, 12 Oct 2026 11:15:00 +0000</pubDate>
+      <description>We're bringing together agentic AI, trusted workforce data, and HR applications to help…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Asset management 2026: Plenty for the few?</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few</guid>
+      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A golden age for the industry is becoming a golden age for a smaller group of asset managers.</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Impactful scheduling for GPU clusters</title>
       <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
@@ -182,22 +214,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>AI Can Act. Can Your Business Follow Through?</title>
-      <link>https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/</link>
-      <guid>https://news.sap.com/2026/10/ai-can-act-can-your-business-follow-through/</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-      <description>Customer experience is ultimately defined by whether a business can follow through on customer commitments and deliver…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Spoiler Alert: The Future of Work Is Already Here</title>
-      <link>https://news.sap.com/2026/10/future-of-work-is-here/</link>
-      <guid>https://news.sap.com/2026/10/future-of-work-is-here/</guid>
-      <pubDate>Wed, 07 Oct 2026 11:59:00 +0000</pubDate>
-      <description>The question is whether we’re building the best version.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>When Compliance Workarounds Backfire</title>
       <link>https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/</link>
       <guid>https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/</guid>
@@ -228,14 +244,6 @@
       <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Ryan Wilkinson When intense quantum light knocks electrons out of atoms, the statistics of the light can…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Planning Beyond 2030: What SAP Business Suite 7 and SAP NetWeaver Customers Using Third-Party Databases or Java Need to Know</title>
-      <link>https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/</link>
-      <guid>https://news.sap.com/2026/10/beyond-2030-sap-business-suite-7-sap-netweaver-customers-third-party-databases-java/</guid>
-      <pubDate>Wed, 07 Oct 2026 07:30:00 +0000</pubDate>
-      <description>Understand the coming changes and…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Why AI’s easiest wins are misleading CEOs</title>
@@ -276,14 +284,6 @@
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Using production rates to excel at executing construction projects</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/using-production-rates-to-excel-at-executing-construction-projects</guid>
-      <pubDate>Tue, 06 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As construction productivity stagnates, companies can stand out by employing granular, achievable rates of production to…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Rehearsal Intelligence: Using Digital Twins for Crisis Readiness</title>
