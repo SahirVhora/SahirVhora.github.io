@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 13 Oct 2026 14:17:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 21:52:12 +0000</lastBuildDate>
+    <item>
+      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <guid>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
+      <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP Strengthens the Foundation for the Autonomous Enterprise with SAP Cloud ERP Private 2025 FPS02</title>
       <link>https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise/</link>
@@ -12,6 +20,14 @@
       <pubDate>Tue, 13 Oct 2026 13:15:00 +0000</pubDate>
       <description>New capabilities help organizations move from AI experimentation to intelligent,…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Higgsfield takes AI video from 1 minute to over 10</title>
+      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
+      <guid>https://openai.com/index/higgsfield-longer-videos-voice</guid>
+      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value</title>
@@ -27,6 +43,38 @@
       <guid>https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/</guid>
       <pubDate>Tue, 13 Oct 2026 11:00:34 +0000</pubDate>
       <description>Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Quantum Probability Requires Probability</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.133</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.133</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): John B. DeBrota A new analysis reveals that all major derivations of the Born rule depend on a probabilistic assumption.…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Time Delay Probes Quantum Light</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s125</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s125</guid>
+      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>The AI operating system: A new way for CEOs to run the enterprise</title>
+      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise</link>
+      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>An AI operating system can become an enterprise’s “second brain,” but only…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Why the future of capital projects belongs to digital and AI-enabled teams</title>
+      <link>https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams</link>
+      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams</guid>
+      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Digital and AI are changing the way capital projects are selected, designed, procured,…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -118,14 +166,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>For CPG companies, agentic AI’s real payoff is growth</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
       <link>https://openai.com/index/oracle</link>
       <guid>https://openai.com/index/oracle</guid>
@@ -174,14 +214,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Disrupting AI-enabled “false front” operations</title>
-      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
-      <guid>https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>The model that didn't exist, so you made it yourself</title>
       <link>https://huggingface.co/blog/building-with-ml-intern</link>
       <guid>https://huggingface.co/blog/building-with-ml-intern</guid>
@@ -190,19 +222,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Shapers and Founders: Understanding the owner mindset</title>
-      <link>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset</link>
-      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset</guid>
+      <title>Disrupting AI-enabled “false front” operations</title>
+      <link>https://openai.com/index/disrupting-ai-enabled-false-front-operations</link>
+      <guid>https://openai.com/index/disrupting-ai-enabled-false-front-operations</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Multimodal open d1 decision models for the edge</title>
-      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
-      <guid>https://huggingface.co/blog/LiquidAI/open-d1</guid>
-      <pubDate>Wed, 07 Oct 2026 16:54:33 +0000</pubDate>
-      <description />
+      <description>OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.</description>
       <category>ai</category>
     </item>
     <item>
@@ -219,14 +243,6 @@
       <guid>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
       <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Helping teens learn, plan, and shape the future of AI</title>
-      <link>https://openai.com/index/teens-learn-and-plan</link>
-      <guid>https://openai.com/index/teens-learn-and-plan</guid>
-      <pubDate>Wed, 07 Oct 2026 12:00:00 +0000</pubDate>
-      <description>College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside…</description>
       <category>ai</category>
     </item>
     <item>
@@ -278,19 +294,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Nobel Prize: Neutrinos from Far, Far Away (Updated)</title>
+      <title>Nobel Prize: Neutrinos from Far, Far Away</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.138</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.138</guid>
       <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Elucidating Superconductivity with Ultrasound</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s122</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s122</guid>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…</description>
+      <description>Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…</description>
       <category>physics</category>
     </item>
     <item>
@@ -316,14 +324,6 @@
       <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>Simulating Particle Creation with Cold Atoms</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s131</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s131</guid>
-      <pubDate>Thu, 01 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Researchers use trapped atoms to imitate how particles form in a powerful electric field. A controllable laboratory system can help explore a process that is difficult to study directly.</description>
-      <category>physics</category>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13T14:17:06.268695+00:00",
+  "updatedAt": "2026-10-13T21:52:12.044183+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -62,6 +62,17 @@
   ],
   "stories": [
     {
+      "id": "53911f98c21c784f",
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-13T17:05:48+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
+    },
+    {
       "id": "9074fef2f245bf59",
       "title": "SAP Strengthens the Foundation for the Autonomous Enterprise with SAP Cloud ERP Private 2025 FPS02",
       "url": "https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise/",
@@ -71,6 +82,17 @@
       "published": "2026-10-13T13:15:00+00:00",
       "excerpt": "New capabilities help organizations move from AI experimentation to intelligent,…",
       "firstSeen": "2026-10-13T14:17:06.268695+00:00"
+    },
+    {
+      "id": "8d45898e533e591d",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-13T12:00:00+00:00",
+      "excerpt": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path…",
+      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
     },
     {
       "id": "49186341b6a5b0a6",
@@ -93,6 +115,50 @@
       "published": "2026-10-13T11:00:34+00:00",
       "excerpt": "Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries,…",
       "firstSeen": "2026-10-13T14:17:06.268695+00:00"
+    },
+    {
+      "id": "32d2cdc096a7a0b4",
+      "title": "Quantum Probability Requires Probability",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.133",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-13T10:00:00+00:00",
+      "excerpt": "Author(s): John B. DeBrota A new analysis reveals that all major derivations of the Born rule depend on a probabilistic assumption.…",
+      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
+    },
+    {
+      "id": "6d586e35373b2bd0",
+      "title": "Time Delay Probes Quantum Light",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s125",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-13T10:00:00+00:00",
+      "excerpt": "Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…",
+      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
+    },
+    {
+      "id": "a31cd95a93e16554",
+      "title": "The AI operating system: A new way for CEOs to run the enterprise",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-13T00:00:00+00:00",
+      "excerpt": "An AI operating system can become an enterprise’s “second brain,” but only…",
+      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
+    },
+    {
+      "id": "e2ec4ab87a49d877",
+      "title": "Why the future of capital projects belongs to digital and AI-enabled teams",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-13T00:00:00+00:00",
+      "excerpt": "Digital and AI are changing the way capital projects are selected, designed, procured,…",
+      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
     },
     {
       "id": "1b9f5a4e62d32737",
@@ -216,17 +282,6 @@
       "firstSeen": "2026-10-09T13:22:29.919033+00:00"
     },
     {
-      "id": "eee6ec015a6ad25d",
-      "title": "For CPG companies, agentic AI’s real payoff is growth",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/for-cpg-companies-agentic-ais-real-payoff-is-growth",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-09T00:00:00+00:00",
-      "excerpt": "As the relationship between consumer-packaged-goods companies and retailers becomes more complex, agentic AI can recapture lost…",
-      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
-    },
-    {
       "id": "db7b9e6fe248e314",
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
       "url": "https://openai.com/index/oracle",
@@ -293,17 +348,6 @@
       "firstSeen": "2026-10-09T13:22:29.919033+00:00"
     },
     {
-      "id": "d9e485b409fe8517",
-      "title": "Disrupting AI-enabled “false front” operations",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-08T00:00:00+00:00",
-      "excerpt": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "firstSeen": "2026-10-08T22:07:14.006663+00:00"
-    },
-    {
       "id": "ffd2818196374b7e",
       "title": "The model that didn't exist, so you made it yourself",
       "url": "https://huggingface.co/blog/building-with-ml-intern",
@@ -315,26 +359,15 @@
       "firstSeen": "2026-10-09T13:22:29.919033+00:00"
     },
     {
-      "id": "301371a4dc28f536",
-      "title": "Shapers and Founders: Understanding the owner mindset",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-understanding-the-owner-mindset",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-08T00:00:00+00:00",
-      "excerpt": "Marrying Eastern philosophy and Western management culture has given many of Asia’s owner-CEOs a unique edge in growing…",
-      "firstSeen": "2026-10-08T22:07:14.006663+00:00"
-    },
-    {
-      "id": "88e871d5a8d26738",
-      "title": "Multimodal open d1 decision models for the edge",
-      "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "id": "d9e485b409fe8517",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-07T16:54:33+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-08T00:00:00+00:00",
+      "excerpt": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "firstSeen": "2026-10-08T22:07:14.006663+00:00"
     },
     {
       "id": "16b7810afb00bdc0",
@@ -357,17 +390,6 @@
       "published": "2026-10-07T12:45:31+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-07T13:29:58.067244+00:00"
-    },
-    {
-      "id": "661f64ddb5f472a2",
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-07T12:00:00+00:00",
-      "excerpt": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside…",
-      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
       "id": "1c16c0505c472443",
@@ -438,25 +460,14 @@
     },
     {
       "id": "363510b1cb35eeb4",
-      "title": "Nobel Prize: Neutrinos from Far, Far Away (Updated)",
+      "title": "Nobel Prize: Neutrinos from Far, Far Away",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.138",
       "category": "physics",
       "source": "APS Physics",
       "evidence": "Research commentary",
       "published": "2026-10-06T10:00:00+00:00",
-      "excerpt": "Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole…",
+      "excerpt": "Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…",
       "firstSeen": "2026-10-07T22:01:20.215351+00:00"
-    },
-    {
-      "id": "2b38ffe766a4c682",
-      "title": "Elucidating Superconductivity with Ultrasound",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s122",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-06T10:00:00+00:00",
-      "excerpt": "Author(s): Charles Day Researchers measured a crystal’s elastic modulus and sound attenuation to infer the properties of two superconducting states. [Physics…",
-      "firstSeen": "2026-10-06T21:39:45.583238+00:00"
     },
     {
       "id": "0da323f7013dfcae",
@@ -490,23 +501,6 @@
       "published": "2026-10-02T04:01:31+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "2af4893eb88cb671",
-      "title": "Simulating Particle Creation with Cold Atoms",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s131",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-01T10:00:00+00:00",
-      "excerpt": "Author(s): Michael Schirber Researchers observe atoms trapped in an optical lattice mimicking particles created in a strong electric field.…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00",
-      "brief": {
-        "summary": "Researchers use trapped atoms to imitate how particles form in a powerful electric field. A controllable laboratory system can help explore a process that is difficult to study directly.",
-        "question": "What makes one physical system a useful model of another? Look for which behaviour it reproduces, and which details it leaves out.",
-        "caveat": "This is a simulation using atoms. It should not be confused with directly creating the same particles under the original conditions.",
-        "basis": "Paraphrased from the APS publisher feed description; not a full-paper review."
-      }
     },
     {
       "id": "ce56aa83d0064ef1",
