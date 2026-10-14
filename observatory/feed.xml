@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 11:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 20:43:58 +0000</lastBuildDate>
+    <item>
+      <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
+      <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
+      <guid>https://huggingface.co/blog/allenai/hiro-acev2</guid>
+      <pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>DACHSER Migrates HCM to SAP S/4HANA Cloud Using RISE with SAP</title>
+      <link>https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/</link>
+      <guid>https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/</guid>
+      <pubDate>Wed, 14 Oct 2026 12:15:00 +0000</pubDate>
+      <description>The Germany-based logistics company has reached a major milestone in its journey.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Amp puts AI agents to work beyond code with OpenAI models</title>
+      <link>https://openai.com/index/amp-beyond-coding</link>
+      <guid>https://openai.com/index/amp-beyond-coding</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra,…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SentinelOne cuts malware analysis from weeks to hours</title>
+      <link>https://openai.com/index/sentinelone</link>
+      <guid>https://openai.com/index/sentinelone</guid>
+      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
+      <description>With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>Fast-Growth Companies Have the Biggest AI Opportunity, Few Are Capturing It</title>
       <link>https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/</link>
@@ -20,6 +52,22 @@
       <pubDate>Wed, 14 Oct 2026 11:00:33 +0000</pubDate>
       <description>Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
+      <link>https://openai.com/index/third-moment-research</link>
+      <guid>https://openai.com/index/third-moment-research</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+      <description>With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
+      <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
+      <guid>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
+      <pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
+      <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>The EU’s next chapter in AI is agentic</title>
@@ -38,10 +86,50 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>The AI value curve: The economics of applying AI to existing work</title>
+      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</link>
+      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Many organizations are still measuring AI adoption instead of value. The AI value…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Rewiring capital projects to boost construction productivity</title>
+      <link>https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity</link>
+      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Developing Gemini 4 Argon responsibly and safely</title>
+      <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
+      <guid>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</guid>
+      <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
       <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
       <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
       <guid>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</guid>
       <pubDate>Tue, 13 Oct 2026 17:05:48 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Gemini 4 Argon for Robotics</title>
+      <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
+      <guid>https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
+      <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -150,30 +238,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Asset management 2026: Plenty for the few?</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <description>A golden age for the industry is becoming a golden age for a smaller group of asset managers.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Impactful scheduling for GPU clusters</title>
-      <link>https://huggingface.co/blog/allenai/impactful-scheduling</link>
-      <guid>https://huggingface.co/blog/allenai/impactful-scheduling</guid>
-      <pubDate>Fri, 09 Oct 2026 15:20:29 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
-      <link>https://openai.com/index/sophos</link>
-      <guid>https://openai.com/index/sophos</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
       <link>https://openai.com/index/asana-browser-agent</link>
       <guid>https://openai.com/index/asana-browser-agent</guid>
@@ -182,43 +246,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The six strategy roles a CEO must not delegate</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate</guid>
-      <pubDate>Fri, 09 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>How Oracle turns days of work into minutes with ChatGPT and Codex</title>
-      <link>https://openai.com/index/oracle</link>
-      <guid>https://openai.com/index/oracle</guid>
-      <pubDate>Thu, 08 Oct 2026 16:00:00 +0000</pubDate>
-      <description>Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI</title>
-      <link>https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/</link>
-      <guid>https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/</guid>
-      <pubDate>Thu, 08 Oct 2026 12:01:00 +0000</pubDate>
-      <description>Joule Work and the SAP Business AI Platform provide…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Pollo AI turns creative ideas into campaigns with OpenAI</title>
-      <link>https://openai.com/index/pollo-ai</link>
-      <guid>https://openai.com/index/pollo-ai</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-      <description>With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>LegalOn halves Codex costs while maintaining development speed</title>
-      <link>https://openai.com/index/legalon-halves-codex-costs</link>
-      <guid>https://openai.com/index/legalon-halves-codex-costs</guid>
-      <pubDate>Thu, 08 Oct 2026 12:00:00 +0000</pubDate>
-      <description>LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and…</description>
+      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
+      <link>https://openai.com/index/sophos</link>
+      <guid>https://openai.com/index/sophos</guid>
+      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…</description>
       <category>ai</category>
     </item>
     <item>
@@ -374,44 +406,12 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Introducing Gemini 3.8 Live with Live Avatar</title>
-      <link>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</link>
-      <guid>https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/</guid>
-      <pubDate>Thu, 24 Sep 2026 16:20:39 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Advancing Private AI Compute with secure, server-side memory</title>
-      <link>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</link>
-      <guid>https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/</guid>
-      <pubDate>Wed, 23 Sep 2026 16:00:57 +0000</pubDate>
-      <description>Introducing private, server-side memory to Private AI Compute for personal AI.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Gemini 3.8 text-to-speech says hello</title>
-      <link>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</link>
-      <guid>https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/</guid>
-      <pubDate>Wed, 23 Sep 2026 15:25:14 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>New artist residency program at MIT expands views of the cosmos</title>
       <link>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</link>
       <guid>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</guid>
       <pubDate>Wed, 16 Sep 2026 18:30:00 +0000</pubDate>
       <description>Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking</title>
-      <link>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</link>
-      <guid>https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/</guid>
-      <pubDate>Tue, 15 Sep 2026 17:05:57 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>New research shows a neutrino laser is impossible</title>

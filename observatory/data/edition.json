@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T11:58:33.800294+00:00",
+  "updatedAt": "2026-10-14T20:43:58.974418+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -62,6 +61,50 @@
   ],
   "stories": [
     {
+      "id": "504a28fcb44d1a3d",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-14T16:12:42+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "b5064e8e1636d326",
+      "title": "DACHSER Migrates HCM to SAP S/4HANA Cloud Using RISE with SAP",
+      "url": "https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-14T12:15:00+00:00",
+      "excerpt": "The Germany-based logistics company has reached a major milestone in its journey.",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "57c3309db5bedcde",
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-14T12:00:00+00:00",
+      "excerpt": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra,…",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "004cd593adabcd24",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "url": "https://openai.com/index/sentinelone",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-14T12:00:00+00:00",
+      "excerpt": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
       "id": "a99a5908f1b92f17",
       "title": "Fast-Growth Companies Have the Biggest AI Opportunity, Few Are Capturing It",
       "url": "https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/",
@@ -82,6 +125,28 @@
       "published": "2026-10-14T11:00:33+00:00",
       "excerpt": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for…",
       "firstSeen": "2026-10-14T11:58:33.800294+00:00"
+    },
+    {
+      "id": "a8b8c31de898145e",
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-14T07:00:00+00:00",
+      "excerpt": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds…",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "36a7e1c23fbbe3b1",
+      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
+      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-14T02:00:14+00:00",
+      "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "200a5d3dd39c6bfb",
@@ -106,6 +171,39 @@
       "firstSeen": "2026-10-14T11:58:33.800294+00:00"
     },
     {
+      "id": "d0a7dbd796135e82",
+      "title": "The AI value curve: The economics of applying AI to existing work",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-14T00:00:00+00:00",
+      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value…",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "f2b1ae10cd7f936f",
+      "title": "Rewiring capital projects to boost construction productivity",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-14T00:00:00+00:00",
+      "excerpt": "McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate…",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "8b1ab1df41ac00d8",
+      "title": "Developing Gemini 4 Argon responsibly and safely",
+      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-13T19:43:07+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
       "id": "53911f98c21c784f",
       "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
@@ -115,6 +213,28 @@
       "published": "2026-10-13T17:05:48+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-13T21:52:12.044183+00:00"
+    },
+    {
+      "id": "94cc08977f17740f",
+      "title": "Gemini 4 Argon for Robotics",
+      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-13T16:01:58+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "851107eacfc8ba0f",
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-13T16:01:52+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "9074fef2f245bf59",
@@ -260,39 +380,6 @@
       "firstSeen": "2026-10-12T23:38:11.685863+00:00"
     },
     {
-      "id": "79d1da4853003a93",
-      "title": "Asset management 2026: Plenty for the few?",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/asset-management-2026-plenty-for-the-few",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-12T00:00:00+00:00",
-      "excerpt": "A golden age for the industry is becoming a golden age for a smaller group of asset managers.",
-      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
-    },
-    {
-      "id": "e05551817b225bef",
-      "title": "Impactful scheduling for GPU clusters",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-09T15:20:29+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-09T21:42:57.284080+00:00"
-    },
-    {
-      "id": "570fe3204556675e",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-09T07:00:00+00:00",
-      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…",
-      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
-    },
-    {
       "id": "9bf93d58cc35db99",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
@@ -304,58 +391,14 @@
       "firstSeen": "2026-10-09T21:42:57.284080+00:00"
     },
     {
-      "id": "2535d6e5f6e54b7c",
-      "title": "The six strategy roles a CEO must not delegate",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-six-strategy-roles-a-ceo-must-not-delegate",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-09T00:00:00+00:00",
-      "excerpt": "Strategy is a team sport, but the value it creates ultimately depends on the CEO’s involvement.",
-      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
-    },
-    {
-      "id": "db7b9e6fe248e314",
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "url": "https://openai.com/index/oracle",
+      "id": "570fe3204556675e",
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "url": "https://openai.com/index/sophos",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
-      "published": "2026-10-08T16:00:00+00:00",
-      "excerpt": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows…",
-      "firstSeen": "2026-10-08T22:07:14.006663+00:00"
-    },
-    {
-      "id": "abf919255c976e72",
-      "title": "How Joule Work and SAP Business AI Platform Are Powering the Next Generation of Business AI",
-      "url": "https://news.sap.com/2026/10/joule-work-sap-business-ai-platform-power-next-generation-business-ai/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-08T12:01:00+00:00",
-      "excerpt": "Joule Work and the SAP Business AI Platform provide…",
-      "firstSeen": "2026-10-08T13:36:11.181371+00:00"
-    },
-    {
-      "id": "855092fba1df7e8a",
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-08T12:00:00+00:00",
-      "excerpt": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images…",
-      "firstSeen": "2026-10-08T22:07:14.006663+00:00"
-    },
-    {
-      "id": "45d6a2b79938283a",
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-08T12:00:00+00:00",
-      "excerpt": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and…",
+      "published": "2026-10-09T07:00:00+00:00",
+      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…",
       "firstSeen": "2026-10-09T13:22:29.919033+00:00"
     },
     {
@@ -455,8 +498,7 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
-      "retained": true
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "9e404219683ad718",
@@ -522,8 +564,7 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "c696e8b1f3422473",
@@ -540,8 +581,7 @@
         "question": "Where would knowing that something was AI-generated change how you evaluate it?",
         "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      },
-      "retained": true
+      }
     },
     {
       "id": "1b066c0987bc0226",
@@ -583,42 +623,6 @@
       }
     },
     {
-      "id": "34692efacd3b982a",
-      "title": "Introducing Gemini 3.8 Live with Live Avatar",
-      "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-09-24T16:20:39+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
-    },
-    {
-      "id": "68ead6b6af2b7144",
-      "title": "Advancing Private AI Compute with secure, server-side memory",
-      "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-09-23T16:00:57+00:00",
-      "excerpt": "Introducing private, server-side memory to Private AI Compute for personal AI.",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
-    },
-    {
-      "id": "81481aa316e38773",
-      "title": "Gemini 3.8 text-to-speech says hello",
-      "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-09-23T15:25:14+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
-    },
-    {
       "id": "37b027149dbf3256",
       "title": "New artist residency program at MIT expands views of the cosmos",
       "url": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916",
@@ -628,18 +632,6 @@
       "published": "2026-09-16T18:30:00+00:00",
       "excerpt": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "947e89eaa83a27ae",
-      "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-09-15T17:05:57+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
     },
     {
       "id": "b02649524ea87ea0",
