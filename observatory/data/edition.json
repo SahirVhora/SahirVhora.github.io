@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-14T20:43:58.974418+00:00",
+  "updatedAt": "2026-10-15T11:35:31.152595+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -60,6 +61,50 @@
     }
   ],
   "stories": [
+    {
+      "id": "95723b848592644c",
+      "title": "10 Questions Board Members Should Be Asking About Security and Compliance",
+      "url": "https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-15T11:15:00+00:00",
+      "excerpt": "A practical framework for oversight, resilience, accountability, and trust",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
+    {
+      "id": "422d5c94b0f19090",
+      "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
+      "url": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-15T11:00:55+00:00",
+      "excerpt": "For the fifth year in a row,…",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
+    {
+      "id": "4eaea511829d8b6d",
+      "title": "From Two Weeks to Seconds: How Ericsson Is Reimagining B2B Commerce with AI",
+      "url": "https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-15T10:15:00+00:00",
+      "excerpt": "For Ericsson, AI is creating new possibilities for how commercial work gets…",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
+    {
+      "id": "83e3573d527514b6",
+      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
     {
       "id": "504a28fcb44d1a3d",
       "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
@@ -127,6 +172,17 @@
       "firstSeen": "2026-10-14T11:58:33.800294+00:00"
     },
     {
+      "id": "3a36184267adec1a",
+      "title": "Illuminating Quantum Ferroelectrics",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s132",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-14T10:00:00+00:00",
+      "excerpt": "Author(s): Sophia Chen An ultrafast optical technique uncovers new clues to the origin of bulk polarization in quantum ferroelectric materials. [Physics 19,…",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
+    {
       "id": "a8b8c31de898145e",
       "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
       "url": "https://openai.com/index/third-moment-research",
@@ -138,6 +194,17 @@
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
+      "id": "94ee28b93f9d2d83",
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-14T07:00:00+00:00",
+      "excerpt": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches…",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
+    {
       "id": "36a7e1c23fbbe3b1",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -146,18 +213,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
-    },
-    {
-      "id": "200a5d3dd39c6bfb",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…",
-      "firstSeen": "2026-10-14T11:58:33.800294+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "56fd56da86c81005",
@@ -193,6 +250,17 @@
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
+      "id": "200a5d3dd39c6bfb",
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-14T00:00:00+00:00",
+      "excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…",
+      "firstSeen": "2026-10-14T11:58:33.800294+00:00"
+    },
+    {
       "id": "8b1ab1df41ac00d8",
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -201,7 +269,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "53911f98c21c784f",
@@ -223,7 +292,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "851107eacfc8ba0f",
@@ -234,7 +304,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "9074fef2f245bf59",
@@ -347,39 +418,6 @@
       "firstSeen": "2026-10-12T15:33:40.002973+00:00"
     },
     {
-      "id": "e0a3cf1038dfafd1",
-      "title": "SAP Advances Finance Operations with Embedded Payments, New Consolidation Capabilities, and Expanded AI",
-      "url": "https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-12T12:00:00+00:00",
-      "excerpt": "Finance teams can move quickly from insight to execution while maintaining governance…",
-      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
-    },
-    {
-      "id": "a69cc0e9ca7b1ad6",
-      "title": "SAP SuccessFactors 2H 2026 Release: Delivering the Future of Human Capital Management",
-      "url": "https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-12T11:15:00+00:00",
-      "excerpt": "We're bringing together agentic AI, trusted workforce data, and HR applications to help…",
-      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
-    },
-    {
-      "id": "2d616bbdc41a809c",
-      "title": "Meesho: Making e-commerce everyone’s business",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-12T00:00:00+00:00",
-      "excerpt": "Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…",
-      "firstSeen": "2026-10-12T23:38:11.685863+00:00"
-    },
-    {
       "id": "9bf93d58cc35db99",
       "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
       "url": "https://openai.com/index/asana-browser-agent",
@@ -389,17 +427,6 @@
       "published": "2026-10-09T07:00:00+00:00",
       "excerpt": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x…",
       "firstSeen": "2026-10-09T21:42:57.284080+00:00"
-    },
-    {
-      "id": "570fe3204556675e",
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "url": "https://openai.com/index/sophos",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-09T07:00:00+00:00",
-      "excerpt": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…",
-      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
     },
     {
       "id": "6b63bc7da001d6bb",
@@ -498,7 +525,8 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
+      "retained": true
     },
     {
       "id": "9e404219683ad718",
@@ -510,17 +538,6 @@
       "published": "2026-10-06T11:00:14+00:00",
       "excerpt": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…",
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
-      "id": "363510b1cb35eeb4",
-      "title": "Nobel Prize: Neutrinos from Far, Far Away",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.138",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-06T10:00:00+00:00",
-      "excerpt": "Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…",
-      "firstSeen": "2026-10-07T22:01:20.215351+00:00"
     },
     {
       "id": "0da323f7013dfcae",
@@ -564,7 +581,8 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "c696e8b1f3422473",
@@ -581,7 +599,8 @@
         "question": "Where would knowing that something was AI-generated change how you evaluate it?",
         "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
         "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      }
+      },
+      "retained": true
     },
     {
       "id": "1b066c0987bc0226",
@@ -592,17 +611,6 @@
       "evidence": "Management perspective",
       "published": "2026-09-30T11:00:08+00:00",
       "excerpt": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "e67d7d6a5defb071",
-      "title": "How to Outcompete Your Client’s AI",
-      "url": "https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-09-29T11:00:55+00:00",
-      "excerpt": "Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     },
     {

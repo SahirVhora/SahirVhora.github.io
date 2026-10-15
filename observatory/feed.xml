@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 20:43:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:35:31 +0000</lastBuildDate>
+    <item>
+      <title>10 Questions Board Members Should Be Asking About Security and Compliance</title>
+      <link>https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/</link>
+      <guid>https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/</guid>
+      <pubDate>Thu, 15 Oct 2026 11:15:00 +0000</pubDate>
+      <description>A practical framework for oversight, resilience, accountability, and trust</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts</title>
+      <link>https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/</link>
+      <guid>https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/</guid>
+      <pubDate>Thu, 15 Oct 2026 11:00:55 +0000</pubDate>
+      <description>For the fifth year in a row,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>From Two Weeks to Seconds: How Ericsson Is Reimagining B2B Commerce with AI</title>
+      <link>https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/</link>
+      <guid>https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/</guid>
+      <pubDate>Thu, 15 Oct 2026 10:15:00 +0000</pubDate>
+      <description>For Ericsson, AI is creating new possibilities for how commercial work gets…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
       <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
@@ -54,6 +86,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Illuminating Quantum Ferroelectrics</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s132</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s132</guid>
+      <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sophia Chen An ultrafast optical technique uncovers new clues to the origin of bulk polarization in quantum ferroelectric materials. [Physics 19,…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>How Third Moment Research runs 10,000 agents for 36+ hours</title>
       <link>https://openai.com/index/third-moment-research</link>
       <guid>https://openai.com/index/third-moment-research</guid>
@@ -62,19 +102,19 @@
       <category>ai</category>
     </item>
     <item>
+      <title>How Block is building AI-powered security with OpenAI technology</title>
+      <link>https://openai.com/index/block-ai-powered-security</link>
+      <guid>https://openai.com/index/block-ai-powered-security</guid>
+      <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
       <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
       <guid>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
       <pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
       <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>The EU’s next chapter in AI is agentic</title>
-      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-      <guid>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…</description>
       <category>ai</category>
     </item>
     <item>
@@ -100,6 +140,14 @@
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <description>McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>The EU’s next chapter in AI is agentic</title>
+      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
+      <guid>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Developing Gemini 4 Argon responsibly and safely</title>
@@ -214,43 +262,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>SAP Advances Finance Operations with Embedded Payments, New Consolidation Capabilities, and Expanded AI</title>
-      <link>https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai/</link>
-      <guid>https://news.sap.com/2026/10/sap-advances-finance-operations-embedded-payments-new-consolidation-capabilities-expanded-ai/</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <description>Finance teams can move quickly from insight to execution while maintaining governance…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>SAP SuccessFactors 2H 2026 Release: Delivering the Future of Human Capital Management</title>
-      <link>https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/</link>
-      <guid>https://news.sap.com/2026/10/sap-successfactors-2h-2026-release/</guid>
-      <pubDate>Mon, 12 Oct 2026 11:15:00 +0000</pubDate>
-      <description>We're bringing together agentic AI, trusted workforce data, and HR applications to help…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Meesho: Making e-commerce everyone’s business</title>
-      <link>https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business</link>
-      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/meesho-making-e-commerce-everyones-business</guid>
-      <pubDate>Mon, 12 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Scaling an e-commerce start-up in India’s dispersed markets is challenging, but innovation, patience, and passionately solving hard problems have enabled…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
       <link>https://openai.com/index/asana-browser-agent</link>
       <guid>https://openai.com/index/asana-browser-agent</guid>
       <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
       <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Sophos cuts threat investigation time by 96% with OpenAI Daybreak</title>
-      <link>https://openai.com/index/sophos</link>
-      <guid>https://openai.com/index/sophos</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate…</description>
       <category>ai</category>
     </item>
     <item>
@@ -334,14 +350,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Nobel Prize: Neutrinos from Far, Far Away</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.138</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.138</guid>
-      <pubDate>Tue, 06 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Michael Schirber Neutrino astronomy and the effort to build a cubic-kilometer-sized detector at the South Pole are…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>Rehearsal Intelligence: Using Digital Twins for Crisis Readiness</title>
       <link>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</link>
       <guid>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</guid>
@@ -387,14 +395,6 @@
       <guid>https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/</guid>
       <pubDate>Wed, 30 Sep 2026 11:00:08 +0000</pubDate>
       <description>Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>How to Outcompete Your Client’s AI</title>
-      <link>https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/</link>
-      <guid>https://sloanreview.mit.edu/article/how-to-outcompete-your-clients-ai/</guid>
-      <pubDate>Tue, 29 Sep 2026 11:00:55 +0000</pubDate>
-      <description>Andy Carter/Ikon Images The in-house lawyers at real estate investment firm Alturas Capital Partners used to rely on outside…</description>
       <category>consulting</category>
     </item>
     <item>
