@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 11:35:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 20:21:49 +0000</lastBuildDate>
+    <item>
+      <title>Teaching students to think and learn through questions</title>
+      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
+      <guid>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
+      <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
+      <description>Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>10 Questions Board Members Should Be Asking About Security and Compliance</title>
       <link>https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/</link>
@@ -27,6 +35,54 @@
       <guid>https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/</guid>
       <pubDate>Thu, 15 Oct 2026 10:15:00 +0000</pubDate>
       <description>For Ericsson, AI is creating new possibilities for how commercial work gets…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Imaging with Zero Photons</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s127</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s127</guid>
+      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Marric Stephens A technique known as ghost imaging has been adapted so that an object can be imaged by discarding…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Apertus 1.5 Release Notes</title>
+      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
+      <guid>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
+      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
+      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
+      <guid>https://huggingface.co/blog/meta-muse-spark-open</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Welcome FLUX.3 Image Klein in Diffusers</title>
+      <link>https://huggingface.co/blog/flux-3</link>
+      <guid>https://huggingface.co/blog/flux-3</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Place, purpose, and the path to economic mobility</title>
+      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</link>
+      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Where you live shapes far more than you’d think. New research points to how community, place, and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Strengthening supply chains behind US semiconductors</title>
+      <link>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</link>
+      <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -118,12 +174,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Voices on Planning: The AI-powered future of supply chain</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</guid>
+      <title>The EU’s next chapter in AI is agentic</title>
+      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
+      <guid>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles…</description>
-      <category>consulting</category>
+      <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>The AI value curve: The economics of applying AI to existing work</title>
@@ -131,6 +187,14 @@
       <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <description>Many organizations are still measuring AI adoption instead of value. The AI value…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Voices on Planning: The AI-powered future of supply chain</title>
+      <link>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</link>
+      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -142,12 +206,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The EU’s next chapter in AI is agentic</title>
-      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-      <guid>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+      <title>What does AI really cost?</title>
+      <link>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost</link>
+      <guid>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…</description>
-      <category>ai</category>
+      <description>Moving an AI tool from pilot to production can nearly quadruple its cost. Three McKinsey experts explain why—and how to…</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>Developing Gemini 4 Argon responsibly and safely</title>
@@ -230,44 +294,12 @@
       <category>physics</category>
     </item>
     <item>
-      <title>The AI operating system: A new way for CEOs to run the enterprise</title>
-      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise</link>
-      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-operating-system-a-new-way-for-ceos-to-run-the-enterprise</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>An AI operating system can become an enterprise’s “second brain,” but only…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Why the future of capital projects belongs to digital and AI-enabled teams</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/why-the-future-of-capital-projects-belongs-to-digital-and-ai-enabled-teams</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Digital and AI are changing the way capital projects are selected, designed, procured,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Why medtechs can’t afford to overlook customer experience</title>
-      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/why-medtechs-cant-afford-to-overlook-customer-experience</link>
-      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/why-medtechs-cant-afford-to-overlook-customer-experience</guid>
-      <pubDate>Tue, 13 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Customer experience is a competitive imperative for medtechs. To create a durable advantage, it must be designed…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The Next Chapter in Spend Management: AI Innovations Across SAP Ariba, SAP Fieldglass, and SAP Concur</title>
       <link>https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/</link>
       <guid>https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/</guid>
       <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
       <description>New capabilities and partner innovations help organizations turn spend…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Asana cuts model costs 76x in browser tests with GPT-6.1 Sol</title>
-      <link>https://openai.com/index/asana-browser-agent</link>
-      <guid>https://openai.com/index/asana-browser-agent</guid>
-      <pubDate>Fri, 09 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>How To Arrange Hundreds of Atoms Between Two Mirrors</title>
@@ -290,14 +322,6 @@
       <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
       <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
       <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</link>
-      <guid>https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026</guid>
-      <pubDate>Wed, 07 Oct 2026 12:45:31 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -326,14 +350,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Quantum Light Leaves Its Fingerprint on Electrons</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s123</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s123</guid>
-      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Ryan Wilkinson When intense quantum light knocks electrons out of atoms, the statistics of the light can…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
       <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
       <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
@@ -356,22 +372,6 @@
       <pubDate>Mon, 05 Oct 2026 11:00:22 +0000</pubDate>
       <description>Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike released a defective…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <guid>https://huggingface.co/blog/microsoft/thinkingbox</guid>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>AutoSynthData: Generating Training Data for Enterprise Agents</title>
-      <link>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</link>
-      <guid>https://huggingface.co/blog/ServiceNow-AI/autosynthdata</guid>
-      <pubDate>Fri, 02 Oct 2026 04:01:31 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Gemini 4 Argon: our next era of frontier intelligence</title>
