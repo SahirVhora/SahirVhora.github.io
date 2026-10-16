@@ -4,7 +4,47 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 15 Oct 2026 20:21:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 11:29:37 +0000</lastBuildDate>
+    <item>
+      <title>The Next Leap in Public Services Starts Behind the Scenes</title>
+      <link>https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/</link>
+      <guid>https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/</guid>
+      <pubDate>Fri, 16 Oct 2026 10:15:00 +0000</pubDate>
+      <description>AI can turn a citizen request into coordinated action across an administration.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
+      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
+      <guid>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
+      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
+      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
+      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Bringing GPT-Rosalind to academic research labs</title>
+      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
+      <guid>https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
+      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
+      <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
+      <guid>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
+      <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
+      <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>Teaching students to think and learn through questions</title>
       <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
@@ -46,14 +86,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Apertus 1.5 Release Notes</title>
-      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
-      <guid>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
-      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
       <link>https://huggingface.co/blog/meta-muse-spark-open</link>
       <guid>https://huggingface.co/blog/meta-muse-spark-open</guid>
@@ -70,6 +102,22 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
+      <link>https://openai.com/index/sullivan-cromwell</link>
+      <guid>https://openai.com/index/sullivan-cromwell</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
+      <category>consulting</category>
+    </item>
+    <item>
       <title>Place, purpose, and the path to economic mobility</title>
       <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</link>
       <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</guid>
@@ -83,14 +131,6 @@
       <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <description>New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -174,12 +214,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The EU’s next chapter in AI is agentic</title>
-      <link>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</link>
-      <guid>https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic</guid>
+      <title>Getting real about AI: How AI agents are changing the economics of software engineering</title>
+      <link>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</link>
+      <guid>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…</description>
-      <category>ai</category>
+      <description>Cognition co-founder and President Russell Kaplan explains why the next frontier…</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>The AI value curve: The economics of applying AI to existing work</title>
@@ -203,14 +243,6 @@
       <guid>https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <description>McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>What does AI really cost?</title>
-      <link>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost</link>
-      <guid>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Moving an AI tool from pilot to production can nearly quadruple its cost. Three McKinsey experts explain why—and how to…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -254,14 +286,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Higgsfield takes AI video from 1 minute to over 10</title>
-      <link>https://openai.com/index/higgsfield-longer-videos-voice</link>
-      <guid>https://openai.com/index/higgsfield-longer-videos-voice</guid>
-      <pubDate>Tue, 13 Oct 2026 12:00:00 +0000</pubDate>
-      <description>Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value</title>
       <link>https://news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value/</link>
       <guid>https://news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value/</guid>
@@ -294,14 +318,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>The Next Chapter in Spend Management: AI Innovations Across SAP Ariba, SAP Fieldglass, and SAP Concur</title>
-      <link>https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/</link>
-      <guid>https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/</guid>
-      <pubDate>Mon, 12 Oct 2026 12:00:00 +0000</pubDate>
-      <description>New capabilities and partner innovations help organizations turn spend…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>How To Arrange Hundreds of Atoms Between Two Mirrors</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s126</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s126</guid>
@@ -314,14 +330,6 @@
       <link>https://huggingface.co/blog/building-with-ml-intern</link>
       <guid>https://huggingface.co/blog/building-with-ml-intern</guid>
       <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing Falcon ASR</title>
-      <link>https://huggingface.co/blog/tiiuae/falcon-asr</link>
-      <guid>https://huggingface.co/blog/tiiuae/falcon-asr</guid>
-      <pubDate>Wed, 07 Oct 2026 13:21:03 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -379,14 +387,6 @@
       <guid>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
       <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing SynthID Bio</title>
-      <link>https://deepmind.google/blog/introducing-synthid-bio/</link>
-      <guid>https://deepmind.google/blog/introducing-synthid-bio/</guid>
-      <pubDate>Wed, 30 Sep 2026 15:03:07 +0000</pubDate>
-      <description>DeepMind describes an early method for marking proteins created with AI while keeping their biological function. It brings the question of AI provenance into biology.</description>
       <category>ai</category>
     </item>
     <item>

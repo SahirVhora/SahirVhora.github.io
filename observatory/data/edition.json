@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15T20:21:49.001623+00:00",
+  "updatedAt": "2026-10-16T11:29:37.965576+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,61 @@
     }
   ],
   "stories": [
+    {
+      "id": "521455fb41d2cb40",
+      "title": "The Next Leap in Public Services Starts Behind the Scenes",
+      "url": "https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-16T10:15:00+00:00",
+      "excerpt": "AI can turn a citizen request into coordinated action across an administration.",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
+    {
+      "id": "138e9b7e7d974724",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-16T01:44:47+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
+    {
+      "id": "d330643595776f9f",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-15T20:34:01+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
+    {
+      "id": "32165ee6af8945a5",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-15T19:00:00+00:00",
+      "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences…",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
+    {
+      "id": "ad09b0946a60b7ff",
+      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-15T16:08:03+00:00",
+      "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
     {
       "id": "a60f4a701f887ae8",
       "title": "Teaching students to think and learn through questions",
@@ -117,17 +171,6 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
-      "id": "39052ad94a8a76cc",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-15T09:08:45+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
-    },
-    {
       "id": "ff0cf28c5d753057",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -150,6 +193,28 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
+      "id": "94eadcab22c41e35",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues…",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
+    {
+      "id": "83e3573d527514b6",
+      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
+    {
       "id": "c4fdc3894fc626ec",
       "title": "Place, purpose, and the path to economic mobility",
       "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility",
@@ -170,17 +235,6 @@
       "published": "2026-10-15T00:00:00+00:00",
       "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…",
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
-    },
-    {
-      "id": "83e3573d527514b6",
-      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
-      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
     },
     {
       "id": "504a28fcb44d1a3d",
@@ -290,19 +344,18 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
-      "id": "200a5d3dd39c6bfb",
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
+      "id": "b5a72187146d3cb2",
+      "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
+      "url": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
       "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper…",
-      "firstSeen": "2026-10-14T11:58:33.800294+00:00"
+      "excerpt": "Cognition co-founder and President Russell Kaplan explains why the next frontier…",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "d0a7dbd796135e82",
@@ -338,17 +391,6 @@
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
-      "id": "ee8bc3c2faf228ef",
-      "title": "What does AI really cost?",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-does-ai-really-cost",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "Moving an AI tool from pilot to production can nearly quadruple its cost. Three McKinsey experts explain why—and how to…",
-      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
-    },
-    {
       "id": "8b1ab1df41ac00d8",
       "title": "Developing Gemini 4 Argon responsibly and safely",
       "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
@@ -357,8 +399,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "53911f98c21c784f",
@@ -380,8 +421,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "851107eacfc8ba0f",
@@ -392,8 +432,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "9074fef2f245bf59",
@@ -405,17 +444,6 @@
       "published": "2026-10-13T13:15:00+00:00",
       "excerpt": "New capabilities help organizations move from AI experimentation to intelligent,…",
       "firstSeen": "2026-10-13T14:17:06.268695+00:00"
-    },
-    {
-      "id": "8d45898e533e591d",
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-13T12:00:00+00:00",
-      "excerpt": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path…",
-      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
     },
     {
       "id": "49186341b6a5b0a6",
@@ -462,17 +490,6 @@
       "firstSeen": "2026-10-13T21:52:12.044183+00:00"
     },
     {
-      "id": "f552a4d3700c42d1",
-      "title": "The Next Chapter in Spend Management: AI Innovations Across SAP Ariba, SAP Fieldglass, and SAP Concur",
-      "url": "https://news.sap.com/2026/10/next-chapter-spend-management-ai-innovations-sap-ariba-sap-fieldglass-sap-concur/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-12T12:00:00+00:00",
-      "excerpt": "New capabilities and partner innovations help organizations turn spend…",
-      "firstSeen": "2026-10-12T15:33:40.002973+00:00"
-    },
-    {
       "id": "6b63bc7da001d6bb",
       "title": "How To Arrange Hundreds of Atoms Between Two Mirrors",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s126",
@@ -493,17 +510,6 @@
       "published": "2026-10-08T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-09T13:22:29.919033+00:00"
-    },
-    {
-      "id": "16b7810afb00bdc0",
-      "title": "Introducing Falcon ASR",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-asr",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-07T13:21:03+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-08T22:07:14.006663+00:00"
     },
     {
       "id": "1c16c0505c472443",
@@ -547,8 +553,7 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
-      "retained": true
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "9e404219683ad718",
@@ -581,26 +586,7 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
-    },
-    {
-      "id": "c696e8b1f3422473",
-      "title": "Introducing SynthID Bio",
-      "url": "https://deepmind.google/blog/introducing-synthid-bio/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-09-30T15:03:07+00:00",
-      "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "brief": {
-        "summary": "DeepMind describes an early method for marking proteins created with AI while keeping their biological function. It brings the question of AI provenance into biology.",
-        "question": "Where would knowing that something was AI-generated change how you evaluate it?",
-        "caveat": "The announcement describes a proof of concept, not a universal or proven deployment standard.",
-        "basis": "Paraphrased from the publisher's RSS description; not a full-paper review."
-      },
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "1b066c0987bc0226",
