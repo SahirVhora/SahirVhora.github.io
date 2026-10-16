@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 16 Oct 2026 11:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 19:58:03 +0000</lastBuildDate>
     <item>
       <title>The Next Leap in Public Services Starts Behind the Scenes</title>
       <link>https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/</link>
@@ -20,6 +20,38 @@
       <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
       <description />
       <category>ai</category>
+    </item>
+    <item>
+      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
+      <link>https://huggingface.co/blog/reflection-beam</link>
+      <guid>https://huggingface.co/blog/reflection-beam</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Getting real about AI: How AI agents are changing the economics of software engineering</title>
+      <link>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</link>
+      <guid>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Cognition co-founder and President Russell Kaplan explains why the next frontier…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>What is a forward-deployed engineer?</title>
+      <link>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer</link>
+      <guid>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
@@ -110,14 +142,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Place, purpose, and the path to economic mobility</title>
       <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</link>
       <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</guid>
@@ -131,6 +155,14 @@
       <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <description>New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -198,36 +230,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>How Block is building AI-powered security with OpenAI technology</title>
-      <link>https://openai.com/index/block-ai-powered-security</link>
-      <guid>https://openai.com/index/block-ai-powered-security</guid>
-      <pubDate>Wed, 14 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
       <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
       <guid>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
       <pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
       <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…</description>
       <category>ai</category>
-    </item>
-    <item>
-      <title>Getting real about AI: How AI agents are changing the economics of software engineering</title>
-      <link>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</link>
-      <guid>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Cognition co-founder and President Russell Kaplan explains why the next frontier…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The AI value curve: The economics of applying AI to existing work</title>
-      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</link>
-      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Many organizations are still measuring AI adoption instead of value. The AI value…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Voices on Planning: The AI-powered future of supply chain</title>
@@ -238,11 +246,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Rewiring capital projects to boost construction productivity</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity</guid>
+      <title>The AI value curve: The economics of applying AI to existing work</title>
+      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</link>
+      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate…</description>
+      <description>Many organizations are still measuring AI adoption instead of value. The AI value…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -324,14 +332,6 @@
       <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sophia Chen A new device in which more than 600 atoms are manipulated within a…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>The model that didn't exist, so you made it yourself</title>
-      <link>https://huggingface.co/blog/building-with-ml-intern</link>
-      <guid>https://huggingface.co/blog/building-with-ml-intern</guid>
-      <pubDate>Thu, 08 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>When Compliance Workarounds Backfire</title>

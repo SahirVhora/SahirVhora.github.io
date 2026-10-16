@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-16T11:29:37.965576+00:00",
+  "updatedAt": "2026-10-16T19:58:03.632683+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -83,6 +84,50 @@
       "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
+      "id": "c9a6184923cc1a58",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-16T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
+    },
+    {
+      "id": "9e63539289a31c86",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-16T00:00:00+00:00",
+      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…",
+      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
+    },
+    {
+      "id": "b5a72187146d3cb2",
+      "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
+      "url": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-16T00:00:00+00:00",
+      "excerpt": "Cognition co-founder and President Russell Kaplan explains why the next frontier…",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
+    {
+      "id": "bc189f7b007e8d19",
+      "title": "What is a forward-deployed engineer?",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-16T00:00:00+00:00",
+      "excerpt": "Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.",
+      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
+    },
+    {
       "id": "d330643595776f9f",
       "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
@@ -113,7 +158,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "a60f4a701f887ae8",
@@ -204,17 +250,6 @@
       "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
-      "id": "83e3573d527514b6",
-      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
-      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
-    },
-    {
       "id": "c4fdc3894fc626ec",
       "title": "Place, purpose, and the path to economic mobility",
       "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility",
@@ -235,6 +270,17 @@
       "published": "2026-10-15T00:00:00+00:00",
       "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…",
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
+    },
+    {
+      "id": "83e3573d527514b6",
+      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
+      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
     },
     {
       "id": "504a28fcb44d1a3d",
@@ -325,17 +371,6 @@
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
-      "id": "94ee28b93f9d2d83",
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-14T07:00:00+00:00",
-      "excerpt": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches…",
-      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
-    },
-    {
       "id": "36a7e1c23fbbe3b1",
       "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
       "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
@@ -344,29 +379,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
-    },
-    {
-      "id": "b5a72187146d3cb2",
-      "title": "Getting real about AI: How AI agents are changing the economics of software engineering",
-      "url": "https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "Cognition co-founder and President Russell Kaplan explains why the next frontier…",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
-    },
-    {
-      "id": "d0a7dbd796135e82",
-      "title": "The AI value curve: The economics of applying AI to existing work",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "56fd56da86c81005",
@@ -380,14 +394,14 @@
       "firstSeen": "2026-10-14T11:58:33.800294+00:00"
     },
     {
-      "id": "f2b1ae10cd7f936f",
-      "title": "Rewiring capital projects to boost construction productivity",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/rewiring-capital-projects-to-boost-construction-productivity",
+      "id": "d0a7dbd796135e82",
+      "title": "The AI value curve: The economics of applying AI to existing work",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "McKinsey’s Capital Excellence experts discuss how AI and technology can boost construction productivity, address labor shortages, and accelerate…",
+      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value…",
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
@@ -399,7 +413,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "53911f98c21c784f",
@@ -421,7 +436,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "851107eacfc8ba0f",
@@ -432,7 +448,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "9074fef2f245bf59",
@@ -501,17 +518,6 @@
       "firstSeen": "2026-10-09T13:22:29.919033+00:00"
     },
     {
-      "id": "ffd2818196374b7e",
-      "title": "The model that didn't exist, so you made it yourself",
-      "url": "https://huggingface.co/blog/building-with-ml-intern",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-08T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-09T13:22:29.919033+00:00"
-    },
-    {
       "id": "1c16c0505c472443",
       "title": "When Compliance Workarounds Backfire",
       "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/",
@@ -553,7 +559,8 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
+      "retained": true
     },
     {
       "id": "9e404219683ad718",
@@ -586,7 +593,8 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "1b066c0987bc0226",
