@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 10:49:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 19:26:50 +0000</lastBuildDate>
     <item>
       <title>How Itaú is building generative AI for its entire customer base</title>
       <link>https://openai.com/index/itau-generative-ai</link>
@@ -30,11 +30,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
+      <link>https://huggingface.co/blog/reflection-beam</link>
+      <guid>https://huggingface.co/blog/reflection-beam</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -46,11 +46,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
-      <link>https://huggingface.co/blog/reflection-beam</link>
-      <guid>https://huggingface.co/blog/reflection-beam</guid>
+      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
+      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
       <category>ai</category>
     </item>
     <item>
@@ -134,14 +134,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
-      <link>https://openai.com/index/sullivan-cromwell</link>
-      <guid>https://openai.com/index/sullivan-cromwell</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
       <link>https://huggingface.co/blog/meta-muse-spark-open</link>
       <guid>https://huggingface.co/blog/meta-muse-spark-open</guid>
@@ -155,6 +147,14 @@
       <guid>https://huggingface.co/blog/flux-3</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
+      <link>https://openai.com/index/sullivan-cromwell</link>
+      <guid>https://openai.com/index/sullivan-cromwell</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues…</description>
       <category>ai</category>
     </item>
     <item>
@@ -238,19 +238,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The AI value curve: The economics of applying AI to existing work</title>
-      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</link>
-      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</guid>
-      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Many organizations are still measuring AI adoption instead of value. The AI value…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Voices on Planning: The AI-powered future of supply chain</title>
       <link>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</link>
       <guid>https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain</guid>
       <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
       <description>The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The AI value curve: The economics of applying AI to existing work</title>
+      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</link>
+      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work</guid>
+      <pubDate>Wed, 14 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Many organizations are still measuring AI adoption instead of value. The AI value…</description>
       <category>consulting</category>
     </item>
     <item>

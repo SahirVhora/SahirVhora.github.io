@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T10:49:49.952551+00:00",
+  "updatedAt": "2026-10-17T19:26:50.323358+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -94,14 +94,14 @@
       "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
-      "id": "9e63539289a31c86",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "id": "c9a6184923cc1a58",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
       "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
       "published": "2026-10-16T00:00:00+00:00",
-      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…",
+      "excerpt": "",
       "firstSeen": "2026-10-16T19:58:03.632683+00:00"
     },
     {
@@ -116,14 +116,14 @@
       "firstSeen": "2026-10-17T10:49:49.952551+00:00"
     },
     {
-      "id": "c9a6184923cc1a58",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
+      "id": "9e63539289a31c86",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
       "published": "2026-10-16T00:00:00+00:00",
-      "excerpt": "",
+      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…",
       "firstSeen": "2026-10-16T19:58:03.632683+00:00"
     },
     {
@@ -237,17 +237,6 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
-      "id": "94eadcab22c41e35",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues…",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
-    },
-    {
       "id": "ff0cf28c5d753057",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -268,6 +257,17 @@
       "published": "2026-10-15T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
+    },
+    {
+      "id": "94eadcab22c41e35",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues…",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "c4fdc3894fc626ec",
@@ -380,17 +380,6 @@
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
-      "id": "d0a7dbd796135e82",
-      "title": "The AI value curve: The economics of applying AI to existing work",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
-    },
-    {
       "id": "56fd56da86c81005",
       "title": "Voices on Planning: The AI-powered future of supply chain",
       "url": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain",
@@ -400,6 +389,17 @@
       "published": "2026-10-14T00:00:00+00:00",
       "excerpt": "The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles…",
       "firstSeen": "2026-10-14T11:58:33.800294+00:00"
+    },
+    {
+      "id": "d0a7dbd796135e82",
+      "title": "The AI value curve: The economics of applying AI to existing work",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-14T00:00:00+00:00",
+      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value…",
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "8b1ab1df41ac00d8",
