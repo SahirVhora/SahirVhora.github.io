@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T11:13:11.368596+00:00",
+  "updatedAt": "2026-10-18T19:27:08.041095+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -94,17 +95,6 @@
       "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
-      "id": "c9a6184923cc1a58",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-16T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
-    },
-    {
       "id": "b6756c0a180ee554",
       "title": "Benefit Street Partners answers questions faster with Codex",
       "url": "https://openai.com/index/benefit-street-partners",
@@ -124,6 +114,17 @@
       "evidence": "Company announcement",
       "published": "2026-10-16T00:00:00+00:00",
       "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…",
+      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
+    },
+    {
+      "id": "c9a6184923cc1a58",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-16T00:00:00+00:00",
+      "excerpt": "",
       "firstSeen": "2026-10-16T19:58:03.632683+00:00"
     },
     {
@@ -179,7 +180,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "a60f4a701f887ae8",
@@ -237,6 +239,17 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
+      "id": "94eadcab22c41e35",
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues…",
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+    },
+    {
       "id": "ff0cf28c5d753057",
       "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
       "url": "https://huggingface.co/blog/meta-muse-spark-open",
@@ -259,17 +272,6 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
-      "id": "94eadcab22c41e35",
-      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
-      "url": "https://openai.com/index/sullivan-cromwell",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues…",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
-    },
-    {
       "id": "c4fdc3894fc626ec",
       "title": "Place, purpose, and the path to economic mobility",
       "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility",
@@ -278,6 +280,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-15T00:00:00+00:00",
       "excerpt": "Where you live shapes far more than you’d think. New research points to how community, place, and…",
+      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
+    },
+    {
+      "id": "5c522bf86a449b45",
+      "title": "Strengthening supply chains behind US semiconductors",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…",
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
@@ -290,17 +303,6 @@
       "published": "2026-10-15T00:00:00+00:00",
       "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
       "firstSeen": "2026-10-15T11:35:31.152595+00:00"
-    },
-    {
-      "id": "5c522bf86a449b45",
-      "title": "Strengthening supply chains behind US semiconductors",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…",
-      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
       "id": "504a28fcb44d1a3d",
@@ -377,7 +379,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "56fd56da86c81005",
@@ -410,7 +413,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "53911f98c21c784f",
@@ -432,7 +436,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "851107eacfc8ba0f",
@@ -443,7 +448,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "9074fef2f245bf59",
@@ -553,7 +559,8 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
+      "retained": true
     },
     {
       "id": "9e404219683ad718",
@@ -586,7 +593,8 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "1b066c0987bc0226",

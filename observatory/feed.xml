@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 11:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 19:27:08 +0000</lastBuildDate>
     <item>
       <title>How Itaú is building generative AI for its entire customer base</title>
       <link>https://openai.com/index/itau-generative-ai</link>
@@ -30,14 +30,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
-      <link>https://huggingface.co/blog/reflection-beam</link>
-      <guid>https://huggingface.co/blog/reflection-beam</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Benefit Street Partners answers questions faster with Codex</title>
       <link>https://openai.com/index/benefit-street-partners</link>
       <guid>https://openai.com/index/benefit-street-partners</guid>
@@ -51,6 +43,14 @@
       <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
+      <link>https://huggingface.co/blog/reflection-beam</link>
+      <guid>https://huggingface.co/blog/reflection-beam</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -134,6 +134,14 @@
       <category>physics</category>
     </item>
     <item>
+      <title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
+      <link>https://openai.com/index/sullivan-cromwell</link>
+      <guid>https://openai.com/index/sullivan-cromwell</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
       <link>https://huggingface.co/blog/meta-muse-spark-open</link>
       <guid>https://huggingface.co/blog/meta-muse-spark-open</guid>
@@ -150,14 +158,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
-      <link>https://openai.com/index/sullivan-cromwell</link>
-      <guid>https://openai.com/index/sullivan-cromwell</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Place, purpose, and the path to economic mobility</title>
       <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</link>
       <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</guid>
@@ -166,19 +166,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Strengthening supply chains behind US semiconductors</title>
       <link>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</link>
       <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</guid>
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <description>New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
+      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
       <category>consulting</category>
     </item>
     <item>
