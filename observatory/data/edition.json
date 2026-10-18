@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-17T19:26:50.323358+00:00",
+  "updatedAt": "2026-10-18T11:13:11.368596+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -281,17 +281,6 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
-      "id": "5c522bf86a449b45",
-      "title": "Strengthening supply chains behind US semiconductors",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…",
-      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
-    },
-    {
       "id": "83e3573d527514b6",
       "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
@@ -301,6 +290,17 @@
       "published": "2026-10-15T00:00:00+00:00",
       "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
       "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+    },
+    {
+      "id": "5c522bf86a449b45",
+      "title": "Strengthening supply chains behind US semiconductors",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-15T00:00:00+00:00",
+      "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…",
+      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
       "id": "504a28fcb44d1a3d",
