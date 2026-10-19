@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18T19:27:08.041095+00:00",
+  "updatedAt": "2026-10-19T13:24:47.340905+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,72 @@
     }
   ],
   "stories": [
+    {
+      "id": "5ab45f85c553d575",
+      "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance",
+      "url": "https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-19T12:15:00+00:00",
+      "excerpt": "As the role of finance continues to evolve, we…",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+    },
+    {
+      "id": "0527c7396048cac8",
+      "title": "The Gap That No LLM Can Close",
+      "url": "https://news.sap.com/2026/10/gap-no-llm-can-close/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-19T11:15:00+00:00",
+      "excerpt": "In the next wave of generative AI, it's crucial to combine LLMs and tabular foundation models where they…",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+    },
+    {
+      "id": "debc799cf11468cd",
+      "title": "Why Data Modeling Is Not Enough",
+      "url": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-19T11:00:59+00:00",
+      "excerpt": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data…",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+    },
+    {
+      "id": "afd9ec899eb6dd90",
+      "title": "1,000 AI Agents by SAP TechEd: SAP and Partners Accelerate Together",
+      "url": "https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-19T10:15:00+00:00",
+      "excerpt": "When SAP challenged partners to build AI agents, the response far exceeded expectations.",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+    },
+    {
+      "id": "b1dcfa8dc22f675e",
+      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "Our latest research finds that distinctive capabilities unique to Latino business owners and…",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+    },
+    {
+      "id": "eeff5781fb1894ed",
+      "title": "Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity",
+      "url": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+    },
     {
       "id": "9732b2763df5a67a",
       "title": "How Itaú is building generative AI for its entire customer base",
@@ -180,8 +245,7 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
-      "retained": true
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "a60f4a701f887ae8",
@@ -237,6 +301,17 @@
       "published": "2026-10-15T10:00:00+00:00",
       "excerpt": "Author(s): Marric Stephens A technique known as ghost imaging has been adapted so that an object can be imaged by discarding…",
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
+    },
+    {
+      "id": "39052ad94a8a76cc",
+      "title": "Apertus 1.5 Release Notes",
+      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-15T09:08:45+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
     },
     {
       "id": "94eadcab22c41e35",
@@ -338,17 +413,6 @@
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
-      "id": "a99a5908f1b92f17",
-      "title": "Fast-Growth Companies Have the Biggest AI Opportunity, Few Are Capturing It",
-      "url": "https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-14T11:15:00+00:00",
-      "excerpt": "Fast-growth companies have the agility to move fast while still having the scale to…",
-      "firstSeen": "2026-10-14T11:58:33.800294+00:00"
-    },
-    {
       "id": "f9f5d83c077fa183",
       "title": "Why Every High-Performing Leader Needs a Pacer",
       "url": "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/",
@@ -379,29 +443,6 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
-    },
-    {
-      "id": "56fd56da86c81005",
-      "title": "Voices on Planning: The AI-powered future of supply chain",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/voices-on-planning-the-ai-powered-future-of-supply-chain",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "The shift from software as a service to AI-enabled planning could move decision-making from fixed cycles…",
-      "firstSeen": "2026-10-14T11:58:33.800294+00:00"
-    },
-    {
-      "id": "d0a7dbd796135e82",
-      "title": "The AI value curve: The economics of applying AI to existing work",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-ai-value-curve-the-economics-of-applying-ai-to-existing-work",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-14T00:00:00+00:00",
-      "excerpt": "Many organizations are still measuring AI adoption instead of value. The AI value…",
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
@@ -413,19 +454,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
-    },
-    {
-      "id": "53911f98c21c784f",
-      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-13T17:05:48+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "94cc08977f17740f",
@@ -436,8 +465,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "851107eacfc8ba0f",
@@ -448,30 +476,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
-    },
-    {
-      "id": "9074fef2f245bf59",
-      "title": "SAP Strengthens the Foundation for the Autonomous Enterprise with SAP Cloud ERP Private 2025 FPS02",
-      "url": "https://news.sap.com/2026/10/sap-cloud-erp-private-2025-fps02-foundation-autonomous-enterprise/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-13T13:15:00+00:00",
-      "excerpt": "New capabilities help organizations move from AI experimentation to intelligent,…",
-      "firstSeen": "2026-10-13T14:17:06.268695+00:00"
-    },
-    {
-      "id": "49186341b6a5b0a6",
-      "title": "Industry AI: Deep Industry Knowledge, Forward-Deployed Engineering, Measurable Value",
-      "url": "https://news.sap.com/2026/10/industry-ai-deep-industry-knowledge-fde-measurable-value/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-13T12:00:00+00:00",
-      "excerpt": "The hardest industry problems to solve are deeply contextual.",
-      "firstSeen": "2026-10-13T14:17:06.268695+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "1bea57be060b614f",
@@ -559,8 +564,7 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
-      "retained": true
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "9e404219683ad718",
@@ -593,19 +597,7 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
-    },
-    {
-      "id": "1b066c0987bc0226",
-      "title": "Turn Energy Efficiency Into Strategic Advantage",
-      "url": "https://sloanreview.mit.edu/article/turn-energy-efficiency-into-strategic-advantage/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-09-30T11:00:08+00:00",
-      "excerpt": "Grundini/Ikon Images The Research The authors interviewed 39 executives representing 10 countries and multiple industries and hosted an online…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "553830d231d34627",
