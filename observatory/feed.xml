@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 13:24:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 21:33:54 +0000</lastBuildDate>
     <item>
       <title>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance</title>
       <link>https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/</link>
@@ -30,11 +30,35 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>1,000 AI Agents by SAP TechEd: SAP and Partners Accelerate Together</title>
-      <link>https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/</link>
-      <guid>https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/</guid>
-      <pubDate>Mon, 19 Oct 2026 10:15:00 +0000</pubDate>
-      <description>When SAP challenged partners to build AI agents, the response far exceeded expectations.</description>
+      <title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
+      <link>https://huggingface.co/blog/hf-torchneuron</link>
+      <guid>https://huggingface.co/blog/hf-torchneuron</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The next era of US retirement: Four shifts redefining competition</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The US retirement industry is entering a new era. Four shifts, from AI to product…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity</title>
+      <link>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</link>
+      <guid>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The state of business aviation in 2026: Resilient, despite headwinds</title>
+      <link>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</link>
+      <guid>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Our inaugural business aviation article finds that demand for private aviation services continues to grow,…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -46,11 +70,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity</title>
-      <link>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</link>
-      <guid>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</guid>
+      <title>Building businesses that last</title>
+      <link>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last</link>
+      <guid>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…</description>
+      <description>What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -214,38 +238,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Place, purpose, and the path to economic mobility</title>
-      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</link>
-      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Where you live shapes far more than you’d think. New research points to how community, place, and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Strengthening supply chains behind US semiconductors</title>
-      <link>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</link>
-      <guid>https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The judgment bottleneck: Balancing AI and human speeds in strategy</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Analysis now runs on AI time, but judgment still runs on human time. Three moves…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost</title>
-      <link>https://huggingface.co/blog/allenai/hiro-acev2</link>
-      <guid>https://huggingface.co/blog/allenai/hiro-acev2</guid>
-      <pubDate>Wed, 14 Oct 2026 16:12:42 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>DACHSER Migrates HCM to SAP S/4HANA Cloud Using RISE with SAP</title>
       <link>https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/</link>
       <guid>https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/</guid>
@@ -260,6 +252,14 @@
       <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
       <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra,…</description>
       <category>ai</category>
+    </item>
+    <item>
+      <title>Fast-Growth Companies Have the Biggest AI Opportunity, Few Are Capturing It</title>
+      <link>https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/</link>
+      <guid>https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/</guid>
+      <pubDate>Wed, 14 Oct 2026 11:15:00 +0000</pubDate>
+      <description>Fast-growth companies have the agility to move fast while still having the scale to…</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>Why Every High-Performing Leader Needs a Pacer</title>

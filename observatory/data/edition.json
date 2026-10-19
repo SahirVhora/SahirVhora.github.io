@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19T13:24:47.340905+00:00",
+  "updatedAt": "2026-10-19T21:33:54.650245+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -94,15 +95,48 @@
       "firstSeen": "2026-10-19T13:24:47.340905+00:00"
     },
     {
-      "id": "afd9ec899eb6dd90",
-      "title": "1,000 AI Agents by SAP TechEd: SAP and Partners Accelerate Together",
-      "url": "https://news.sap.com/2026/10/1k-ai-agents-by-sap-teched-sap-and-partners-accelerate-together/",
+      "id": "5c52b7d34becd1cc",
+      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
+      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
+    },
+    {
+      "id": "60ea6ead197ece34",
+      "title": "The next era of US retirement: Four shifts redefining competition",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition",
       "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-19T10:15:00+00:00",
-      "excerpt": "When SAP challenged partners to build AI agents, the response far exceeded expectations.",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "The US retirement industry is entering a new era. Four shifts, from AI to product…",
+      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
+    },
+    {
+      "id": "eeff5781fb1894ed",
+      "title": "Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity",
+      "url": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…",
       "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+    },
+    {
+      "id": "4ac3670dfd970161",
+      "title": "The state of business aviation in 2026: Resilient, despite headwinds",
+      "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "Our inaugural business aviation article finds that demand for private aviation services continues to grow,…",
+      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
     },
     {
       "id": "b1dcfa8dc22f675e",
@@ -116,15 +150,15 @@
       "firstSeen": "2026-10-19T13:24:47.340905+00:00"
     },
     {
-      "id": "eeff5781fb1894ed",
-      "title": "Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity",
-      "url": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity",
+      "id": "9d4c21cfeea7ac56",
+      "title": "Building businesses that last",
+      "url": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-10-19T00:00:00+00:00",
-      "excerpt": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…",
-      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+      "excerpt": "What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.",
+      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
     },
     {
       "id": "9732b2763df5a67a",
@@ -245,7 +279,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "a60f4a701f887ae8",
@@ -347,50 +382,6 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
-      "id": "c4fdc3894fc626ec",
-      "title": "Place, purpose, and the path to economic mobility",
-      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/place-purpose-and-the-path-to-economic-mobility",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "Where you live shapes far more than you’d think. New research points to how community, place, and…",
-      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
-    },
-    {
-      "id": "5c522bf86a449b45",
-      "title": "Strengthening supply chains behind US semiconductors",
-      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/strengthening-supply-chains-behind-us-semiconductors",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "New research maps hidden upstream dependencies in the US semiconductor supply chain and outlines potential mitigation strategies to make…",
-      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
-    },
-    {
-      "id": "83e3573d527514b6",
-      "title": "The judgment bottleneck: Balancing AI and human speeds in strategy",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-judgment-bottleneck-balancing-ai-and-human-speeds-in-strategy",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-15T00:00:00+00:00",
-      "excerpt": "Analysis now runs on AI time, but judgment still runs on human time. Three moves…",
-      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
-    },
-    {
-      "id": "504a28fcb44d1a3d",
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-14T16:12:42+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
-    },
-    {
       "id": "b5064e8e1636d326",
       "title": "DACHSER Migrates HCM to SAP S/4HANA Cloud Using RISE with SAP",
       "url": "https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/",
@@ -411,6 +402,17 @@
       "published": "2026-10-14T12:00:00+00:00",
       "excerpt": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra,…",
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+    },
+    {
+      "id": "a99a5908f1b92f17",
+      "title": "Fast-Growth Companies Have the Biggest AI Opportunity, Few Are Capturing It",
+      "url": "https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-14T11:15:00+00:00",
+      "excerpt": "Fast-growth companies have the agility to move fast while still having the scale to…",
+      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
     },
     {
       "id": "f9f5d83c077fa183",
@@ -443,7 +445,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -454,7 +457,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "94cc08977f17740f",
@@ -465,7 +469,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "851107eacfc8ba0f",
@@ -476,7 +481,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "1bea57be060b614f",
@@ -564,7 +570,8 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
+      "retained": true
     },
     {
       "id": "9e404219683ad718",
@@ -597,7 +604,8 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
+      "retained": true
     },
     {
       "id": "553830d231d34627",
