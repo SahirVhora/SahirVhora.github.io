@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 19 Oct 2026 21:33:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:44:05 +0000</lastBuildDate>
+    <item>
+      <title>The Suite Advantage: Why Enterprises Don’t Evaluate CRM in Isolation</title>
+      <link>https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/</link>
+      <guid>https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/</guid>
+      <pubDate>Tue, 20 Oct 2026 11:15:00 +0000</pubDate>
+      <description>CRM value is created at the intersection of pipeline intelligence and ERP reality.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Back to the Future: 30 Years of SAP TechEd</title>
+      <link>https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/</link>
+      <guid>https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/</guid>
+      <pubDate>Tue, 20 Oct 2026 10:15:00 +0000</pubDate>
+      <description>For three decades, the event has continually found new ways to bring the SAP community together.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>MPS in PyTorch 2.15</title>
+      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
+      <guid>https://huggingface.co/blog/mps-pytorch-2-15</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance</title>
       <link>https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/</link>
@@ -12,6 +36,14 @@
       <pubDate>Mon, 19 Oct 2026 12:15:00 +0000</pubDate>
       <description>As the role of finance continues to evolve, we…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Advancing coding in low‑resource programming languages</title>
+      <link>https://openai.com/index/low-resource-programming-languages</link>
+      <guid>https://openai.com/index/low-resource-programming-languages</guid>
+      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+      <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>The Gap That No LLM Can Close</title>
@@ -38,19 +70,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The next era of US retirement: Four shifts redefining competition</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The US retirement industry is entering a new era. Four shifts, from AI to product…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity</title>
       <link>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</link>
       <guid>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The next era of US retirement: Four shifts redefining competition</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The US retirement industry is entering a new era. Four shifts, from AI to product…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -62,19 +94,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The hidden opportunity in the next $2 trillion of US–Latin America trade</title>
-      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</link>
-      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Our latest research finds that distinctive capabilities unique to Latino business owners and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Building businesses that last</title>
       <link>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last</link>
       <guid>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The hidden opportunity in the next $2 trillion of US–Latin America trade</title>
+      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</link>
+      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Our latest research finds that distinctive capabilities unique to Latino business owners and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -228,38 +260,6 @@
       <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>Welcome FLUX.3 Image Klein in Diffusers</title>
-      <link>https://huggingface.co/blog/flux-3</link>
-      <guid>https://huggingface.co/blog/flux-3</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>DACHSER Migrates HCM to SAP S/4HANA Cloud Using RISE with SAP</title>
-      <link>https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/</link>
-      <guid>https://news.sap.com/2026/10/dachser-migrates-hcm-to-sap-s-4hana-cloud-rise-with-sap/</guid>
-      <pubDate>Wed, 14 Oct 2026 12:15:00 +0000</pubDate>
-      <description>The Germany-based logistics company has reached a major milestone in its journey.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Amp puts AI agents to work beyond code with OpenAI models</title>
-      <link>https://openai.com/index/amp-beyond-coding</link>
-      <guid>https://openai.com/index/amp-beyond-coding</guid>
-      <pubDate>Wed, 14 Oct 2026 12:00:00 +0000</pubDate>
-      <description>See how Amp pushes the frontier of what agents can do with GPT-6 Astra,…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Fast-Growth Companies Have the Biggest AI Opportunity, Few Are Capturing It</title>
-      <link>https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/</link>
-      <guid>https://news.sap.com/2026/10/fast-growth-companies-biggest-ai-opportunity-few-capturing/</guid>
-      <pubDate>Wed, 14 Oct 2026 11:15:00 +0000</pubDate>
-      <description>Fast-growth companies have the agility to move fast while still having the scale to…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Why Every High-Performing Leader Needs a Pacer</title>
