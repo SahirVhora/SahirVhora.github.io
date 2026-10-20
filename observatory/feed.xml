@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 11:44:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 20:38:40 +0000</lastBuildDate>
+    <item>
+      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
+      <guid>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
+      <pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
+      <link>https://huggingface.co/blog/allenai/fairstress</link>
+      <guid>https://huggingface.co/blog/allenai/fairstress</guid>
+      <pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
+      <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
+      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
+      <pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified</title>
+      <link>https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/</link>
+      <guid>https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/</guid>
+      <pubDate>Tue, 20 Oct 2026 12:15:00 +0000</pubDate>
+      <description>In a technology environment that changes continuously, expertise cannot remain static.</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>The Suite Advantage: Why Enterprises Don’t Evaluate CRM in Isolation</title>
       <link>https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/</link>
@@ -22,12 +54,68 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
+      <link>https://openai.com/index/ted-taylor-restaurant</link>
+      <guid>https://openai.com/index/ted-taylor-restaurant</guid>
+      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
+      <description>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>OpenAI acquires Orchestra Bio</title>
+      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
+      <guid>https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
+      <link>https://huggingface.co/blog/hf-torchtpu</link>
+      <guid>https://huggingface.co/blog/hf-torchtpu</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
+      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
+      <guid>https://huggingface.co/blog/anylanguagemodel-1-0</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
       <title>MPS in PyTorch 2.15</title>
       <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
       <guid>https://huggingface.co/blog/mps-pytorch-2-15</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
+    </item>
+    <item>
+      <title>Three horizons of quantum: A business road map to the future computing economy</title>
+      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</link>
+      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>In the next decade, quantum technology could create trillions in value and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Switch tracks: Rewiring rolling stock for a new era</title>
+      <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era</link>
+      <guid>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Securing software in the age of AI: Red Hat CTO Chris Wright</title>
+      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright</link>
+      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning…</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance</title>
@@ -86,27 +174,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The state of business aviation in 2026: Resilient, despite headwinds</title>
-      <link>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</link>
-      <guid>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Our inaugural business aviation article finds that demand for private aviation services continues to grow,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Building businesses that last</title>
-      <link>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last</link>
-      <guid>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-building-businesses-that-last</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>What comes after launch? Successful founders and venture builders offer lessons in what it takes to keep growing.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The hidden opportunity in the next $2 trillion of US–Latin America trade</title>
       <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</link>
       <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>Our latest research finds that distinctive capabilities unique to Latino business owners and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The state of business aviation in 2026: Resilient, despite headwinds</title>
+      <link>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</link>
+      <guid>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Our inaugural business aviation article finds that demand for private aviation services continues to grow,…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -126,14 +206,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline</title>
-      <link>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</link>
-      <guid>https://huggingface.co/blog/nvidia/scaling-indic-pretraining</guid>
-      <pubDate>Fri, 16 Oct 2026 01:44:47 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Benefit Street Partners answers questions faster with Codex</title>
       <link>https://openai.com/index/benefit-street-partners</link>
       <guid>https://openai.com/index/benefit-street-partners</guid>
@@ -147,38 +219,6 @@
       <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
       <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
       <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Welcome Beam: a 501B open model you can own, customize, and scale</title>
-      <link>https://huggingface.co/blog/reflection-beam</link>
-      <guid>https://huggingface.co/blog/reflection-beam</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Getting real about AI: How AI agents are changing the economics of software engineering</title>
-      <link>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</link>
-      <guid>https://www.mckinsey.com/uk/our-insights/getting-real-about-ai-how-ai-agents-are-changing-the-economics-of-software-engineering</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Cognition co-founder and President Russell Kaplan explains why the next frontier…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>What is a forward-deployed engineer?</title>
-      <link>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer</link>
-      <guid>https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-is-a-forward-deployed-engineer</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Forward-deployed engineers work inside another company’s own systems. Three McKinsey leaders explain how FDEs help companies derive impact from AI.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</link>
-      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1</guid>
-      <pubDate>Thu, 15 Oct 2026 20:34:01 +0000</pubDate>
-      <description />
       <category>ai</category>
     </item>
     <item>
@@ -198,14 +238,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Teaching students to think and learn through questions</title>
-      <link>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</link>
-      <guid>https://openai.com/index/teaching-students-to-think-and-learn-through-questions</guid>
-      <pubDate>Thu, 15 Oct 2026 13:00:00 +0000</pubDate>
-      <description>Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>10 Questions Board Members Should Be Asking About Security and Compliance</title>
       <link>https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/</link>
       <guid>https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/</guid>
@@ -222,44 +254,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>From Two Weeks to Seconds: How Ericsson Is Reimagining B2B Commerce with AI</title>
-      <link>https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/</link>
-      <guid>https://news.sap.com/2026/10/how-ericsson-is-reimagining-b2b-commerce-with-ai/</guid>
-      <pubDate>Thu, 15 Oct 2026 10:15:00 +0000</pubDate>
-      <description>For Ericsson, AI is creating new possibilities for how commercial work gets…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Imaging with Zero Photons</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s127</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s127</guid>
       <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Marric Stephens A technique known as ghost imaging has been adapted so that an object can be imaged by discarding…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Apertus 1.5 Release Notes</title>
-      <link>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</link>
-      <guid>https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes</guid>
-      <pubDate>Thu, 15 Oct 2026 09:08:45 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Sullivan &amp; Cromwell brings legal expertise into agreement review</title>
-      <link>https://openai.com/index/sullivan-cromwell</link>
-      <guid>https://openai.com/index/sullivan-cromwell</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description>In collaboration with OpenAI, Sullivan &amp; Cromwell developed Agreement Analyzer, an AI tool for identifying issues…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta</title>
-      <link>https://huggingface.co/blog/meta-muse-spark-open</link>
-      <guid>https://huggingface.co/blog/meta-muse-spark-open</guid>
-      <pubDate>Thu, 15 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Why Every High-Performing Leader Needs a Pacer</title>
