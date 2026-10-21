@@ -4,14 +4,38 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 20:38:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 11:55:46 +0000</lastBuildDate>
     <item>
-      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-      <guid>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</guid>
-      <pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
+      <title>SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools</title>
+      <link>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</link>
+      <guid>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</guid>
+      <pubDate>Wed, 21 Oct 2026 11:15:00 +0000</pubDate>
+      <description>SAP is helping enterprises make rapid transformation a business capability.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The Hidden Upside of Tech Challenges</title>
+      <link>https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/</link>
+      <guid>https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/</guid>
+      <pubDate>Wed, 21 Oct 2026 11:00:48 +0000</pubDate>
+      <description>Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
+      <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
+      <guid>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
+      <pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
       <description />
       <category>ai</category>
+    </item>
+    <item>
+      <title>Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026</title>
+      <link>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</link>
+      <guid>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</guid>
+      <pubDate>Wed, 21 Oct 2026 10:15:00 +0000</pubDate>
+      <description>With Q3 2026 release, SAP is bringing the Autonomous CX vision to life.</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -59,6 +83,14 @@
       <guid>https://openai.com/index/ted-taylor-restaurant</guid>
       <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
       <description>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
+      <link>https://openai.com/index/terminal-x</link>
+      <guid>https://openai.com/index/terminal-x</guid>
+      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a…</description>
       <category>ai</category>
     </item>
     <item>
@@ -198,12 +230,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The Next Leap in Public Services Starts Behind the Scenes</title>
-      <link>https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/</link>
-      <guid>https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/</guid>
-      <pubDate>Fri, 16 Oct 2026 10:15:00 +0000</pubDate>
-      <description>AI can turn a citizen request into coordinated action across an administration.</description>
-      <category>consulting</category>
+      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
+      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
+      <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
+      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Benefit Street Partners answers questions faster with Codex</title>
@@ -214,36 +246,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Bringing GPT-Rosalind to academic research labs</title>
-      <link>https://openai.com/index/introducing-the-rosalind-academic-plan</link>
-      <guid>https://openai.com/index/introducing-the-rosalind-academic-plan</guid>
-      <pubDate>Thu, 15 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>
       <link>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</link>
       <guid>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
       <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
       <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.</description>
       <category>ai</category>
-    </item>
-    <item>
-      <title>10 Questions Board Members Should Be Asking About Security and Compliance</title>
-      <link>https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/</link>
-      <guid>https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/</guid>
-      <pubDate>Thu, 15 Oct 2026 11:15:00 +0000</pubDate>
-      <description>A practical framework for oversight, resilience, accountability, and trust</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts</title>
@@ -379,14 +387,6 @@
       <guid>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</guid>
       <pubDate>Tue, 06 Oct 2026 11:00:14 +0000</pubDate>
       <description>Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Rehearsal Intelligence: Using Digital Twins for Crisis Readiness</title>
-      <link>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</link>
-      <guid>https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/</guid>
-      <pubDate>Mon, 05 Oct 2026 11:00:22 +0000</pubDate>
-      <description>Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike released a defective…</description>
       <category>consulting</category>
     </item>
     <item>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20T20:38:40.422337+00:00",
+  "updatedAt": "2026-10-21T11:55:46.786492+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -62,15 +62,48 @@
   ],
   "stories": [
     {
-      "id": "e8a8161ff83426ef",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "id": "c54682161ae9f265",
+      "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools",
+      "url": "https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T11:15:00+00:00",
+      "excerpt": "SAP is helping enterprises make rapid transformation a business capability.",
+      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
+    },
+    {
+      "id": "623f6670c231dfa1",
+      "title": "The Hidden Upside of Tech Challenges",
+      "url": "https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-21T11:00:48+00:00",
+      "excerpt": "Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…",
+      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
+    },
+    {
+      "id": "32694d7b05454b04",
+      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
       "category": "ai",
       "source": "Hugging Face",
       "evidence": "Community / technical",
-      "published": "2026-10-20T18:17:47+00:00",
+      "published": "2026-10-21T10:59:42+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
+      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
+    },
+    {
+      "id": "3041981019dd3b16",
+      "title": "Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026",
+      "url": "https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T10:15:00+00:00",
+      "excerpt": "With Q3 2026 release, SAP is bringing the Autonomous CX vision to life.",
+      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
     },
     {
       "id": "ef73bf2ace8ac671",
@@ -137,6 +170,17 @@
       "published": "2026-10-20T10:00:00+00:00",
       "excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a…",
       "firstSeen": "2026-10-20T20:38:40.422337+00:00"
+    },
+    {
+      "id": "aa8847d44cbae332",
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "url": "https://openai.com/index/terminal-x",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-20T07:00:00+00:00",
+      "excerpt": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a…",
+      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
     },
     {
       "id": "1cfb6291fa158d05",
@@ -326,15 +370,15 @@
       "firstSeen": "2026-10-17T10:49:49.952551+00:00"
     },
     {
-      "id": "521455fb41d2cb40",
-      "title": "The Next Leap in Public Services Starts Behind the Scenes",
-      "url": "https://news.sap.com/2026/10/next-leap-public-services-behind-the-scenes-spublic-berlin/",
-      "category": "consulting",
-      "source": "SAP News",
+      "id": "9e63539289a31c86",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "category": "ai",
+      "source": "OpenAI",
       "evidence": "Company announcement",
-      "published": "2026-10-16T10:15:00+00:00",
-      "excerpt": "AI can turn a citizen request into coordinated action across an administration.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "published": "2026-10-16T00:00:00+00:00",
+      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…",
+      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
     },
     {
       "id": "b6756c0a180ee554",
@@ -348,28 +392,6 @@
       "firstSeen": "2026-10-17T10:49:49.952551+00:00"
     },
     {
-      "id": "9e63539289a31c86",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-16T00:00:00+00:00",
-      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…",
-      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
-    },
-    {
-      "id": "32165ee6af8945a5",
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-15T19:00:00+00:00",
-      "excerpt": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences…",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
-    },
-    {
       "id": "ad09b0946a60b7ff",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -380,17 +402,6 @@
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "firstSeen": "2026-10-16T11:29:37.965576+00:00",
       "retained": true
-    },
-    {
-      "id": "95723b848592644c",
-      "title": "10 Questions Board Members Should Be Asking About Security and Compliance",
-      "url": "https://news.sap.com/2026/10/10-questions-board-members-should-be-asking-about-security-compliance/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-15T11:15:00+00:00",
-      "excerpt": "A practical framework for oversight, resilience, accountability, and trust",
-      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
     },
     {
       "id": "422d5c94b0f19090",
@@ -583,17 +594,6 @@
       "published": "2026-10-06T11:00:14+00:00",
       "excerpt": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…",
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
-      "id": "0da323f7013dfcae",
-      "title": "Rehearsal Intelligence: Using Digital Twins for Crisis Readiness",
-      "url": "https://sloanreview.mit.edu/article/rehearsal-intelligence-using-digital-twins-for-crisis-readiness/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-05T11:00:22+00:00",
-      "excerpt": "Carolyn Geason-Beissel/MIT SMR | Getty Images In July 2024, the cybersecurity software company CrowdStrike released a defective…",
-      "firstSeen": "2026-10-05T14:47:33.343202+00:00"
     },
     {
       "id": "ce56aa83d0064ef1",
