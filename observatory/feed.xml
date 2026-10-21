@@ -4,7 +4,71 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 11:55:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 20:39:23 +0000</lastBuildDate>
+    <item>
+      <title>SAP Announces Q3 2026 Results</title>
+      <link>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</link>
+      <guid>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</guid>
+      <pubDate>Wed, 21 Oct 2026 20:07:37 +0000</pubDate>
+      <description>WALLDORF — SAP SE (NYSE: SAP) today announced its financial results for the third quarter 2026. At a glance Christian…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+      <guid>https://huggingface.co/blog/nvidia/kumo-relational</guid>
+      <pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
+      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+      <guid>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
+      <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+      <link>https://openai.com/index/att-legal</link>
+      <guid>https://openai.com/index/att-legal</guid>
+      <pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
+      <description>AT&amp;T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+      <guid>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-speech-5</link>
+      <guid>https://huggingface.co/blog/ibm-granite/granite-speech-5</guid>
+      <pubDate>Wed, 21 Oct 2026 14:58:18 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
+      <link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
+      <guid>https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+      <pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+      <description>From local businesses to global brands, more advertisers can now…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>OpenAI models are coming to Google Cloud</title>
+      <link>https://openai.com/index/openai-models-google-cloud</link>
+      <guid>https://openai.com/index/openai-models-google-cloud</guid>
+      <pubDate>Wed, 21 Oct 2026 12:00:00 +0000</pubDate>
+      <description>OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools</title>
       <link>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</link>
@@ -22,20 +86,44 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories</title>
-      <link>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</link>
-      <guid>https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories</guid>
-      <pubDate>Wed, 21 Oct 2026 10:59:42 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026</title>
       <link>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</link>
       <guid>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</guid>
       <pubDate>Wed, 21 Oct 2026 10:15:00 +0000</pubDate>
       <description>With Q3 2026 release, SAP is bringing the Autonomous CX vision to life.</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
+      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
+      <guid>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
+      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
+      <guid>https://openai.com/index/building-chatgpt-ad-stack</guid>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Using thousands of AI agents to uncover new leads in biological data</title>
+      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+      <guid>https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+      <pubDate>Wed, 21 Oct 2026 04:50:00 +0000</pubDate>
+      <description>See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Democratic governance of frontier AI, part II: Empowering cyber defenders</title>
+      <link>https://openai.com/index/empowering-cyber-defenders</link>
+      <guid>https://openai.com/index/empowering-cyber-defenders</guid>
+      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
+      <description>OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity,…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -78,49 +166,9 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
-      <link>https://openai.com/index/ted-taylor-restaurant</link>
-      <guid>https://openai.com/index/ted-taylor-restaurant</guid>
-      <pubDate>Tue, 20 Oct 2026 10:00:00 +0000</pubDate>
-      <description>An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
-      <link>https://openai.com/index/terminal-x</link>
-      <guid>https://openai.com/index/terminal-x</guid>
-      <pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>OpenAI acquires Orchestra Bio</title>
-      <link>https://openai.com/index/openai-to-acquire-orchestra-bio</link>
-      <guid>https://openai.com/index/openai-to-acquire-orchestra-bio</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&amp;D, helping biopharma teams accelerate drug development and advance…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Hugging Face ❤️ TorchTPU: TPUs, Natively</title>
       <link>https://huggingface.co/blog/hf-torchtpu</link>
       <guid>https://huggingface.co/blog/hf-torchtpu</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms</title>
-      <link>https://huggingface.co/blog/anylanguagemodel-1-0</link>
-      <guid>https://huggingface.co/blog/anylanguagemodel-1-0</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>MPS in PyTorch 2.15</title>
-      <link>https://huggingface.co/blog/mps-pytorch-2-15</link>
-      <guid>https://huggingface.co/blog/mps-pytorch-2-15</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
@@ -158,36 +206,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Advancing coding in low‑resource programming languages</title>
-      <link>https://openai.com/index/low-resource-programming-languages</link>
-      <guid>https://openai.com/index/low-resource-programming-languages</guid>
-      <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
-      <description>Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>The Gap That No LLM Can Close</title>
-      <link>https://news.sap.com/2026/10/gap-no-llm-can-close/</link>
-      <guid>https://news.sap.com/2026/10/gap-no-llm-can-close/</guid>
-      <pubDate>Mon, 19 Oct 2026 11:15:00 +0000</pubDate>
-      <description>In the next wave of generative AI, it's crucial to combine LLMs and tabular foundation models where they…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Why Data Modeling Is Not Enough</title>
       <link>https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/</link>
       <guid>https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/</guid>
       <pubDate>Mon, 19 Oct 2026 11:00:59 +0000</pubDate>
       <description>Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>TorchNeuron: running HF models on AWS Trainium is easier than ever</title>
-      <link>https://huggingface.co/blog/hf-torchneuron</link>
-      <guid>https://huggingface.co/blog/hf-torchneuron</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity</title>
@@ -206,14 +230,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The hidden opportunity in the next $2 trillion of US–Latin America trade</title>
-      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</link>
-      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Our latest research finds that distinctive capabilities unique to Latino business owners and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The state of business aviation in 2026: Resilient, despite headwinds</title>
       <link>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</link>
       <guid>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</guid>
@@ -222,28 +238,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>How Itaú is building generative AI for its entire customer base</title>
-      <link>https://openai.com/index/itau-generative-ai</link>
-      <guid>https://openai.com/index/itau-generative-ai</guid>
-      <pubDate>Fri, 16 Oct 2026 19:00:00 +0000</pubDate>
-      <description>With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Stack Overflow for Agents triples signups with ChatGPT plugin</title>
-      <link>https://openai.com/index/stack-overflow-chatgpt-plugin</link>
-      <guid>https://openai.com/index/stack-overflow-chatgpt-plugin</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Benefit Street Partners answers questions faster with Codex</title>
-      <link>https://openai.com/index/benefit-street-partners</link>
-      <guid>https://openai.com/index/benefit-street-partners</guid>
-      <pubDate>Fri, 16 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review…</description>
-      <category>ai</category>
+      <title>The hidden opportunity in the next $2 trillion of US–Latin America trade</title>
+      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</link>
+      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</guid>
+      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Our latest research finds that distinctive capabilities unique to Latino business owners and…</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>Accelerating the search for antimicrobial peptides with Google Antigravity</title>

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T11:55:46.786492+00:00",
+  "updatedAt": "2026-10-21T20:39:23.870778+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -62,6 +61,94 @@
   ],
   "stories": [
     {
+      "id": "ebb889b66b29fc25",
+      "title": "SAP Announces Q3 2026 Results",
+      "url": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T20:07:37+00:00",
+      "excerpt": "WALLDORF — SAP SE (NYSE: SAP) today announced its financial results for the third quarter 2026. At a glance Christian…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "94a5f6526eada9bc",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-21T18:26:30+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "40a01666d562060b",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-21T17:35:36+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "39cad894cdd240fb",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T17:00:00+00:00",
+      "excerpt": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "5b4e08461387ba3b",
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-21T16:04:43+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "c2ed162a157709f5",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-21T14:58:18+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "b1215e1aefc04c61",
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T13:00:00+00:00",
+      "excerpt": "From local businesses to global brands, more advertisers can now…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "95dedf578de78f3e",
+      "title": "OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T12:00:00+00:00",
+      "excerpt": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
       "id": "c54682161ae9f265",
       "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools",
       "url": "https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/",
@@ -84,17 +171,6 @@
       "firstSeen": "2026-10-21T11:55:46.786492+00:00"
     },
     {
-      "id": "32694d7b05454b04",
-      "title": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-21T10:59:42+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
-    },
-    {
       "id": "3041981019dd3b16",
       "title": "Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026",
       "url": "https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/",
@@ -104,6 +180,50 @@
       "published": "2026-10-21T10:15:00+00:00",
       "excerpt": "With Q3 2026 release, SAP is bringing the Autonomous CX vision to life.",
       "firstSeen": "2026-10-21T11:55:46.786492+00:00"
+    },
+    {
+      "id": "de9db6f384cbc788",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T07:00:00+00:00",
+      "excerpt": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "ea92da5c121ecb45",
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T07:00:00+00:00",
+      "excerpt": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "64ddfb139fec8a1c",
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T04:50:00+00:00",
+      "excerpt": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
+    },
+    {
+      "id": "e270f5ba4688033d",
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T00:00:00+00:00",
+      "excerpt": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity,…",
+      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
       "id": "ef73bf2ace8ac671",
@@ -161,39 +281,6 @@
       "firstSeen": "2026-10-20T11:44:05.128720+00:00"
     },
     {
-      "id": "1725d137aa3debc0",
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-20T10:00:00+00:00",
-      "excerpt": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a…",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
-      "id": "aa8847d44cbae332",
-      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
-      "url": "https://openai.com/index/terminal-x",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-20T07:00:00+00:00",
-      "excerpt": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a…",
-      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
-    },
-    {
-      "id": "1cfb6291fa158d05",
-      "title": "OpenAI acquires Orchestra Bio",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-20T00:00:00+00:00",
-      "excerpt": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance…",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
       "id": "39e60f901a735303",
       "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
       "url": "https://huggingface.co/blog/hf-torchtpu",
@@ -203,28 +290,6 @@
       "published": "2026-10-20T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
-      "id": "41fb25a47d12d204",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
-      "id": "c2b4b68d7e0027f0",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-20T11:44:05.128720+00:00"
     },
     {
       "id": "72aeba541685bcd8",
@@ -271,28 +336,6 @@
       "firstSeen": "2026-10-19T13:24:47.340905+00:00"
     },
     {
-      "id": "1dbe22633003a2af",
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-19T12:00:00+00:00",
-      "excerpt": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL…",
-      "firstSeen": "2026-10-20T11:44:05.128720+00:00"
-    },
-    {
-      "id": "0527c7396048cac8",
-      "title": "The Gap That No LLM Can Close",
-      "url": "https://news.sap.com/2026/10/gap-no-llm-can-close/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-19T11:15:00+00:00",
-      "excerpt": "In the next wave of generative AI, it's crucial to combine LLMs and tabular foundation models where they…",
-      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
-    },
-    {
       "id": "debc799cf11468cd",
       "title": "Why Data Modeling Is Not Enough",
       "url": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/",
@@ -302,17 +345,6 @@
       "published": "2026-10-19T11:00:59+00:00",
       "excerpt": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data…",
       "firstSeen": "2026-10-19T13:24:47.340905+00:00"
-    },
-    {
-      "id": "5c52b7d34becd1cc",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-19T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
     },
     {
       "id": "eeff5781fb1894ed",
@@ -337,17 +369,6 @@
       "firstSeen": "2026-10-19T21:33:54.650245+00:00"
     },
     {
-      "id": "b1dcfa8dc22f675e",
-      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
-      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-19T00:00:00+00:00",
-      "excerpt": "Our latest research finds that distinctive capabilities unique to Latino business owners and…",
-      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
-    },
-    {
       "id": "4ac3670dfd970161",
       "title": "The state of business aviation in 2026: Resilient, despite headwinds",
       "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds",
@@ -359,37 +380,15 @@
       "firstSeen": "2026-10-19T21:33:54.650245+00:00"
     },
     {
-      "id": "9732b2763df5a67a",
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-16T19:00:00+00:00",
-      "excerpt": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its…",
-      "firstSeen": "2026-10-17T10:49:49.952551+00:00"
-    },
-    {
-      "id": "9e63539289a31c86",
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-16T00:00:00+00:00",
-      "excerpt": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT…",
-      "firstSeen": "2026-10-16T19:58:03.632683+00:00"
-    },
-    {
-      "id": "b6756c0a180ee554",
-      "title": "Benefit Street Partners answers questions faster with Codex",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-16T00:00:00+00:00",
-      "excerpt": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review…",
-      "firstSeen": "2026-10-17T10:49:49.952551+00:00"
+      "id": "b1dcfa8dc22f675e",
+      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-19T00:00:00+00:00",
+      "excerpt": "Our latest research finds that distinctive capabilities unique to Latino business owners and…",
+      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
     },
     {
       "id": "ad09b0946a60b7ff",
@@ -400,8 +399,7 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
-      "retained": true
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "422d5c94b0f19090",
@@ -456,8 +454,7 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -468,8 +465,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "94cc08977f17740f",
@@ -480,8 +476,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "851107eacfc8ba0f",
@@ -492,8 +487,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "1bea57be060b614f",
@@ -581,8 +575,7 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
-      "retained": true
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "9e404219683ad718",
@@ -604,8 +597,7 @@
       "evidence": "Company research",
       "published": "2026-09-30T20:01:45+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00",
-      "retained": true
+      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "553830d231d34627",
