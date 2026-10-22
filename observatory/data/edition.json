@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T11:58:19.098251+00:00",
+  "updatedAt": "2026-10-22T20:34:41.059648+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,50 @@
   ],
   "stories": [
     {
+      "id": "891b7e0bbf66f86d",
+      "title": "Build more responsive apps with the Decisions API",
+      "url": "https://openai.com/index/decisions-api",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-22T19:00:00+00:00",
+      "excerpt": "Fast, focused, low-cost decisions for any application.",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
+      "id": "67297d2df9a3d7f1",
+      "title": "OlmoEarth v1.3: State-of-the-art embeddings for the whole planet",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-v1-3",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-22T16:11:31+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
+      "id": "301925b8adfcebab",
+      "title": "Beyond tree cover: mapping the world’s forest types",
+      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-22T14:30:24+00:00",
+      "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
+      "id": "0e653436fc7097c4",
+      "title": "Surprising Feature in a Topological Superconductor Candidate",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s134",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-22T10:00:00+00:00",
+      "excerpt": "Author(s): Michael Schirber A new hint of topological superconductivity has been identified in an iron-based superconductor. [Physics 19,…",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
       "id": "0e5fad3ca5f8a881",
       "title": "Ensemble forecasting with IBM Granite time-series models",
       "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
@@ -70,6 +114,28 @@
       "published": "2026-10-22T07:51:31+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
+      "id": "6400feb681472530",
+      "title": "What FDE means at OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-22T06:00:00+00:00",
+      "excerpt": "What forward deployed engineering means at OpenAI",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
+      "id": "eda525050cea8fce",
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data,…",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "8bde3941afad2dc2",
@@ -103,6 +169,28 @@
       "published": "2026-10-22T00:00:00+00:00",
       "excerpt": "The regional distribution of Britain’s economy traps operational leadership…",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
+      "id": "618e56b075c1a253",
+      "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it…",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
+      "id": "396399d799eaeb94",
+      "title": "Federal permitting’s uneven economic impact, and what companies can do about it",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with…",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "3f1a11956436b167",
@@ -248,50 +336,6 @@
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
-      "id": "de9db6f384cbc788",
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T07:00:00+00:00",
-      "excerpt": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical…",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
-    },
-    {
-      "id": "ea92da5c121ecb45",
-      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "url": "https://openai.com/index/building-chatgpt-ad-stack",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T07:00:00+00:00",
-      "excerpt": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep…",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
-    },
-    {
-      "id": "64ddfb139fec8a1c",
-      "title": "Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T04:50:00+00:00",
-      "excerpt": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover…",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
-    },
-    {
-      "id": "ef73bf2ace8ac671",
-      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
-      "url": "https://huggingface.co/blog/allenai/fairstress",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-20T16:09:19+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
       "id": "55d02231c2ae13cb",
       "title": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified",
       "url": "https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/",
@@ -336,28 +380,6 @@
       "firstSeen": "2026-10-20T20:38:40.422337+00:00"
     },
     {
-      "id": "72aeba541685bcd8",
-      "title": "Three horizons of quantum: A business road map to the future computing economy",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-20T00:00:00+00:00",
-      "excerpt": "In the next decade, quantum technology could create trillions in value and…",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
-      "id": "3bdd3a397f20e4b9",
-      "title": "Switch tracks: Rewiring rolling stock for a new era",
-      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from…",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
       "id": "9ead06592da08e30",
       "title": "Securing software in the age of AI: Red Hat CTO Chris Wright",
       "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright",
@@ -366,6 +388,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-20T00:00:00+00:00",
       "excerpt": "Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning…",
+      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
+    },
+    {
+      "id": "72aeba541685bcd8",
+      "title": "Three horizons of quantum: A business road map to the future computing economy",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-20T00:00:00+00:00",
+      "excerpt": "In the next decade, quantum technology could create trillions in value and…",
       "firstSeen": "2026-10-20T20:38:40.422337+00:00"
     },
     {
@@ -388,17 +421,6 @@
       "evidence": "Management perspective",
       "published": "2026-10-19T11:00:59+00:00",
       "excerpt": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data…",
-      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
-    },
-    {
-      "id": "eeff5781fb1894ed",
-      "title": "Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity",
-      "url": "https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-19T00:00:00+00:00",
-      "excerpt": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…",
       "firstSeen": "2026-10-19T13:24:47.340905+00:00"
     },
     {
@@ -556,17 +578,6 @@
       "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
-      "id": "5043b746e2201a64",
-      "title": "Hybrid Quantum Computer Could Simulate Both Fermions and Bosons",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.135",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-07T10:00:00+00:00",
-      "excerpt": "Author(s): Anthony Ciavarella Pairing superconducting qubits with microwave cavities could reduce the hardware requirements for quantum…",
-      "firstSeen": "2026-10-08T13:36:11.181371+00:00"
-    },
-    {
       "id": "c11a83f73b42d756",
       "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
       "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
@@ -587,17 +598,6 @@
       "published": "2026-10-06T11:00:14+00:00",
       "excerpt": "Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…",
       "firstSeen": "2026-10-06T13:22:51.544108+00:00"
-    },
-    {
-      "id": "ce56aa83d0064ef1",
-      "title": "Gemini 4 Argon: our next era of frontier intelligence",
-      "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-09-30T20:01:45+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-03T17:28:40.970059+00:00"
     },
     {
       "id": "553830d231d34627",

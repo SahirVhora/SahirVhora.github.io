@@ -4,13 +4,61 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 11:58:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 20:34:41 +0000</lastBuildDate>
+    <item>
+      <title>Build more responsive apps with the Decisions API</title>
+      <link>https://openai.com/index/decisions-api</link>
+      <guid>https://openai.com/index/decisions-api</guid>
+      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
+      <description>Fast, focused, low-cost decisions for any application.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>OlmoEarth v1.3: State-of-the-art embeddings for the whole planet</title>
+      <link>https://huggingface.co/blog/allenai/olmoearth-v1-3</link>
+      <guid>https://huggingface.co/blog/allenai/olmoearth-v1-3</guid>
+      <pubDate>Thu, 22 Oct 2026 16:11:31 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Beyond tree cover: mapping the world’s forest types</title>
+      <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
+      <guid>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
+      <pubDate>Thu, 22 Oct 2026 14:30:24 +0000</pubDate>
+      <description>A global map categorizing every 10-meter patch of land on Earth into distinct forest types.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Surprising Feature in a Topological Superconductor Candidate</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s134</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s134</guid>
+      <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Michael Schirber A new hint of topological superconductivity has been identified in an iron-based superconductor. [Physics 19,…</description>
+      <category>physics</category>
+    </item>
     <item>
       <title>Ensemble forecasting with IBM Granite time-series models</title>
       <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
       <guid>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
       <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>What FDE means at OpenAI</title>
+      <link>https://openai.com/index/forward-deployed-engineering-means</link>
+      <guid>https://openai.com/index/forward-deployed-engineering-means</guid>
+      <pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
+      <description>What forward deployed engineering means at OpenAI</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
+      <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
+      <guid>https://openai.com/index/uber-chatgpt-work-rollout</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data,…</description>
       <category>ai</category>
     </item>
     <item>
@@ -35,6 +83,22 @@
       <guid>https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description>The regional distribution of Britain’s economy traps operational leadership…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Focus, scale, fund: The AI playbook CPG leaders are missing</title>
+      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing</link>
+      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Federal permitting’s uneven economic impact, and what companies can do about it</title>
+      <link>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</link>
+      <guid>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Permitting delays ripple unevenly across states depending on their industry mix. Companies with…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -142,38 +206,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
-      <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
-      <guid>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Patch the Planet connects security researchers, maintainers, and incident responders to help address critical…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>How we built ChatGPT’s novel ad stack for user trust and relevance</title>
-      <link>https://openai.com/index/building-chatgpt-ad-stack</link>
-      <guid>https://openai.com/index/building-chatgpt-ad-stack</guid>
-      <pubDate>Wed, 21 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Using thousands of AI agents to uncover new leads in biological data</title>
-      <link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
-      <guid>https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
-      <pubDate>Wed, 21 Oct 2026 04:50:00 +0000</pubDate>
-      <description>See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
-      <link>https://huggingface.co/blog/allenai/fairstress</link>
-      <guid>https://huggingface.co/blog/allenai/fairstress</guid>
-      <pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified</title>
       <link>https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/</link>
       <guid>https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/</guid>
@@ -206,27 +238,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Three horizons of quantum: A business road map to the future computing economy</title>
-      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</link>
-      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>In the next decade, quantum technology could create trillions in value and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Switch tracks: Rewiring rolling stock for a new era</title>
-      <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era</link>
-      <guid>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Securing software in the age of AI: Red Hat CTO Chris Wright</title>
       <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright</link>
       <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright</guid>
       <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
       <description>Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Three horizons of quantum: A business road map to the future computing economy</title>
+      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</link>
+      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</guid>
+      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
+      <description>In the next decade, quantum technology could create trillions in value and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -243,14 +267,6 @@
       <guid>https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/</guid>
       <pubDate>Mon, 19 Oct 2026 11:00:59 +0000</pubDate>
       <description>Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Closing the women’s health gap: Switzerland’s CHF 7 billion opportunity</title>
-      <link>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</link>
-      <guid>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -366,14 +382,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Hybrid Quantum Computer Could Simulate Both Fermions and Bosons</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.135</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.135</guid>
-      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Anthony Ciavarella Pairing superconducting qubits with microwave cavities could reduce the hardware requirements for quantum…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
       <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
       <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
@@ -388,14 +396,6 @@
       <pubDate>Tue, 06 Oct 2026 11:00:14 +0000</pubDate>
       <description>Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: our next era of frontier intelligence</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</link>
-      <guid>https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/</guid>
-      <pubDate>Wed, 30 Sep 2026 20:01:45 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Scattering neutrinos to probe the fundamental laws of the universe</title>
