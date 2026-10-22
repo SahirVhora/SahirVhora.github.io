@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21T20:39:23.870778+00:00",
+  "updatedAt": "2026-10-22T11:58:19.098251+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,61 @@
   ],
   "stories": [
     {
+      "id": "0e5fad3ca5f8a881",
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-22T07:51:31+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
+      "id": "8bde3941afad2dc2",
+      "title": "The State of Grocery Retail Europe: Implications for packaging players",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment,…",
+      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
+      "id": "189b3709217066aa",
+      "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…",
+      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
+      "id": "1d56fce3e945378a",
+      "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
+      "url": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "The regional distribution of Britain’s economy traps operational leadership…",
+      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
+      "id": "3f1a11956436b167",
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-21T21:00:00+00:00",
+      "excerpt": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
       "id": "ebb889b66b29fc25",
       "title": "SAP Announces Q3 2026 Results",
       "url": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/",
@@ -68,7 +123,7 @@
       "source": "SAP News",
       "evidence": "Company announcement",
       "published": "2026-10-21T20:07:37+00:00",
-      "excerpt": "WALLDORF — SAP SE (NYSE: SAP) today announced its financial results for the third quarter 2026. At a glance Christian…",
+      "excerpt": "WALLDORF — The company's Autonomous Enterprise strategy is not just resonating, it is being adopted.",
       "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
@@ -182,6 +237,17 @@
       "firstSeen": "2026-10-21T11:55:46.786492+00:00"
     },
     {
+      "id": "f3207e9a2bfd0f6c",
+      "title": "A Quantum Cyclotron for Antimatter",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.132",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-21T10:00:00+00:00",
+      "excerpt": "Author(s): Paolo Crivelli A device that stores a single positron and controls its quantum states could measure its magnetic moment…",
+      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
+    },
+    {
       "id": "de9db6f384cbc788",
       "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
@@ -215,17 +281,6 @@
       "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
-      "id": "e270f5ba4688033d",
-      "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
-      "url": "https://openai.com/index/empowering-cyber-defenders",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T00:00:00+00:00",
-      "excerpt": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity,…",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
-    },
-    {
       "id": "ef73bf2ace8ac671",
       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
       "url": "https://huggingface.co/blog/allenai/fairstress",
@@ -233,17 +288,6 @@
       "source": "Hugging Face",
       "evidence": "Community / technical",
       "published": "2026-10-20T16:09:19+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
-      "id": "536f23cd94f13984",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-20T15:19:48+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-20T20:38:40.422337+00:00"
     },
@@ -355,39 +399,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-19T00:00:00+00:00",
       "excerpt": "Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…",
-      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
-    },
-    {
-      "id": "60ea6ead197ece34",
-      "title": "The next era of US retirement: Four shifts redefining competition",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-19T00:00:00+00:00",
-      "excerpt": "The US retirement industry is entering a new era. Four shifts, from AI to product…",
-      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
-    },
-    {
-      "id": "4ac3670dfd970161",
-      "title": "The state of business aviation in 2026: Resilient, despite headwinds",
-      "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-19T00:00:00+00:00",
-      "excerpt": "Our inaugural business aviation article finds that demand for private aviation services continues to grow,…",
-      "firstSeen": "2026-10-19T21:33:54.650245+00:00"
-    },
-    {
-      "id": "b1dcfa8dc22f675e",
-      "title": "The hidden opportunity in the next $2 trillion of US–Latin America trade",
-      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-19T00:00:00+00:00",
-      "excerpt": "Our latest research finds that distinctive capabilities unique to Latino business owners and…",
       "firstSeen": "2026-10-19T13:24:47.340905+00:00"
     },
     {
@@ -554,17 +565,6 @@
       "published": "2026-10-07T10:00:00+00:00",
       "excerpt": "Author(s): Anthony Ciavarella Pairing superconducting qubits with microwave cavities could reduce the hardware requirements for quantum…",
       "firstSeen": "2026-10-08T13:36:11.181371+00:00"
-    },
-    {
-      "id": "2604571a95dfc973",
-      "title": "First Nuclear Clocks Kick Off a Precision Race",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.139",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-07T10:00:00+00:00",
-      "excerpt": "Author(s): Matteo Rini Two independent teams have built operating nuclear clocks—devices that might one day rival the…",
-      "firstSeen": "2026-10-08T22:07:14.006663+00:00"
     },
     {
       "id": "c11a83f73b42d756",

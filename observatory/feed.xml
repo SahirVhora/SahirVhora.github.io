@@ -4,13 +4,53 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 20:39:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:58:19 +0000</lastBuildDate>
+    <item>
+      <title>Ensemble forecasting with IBM Granite time-series models</title>
+      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
+      <guid>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
+      <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The State of Grocery Retail Europe: Implications for packaging players</title>
+      <link>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</link>
+      <guid>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Asia’s energy reckoning: Securing the energy system to drive growth</title>
+      <link>https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth</link>
+      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2</title>
+      <link>https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2</link>
+      <guid>https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The regional distribution of Britain’s economy traps operational leadership…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Broad access through consistent standards</title>
+      <link>https://openai.com/index/broad-access-through-consistent-standards</link>
+      <guid>https://openai.com/index/broad-access-through-consistent-standards</guid>
+      <pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
+      <description>How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP Announces Q3 2026 Results</title>
       <link>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</link>
       <guid>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</guid>
       <pubDate>Wed, 21 Oct 2026 20:07:37 +0000</pubDate>
-      <description>WALLDORF — SAP SE (NYSE: SAP) today announced its financial results for the third quarter 2026. At a glance Christian…</description>
+      <description>WALLDORF — The company's Autonomous Enterprise strategy is not just resonating, it is being adopted.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -94,6 +134,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>A Quantum Cyclotron for Antimatter</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.132</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.132</guid>
+      <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Paolo Crivelli A device that stores a single positron and controls its quantum states could measure its magnetic moment…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
       <link>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</link>
       <guid>https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities</guid>
@@ -118,26 +166,10 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Democratic governance of frontier AI, part II: Empowering cyber defenders</title>
-      <link>https://openai.com/index/empowering-cyber-defenders</link>
-      <guid>https://openai.com/index/empowering-cyber-defenders</guid>
-      <pubDate>Wed, 21 Oct 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity,…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
       <link>https://huggingface.co/blog/allenai/fairstress</link>
       <guid>https://huggingface.co/blog/allenai/fairstress</guid>
       <pubDate>Tue, 20 Oct 2026 16:09:19 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
-      <link>https://huggingface.co/blog/ibm-research/altk-evolve-bc</link>
-      <guid>https://huggingface.co/blog/ibm-research/altk-evolve-bc</guid>
-      <pubDate>Tue, 20 Oct 2026 15:19:48 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -219,30 +251,6 @@
       <guid>https://www.mckinsey.com/mhi/our-insights/closing-the-womens-health-gap-switzerlands-chf-7-billion-opportunity</guid>
       <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
       <description>Addressing the women’s health gap in Switzerland could deliver eight additional healthy days per year…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The next era of US retirement: Four shifts redefining competition</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-next-era-of-us-retirement-four-shifts-redefining-competition</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The US retirement industry is entering a new era. Four shifts, from AI to product…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The state of business aviation in 2026: Resilient, despite headwinds</title>
-      <link>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</link>
-      <guid>https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/the-state-of-business-aviation-in-2026-resilient-despite-headwinds</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Our inaugural business aviation article finds that demand for private aviation services continues to grow,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The hidden opportunity in the next $2 trillion of US–Latin America trade</title>
-      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</link>
-      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/the-hidden-opportunity-in-the-next-2-trillion-of-us-latin-america-trade</guid>
-      <pubDate>Mon, 19 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Our latest research finds that distinctive capabilities unique to Latino business owners and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -363,14 +371,6 @@
       <guid>http://link.aps.org/doi/10.1103/Physics.19.135</guid>
       <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Anthony Ciavarella Pairing superconducting qubits with microwave cavities could reduce the hardware requirements for quantum…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>First Nuclear Clocks Kick Off a Precision Race</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.139</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.139</guid>
-      <pubDate>Wed, 07 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Matteo Rini Two independent teams have built operating nuclear clocks—devices that might one day rival the…</description>
       <category>physics</category>
     </item>
     <item>
