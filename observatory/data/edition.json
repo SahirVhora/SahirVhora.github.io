@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22T20:34:41.059648+00:00",
+  "updatedAt": "2026-10-23T11:44:25.694718+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -61,6 +62,39 @@
   ],
   "stories": [
     {
+      "id": "c297fed968314ef8",
+      "title": "For the 12th Time, SAP Named a Leader in Gartner® Magic Quadrant™ for Digital Commerce Platform",
+      "url": "https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-23T11:15:00+00:00",
+      "excerpt": "SAP helps customers simplify complex commerce and prepare for…",
+      "firstSeen": "2026-10-23T11:44:25.694718+00:00"
+    },
+    {
+      "id": "1a543055a02f9816",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-23T00:00:00+00:00",
+      "excerpt": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to…",
+      "firstSeen": "2026-10-23T11:44:25.694718+00:00"
+    },
+    {
+      "id": "51888f116f5b0837",
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-22T22:24:34+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-23T11:44:25.694718+00:00"
+    },
+    {
       "id": "891b7e0bbf66f86d",
       "title": "Build more responsive apps with the Decisions API",
       "url": "https://openai.com/index/decisions-api",
@@ -91,7 +125,8 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
+      "retained": true
     },
     {
       "id": "0e653436fc7097c4",
@@ -138,6 +173,17 @@
       "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
+      "id": "618e56b075c1a253",
+      "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it…",
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
       "id": "8bde3941afad2dc2",
       "title": "The State of Grocery Retail Europe: Implications for packaging players",
       "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
@@ -169,17 +215,6 @@
       "published": "2026-10-22T00:00:00+00:00",
       "excerpt": "The regional distribution of Britain’s economy traps operational leadership…",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "618e56b075c1a253",
-      "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it…",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "396399d799eaeb94",
@@ -281,17 +316,6 @@
       "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
-      "id": "95dedf578de78f3e",
-      "title": "OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T12:00:00+00:00",
-      "excerpt": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google…",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
-    },
-    {
       "id": "c54682161ae9f265",
       "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools",
       "url": "https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/",
@@ -369,28 +393,6 @@
       "firstSeen": "2026-10-20T11:44:05.128720+00:00"
     },
     {
-      "id": "39e60f901a735303",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
-      "id": "9ead06592da08e30",
-      "title": "Securing software in the age of AI: Red Hat CTO Chris Wright",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/securing-software-in-the-age-of-ai-red-hat-cto-chris-wright",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-20T00:00:00+00:00",
-      "excerpt": "Open-source veteran Chris Wright explains why AI-driven vulnerability discovery is forcing a reckoning…",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
       "id": "72aeba541685bcd8",
       "title": "Three horizons of quantum: A business road map to the future computing economy",
       "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy",
@@ -402,15 +404,15 @@
       "firstSeen": "2026-10-20T20:38:40.422337+00:00"
     },
     {
-      "id": "5ab45f85c553d575",
-      "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Finance",
-      "url": "https://news.sap.com/2026/10/sap-recognized-leader-gartner-magic-quadrant-cloud-erp-finance/",
+      "id": "3bdd3a397f20e4b9",
+      "title": "Switch tracks: Rewiring rolling stock for a new era",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/switch-tracks-rewiring-rolling-stock-for-a-new-era",
       "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-19T12:15:00+00:00",
-      "excerpt": "As the role of finance continues to evolve, we…",
-      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-20T00:00:00+00:00",
+      "excerpt": "Fast-growing markets in Asia are difficult for global rail OEMs to access. Value could shift from…",
+      "firstSeen": "2026-10-23T11:44:25.694718+00:00"
     },
     {
       "id": "debc799cf11468cd",
@@ -432,7 +434,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "422d5c94b0f19090",
@@ -487,7 +490,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -498,7 +502,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "94cc08977f17740f",
@@ -509,7 +514,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "851107eacfc8ba0f",
@@ -520,7 +526,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "1bea57be060b614f",
@@ -586,7 +593,8 @@
       "evidence": "Company research",
       "published": "2026-10-06T19:57:04+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
+      "firstSeen": "2026-10-07T13:29:58.067244+00:00",
+      "retained": true
     },
     {
       "id": "9e404219683ad718",
