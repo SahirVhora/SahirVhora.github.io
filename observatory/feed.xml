@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 23 Oct 2026 20:29:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:07:17 +0000</lastBuildDate>
     <item>
       <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
       <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
@@ -38,19 +38,19 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Tiny Particles Charge Like Capacitors</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
       <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
       <guid>https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
-      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-      <guid>https://huggingface.co/blog/torch-neuronx-model-support</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
       <category>ai</category>
     </item>
     <item>
@@ -60,6 +60,14 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>Can we unlock AI’s promise without surrendering human judgment? Technology leader Tiffany Xingyu Wang says…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
+      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+      <guid>https://huggingface.co/blog/torch-neuronx-model-support</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
     </item>
     <item>
       <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -363,14 +371,6 @@
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s125</guid>
       <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>How To Arrange Hundreds of Atoms Between Two Mirrors</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s126</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s126</guid>
-      <pubDate>Thu, 08 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Sophia Chen A new device in which more than 600 atoms are manipulated within a…</description>
       <category>physics</category>
     </item>
     <item>
