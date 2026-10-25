@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-24T19:31:08.993403+00:00",
+  "updatedAt": "2026-10-25T11:37:37.969718+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -237,17 +237,6 @@
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
-      "id": "189b3709217066aa",
-      "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…",
-      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
       "id": "618e56b075c1a253",
       "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
       "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
@@ -259,14 +248,14 @@
       "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
-      "id": "1d56fce3e945378a",
-      "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
-      "url": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
+      "id": "189b3709217066aa",
+      "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "The regional distribution of Britain’s economy traps operational leadership…",
+      "excerpt": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
@@ -279,6 +268,17 @@
       "published": "2026-10-22T00:00:00+00:00",
       "excerpt": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with…",
       "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+    },
+    {
+      "id": "1d56fce3e945378a",
+      "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
+      "url": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-22T00:00:00+00:00",
+      "excerpt": "The regional distribution of Britain’s economy traps operational leadership…",
+      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
       "id": "3f1a11956436b167",
