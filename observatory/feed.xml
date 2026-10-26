@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 25 Oct 2026 19:41:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 13:10:08 +0000</lastBuildDate>
+    <item>
+      <title>Is HR Tech Undermining Your Strategy?</title>
+      <link>https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/</link>
+      <guid>https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/</guid>
+      <pubDate>Mon, 26 Oct 2026 11:00:29 +0000</pubDate>
+      <description>Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Watch the universe emerge from the dark ages, with Lumina</title>
+      <link>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</link>
+      <guid>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</guid>
+      <pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
+      <description>The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI</title>
+      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai</link>
+      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>AI agents can increasingly make decisions, act, and collaborate…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
       <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
@@ -30,14 +54,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <guid>https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-      <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Tiny Particles Charge Like Capacitors</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
@@ -46,11 +62,11 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
-      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-      <guid>https://huggingface.co/blog/torch-neuronx-model-support</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
+      <title>Securing our frontier model training environment</title>
+      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
+      <guid>https://openai.com/index/securing-our-frontier-model-training-environment</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+      <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
       <category>ai</category>
     </item>
     <item>
@@ -59,6 +75,14 @@
       <guid>https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
+      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
+      <guid>https://huggingface.co/blog/torch-neuronx-model-support</guid>
+      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -126,19 +150,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The State of Grocery Retail Europe: Implications for packaging players</title>
-      <link>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</link>
-      <guid>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Focus, scale, fund: The AI playbook CPG leaders are missing</title>
       <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing</link>
       <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description>Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The State of Grocery Retail Europe: Implications for packaging players</title>
+      <link>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</link>
+      <guid>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment,…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -150,19 +174,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Federal permitting’s uneven economic impact, and what companies can do about it</title>
-      <link>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</link>
-      <guid>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Permitting delays ripple unevenly across states depending on their industry mix. Companies with…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2</title>
       <link>https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2</link>
       <guid>https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2</guid>
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description>The regional distribution of Britain’s economy traps operational leadership…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Federal permitting’s uneven economic impact, and what companies can do about it</title>
+      <link>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</link>
+      <guid>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</guid>
+      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Permitting delays ripple unevenly across states depending on their industry mix. Companies with…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -259,14 +283,6 @@
       <guid>https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/</guid>
       <pubDate>Tue, 20 Oct 2026 10:15:00 +0000</pubDate>
       <description>For three decades, the event has continually found new ways to bring the SAP community together.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Three horizons of quantum: A business road map to the future computing economy</title>
-      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</link>
-      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/three-horizons-of-quantum-a-business-road-map-to-the-future-computing-economy</guid>
-      <pubDate>Tue, 20 Oct 2026 00:00:00 +0000</pubDate>
-      <description>In the next decade, quantum technology could create trillions in value and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -388,14 +404,6 @@
       <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>The Real Reasons Why Digital Projects Fail</title>
-      <link>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</link>
-      <guid>https://sloanreview.mit.edu/article/the-real-reasons-why-digital-projects-fail/</guid>
-      <pubDate>Tue, 06 Oct 2026 11:00:14 +0000</pubDate>
-      <description>Danae Diaz/Ikon Images It’s a familiar scenario: An organization implements digital tools intended to improve a particular process…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Scattering neutrinos to probe the fundamental laws of the universe</title>
