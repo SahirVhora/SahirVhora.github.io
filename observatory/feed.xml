@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 13:10:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 21:39:04 +0000</lastBuildDate>
+    <item>
+      <title>AI Release Highlights Q3 2026</title>
+      <link>https://news.sap.com/2026/10/ai-release-highlights-q3-2026/</link>
+      <guid>https://news.sap.com/2026/10/ai-release-highlights-q3-2026/</guid>
+      <pubDate>Mon, 26 Oct 2026 20:50:00 +0000</pubDate>
+      <description>The quarter marks a major step in delivering on our promise of the Autonomous Enterprise.</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Is HR Tech Undermining Your Strategy?</title>
       <link>https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/</link>
@@ -12,6 +20,30 @@
       <pubDate>Mon, 26 Oct 2026 11:00:29 +0000</pubDate>
       <description>Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>ChatGPT’s expanding world of work</title>
+      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
+      <guid>https://openai.com/index/chatgpt-expanding-world-of-work</guid>
+      <pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Fanatics and OpenAI streamline the fan experience</title>
+      <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
+      <guid>https://openai.com/index/fanatics-streamline-fan-experience</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
+      <link>https://openai.com/index/openai-cut-incident-investigation</link>
+      <guid>https://openai.com/index/openai-cut-incident-investigation</guid>
+      <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
+      <description>See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Watch the universe emerge from the dark ages, with Lumina</title>
@@ -22,11 +54,43 @@
       <category>physics</category>
     </item>
     <item>
+      <title>Introducing GPT-6.1 Terra</title>
+      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
+      <guid>https://openai.com/index/introducing-gpt-6-1-terra</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Bringing fast and capable computer use to everyone</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Pfizer’s Alex Condoleon on medical affairs accountability</title>
+      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability</link>
+      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Pfizer’s chief medical affairs officer talks about measuring medical affairs’ true impact, leading change at scale, and what…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Agentic AI in financial-crime prevention: Lessons from winners</title>
+      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners</link>
+      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A year of delivery has confirmed much of what we expected about agentic AI in financial-crime prevention—and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
       <title>The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI</title>
       <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai</link>
       <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI agents can increasingly make decisions, act, and collaborate…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Agentic AI in transaction monitoring: How banks can scale AI in compliance</title>
+      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance</link>
+      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance</guid>
+      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Applying AI to transaction monitoring shows how agents can transform compliance tasks and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -54,20 +118,20 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Tiny Particles Charge Like Capacitors</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>Securing our frontier model training environment</title>
       <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
       <guid>https://openai.com/index/securing-our-frontier-model-training-environment</guid>
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
       <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
       <category>ai</category>
+    </item>
+    <item>
+      <title>Tiny Particles Charge Like Capacitors</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
+      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…</description>
+      <category>physics</category>
     </item>
     <item>
       <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
@@ -102,14 +166,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Build more responsive apps with the Decisions API</title>
-      <link>https://openai.com/index/decisions-api</link>
-      <guid>https://openai.com/index/decisions-api</guid>
-      <pubDate>Thu, 22 Oct 2026 19:00:00 +0000</pubDate>
-      <description>Fast, focused, low-cost decisions for any application.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Beyond tree cover: mapping the world’s forest types</title>
       <link>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</link>
       <guid>https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/</guid>
@@ -134,30 +190,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>What FDE means at OpenAI</title>
-      <link>https://openai.com/index/forward-deployed-engineering-means</link>
-      <guid>https://openai.com/index/forward-deployed-engineering-means</guid>
-      <pubDate>Thu, 22 Oct 2026 06:00:00 +0000</pubDate>
-      <description>What forward deployed engineering means at OpenAI</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Uber brings ChatGPT Work to all employees with OpenAI</title>
-      <link>https://openai.com/index/uber-chatgpt-work-rollout</link>
-      <guid>https://openai.com/index/uber-chatgpt-work-rollout</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data,…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Focus, scale, fund: The AI playbook CPG leaders are missing</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The State of Grocery Retail Europe: Implications for packaging players</title>
       <link>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</link>
       <guid>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</guid>
@@ -172,30 +204,6 @@
       <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
       <description>Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2</title>
-      <link>https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2</link>
-      <guid>https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>The regional distribution of Britain’s economy traps operational leadership…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Federal permitting’s uneven economic impact, and what companies can do about it</title>
-      <link>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</link>
-      <guid>https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Permitting delays ripple unevenly across states depending on their industry mix. Companies with…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Broad access through consistent standards</title>
-      <link>https://openai.com/index/broad-access-through-consistent-standards</link>
-      <guid>https://openai.com/index/broad-access-through-consistent-standards</guid>
-      <pubDate>Wed, 21 Oct 2026 21:00:00 +0000</pubDate>
-      <description>How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.</description>
-      <category>ai</category>
     </item>
     <item>
       <title>SAP Announces Q3 2026 Results</title>
@@ -275,14 +283,6 @@
       <guid>https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/</guid>
       <pubDate>Tue, 20 Oct 2026 11:15:00 +0000</pubDate>
       <description>CRM value is created at the intersection of pipeline intelligence and ERP reality.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Back to the Future: 30 Years of SAP TechEd</title>
-      <link>https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/</link>
-      <guid>https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/</guid>
-      <pubDate>Tue, 20 Oct 2026 10:15:00 +0000</pubDate>
-      <description>For three decades, the event has continually found new ways to bring the SAP community together.</description>
       <category>consulting</category>
     </item>
     <item>

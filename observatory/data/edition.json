@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T13:10:08.665792+00:00",
+  "updatedAt": "2026-10-26T21:39:04.469934+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,17 @@
   ],
   "stories": [
     {
+      "id": "c897277e4824c2c5",
+      "title": "AI Release Highlights Q3 2026",
+      "url": "https://news.sap.com/2026/10/ai-release-highlights-q3-2026/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T20:50:00+00:00",
+      "excerpt": "The quarter marks a major step in delivering on our promise of the Autonomous Enterprise.",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
+    },
+    {
       "id": "2a5b4af9078abd04",
       "title": "Is HR Tech Undermining Your Strategy?",
       "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
@@ -70,6 +81,39 @@
       "published": "2026-10-26T11:00:29+00:00",
       "excerpt": "Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching…",
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
+    },
+    {
+      "id": "27334100e818b985",
+      "title": "ChatGPT’s expanding world of work",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T10:00:00+00:00",
+      "excerpt": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and…",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
+    },
+    {
+      "id": "7e73eebe3e909303",
+      "title": "How Fanatics and OpenAI streamline the fan experience",
+      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T07:00:00+00:00",
+      "excerpt": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly…",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
+    },
+    {
+      "id": "742d30efdc4090c1",
+      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "url": "https://openai.com/index/openai-cut-incident-investigation",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T07:00:00+00:00",
+      "excerpt": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster…",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
       "id": "19160e849b3790b1",
@@ -83,6 +127,39 @@
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
     },
     {
+      "id": "35e334c198740f74",
+      "title": "Introducing GPT-6.1 Terra",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T00:00:00+00:00",
+      "excerpt": "Bringing fast and capable computer use to everyone",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
+    },
+    {
+      "id": "3219fe0afe451821",
+      "title": "Pfizer’s Alex Condoleon on medical affairs accountability",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-26T00:00:00+00:00",
+      "excerpt": "Pfizer’s chief medical affairs officer talks about measuring medical affairs’ true impact, leading change at scale, and what…",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
+    },
+    {
+      "id": "fc6d45bdeb38f4e4",
+      "title": "Agentic AI in financial-crime prevention: Lessons from winners",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-26T00:00:00+00:00",
+      "excerpt": "A year of delivery has confirmed much of what we expected about agentic AI in financial-crime prevention—and…",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
+    },
+    {
       "id": "6b9c2f744d4357de",
       "title": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
       "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
@@ -92,6 +169,17 @@
       "published": "2026-10-26T00:00:00+00:00",
       "excerpt": "AI agents can increasingly make decisions, act, and collaborate…",
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
+    },
+    {
+      "id": "0ae012233e01c06a",
+      "title": "Agentic AI in transaction monitoring: How banks can scale AI in compliance",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-26T00:00:00+00:00",
+      "excerpt": "Applying AI to transaction monitoring shows how agents can transform compliance tasks and…",
+      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
       "id": "ee4c22366ef7e7ab",
@@ -127,17 +215,6 @@
       "firstSeen": "2026-10-23T11:44:25.694718+00:00"
     },
     {
-      "id": "aa100c46e2079509",
-      "title": "Tiny Particles Charge Like Capacitors",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-23T10:00:00+00:00",
-      "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
-      "firstSeen": "2026-10-24T11:07:17.701381+00:00"
-    },
-    {
       "id": "f8c156dba7886826",
       "title": "Securing our frontier model training environment",
       "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
@@ -147,6 +224,17 @@
       "published": "2026-10-23T10:00:00+00:00",
       "excerpt": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
       "firstSeen": "2026-10-23T20:29:23.707370+00:00"
+    },
+    {
+      "id": "aa100c46e2079509",
+      "title": "Tiny Particles Charge Like Capacitors",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-23T10:00:00+00:00",
+      "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
+      "firstSeen": "2026-10-24T11:07:17.701381+00:00"
     },
     {
       "id": "1a543055a02f9816",
@@ -193,17 +281,6 @@
       "firstSeen": "2026-10-23T11:44:25.694718+00:00"
     },
     {
-      "id": "891b7e0bbf66f86d",
-      "title": "Build more responsive apps with the Decisions API",
-      "url": "https://openai.com/index/decisions-api",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-22T19:00:00+00:00",
-      "excerpt": "Fast, focused, low-cost decisions for any application.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
-    },
-    {
       "id": "301925b8adfcebab",
       "title": "Beyond tree cover: mapping the world’s forest types",
       "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
@@ -237,39 +314,6 @@
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
-      "id": "6400feb681472530",
-      "title": "What FDE means at OpenAI",
-      "url": "https://openai.com/index/forward-deployed-engineering-means",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-22T06:00:00+00:00",
-      "excerpt": "What forward deployed engineering means at OpenAI",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
-    },
-    {
-      "id": "eda525050cea8fce",
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data,…",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
-    },
-    {
-      "id": "618e56b075c1a253",
-      "title": "Focus, scale, fund: The AI playbook CPG leaders are missing",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/focus-scale-fund-the-ai-playbook-cpg-leaders-are-missing",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Small brands are out-innovating giants, buying patterns are changing, and scale isn’t the shield it…",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
-    },
-    {
       "id": "8bde3941afad2dc2",
       "title": "The State of Grocery Retail Europe: Implications for packaging players",
       "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
@@ -289,39 +333,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-22T00:00:00+00:00",
       "excerpt": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…",
-      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "1d56fce3e945378a",
-      "title": "The UK’s regional talent trap and how it restricts regional growth: UK Productivity Series, part 2",
-      "url": "https://www.mckinsey.com/uk/our-insights/the-uks-regional-talent-trap-and-how-it-restricts-regional-growth-uk-productivity-series-part-2",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "The regional distribution of Britain’s economy traps operational leadership…",
-      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "396399d799eaeb94",
-      "title": "Federal permitting’s uneven economic impact, and what companies can do about it",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/federal-permittings-uneven-economic-impact-and-what-companies-can-do-about-it",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Permitting delays ripple unevenly across states depending on their industry mix. Companies with…",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
-    },
-    {
-      "id": "3f1a11956436b167",
-      "title": "Broad access through consistent standards",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T21:00:00+00:00",
-      "excerpt": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
@@ -432,17 +443,6 @@
       "evidence": "Company announcement",
       "published": "2026-10-20T11:15:00+00:00",
       "excerpt": "CRM value is created at the intersection of pipeline intelligence and ERP reality.",
-      "firstSeen": "2026-10-20T11:44:05.128720+00:00"
-    },
-    {
-      "id": "ec2b5eb313f47a6e",
-      "title": "Back to the Future: 30 Years of SAP TechEd",
-      "url": "https://news.sap.com/2026/10/back-to-the-future-30-years-of-sap-teched/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-20T10:15:00+00:00",
-      "excerpt": "For three decades, the event has continually found new ways to bring the SAP community together.",
       "firstSeen": "2026-10-20T11:44:05.128720+00:00"
     },
     {
