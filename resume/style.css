@@ -1,3 +1,4 @@
+.print-name{display:none}
 :root{
   color-scheme:dark;
   --bg:#101b26;
@@ -771,6 +772,8 @@ h2{
 }
 
 @media print{
+.about-columns{color:#333}
+
   html{
   scroll-behavior:auto}
 body{
@@ -796,11 +799,8 @@ h1 br{
   display:none}
 h1 br:after{
   content:' '}
-.hero h1{
-  font-size:0}
-.hero h1:before{
-  content:'Sahir Vhora';
-  font-size:30pt}
+.hero h1{font-size:30pt}
+.screen-title{display:none}.print-name{display:inline}
 .hero h1 em{
   display:none}
 .eyebrow{
