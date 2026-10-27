@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 12:18:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 21:21:57 +0000</lastBuildDate>
+    <item>
+      <title>Build specialized multimodal models with LFM3</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+      <guid>https://huggingface.co/blog/LiquidAI/lfm3</guid>
+      <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Can we trust LLMs to judge whether a research idea is novel?</title>
+      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
+      <guid>https://huggingface.co/blog/allenai/novelty-bench</guid>
+      <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Genie 4: A new generation of world simulation</title>
+      <link>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</link>
+      <guid>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
+      <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
+      <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation.</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>What Interruptions Say About Your Organizational Culture</title>
       <link>https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/</link>
@@ -14,11 +38,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World</title>
-      <link>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</link>
-      <guid>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
-      <description>AI has gone from insight to action. With physical AI, it comes…</description>
+      <title>SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution</title>
+      <link>https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/</link>
+      <guid>https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/</guid>
+      <pubDate>Tue, 27 Oct 2026 08:02:00 +0000</pubDate>
+      <description>BERLIN — SAP SE (NYSE: SAP) today announced a series of…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Innovation News Guide: The Autonomous Enterprise Becomes a Reality</title>
+      <link>https://www.sap.com/topics/events/teched/innovation-news-guide-2026</link>
+      <guid>https://www.sap.com/topics/events/teched/innovation-news-guide-2026</guid>
+      <pubDate>Tue, 27 Oct 2026 08:01:00 +0000</pubDate>
+      <description>Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -30,19 +62,43 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Innovation News Guide: The Autonomous Enterprise Becomes a Reality</title>
-      <link>https://www.sap.com/topics/events/teched/innovation-news-guide-2026</link>
-      <guid>https://www.sap.com/topics/events/teched/innovation-news-guide-2026</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
-      <description>Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.</description>
+      <title>SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World</title>
+      <link>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</link>
+      <guid>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</guid>
+      <pubDate>Tue, 27 Oct 2026 07:59:00 +0000</pubDate>
+      <description>AI has gone from insight to action. With physical AI, it comes…</description>
       <category>consulting</category>
     </item>
     <item>
-      <title>SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution</title>
-      <link>https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/</link>
-      <guid>https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
-      <description>BERLIN — SAP SE (NYSE: SAP) today announced a series of…</description>
+      <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
+      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
+      <guid>https://openai.com/index/oracle-apps-in-chatgpt</guid>
+      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
+      <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Check Point accelerates vulnerability research with Daybreak</title>
+      <link>https://openai.com/index/check-point-daybreak</link>
+      <guid>https://openai.com/index/check-point-daybreak</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>What AI can’t replace—and why it matters for value</title>
+      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value</link>
+      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>‘Hold course and adapt as you go’: An interview with Manon van Beek</title>
+      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek</link>
+      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek</guid>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As she prepares to step down, the CEO of leading European grid…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -102,28 +158,12 @@
       <category>ai</category>
     </item>
     <item>
-      <title>How Ultrafast cut incident investigation from hours to minutes at OpenAI</title>
-      <link>https://openai.com/index/openai-cut-incident-investigation</link>
-      <guid>https://openai.com/index/openai-cut-incident-investigation</guid>
-      <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-      <description>See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Watch the universe emerge from the dark ages, with Lumina</title>
       <link>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</link>
       <guid>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</guid>
       <pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
       <description>The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Introducing GPT-6.1 Terra</title>
-      <link>https://openai.com/index/introducing-gpt-6-1-terra</link>
-      <guid>https://openai.com/index/introducing-gpt-6-1-terra</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Bringing fast and capable computer use to everyone</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Pfizer’s Alex Condoleon on medical affairs accountability</title>
@@ -156,14 +196,6 @@
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>Applying AI to transaction monitoring shows how agents can transform compliance tasks and…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
-      <link>https://huggingface.co/blog/allenai/litpivot</link>
-      <guid>https://huggingface.co/blog/allenai/litpivot</guid>
-      <pubDate>Fri, 23 Oct 2026 16:15:50 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>For the 12th Time, SAP Named a Leader in Gartner® Magic Quadrant™ for Digital Commerce Platforms</title>
@@ -230,22 +262,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The State of Grocery Retail Europe: Implications for packaging players</title>
-      <link>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</link>
-      <guid>https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Asia’s energy reckoning: Securing the energy system to drive growth</title>
-      <link>https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth</link>
-      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth</guid>
-      <pubDate>Thu, 22 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>SAP Announces Q3 2026 Results</title>
       <link>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</link>
       <guid>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</guid>
@@ -266,14 +282,6 @@
       <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
       <guid>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
       <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
-      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
-      <guid>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
-      <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -396,14 +404,6 @@
       <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>
-      <link>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</link>
-      <guid>https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/</guid>
-      <pubDate>Tue, 06 Oct 2026 19:57:04 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Scattering neutrinos to probe the fundamental laws of the universe</title>

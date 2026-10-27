@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T12:18:08.405697+00:00",
+  "updatedAt": "2026-10-27T21:21:57.705022+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,39 @@
   ],
   "stories": [
     {
+      "id": "1c5b51464767c2ad",
+      "title": "Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-27T17:16:52+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+    },
+    {
+      "id": "1d6c5c59e46e52b9",
+      "title": "Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-27T16:12:42+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+    },
+    {
+      "id": "393575ee7d83ff0a",
+      "title": "Genie 4: A new generation of world simulation",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-27T16:01:38+00:00",
+      "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+    },
+    {
       "id": "0b541fa95db69814",
       "title": "What Interruptions Say About Your Organizational Culture",
       "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
@@ -72,14 +105,25 @@
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
-      "id": "98ad5915e9a21a20",
-      "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
-      "url": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
+      "id": "e6f17412f5a55b6a",
+      "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
+      "url": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
       "category": "consulting",
       "source": "SAP News",
       "evidence": "Company announcement",
-      "published": "2026-10-27T08:00:00+00:00",
-      "excerpt": "AI has gone from insight to action. With physical AI, it comes…",
+      "published": "2026-10-27T08:02:00+00:00",
+      "excerpt": "BERLIN — SAP SE (NYSE: SAP) today announced a series of…",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
+      "id": "c6a0d93ad21de72f",
+      "title": "Innovation News Guide: The Autonomous Enterprise Becomes a Reality",
+      "url": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-27T08:01:00+00:00",
+      "excerpt": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.",
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
@@ -94,26 +138,59 @@
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
-      "id": "c6a0d93ad21de72f",
-      "title": "Innovation News Guide: The Autonomous Enterprise Becomes a Reality",
-      "url": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026",
+      "id": "98ad5915e9a21a20",
+      "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
+      "url": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
       "category": "consulting",
       "source": "SAP News",
       "evidence": "Company announcement",
-      "published": "2026-10-27T08:00:00+00:00",
-      "excerpt": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.",
+      "published": "2026-10-27T07:59:00+00:00",
+      "excerpt": "AI has gone from insight to action. With physical AI, it comes…",
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
-      "id": "e6f17412f5a55b6a",
-      "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
-      "url": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
-      "category": "consulting",
-      "source": "SAP News",
+      "id": "c417f8e3d39d0b89",
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "category": "ai",
+      "source": "OpenAI",
       "evidence": "Company announcement",
-      "published": "2026-10-27T08:00:00+00:00",
-      "excerpt": "BERLIN — SAP SE (NYSE: SAP) today announced a series of…",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+      "published": "2026-10-27T07:00:00+00:00",
+      "excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents…",
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+    },
+    {
+      "id": "c44dc9ed271ff418",
+      "title": "How Check Point accelerates vulnerability research with Daybreak",
+      "url": "https://openai.com/index/check-point-daybreak",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-27T00:00:00+00:00",
+      "excerpt": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to…",
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+    },
+    {
+      "id": "731bfb02504c200a",
+      "title": "What AI can’t replace—and why it matters for value",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-27T00:00:00+00:00",
+      "excerpt": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change…",
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+    },
+    {
+      "id": "582bb34ae4306b8a",
+      "title": "‘Hold course and adapt as you go’: An interview with Manon van Beek",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-27T00:00:00+00:00",
+      "excerpt": "As she prepares to step down, the CEO of leading European grid…",
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
     {
       "id": "a9c488820a62ac4a",
@@ -193,17 +270,6 @@
       "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
-      "id": "742d30efdc4090c1",
-      "title": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
-      "url": "https://openai.com/index/openai-cut-incident-investigation",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T07:00:00+00:00",
-      "excerpt": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster…",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
       "id": "19160e849b3790b1",
       "title": "Watch the universe emerge from the dark ages, with Lumina",
       "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
@@ -213,17 +279,6 @@
       "published": "2026-10-26T04:00:00+00:00",
       "excerpt": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first…",
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
-    },
-    {
-      "id": "35e334c198740f74",
-      "title": "Introducing GPT-6.1 Terra",
-      "url": "https://openai.com/index/introducing-gpt-6-1-terra",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T00:00:00+00:00",
-      "excerpt": "Bringing fast and capable computer use to everyone",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
       "id": "3219fe0afe451821",
@@ -268,17 +323,6 @@
       "published": "2026-10-26T00:00:00+00:00",
       "excerpt": "Applying AI to transaction monitoring shows how agents can transform compliance tasks and…",
       "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
-      "id": "5d794c3788a3a4be",
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-23T16:15:50+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-23T20:29:23.707370+00:00"
     },
     {
       "id": "c297fed968314ef8",
@@ -369,28 +413,6 @@
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
-      "id": "8bde3941afad2dc2",
-      "title": "The State of Grocery Retail Europe: Implications for packaging players",
-      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/the-state-of-grocery-retail-europe-implications-for-packaging-players",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Continued growth pressure on European grocery retailers limits opportunities for packaging players. In this environment,…",
-      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "189b3709217066aa",
-      "title": "Asia’s energy reckoning: Securing the energy system to drive growth",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/asias-energy-reckoning-securing-the-energy-system-to-drive-growth",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-22T00:00:00+00:00",
-      "excerpt": "Recent disruptions have shone a spotlight on the vulnerabilities of Asia’s energy system. Countries could…",
-      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
       "id": "ebb889b66b29fc25",
       "title": "SAP Announces Q3 2026 Results",
       "url": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/",
@@ -420,17 +442,6 @@
       "source": "Hugging Face",
       "evidence": "Community / technical",
       "published": "2026-10-21T17:35:36+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
-    },
-    {
-      "id": "5b4e08461387ba3b",
-      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-21T16:04:43+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
@@ -598,17 +609,6 @@
       "published": "2026-10-13T10:00:00+00:00",
       "excerpt": "Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…",
       "firstSeen": "2026-10-13T21:52:12.044183+00:00"
-    },
-    {
-      "id": "c11a83f73b42d756",
-      "title": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
-      "url": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-06T19:57:04+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "553830d231d34627",
