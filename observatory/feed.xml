@@ -4,7 +4,55 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 26 Oct 2026 21:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:18:08 +0000</lastBuildDate>
+    <item>
+      <title>What Interruptions Say About Your Organizational Culture</title>
+      <link>https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/</link>
+      <guid>https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/</guid>
+      <pubDate>Tue, 27 Oct 2026 11:00:35 +0000</pubDate>
+      <description>Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World</title>
+      <link>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</link>
+      <guid>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</guid>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+      <description>AI has gone from insight to action. With physical AI, it comes…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE</title>
+      <link>https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/</link>
+      <guid>https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/</guid>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+      <description>Tabular AI on SAP works at the edge of possibility.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Innovation News Guide: The Autonomous Enterprise Becomes a Reality</title>
+      <link>https://www.sap.com/topics/events/teched/innovation-news-guide-2026</link>
+      <guid>https://www.sap.com/topics/events/teched/innovation-news-guide-2026</guid>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+      <description>Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution</title>
+      <link>https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/</link>
+      <guid>https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/</guid>
+      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
+      <description>BERLIN — SAP SE (NYSE: SAP) today announced a series of…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
+      <link>https://openai.com/index/greptile-code-review-codex-astra</link>
+      <guid>https://openai.com/index/greptile-code-review-codex-astra</guid>
+      <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
+      <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>AI Release Highlights Q3 2026</title>
       <link>https://news.sap.com/2026/10/ai-release-highlights-q3-2026/</link>
@@ -12,6 +60,22 @@
       <pubDate>Mon, 26 Oct 2026 20:50:00 +0000</pubDate>
       <description>The quarter marks a major step in delivering on our promise of the Autonomous Enterprise.</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Working with academic communities to build scientific understanding</title>
+      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
+      <guid>https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
+      <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
+      <description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
+      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
+      <guid>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
+      <pubDate>Mon, 26 Oct 2026 13:45:00 +0000</pubDate>
+      <description>CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Is HR Tech Undermining Your Strategy?</title>
@@ -94,14 +158,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
-      <link>https://openai.com/index/scaling-storage-one-billion-users-part-two</link>
-      <guid>https://openai.com/index/scaling-storage-one-billion-users-part-two</guid>
-      <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
-      <description>Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
       <link>https://huggingface.co/blog/allenai/litpivot</link>
       <guid>https://huggingface.co/blog/allenai/litpivot</guid>
@@ -118,28 +174,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Securing our frontier model training environment</title>
-      <link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-      <guid>https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-      <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
-      <description>OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Tiny Particles Charge Like Capacitors</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-      <link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-      <guid>https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Does Your Model Run on AWS Trainium? Look It Up</title>
@@ -238,27 +278,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools</title>
-      <link>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</link>
-      <guid>https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/</guid>
-      <pubDate>Wed, 21 Oct 2026 11:15:00 +0000</pubDate>
-      <description>SAP is helping enterprises make rapid transformation a business capability.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The Hidden Upside of Tech Challenges</title>
       <link>https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/</link>
       <guid>https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:48 +0000</pubDate>
       <description>Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026</title>
-      <link>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</link>
-      <guid>https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/</guid>
-      <pubDate>Wed, 21 Oct 2026 10:15:00 +0000</pubDate>
-      <description>With Q3 2026 release, SAP is bringing the Autonomous CX vision to life.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -268,22 +292,6 @@
       <pubDate>Wed, 21 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Paolo Crivelli A device that stores a single positron and controls its quantum states could measure its magnetic moment…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified</title>
-      <link>https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/</link>
-      <guid>https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/</guid>
-      <pubDate>Tue, 20 Oct 2026 12:15:00 +0000</pubDate>
-      <description>In a technology environment that changes continuously, expertise cannot remain static.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The Suite Advantage: Why Enterprises Don’t Evaluate CRM in Isolation</title>
-      <link>https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/</link>
-      <guid>https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/</guid>
-      <pubDate>Tue, 20 Oct 2026 11:15:00 +0000</pubDate>
-      <description>CRM value is created at the intersection of pipeline intelligence and ERP reality.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Why Data Modeling Is Not Enough</title>
@@ -388,14 +396,6 @@
       <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>When Compliance Workarounds Backfire</title>
-      <link>https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/</link>
-      <guid>https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/</guid>
-      <pubDate>Wed, 07 Oct 2026 11:00:04 +0000</pubDate>
-      <description>John Holcroft/Ikon Images In 2021, Barcelona-based delivery platform Glovo was faced with a law that threatened its business model. Spain had…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>EmbeddingGemma 2: an open, lightweight multimodal embedding model</title>

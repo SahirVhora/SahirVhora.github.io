@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26T21:39:04.469934+00:00",
+  "updatedAt": "2026-10-27T12:18:08.405697+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,72 @@
   ],
   "stories": [
     {
+      "id": "0b541fa95db69814",
+      "title": "What Interruptions Say About Your Organizational Culture",
+      "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-27T11:00:35+00:00",
+      "excerpt": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the…",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
+      "id": "98ad5915e9a21a20",
+      "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
+      "url": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-27T08:00:00+00:00",
+      "excerpt": "AI has gone from insight to action. With physical AI, it comes…",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
+      "id": "1f2494ec5b82c41e",
+      "title": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE",
+      "url": "https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-27T08:00:00+00:00",
+      "excerpt": "Tabular AI on SAP works at the edge of possibility.",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
+      "id": "c6a0d93ad21de72f",
+      "title": "Innovation News Guide: The Autonomous Enterprise Becomes a Reality",
+      "url": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-27T08:00:00+00:00",
+      "excerpt": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
+      "id": "e6f17412f5a55b6a",
+      "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
+      "url": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-27T08:00:00+00:00",
+      "excerpt": "BERLIN — SAP SE (NYSE: SAP) today announced a series of…",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
+      "id": "a9c488820a62ac4a",
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T22:00:00+00:00",
+      "excerpt": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex…",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
       "id": "c897277e4824c2c5",
       "title": "AI Release Highlights Q3 2026",
       "url": "https://news.sap.com/2026/10/ai-release-highlights-q3-2026/",
@@ -70,6 +136,28 @@
       "published": "2026-10-26T20:50:00+00:00",
       "excerpt": "The quarter marks a major step in delivering on our promise of the Autonomous Enterprise.",
       "firstSeen": "2026-10-26T21:39:04.469934+00:00"
+    },
+    {
+      "id": "8eb6001a836a6e50",
+      "title": "Working with academic communities to build scientific understanding",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T14:30:00+00:00",
+      "excerpt": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can…",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
+    },
+    {
+      "id": "7d972df501d01ba1",
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-26T13:45:00+00:00",
+      "excerpt": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers…",
+      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
       "id": "2a5b4af9078abd04",
@@ -182,17 +270,6 @@
       "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
-      "id": "ee4c22366ef7e7ab",
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-23T17:00:00+00:00",
-      "excerpt": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure…",
-      "firstSeen": "2026-10-23T20:29:23.707370+00:00"
-    },
-    {
       "id": "5d794c3788a3a4be",
       "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
       "url": "https://huggingface.co/blog/allenai/litpivot",
@@ -215,17 +292,6 @@
       "firstSeen": "2026-10-23T11:44:25.694718+00:00"
     },
     {
-      "id": "f8c156dba7886826",
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-23T10:00:00+00:00",
-      "excerpt": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "firstSeen": "2026-10-23T20:29:23.707370+00:00"
-    },
-    {
       "id": "aa100c46e2079509",
       "title": "Tiny Particles Charge Like Capacitors",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
@@ -235,17 +301,6 @@
       "published": "2026-10-23T10:00:00+00:00",
       "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
       "firstSeen": "2026-10-24T11:07:17.701381+00:00"
-    },
-    {
-      "id": "1a543055a02f9816",
-      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-23T00:00:00+00:00",
-      "excerpt": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to…",
-      "firstSeen": "2026-10-23T11:44:25.694718+00:00"
     },
     {
       "id": "2b3f616d26d343fe",
@@ -380,17 +435,6 @@
       "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
-      "id": "c54682161ae9f265",
-      "title": "SAP LeanIX a Six-Time Leader in Gartner® Magic Quadrant™ for Enterprise Architecture tools",
-      "url": "https://news.sap.com/2026/10/sap-leanix-six-time-leader-gartner-magic-quadrant-ea-tools/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T11:15:00+00:00",
-      "excerpt": "SAP is helping enterprises make rapid transformation a business capability.",
-      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
-    },
-    {
       "id": "623f6670c231dfa1",
       "title": "The Hidden Upside of Tech Challenges",
       "url": "https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/",
@@ -399,17 +443,6 @@
       "evidence": "Management perspective",
       "published": "2026-10-21T11:00:48+00:00",
       "excerpt": "Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…",
-      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
-    },
-    {
-      "id": "3041981019dd3b16",
-      "title": "Autonomous CX Arrives: What’s New in SAP Customer Experience Q3 2026",
-      "url": "https://news.sap.com/2026/10/new-sap-cx-q3-2026-autonomous-cx-arrives/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T10:15:00+00:00",
-      "excerpt": "With Q3 2026 release, SAP is bringing the Autonomous CX vision to life.",
       "firstSeen": "2026-10-21T11:55:46.786492+00:00"
     },
     {
@@ -422,28 +455,6 @@
       "published": "2026-10-21T10:00:00+00:00",
       "excerpt": "Author(s): Paolo Crivelli A device that stores a single positron and controls its quantum states could measure its magnetic moment…",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "55d02231c2ae13cb",
-      "title": "SAP Introduces AI-Powered Roleplays to Help Learners Stay Certified",
-      "url": "https://news.sap.com/2026/10/sap-introduces-ai-powered-roleplays-learners-stay-certified/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-20T12:15:00+00:00",
-      "excerpt": "In a technology environment that changes continuously, expertise cannot remain static.",
-      "firstSeen": "2026-10-20T20:38:40.422337+00:00"
-    },
-    {
-      "id": "c0486f6ca6b827d7",
-      "title": "The Suite Advantage: Why Enterprises Don’t Evaluate CRM in Isolation",
-      "url": "https://news.sap.com/2026/10/suite-advantage-why-enterprises-do-not-evaluate-crm-in-isolation/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-20T11:15:00+00:00",
-      "excerpt": "CRM value is created at the intersection of pipeline intelligence and ERP reality.",
-      "firstSeen": "2026-10-20T11:44:05.128720+00:00"
     },
     {
       "id": "debc799cf11468cd",
@@ -587,17 +598,6 @@
       "published": "2026-10-13T10:00:00+00:00",
       "excerpt": "Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…",
       "firstSeen": "2026-10-13T21:52:12.044183+00:00"
-    },
-    {
-      "id": "1c16c0505c472443",
-      "title": "When Compliance Workarounds Backfire",
-      "url": "https://sloanreview.mit.edu/article/when-compliance-workarounds-backfire/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-07T11:00:04+00:00",
-      "excerpt": "John Holcroft/Ikon Images In 2021, Barcelona-based delivery platform Glovo was faced with a law that threatened its business model. Spain had…",
-      "firstSeen": "2026-10-07T13:29:58.067244+00:00"
     },
     {
       "id": "c11a83f73b42d756",
