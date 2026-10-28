@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T13:01:25.645071+00:00",
+  "updatedAt": "2026-10-28T21:41:39.209814+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -62,6 +61,50 @@
   ],
   "stories": [
     {
+      "id": "e8e0cb1d0e685ced",
+      "title": "Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-28T17:00:58+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "802ea9c24a2e9529",
+      "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”",
+      "url": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-28T16:30:00+00:00",
+      "excerpt": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "ec733f799e1aaee3",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-28T14:58:17+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "a395c7da350b5086",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-28T13:15:00+00:00",
+      "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows…",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
       "id": "3da2b65af0d1313a",
       "title": "AI Is Thriving at Capital One",
       "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
@@ -84,15 +127,26 @@
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
     },
     {
-      "id": "67c6b18b0a76451d",
+      "id": "e2ed7680c50ae3f0",
+      "title": "The future of the firm",
+      "url": "https://openai.com/index/the-future-of-the-firm",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-28T10:00:00+00:00",
+      "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "709cc8e2bd467b79",
       "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "url": "https://openai.com/index/legora",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
       "published": "2026-10-28T09:30:00+00:00",
       "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract…",
-      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
       "id": "24f667a8b1ce042b",
@@ -104,6 +158,39 @@
       "published": "2026-10-28T08:00:00+00:00",
       "excerpt": "TOKYO — The companies share the ambition to advance secure,…",
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
+    },
+    {
+      "id": "0eb824c98e364696",
+      "title": "Rewiring securities services for a new era of competition and growth",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-28T00:00:00+00:00",
+      "excerpt": "Disruptive forces—from real-time settlement to agentic AI—are changing the dynamics of the securities services…",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "ceeaad28215b8e6e",
+      "title": "Agentic AI in strategic sourcing: Hype or hero?",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-28T00:00:00+00:00",
+      "excerpt": "As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "121c2c4aaa1e56d9",
+      "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-28T00:00:00+00:00",
+      "excerpt": "Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
       "id": "1c5b51464767c2ad",
@@ -136,8 +223,7 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
-      "retained": true
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
     {
       "id": "1e3ebf94e41ebe19",
@@ -261,39 +347,6 @@
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
-      "id": "c897277e4824c2c5",
-      "title": "AI Release Highlights Q3 2026",
-      "url": "https://news.sap.com/2026/10/ai-release-highlights-q3-2026/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T20:50:00+00:00",
-      "excerpt": "The quarter marks a major step in delivering on our promise of the Autonomous Enterprise.",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
-      "id": "8eb6001a836a6e50",
-      "title": "Working with academic communities to build scientific understanding",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T14:30:00+00:00",
-      "excerpt": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can…",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
-      "id": "7d972df501d01ba1",
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T13:45:00+00:00",
-      "excerpt": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers…",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
       "id": "2a5b4af9078abd04",
       "title": "Is HR Tech Undermining Your Strategy?",
       "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
@@ -338,28 +391,6 @@
       "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
-      "id": "6b9c2f744d4357de",
-      "title": "The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-26T00:00:00+00:00",
-      "excerpt": "AI agents can increasingly make decisions, act, and collaborate…",
-      "firstSeen": "2026-10-26T13:10:08.665792+00:00"
-    },
-    {
-      "id": "0ae012233e01c06a",
-      "title": "Agentic AI in transaction monitoring: How banks can scale AI in compliance",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-26T00:00:00+00:00",
-      "excerpt": "Applying AI to transaction monitoring shows how agents can transform compliance tasks and…",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
       "id": "aa100c46e2079509",
       "title": "Tiny Particles Charge Like Capacitors",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
@@ -382,17 +413,6 @@
       "firstSeen": "2026-10-23T20:29:23.707370+00:00"
     },
     {
-      "id": "59d362808f5ba999",
-      "title": "Author Talks: AI is advancing. Is our judgment keeping up?",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-23T00:00:00+00:00",
-      "excerpt": "Can we unlock AI’s promise without surrendering human judgment? Technology leader Tiffany Xingyu Wang says…",
-      "firstSeen": "2026-10-23T20:29:23.707370+00:00"
-    },
-    {
       "id": "51888f116f5b0837",
       "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
       "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
@@ -412,8 +432,7 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
-      "retained": true
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "0e653436fc7097c4",
@@ -436,17 +455,6 @@
       "published": "2026-10-22T07:51:31+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "94a5f6526eada9bc",
-      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
-      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-21T18:26:30+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
       "id": "40a01666d562060b",
@@ -501,8 +509,7 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
-      "retained": true
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "422d5c94b0f19090",
@@ -557,8 +564,7 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -569,8 +575,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "94cc08977f17740f",
@@ -581,20 +586,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
-    },
-    {
-      "id": "851107eacfc8ba0f",
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://deepmind.google/blog/introducing-gemini-4-argon/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-13T16:01:52+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "32d2cdc096a7a0b4",

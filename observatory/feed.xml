@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 13:01:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 21:41:39 +0000</lastBuildDate>
+    <item>
+      <title>Gemini 4 Carbon: Our next frontier model</title>
+      <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
+      <guid>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
+      <pubDate>Wed, 28 Oct 2026 17:00:58 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”</title>
+      <link>https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/</link>
+      <guid>https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/</guid>
+      <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
+      <description>With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
+      <pubDate>Wed, 28 Oct 2026 14:58:17 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
+      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
+      <guid>https://openai.com/index/openai-servicenow-partnership-expansion</guid>
+      <pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
+      <description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>AI Is Thriving at Capital One</title>
       <link>https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/</link>
@@ -22,9 +54,17 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>The future of the firm</title>
+      <link>https://openai.com/index/the-future-of-the-firm</link>
+      <guid>https://openai.com/index/the-future-of-the-firm</guid>
+      <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
+      <description>How AI might enter the org chart—beneath, beside, and between us.</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
-      <guid>https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+      <link>https://openai.com/index/legora</link>
+      <guid>https://openai.com/index/legora</guid>
       <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
       <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract…</description>
       <category>ai</category>
@@ -35,6 +75,30 @@
       <guid>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</guid>
       <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
       <description>TOKYO — The companies share the ambition to advance secure,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Rewiring securities services for a new era of competition and growth</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Disruptive forces—from real-time settlement to agentic AI—are changing the dynamics of the securities services…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Agentic AI in strategic sourcing: Hype or hero?</title>
+      <link>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</link>
+      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Who wins when AI does the shopping? New evidence on agentic commerce</title>
+      <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</link>
+      <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -150,30 +214,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>AI Release Highlights Q3 2026</title>
-      <link>https://news.sap.com/2026/10/ai-release-highlights-q3-2026/</link>
-      <guid>https://news.sap.com/2026/10/ai-release-highlights-q3-2026/</guid>
-      <pubDate>Mon, 26 Oct 2026 20:50:00 +0000</pubDate>
-      <description>The quarter marks a major step in delivering on our promise of the Autonomous Enterprise.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Working with academic communities to build scientific understanding</title>
-      <link>https://openai.com/index/building-scientific-understanding-with-academic-communities</link>
-      <guid>https://openai.com/index/building-scientific-understanding-with-academic-communities</guid>
-      <pubDate>Mon, 26 Oct 2026 14:30:00 +0000</pubDate>
-      <description>OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases</title>
-      <link>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</link>
-      <guid>https://openai.com/index/gpt-6-1-sol-coderabbit-code-security</guid>
-      <pubDate>Mon, 26 Oct 2026 13:45:00 +0000</pubDate>
-      <description>CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Is HR Tech Undermining Your Strategy?</title>
       <link>https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/</link>
       <guid>https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/</guid>
@@ -206,22 +246,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The rise of the agentic coworker: A banking CIO’s guide to the next wave of AI</title>
-      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai</link>
-      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/the-rise-of-the-agentic-coworker-a-banking-cios-guide-to-the-next-wave-of-ai</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>AI agents can increasingly make decisions, act, and collaborate…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Agentic AI in transaction monitoring: How banks can scale AI in compliance</title>
-      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance</link>
-      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Applying AI to transaction monitoring shows how agents can transform compliance tasks and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Tiny Particles Charge Like Capacitors</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
@@ -236,14 +260,6 @@
       <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>Author Talks: AI is advancing. Is our judgment keeping up?</title>
-      <link>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up</link>
-      <guid>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-ai-is-advancing-is-our-judgment-keeping-up</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Can we unlock AI’s promise without surrendering human judgment? Technology leader Tiffany Xingyu Wang says…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
@@ -274,14 +290,6 @@
       <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
       <guid>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
       <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
-      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
-      <guid>https://huggingface.co/blog/nvidia/kumo-relational</guid>
-      <pubDate>Wed, 21 Oct 2026 18:26:30 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -378,14 +386,6 @@
       <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
       <guid>https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
       <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Gemini 4 Argon: Built to solve your hardest problems</title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-argon/</link>
-      <guid>https://deepmind.google/blog/introducing-gemini-4-argon/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
