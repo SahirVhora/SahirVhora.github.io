@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T21:21:57.705022+00:00",
+  "updatedAt": "2026-10-28T13:01:25.645071+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -61,6 +62,50 @@
   ],
   "stories": [
     {
+      "id": "3da2b65af0d1313a",
+      "title": "AI Is Thriving at Capital One",
+      "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-10-28T11:00:15+00:00",
+      "excerpt": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of…",
+      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
+    },
+    {
+      "id": "5955c4bbce181eea",
+      "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
+      "url": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-28T11:00:00+00:00",
+      "excerpt": "Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness.",
+      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
+    },
+    {
+      "id": "67c6b18b0a76451d",
+      "title": "Legora is building the agentic operating system for legal work",
+      "url": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-28T09:30:00+00:00",
+      "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract…",
+      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
+    },
+    {
+      "id": "24f667a8b1ce042b",
+      "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
+      "url": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-28T08:00:00+00:00",
+      "excerpt": "TOKYO — The companies share the ambition to advance secure,…",
+      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
+    },
+    {
       "id": "1c5b51464767c2ad",
       "title": "Build specialized multimodal models with LFM3",
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -91,7 +136,19 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
+      "retained": true
+    },
+    {
+      "id": "1e3ebf94e41ebe19",
+      "title": "Retell uses OpenAI models to help power 100M monthly calls",
+      "url": "https://openai.com/index/retell-ai",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-27T15:00:00+00:00",
+      "excerpt": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual…",
+      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
     },
     {
       "id": "0b541fa95db69814",
@@ -248,28 +305,6 @@
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
     },
     {
-      "id": "27334100e818b985",
-      "title": "ChatGPT’s expanding world of work",
-      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T10:00:00+00:00",
-      "excerpt": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and…",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
-      "id": "7e73eebe3e909303",
-      "title": "How Fanatics and OpenAI streamline the fan experience",
-      "url": "https://openai.com/index/fanatics-streamline-fan-experience",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T07:00:00+00:00",
-      "excerpt": "Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly…",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
       "id": "19160e849b3790b1",
       "title": "Watch the universe emerge from the dark ages, with Lumina",
       "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
@@ -325,17 +360,6 @@
       "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
-      "id": "c297fed968314ef8",
-      "title": "For the 12th Time, SAP Named a Leader in Gartner® Magic Quadrant™ for Digital Commerce Platforms",
-      "url": "https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-23T11:15:00+00:00",
-      "excerpt": "SAP helps customers simplify complex commerce and prepare for…",
-      "firstSeen": "2026-10-23T11:44:25.694718+00:00"
-    },
-    {
       "id": "aa100c46e2079509",
       "title": "Tiny Particles Charge Like Capacitors",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
@@ -388,7 +412,8 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
+      "retained": true
     },
     {
       "id": "0e653436fc7097c4",
@@ -411,17 +436,6 @@
       "published": "2026-10-22T07:51:31+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "ebb889b66b29fc25",
-      "title": "SAP Announces Q3 2026 Results",
-      "url": "https://news.sap.com/2026/10/sap-announces-q3-2026-results/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-21T20:07:37+00:00",
-      "excerpt": "WALLDORF — The company's Autonomous Enterprise strategy is not just resonating, it is being adopted.",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
       "id": "94a5f6526eada9bc",
@@ -487,7 +501,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "422d5c94b0f19090",
@@ -542,7 +557,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -553,7 +569,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "94cc08977f17740f",
@@ -564,7 +581,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "851107eacfc8ba0f",
@@ -575,18 +593,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:52+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
-    },
-    {
-      "id": "1bea57be060b614f",
-      "title": "The New Rules of Brand Visibility in AI Search",
-      "url": "https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-13T11:00:34+00:00",
-      "excerpt": "Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries,…",
-      "firstSeen": "2026-10-13T14:17:06.268695+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "32d2cdc096a7a0b4",

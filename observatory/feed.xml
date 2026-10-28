@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 27 Oct 2026 21:21:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:01:25 +0000</lastBuildDate>
+    <item>
+      <title>AI Is Thriving at Capital One</title>
+      <link>https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/</link>
+      <guid>https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/</guid>
+      <pubDate>Wed, 28 Oct 2026 11:00:15 +0000</pubDate>
+      <description>Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations</title>
+      <link>https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/</link>
+      <guid>https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/</guid>
+      <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Legora is building the agentic operating system for legal work</title>
+      <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+      <guid>https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+      <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+      <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities</title>
+      <link>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</link>
+      <guid>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</guid>
+      <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
+      <description>TOKYO — The companies share the ambition to advance secure,…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Build specialized multimodal models with LFM3</title>
       <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
@@ -27,6 +59,14 @@
       <guid>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
       <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
       <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Retell uses OpenAI models to help power 100M monthly calls</title>
+      <link>https://openai.com/index/retell-ai</link>
+      <guid>https://openai.com/index/retell-ai</guid>
+      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
+      <description>GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual…</description>
       <category>ai</category>
     </item>
     <item>
@@ -142,22 +182,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>ChatGPT’s expanding world of work</title>
-      <link>https://openai.com/index/chatgpt-expanding-world-of-work</link>
-      <guid>https://openai.com/index/chatgpt-expanding-world-of-work</guid>
-      <pubDate>Mon, 26 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>How Fanatics and OpenAI streamline the fan experience</title>
-      <link>https://openai.com/index/fanatics-streamline-fan-experience</link>
-      <guid>https://openai.com/index/fanatics-streamline-fan-experience</guid>
-      <pubDate>Mon, 26 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Fanatics uses OpenAI to help fans complete their game-day outfits with Shop the Look. Testing across roughly…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Watch the universe emerge from the dark ages, with Lumina</title>
       <link>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</link>
       <guid>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</guid>
@@ -195,14 +219,6 @@
       <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-transaction-monitoring-how-banks-can-scale-ai-in-compliance</guid>
       <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
       <description>Applying AI to transaction monitoring shows how agents can transform compliance tasks and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>For the 12th Time, SAP Named a Leader in Gartner® Magic Quadrant™ for Digital Commerce Platforms</title>
-      <link>https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/</link>
-      <guid>https://news.sap.com/2026/10/sap-a-leader-in-gartner-magic-quadrant-digital-commerce-platform-12th-time/</guid>
-      <pubDate>Fri, 23 Oct 2026 11:15:00 +0000</pubDate>
-      <description>SAP helps customers simplify complex commerce and prepare for…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -260,14 +276,6 @@
       <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>SAP Announces Q3 2026 Results</title>
-      <link>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</link>
-      <guid>https://news.sap.com/2026/10/sap-announces-q3-2026-results/</guid>
-      <pubDate>Wed, 21 Oct 2026 20:07:37 +0000</pubDate>
-      <description>WALLDORF — The company's Autonomous Enterprise strategy is not just resonating, it is being adopted.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
@@ -380,14 +388,6 @@
       <pubDate>Tue, 13 Oct 2026 16:01:52 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>The New Rules of Brand Visibility in AI Search</title>
-      <link>https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/</link>
-      <guid>https://sloanreview.mit.edu/article/the-new-rules-of-brand-visibility-in-ai-search/</guid>
-      <pubDate>Tue, 13 Oct 2026 11:00:34 +0000</pubDate>
-      <description>Alice Mollon/Ikon Images The Research The authors interviewed 15 senior marketing and digital leaders across industries,…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Quantum Probability Requires Probability</title>
