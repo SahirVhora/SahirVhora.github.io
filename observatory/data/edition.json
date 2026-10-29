@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28T21:41:39.209814+00:00",
+  "updatedAt": "2026-10-29T13:08:46.649712+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -61,6 +62,39 @@
   ],
   "stories": [
     {
+      "id": "883f3919a3783807",
+      "title": "Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise",
+      "url": "https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-29T11:00:00+00:00",
+      "excerpt": "Enterprises can build AI agents act with greater…",
+      "firstSeen": "2026-10-29T13:08:46.649712+00:00"
+    },
+    {
+      "id": "6394645bd5105adc",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-29T13:08:46.649712+00:00"
+    },
+    {
+      "id": "aa334d9e6eddd968",
+      "title": "Global Economics Intelligence executive summary, September 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in…",
+      "firstSeen": "2026-10-29T13:08:46.649712+00:00"
+    },
+    {
       "id": "e8e0cb1d0e685ced",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -69,7 +103,8 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
+      "retained": true
     },
     {
       "id": "802ea9c24a2e9529",
@@ -223,7 +258,8 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
+      "retained": true
     },
     {
       "id": "1e3ebf94e41ebe19",
@@ -278,17 +314,6 @@
       "evidence": "Company announcement",
       "published": "2026-10-27T08:00:00+00:00",
       "excerpt": "Tabular AI on SAP works at the edge of possibility.",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
-      "id": "98ad5915e9a21a20",
-      "title": "SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World",
-      "url": "https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-27T07:59:00+00:00",
-      "excerpt": "AI has gone from insight to action. With physical AI, it comes…",
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
@@ -380,17 +405,6 @@
       "firstSeen": "2026-10-26T21:39:04.469934+00:00"
     },
     {
-      "id": "fc6d45bdeb38f4e4",
-      "title": "Agentic AI in financial-crime prevention: Lessons from winners",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-26T00:00:00+00:00",
-      "excerpt": "A year of delivery has confirmed much of what we expected about agentic AI in financial-crime prevention—and…",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
       "id": "aa100c46e2079509",
       "title": "Tiny Particles Charge Like Capacitors",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
@@ -432,7 +446,8 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
+      "retained": true
     },
     {
       "id": "0e653436fc7097c4",
@@ -455,17 +470,6 @@
       "published": "2026-10-22T07:51:31+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-22T11:58:19.098251+00:00"
-    },
-    {
-      "id": "40a01666d562060b",
-      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
-      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-21T17:35:36+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-21T20:39:23.870778+00:00"
     },
     {
       "id": "623f6670c231dfa1",
@@ -509,7 +513,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "422d5c94b0f19090",
@@ -564,7 +569,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -575,7 +581,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "94cc08977f17740f",
@@ -586,7 +593,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "32d2cdc096a7a0b4",

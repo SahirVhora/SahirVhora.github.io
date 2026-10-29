@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 28 Oct 2026 21:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 13:08:46 +0000</lastBuildDate>
+    <item>
+      <title>Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise</title>
+      <link>https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/</link>
+      <guid>https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/</guid>
+      <pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
+      <description>Enterprises can build AI agents act with greater…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+      <link>https://huggingface.co/blog/anydecisionmodel</link>
+      <guid>https://huggingface.co/blog/anydecisionmodel</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Global Economics Intelligence executive summary, September 2026</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
       <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
@@ -166,14 +190,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>SAP Unveils Physical AI and Extends the Autonomous Enterprise into the Real World</title>
-      <link>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</link>
-      <guid>https://news.sap.com/2026/10/sap-unveils-physical-ai-extends-autonomous-enterprise-real-world-sap-teched/</guid>
-      <pubDate>Tue, 27 Oct 2026 07:59:00 +0000</pubDate>
-      <description>AI has gone from insight to action. With physical AI, it comes…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
       <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
       <guid>https://openai.com/index/oracle-apps-in-chatgpt</guid>
@@ -238,14 +254,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Agentic AI in financial-crime prevention: Lessons from winners</title>
-      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners</link>
-      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/agentic-ai-in-financial-crime-prevention-lessons-from-winners</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>A year of delivery has confirmed much of what we expected about agentic AI in financial-crime prevention—and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Tiny Particles Charge Like Capacitors</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
@@ -290,14 +298,6 @@
       <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
       <guid>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
       <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
-      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
-      <guid>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
-      <pubDate>Wed, 21 Oct 2026 17:35:36 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
