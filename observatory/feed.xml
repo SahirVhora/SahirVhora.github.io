@@ -4,7 +4,23 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 13:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 21:50:19 +0000</lastBuildDate>
+    <item>
+      <title>An updated Model Spec for more capable and beneficial AI</title>
+      <link>https://openai.com/index/updated-model-spec</link>
+      <guid>https://openai.com/index/updated-model-spec</guid>
+      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
+      <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Granite Switch 4.1.1 — Update models like you update software</title>
+      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
+      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
+      <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise</title>
       <link>https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/</link>
@@ -12,6 +28,38 @@
       <pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
       <description>Enterprises can build AI agents act with greater…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>How we detect frontier model misalignment</title>
+      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
+      <guid>https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
+      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+      <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
+      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
+      <guid>https://openai.com/index/ropes-gray-ai-diligence</guid>
+      <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
+      <description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents,…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
+      <link>https://huggingface.co/blog/announcing-project-protostar</link>
+      <guid>https://huggingface.co/blog/announcing-project-protostar</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Welcome Le Chonk: Mistral Large 4 on Hugging Face</title>
+      <link>https://huggingface.co/blog/mistral-large4</link>
+      <guid>https://huggingface.co/blog/mistral-large4</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
     </item>
     <item>
       <title>Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
@@ -27,6 +75,22 @@
       <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description>Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The algorithm isn’t the advantage–the team is</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Banking on AI: How a new operating model can transform distressed credit management</title>
+      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management</link>
+      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Banks increasingly deploy AI in distressed credit management. But few have adjusted…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -110,19 +174,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Agentic AI in strategic sourcing: Hype or hero?</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Who wins when AI does the shopping? New evidence on agentic commerce</title>
       <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</link>
       <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Agentic AI in strategic sourcing: Hype or hero?</title>
+      <link>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</link>
+      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -190,44 +254,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>OpenAI expands partnership with Oracle to bring its apps to ChatGPT</title>
-      <link>https://openai.com/index/oracle-apps-in-chatgpt</link>
-      <guid>https://openai.com/index/oracle-apps-in-chatgpt</guid>
-      <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
-      <description>OpenAI and Oracle are expanding their partnership to bring business applications and AI agents…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>How Check Point accelerates vulnerability research with Daybreak</title>
-      <link>https://openai.com/index/check-point-daybreak</link>
-      <guid>https://openai.com/index/check-point-daybreak</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>What AI can’t replace—and why it matters for value</title>
       <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value</link>
       <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value</guid>
       <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>‘Hold course and adapt as you go’: An interview with Manon van Beek</title>
-      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek</link>
-      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As she prepares to step down, the CEO of leading European grid…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Greptile takes bug detection beyond code review with GPT-6 Astra</title>
-      <link>https://openai.com/index/greptile-code-review-codex-astra</link>
-      <guid>https://openai.com/index/greptile-code-review-codex-astra</guid>
-      <pubDate>Mon, 26 Oct 2026 22:00:00 +0000</pubDate>
-      <description>How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Is HR Tech Undermining Your Strategy?</title>
@@ -246,36 +278,12 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Pfizer’s Alex Condoleon on medical affairs accountability</title>
-      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability</link>
-      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability</guid>
-      <pubDate>Mon, 26 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Pfizer’s chief medical affairs officer talks about measuring medical affairs’ true impact, leading change at scale, and what…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Tiny Particles Charge Like Capacitors</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.143</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Does Your Model Run on AWS Trainium? Look It Up</title>
-      <link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-      <guid>https://huggingface.co/blog/torch-neuronx-model-support</guid>
-      <pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox-training</link>
-      <guid>https://huggingface.co/blog/microsoft/thinkingbox-training</guid>
-      <pubDate>Thu, 22 Oct 2026 22:24:34 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Beyond tree cover: mapping the world’s forest types</title>
@@ -292,14 +300,6 @@
       <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Michael Schirber A new hint of topological superconductivity has been identified in an iron-based superconductor. [Physics 19,…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Ensemble forecasting with IBM Granite time-series models</title>
-      <link>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</link>
-      <guid>https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1</guid>
-      <pubDate>Thu, 22 Oct 2026 07:51:31 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>The Hidden Upside of Tech Challenges</title>

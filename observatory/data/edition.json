@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T13:08:46.649712+00:00",
+  "updatedAt": "2026-10-29T21:50:19.045362+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -62,6 +62,28 @@
   ],
   "stories": [
     {
+      "id": "9349f418e7bc7ab4",
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-29T17:00:00+00:00",
+      "excerpt": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound…",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
+    },
+    {
+      "id": "e508e29ae812fe58",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-29T13:37:07+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
+    },
+    {
       "id": "883f3919a3783807",
       "title": "Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise",
       "url": "https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/",
@@ -71,6 +93,50 @@
       "published": "2026-10-29T11:00:00+00:00",
       "excerpt": "Enterprises can build AI agents act with greater…",
       "firstSeen": "2026-10-29T13:08:46.649712+00:00"
+    },
+    {
+      "id": "0f01adb2acab0a67",
+      "title": "How we detect frontier model misalignment",
+      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-29T09:00:00+00:00",
+      "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents…",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
+    },
+    {
+      "id": "d948735545c20cf3",
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-29T07:00:00+00:00",
+      "excerpt": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents,…",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
+    },
+    {
+      "id": "718617961cab3abc",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
+    },
+    {
+      "id": "b6b30743068c2627",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
       "id": "6394645bd5105adc",
@@ -93,6 +159,28 @@
       "published": "2026-10-29T00:00:00+00:00",
       "excerpt": "Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in…",
       "firstSeen": "2026-10-29T13:08:46.649712+00:00"
+    },
+    {
+      "id": "8ee11eab497b1950",
+      "title": "The algorithm isn’t the advantage–the team is",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data…",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
+    },
+    {
+      "id": "732ab7a3b0e0f971",
+      "title": "Banking on AI: How a new operating model can transform distressed credit management",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "Banks increasingly deploy AI in distressed credit management. But few have adjusted…",
+      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
       "id": "e8e0cb1d0e685ced",
@@ -206,17 +294,6 @@
       "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
-      "id": "ceeaad28215b8e6e",
-      "title": "Agentic AI in strategic sourcing: Hype or hero?",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-28T00:00:00+00:00",
-      "excerpt": "As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
       "id": "121c2c4aaa1e56d9",
       "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
       "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce",
@@ -225,6 +302,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-28T00:00:00+00:00",
       "excerpt": "Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "ceeaad28215b8e6e",
+      "title": "Agentic AI in strategic sourcing: Hype or hero?",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-28T00:00:00+00:00",
+      "excerpt": "As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…",
       "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
@@ -317,28 +405,6 @@
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
-      "id": "c417f8e3d39d0b89",
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-27T07:00:00+00:00",
-      "excerpt": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents…",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
-      "id": "c44dc9ed271ff418",
-      "title": "How Check Point accelerates vulnerability research with Daybreak",
-      "url": "https://openai.com/index/check-point-daybreak",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-27T00:00:00+00:00",
-      "excerpt": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to…",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
       "id": "731bfb02504c200a",
       "title": "What AI can’t replace—and why it matters for value",
       "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value",
@@ -348,28 +414,6 @@
       "published": "2026-10-27T00:00:00+00:00",
       "excerpt": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change…",
       "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
-      "id": "582bb34ae4306b8a",
-      "title": "‘Hold course and adapt as you go’: An interview with Manon van Beek",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/hold-course-and-adapt-as-you-go-an-interview-with-manon-van-beek",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-27T00:00:00+00:00",
-      "excerpt": "As she prepares to step down, the CEO of leading European grid…",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
-      "id": "a9c488820a62ac4a",
-      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
-      "url": "https://openai.com/index/greptile-code-review-codex-astra",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-26T22:00:00+00:00",
-      "excerpt": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex…",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
       "id": "2a5b4af9078abd04",
@@ -394,17 +438,6 @@
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
     },
     {
-      "id": "3219fe0afe451821",
-      "title": "Pfizer’s Alex Condoleon on medical affairs accountability",
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/pfizers-alex-condoleon-on-medical-affairs-accountability",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-26T00:00:00+00:00",
-      "excerpt": "Pfizer’s chief medical affairs officer talks about measuring medical affairs’ true impact, leading change at scale, and what…",
-      "firstSeen": "2026-10-26T21:39:04.469934+00:00"
-    },
-    {
       "id": "aa100c46e2079509",
       "title": "Tiny Particles Charge Like Capacitors",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
@@ -414,28 +447,6 @@
       "published": "2026-10-23T10:00:00+00:00",
       "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
       "firstSeen": "2026-10-24T11:07:17.701381+00:00"
-    },
-    {
-      "id": "2b3f616d26d343fe",
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-23T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-23T20:29:23.707370+00:00"
-    },
-    {
-      "id": "51888f116f5b0837",
-      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-22T22:24:34+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-23T11:44:25.694718+00:00"
     },
     {
       "id": "301925b8adfcebab",
@@ -459,17 +470,6 @@
       "published": "2026-10-22T10:00:00+00:00",
       "excerpt": "Author(s): Michael Schirber A new hint of topological superconductivity has been identified in an iron-based superconductor. [Physics 19,…",
       "firstSeen": "2026-10-22T20:34:41.059648+00:00"
-    },
-    {
-      "id": "0e5fad3ca5f8a881",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-22T07:51:31+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
       "id": "623f6670c231dfa1",
