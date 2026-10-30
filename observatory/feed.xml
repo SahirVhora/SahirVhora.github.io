@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 13:01:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 21:32:15 +0000</lastBuildDate>
+    <item>
+      <title>nemotron-halloween</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
+      <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP Shows How to Lead with AI Governance at SAP TechEd</title>
       <link>https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/</link>
@@ -14,11 +22,75 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Wärtsilä CEO Håkan Agnevall: focus, flexibility, and the next wave of growth</title>
+      <title>Making it easier for websites to express AI training preferences</title>
+      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
+      <guid>https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
+      <pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
+      <description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Community safety report and new protections for teens</title>
+      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
+      <guid>https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
+      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+      <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Closing banking’s AI value gap: A CEO guide</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As AI adoption races ahead, great value is being left behind. Leaders need an operating model that…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Shapers and Founders: Scaling without losing soul</title>
+      <link>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul</link>
+      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Overcoming the R&amp;D bottleneck: Building a causal decision system</title>
+      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system</link>
+      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Waniwani’s CEO on the agentic future of insurance distribution</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Wärtsilä CEO Håkan Agnevall: Focus, flexibility, and the next wave of growth</title>
       <link>https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth</link>
       <guid>https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <description>Industrial leaders can turn disruption into growth by sharpening their focus, scaling to…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Bob Bowman on winning: Show up and do your work</title>
+      <link>https://www.mckinsey.com/featured-insights/bob-bowman-on-winning-show-up-and-do-your-work</link>
+      <guid>https://www.mckinsey.com/featured-insights/bob-bowman-on-winning-show-up-and-do-your-work</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>The coach who guided Michael Phelps to 23 Olympic gold medals explains why consistency beats…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Author Talks: Why you can’t separate strategy from value—and vice versa</title>
+      <link>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-you-cant-separate-strategy-from-value-and-vice-versa</link>
+      <guid>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-you-cant-separate-strategy-from-value-and-vice-versa</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Three McKinsey experts in strategy and corporate finance explore the four foundational principles that…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -62,6 +134,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <guid>https://openai.com/index/credit-saison</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
       <link>https://huggingface.co/blog/announcing-project-protostar</link>
       <guid>https://huggingface.co/blog/announcing-project-protostar</guid>
@@ -86,30 +166,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Global Economics Intelligence executive summary, September 2026</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The algorithm isn’t the advantage–the team is</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Banking on AI: How a new operating model can transform distressed credit management</title>
-      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management</link>
-      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Banks increasingly deploy AI in distressed credit management. But few have adjusted…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
       <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</link>
       <guid>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/</guid>
@@ -124,14 +180,6 @@
       <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
       <description>With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</link>
-      <guid>https://huggingface.co/blog/nvidia/nemotron-transcribe-granary</guid>
-      <pubDate>Wed, 28 Oct 2026 14:58:17 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
@@ -158,51 +206,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The future of the firm</title>
-      <link>https://openai.com/index/the-future-of-the-firm</link>
-      <guid>https://openai.com/index/the-future-of-the-firm</guid>
-      <pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
-      <description>How AI might enter the org chart—beneath, beside, and between us.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Legora is building the agentic operating system for legal work</title>
-      <link>https://openai.com/index/legora</link>
-      <guid>https://openai.com/index/legora</guid>
-      <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
-      <description>See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities</title>
       <link>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</link>
       <guid>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</guid>
       <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
       <description>TOKYO — The companies share the ambition to advance secure,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Rewiring securities services for a new era of competition and growth</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Disruptive forces—from real-time settlement to agentic AI—are changing the dynamics of the securities services…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Agentic AI in strategic sourcing: Hype or hero?</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Who wins when AI does the shopping? New evidence on agentic commerce</title>
-      <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</link>
-      <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -227,14 +235,6 @@
       <guid>https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/</guid>
       <pubDate>Tue, 27 Oct 2026 16:01:38 +0000</pubDate>
       <description>Genie 4: our new world model unlocking unprecedented realism in real-time simulation.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Retell uses OpenAI models to help power 100M monthly calls</title>
-      <link>https://openai.com/index/retell-ai</link>
-      <guid>https://openai.com/index/retell-ai</guid>
-      <pubDate>Tue, 27 Oct 2026 15:00:00 +0000</pubDate>
-      <description>GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual…</description>
       <category>ai</category>
     </item>
     <item>
@@ -427,14 +427,6 @@
       <guid>https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902</guid>
       <pubDate>Wed, 02 Sep 2026 14:00:00 +0000</pubDate>
       <description>Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>MIT Quantum Initiative launches postdoctoral fellowship program</title>
-      <link>https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</link>
-      <guid>https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831</guid>
-      <pubDate>Mon, 31 Aug 2026 19:30:00 +0000</pubDate>
-      <description>The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.</description>
       <category>physics</category>
     </item>
   </channel>

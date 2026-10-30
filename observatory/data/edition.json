@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T13:01:32.029143+00:00",
+  "updatedAt": "2026-10-30T21:32:15.000135+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -28,7 +29,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "name": "MIT Sloan Management Review",
@@ -61,6 +62,17 @@
   ],
   "stories": [
     {
+      "id": "037154e824aaff25",
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-10-30T17:57:24+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
       "id": "4bd2183207a61542",
       "title": "SAP Shows How to Lead with AI Governance at SAP TechEd",
       "url": "https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/",
@@ -72,8 +84,74 @@
       "firstSeen": "2026-10-30T13:01:32.029143+00:00"
     },
     {
+      "id": "84abd1857de5dfd9",
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-30T09:30:00+00:00",
+      "excerpt": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "a86d24c59c826150",
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-30T09:00:00+00:00",
+      "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "7c990df470317775",
+      "title": "Closing banking’s AI value gap: A CEO guide",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "As AI adoption races ahead, great value is being left behind. Leaders need an operating model that…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "bfd885936b726015",
+      "title": "Shapers and Founders: Scaling without losing soul",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "3be251a288fe6031",
+      "title": "Overcoming the R&D bottleneck: Building a causal decision system",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected,…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "46ae410283aab9bc",
+      "title": "Waniwani’s CEO on the agentic future of insurance distribution",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
       "id": "83a6fa3eb8b4deeb",
-      "title": "Wärtsilä CEO Håkan Agnevall: focus, flexibility, and the next wave of growth",
+      "title": "Wärtsilä CEO Håkan Agnevall: Focus, flexibility, and the next wave of growth",
       "url": "https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth",
       "category": "consulting",
       "source": "McKinsey",
@@ -81,6 +159,28 @@
       "published": "2026-10-30T00:00:00+00:00",
       "excerpt": "Industrial leaders can turn disruption into growth by sharpening their focus, scaling to…",
       "firstSeen": "2026-10-30T13:01:32.029143+00:00"
+    },
+    {
+      "id": "e50090821cc6bd4b",
+      "title": "Bob Bowman on winning: Show up and do your work",
+      "url": "https://www.mckinsey.com/featured-insights/bob-bowman-on-winning-show-up-and-do-your-work",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "The coach who guided Michael Phelps to 23 Olympic gold medals explains why consistency beats…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "78f9d057c5b027d9",
+      "title": "Author Talks: Why you can’t separate strategy from value—and vice versa",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-you-cant-separate-strategy-from-value-and-vice-versa",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "Three McKinsey experts in strategy and corporate finance explore the four foundational principles that…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
     },
     {
       "id": "9349f418e7bc7ab4",
@@ -138,6 +238,17 @@
       "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
+      "id": "85f94c0fe8f02a81",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
       "id": "718617961cab3abc",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -171,39 +282,6 @@
       "firstSeen": "2026-10-29T13:08:46.649712+00:00"
     },
     {
-      "id": "aa334d9e6eddd968",
-      "title": "Global Economics Intelligence executive summary, September 2026",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-29T00:00:00+00:00",
-      "excerpt": "Central banks move to tighten interest rate policies as energy price spikes fuel inflation; growth looks sparse in…",
-      "firstSeen": "2026-10-29T13:08:46.649712+00:00"
-    },
-    {
-      "id": "8ee11eab497b1950",
-      "title": "The algorithm isn’t the advantage–the team is",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-algorithm-isnt-the-advantage-the-team-is",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-29T00:00:00+00:00",
-      "excerpt": "FICO CEO Will Lansing says a strong ownership culture, not a smarter computational method, will set the data…",
-      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
-    },
-    {
-      "id": "732ab7a3b0e0f971",
-      "title": "Banking on AI: How a new operating model can transform distressed credit management",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/banking-on-ai-how-a-new-operating-model-can-transform-distressed-credit-management",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-29T00:00:00+00:00",
-      "excerpt": "Banks increasingly deploy AI in distressed credit management. But few have adjusted…",
-      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
-    },
-    {
       "id": "e8e0cb1d0e685ced",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -212,7 +290,8 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
+      "retained": true
     },
     {
       "id": "802ea9c24a2e9529",
@@ -223,17 +302,6 @@
       "evidence": "Company announcement",
       "published": "2026-10-28T16:30:00+00:00",
       "excerpt": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
-      "id": "ec733f799e1aaee3",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-28T14:58:17+00:00",
-      "excerpt": "",
       "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
@@ -270,28 +338,6 @@
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
     },
     {
-      "id": "e2ed7680c50ae3f0",
-      "title": "The future of the firm",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-28T10:00:00+00:00",
-      "excerpt": "How AI might enter the org chart—beneath, beside, and between us.",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
-      "id": "709cc8e2bd467b79",
-      "title": "Legora is building the agentic operating system for legal work",
-      "url": "https://openai.com/index/legora",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-28T09:30:00+00:00",
-      "excerpt": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
       "id": "24f667a8b1ce042b",
       "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
       "url": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
@@ -301,39 +347,6 @@
       "published": "2026-10-28T08:00:00+00:00",
       "excerpt": "TOKYO — The companies share the ambition to advance secure,…",
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
-    },
-    {
-      "id": "0eb824c98e364696",
-      "title": "Rewiring securities services for a new era of competition and growth",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/rewiring-securities-services-for-a-new-era-of-competition-and-growth",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-28T00:00:00+00:00",
-      "excerpt": "Disruptive forces—from real-time settlement to agentic AI—are changing the dynamics of the securities services…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
-      "id": "ceeaad28215b8e6e",
-      "title": "Agentic AI in strategic sourcing: Hype or hero?",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-28T00:00:00+00:00",
-      "excerpt": "As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
-      "id": "121c2c4aaa1e56d9",
-      "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-28T00:00:00+00:00",
-      "excerpt": "Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
       "id": "1c5b51464767c2ad",
@@ -366,18 +379,8 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
-      "id": "1e3ebf94e41ebe19",
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-27T15:00:00+00:00",
-      "excerpt": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual…",
-      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
+      "retained": true
     },
     {
       "id": "0b541fa95db69814",
@@ -454,7 +457,8 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
+      "retained": true
     },
     {
       "id": "0e653436fc7097c4",
@@ -509,7 +513,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "422d5c94b0f19090",
@@ -564,7 +569,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -575,7 +581,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "94cc08977f17740f",
@@ -586,7 +593,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "32d2cdc096a7a0b4",
@@ -647,17 +655,6 @@
       "evidence": "University reporting",
       "published": "2026-09-02T14:00:00+00:00",
       "excerpt": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "2454552264b02567",
-      "title": "MIT Quantum Initiative launches postdoctoral fellowship program",
-      "url": "https://news.mit.edu/2026/mit-quantum-initiative-launches-postdoctoral-fellowship-0831",
-      "category": "physics",
-      "source": "MIT Physics",
-      "evidence": "University reporting",
-      "published": "2026-08-31T19:30:00+00:00",
-      "excerpt": "The Institute welcomes its first cohort of QMIT Fellows this fall to advance interdisciplinary quantum research.",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     }
   ]
