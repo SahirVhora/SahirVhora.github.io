@@ -4,7 +4,23 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 21:50:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 13:01:32 +0000</lastBuildDate>
+    <item>
+      <title>SAP Shows How to Lead with AI Governance at SAP TechEd</title>
+      <link>https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/</link>
+      <guid>https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/</guid>
+      <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
+      <description>SAP provides the solutions necessary to govern, control, and innovate now and into the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Wärtsilä CEO Håkan Agnevall: focus, flexibility, and the next wave of growth</title>
+      <link>https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth</link>
+      <guid>https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Industrial leaders can turn disruption into growth by sharpening their focus, scaling to…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>An updated Model Spec for more capable and beneficial AI</title>
       <link>https://openai.com/index/updated-model-spec</link>
@@ -174,19 +190,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Who wins when AI does the shopping? New evidence on agentic commerce</title>
-      <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</link>
-      <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</guid>
-      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Agentic AI in strategic sourcing: Hype or hero?</title>
       <link>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</link>
       <guid>https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero</guid>
       <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
       <description>As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Who wins when AI does the shopping? New evidence on agentic commerce</title>
+      <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</link>
+      <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce</guid>
+      <pubDate>Wed, 28 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -243,22 +259,6 @@
       <guid>https://www.sap.com/topics/events/teched/innovation-news-guide-2026</guid>
       <pubDate>Tue, 27 Oct 2026 08:01:00 +0000</pubDate>
       <description>Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE</title>
-      <link>https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/</link>
-      <guid>https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/</guid>
-      <pubDate>Tue, 27 Oct 2026 08:00:00 +0000</pubDate>
-      <description>Tabular AI on SAP works at the edge of possibility.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>What AI can’t replace—and why it matters for value</title>
-      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value</link>
-      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value</guid>
-      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
-      <description>AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change…</description>
       <category>consulting</category>
     </item>
     <item>

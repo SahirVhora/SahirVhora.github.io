@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29T21:50:19.045362+00:00",
+  "updatedAt": "2026-10-30T13:01:32.029143+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,28 @@
     }
   ],
   "stories": [
+    {
+      "id": "4bd2183207a61542",
+      "title": "SAP Shows How to Lead with AI Governance at SAP TechEd",
+      "url": "https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-10-30T11:00:00+00:00",
+      "excerpt": "SAP provides the solutions necessary to govern, control, and innovate now and into the…",
+      "firstSeen": "2026-10-30T13:01:32.029143+00:00"
+    },
+    {
+      "id": "83a6fa3eb8b4deeb",
+      "title": "Wärtsilä CEO Håkan Agnevall: focus, flexibility, and the next wave of growth",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "Industrial leaders can turn disruption into growth by sharpening their focus, scaling to…",
+      "firstSeen": "2026-10-30T13:01:32.029143+00:00"
+    },
     {
       "id": "9349f418e7bc7ab4",
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -191,8 +212,7 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
-      "retained": true
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
       "id": "802ea9c24a2e9529",
@@ -294,17 +314,6 @@
       "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
-      "id": "121c2c4aaa1e56d9",
-      "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-28T00:00:00+00:00",
-      "excerpt": "Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
       "id": "ceeaad28215b8e6e",
       "title": "Agentic AI in strategic sourcing: Hype or hero?",
       "url": "https://www.mckinsey.com/capabilities/operations/our-insights/agentic-ai-in-strategic-sourcing-hype-or-hero",
@@ -313,6 +322,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-28T00:00:00+00:00",
       "excerpt": "As more procurement functions invest in agentic AI to capture savings and drive efficiency, the question is…",
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+    },
+    {
+      "id": "121c2c4aaa1e56d9",
+      "title": "Who wins when AI does the shopping? New evidence on agentic commerce",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/who-wins-when-ai-does-the-shopping-new-evidence-on-agentic-commerce",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-28T00:00:00+00:00",
+      "excerpt": "Analysis of about 21,000 consumers indicates how AI shopping behavior is growing and…",
       "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
@@ -346,8 +366,7 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
-      "retained": true
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
     {
       "id": "1e3ebf94e41ebe19",
@@ -394,28 +413,6 @@
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
-      "id": "1f2494ec5b82c41e",
-      "title": "From Orbit to Enterprise: The Next Tabular AI Frontier for SAP and HPE",
-      "url": "https://news.sap.com/2026/10/sap-hpe-orbit-to-enterprise-next-tabular-ai-frontier/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-27T08:00:00+00:00",
-      "excerpt": "Tabular AI on SAP works at the edge of possibility.",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
-      "id": "731bfb02504c200a",
-      "title": "What AI can’t replace—and why it matters for value",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/what-ai-cant-replace-and-why-it-matters-for-value",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-27T00:00:00+00:00",
-      "excerpt": "AI may be deepening our crisis of connection, says Stanford research psychologist Jamil Zaki. Managing change…",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
       "id": "2a5b4af9078abd04",
       "title": "Is HR Tech Undermining Your Strategy?",
       "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
@@ -457,8 +454,7 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
-      "retained": true
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "0e653436fc7097c4",
@@ -513,8 +509,7 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
-      "retained": true
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "422d5c94b0f19090",
@@ -569,8 +564,7 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -581,8 +575,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "94cc08977f17740f",
@@ -593,8 +586,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "32d2cdc096a7a0b4",
