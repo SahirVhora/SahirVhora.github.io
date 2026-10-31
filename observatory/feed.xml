@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 30 Oct 2026 21:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:39:14 +0000</lastBuildDate>
     <item>
       <title>nemotron-halloween</title>
       <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
@@ -22,6 +22,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Talking to Superconducting Qubits with Millimeter Waves</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s140</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s140</guid>
+      <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sophia Chen A new device uses millimeter-wave radiation to accurately read the states of superconducting qubits without…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>Making it easier for websites to express AI training preferences</title>
       <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
       <guid>https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
@@ -35,6 +43,14 @@
       <guid>https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
       <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
       <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Fair use benefits everyone</title>
+      <link>https://openai.com/index/fair-use-benefits-everyone</link>
+      <guid>https://openai.com/index/fair-use-benefits-everyone</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports…</description>
       <category>ai</category>
     </item>
     <item>
@@ -180,14 +196,6 @@
       <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
       <description>With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-      <link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-      <guid>https://openai.com/index/openai-servicenow-partnership-expansion</guid>
-      <pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
-      <description>OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>AI Is Thriving at Capital One</title>
@@ -395,14 +403,6 @@
       <guid>http://link.aps.org/doi/10.1103/Physics.19.133</guid>
       <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): John B. DeBrota A new analysis reveals that all major derivations of the Born rule depend on a probabilistic assumption.…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Time Delay Probes Quantum Light</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s125</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s125</guid>
-      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…</description>
       <category>physics</category>
     </item>
     <item>

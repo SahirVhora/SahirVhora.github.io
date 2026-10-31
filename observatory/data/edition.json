@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T21:32:15.000135+00:00",
+  "updatedAt": "2026-10-31T12:39:14.366383+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -84,6 +83,17 @@
       "firstSeen": "2026-10-30T13:01:32.029143+00:00"
     },
     {
+      "id": "4ca66b0e9156bbdb",
+      "title": "Talking to Superconducting Qubits with Millimeter Waves",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s140",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-10-30T10:00:00+00:00",
+      "excerpt": "Author(s): Sophia Chen A new device uses millimeter-wave radiation to accurately read the states of superconducting qubits without…",
+      "firstSeen": "2026-10-31T12:39:14.366383+00:00"
+    },
+    {
       "id": "84abd1857de5dfd9",
       "title": "Making it easier for websites to express AI training preferences",
       "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
@@ -104,6 +114,17 @@
       "published": "2026-10-30T09:00:00+00:00",
       "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to…",
       "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "574dbaf7fc8731e4",
+      "title": "Fair use benefits everyone",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports…",
+      "firstSeen": "2026-10-31T12:39:14.366383+00:00"
     },
     {
       "id": "7c990df470317775",
@@ -290,8 +311,7 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
-      "retained": true
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
       "id": "802ea9c24a2e9529",
@@ -302,17 +322,6 @@
       "evidence": "Company announcement",
       "published": "2026-10-28T16:30:00+00:00",
       "excerpt": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
-      "id": "a395c7da350b5086",
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-28T13:15:00+00:00",
-      "excerpt": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows…",
       "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
@@ -379,8 +388,7 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
-      "retained": true
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
     {
       "id": "0b541fa95db69814",
@@ -457,8 +465,7 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
-      "retained": true
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "0e653436fc7097c4",
@@ -513,8 +520,7 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
-      "retained": true
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "422d5c94b0f19090",
@@ -569,8 +575,7 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -581,8 +586,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "94cc08977f17740f",
@@ -593,8 +597,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "32d2cdc096a7a0b4",
@@ -605,17 +608,6 @@
       "evidence": "Research commentary",
       "published": "2026-10-13T10:00:00+00:00",
       "excerpt": "Author(s): John B. DeBrota A new analysis reveals that all major derivations of the Born rule depend on a probabilistic assumption.…",
-      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
-    },
-    {
-      "id": "6d586e35373b2bd0",
-      "title": "Time Delay Probes Quantum Light",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s125",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-13T10:00:00+00:00",
-      "excerpt": "Author(s): Ryan Wilkinson Photoelectron interference can reveal otherwise hidden properties of quantum light through an apparent attosecond time shift. [Physics…",
       "firstSeen": "2026-10-13T21:52:12.044183+00:00"
     },
     {
