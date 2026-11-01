@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T13:30:18.139039+00:00",
+  "updatedAt": "2026-11-01T21:12:51.399762+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 4
+      "count": 3
     },
     {
       "name": "MIT Sloan Management Review",
@@ -127,17 +127,6 @@
       "firstSeen": "2026-10-31T12:39:14.366383+00:00"
     },
     {
-      "id": "bfd885936b726015",
-      "title": "Shapers and Founders: Scaling without losing soul",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
       "id": "7c990df470317775",
       "title": "Closing banking’s AI value gap: A CEO guide",
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
@@ -146,6 +135,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-10-30T00:00:00+00:00",
       "excerpt": "As AI adoption races ahead, great value is being left behind. Leaders need an operating model that…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "bfd885936b726015",
+      "title": "Shapers and Founders: Scaling without losing soul",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-10-30T00:00:00+00:00",
+      "excerpt": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial…",
       "firstSeen": "2026-10-30T21:32:15.000135+00:00"
     },
     {
@@ -259,6 +259,17 @@
       "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
+      "id": "85f94c0fe8f02a81",
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "url": "https://openai.com/index/credit-saison",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-10-29T00:00:00+00:00",
+      "excerpt": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn…",
+      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
       "id": "718617961cab3abc",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -290,17 +301,6 @@
       "published": "2026-10-29T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-29T13:08:46.649712+00:00"
-    },
-    {
-      "id": "85f94c0fe8f02a81",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-29T00:00:00+00:00",
-      "excerpt": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
     },
     {
       "id": "e8e0cb1d0e685ced",
@@ -636,17 +636,6 @@
       "evidence": "University reporting",
       "published": "2026-09-16T18:30:00+00:00",
       "excerpt": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
-    },
-    {
-      "id": "b02649524ea87ea0",
-      "title": "New research shows a neutrino laser is impossible",
-      "url": "https://news.mit.edu/2026/new-research-shows-neutrino-laser-impossible-0902",
-      "category": "physics",
-      "source": "MIT Physics",
-      "evidence": "University reporting",
-      "published": "2026-09-02T14:00:00+00:00",
-      "excerpt": "Due to physical and fundamental limitations, an earlier proposal for producing laserlike beams of neutrinos cannot be…",
       "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     }
   ]
