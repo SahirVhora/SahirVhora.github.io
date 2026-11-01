@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sat, 31 Oct 2026 20:27:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:30:18 +0000</lastBuildDate>
     <item>
       <title>nemotron-halloween</title>
       <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
@@ -54,19 +54,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Closing banking’s AI value gap: A CEO guide</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As AI adoption races ahead, great value is being left behind. Leaders need an operating model that…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Shapers and Founders: Scaling without losing soul</title>
       <link>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul</link>
       <guid>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <description>A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Closing banking’s AI value gap: A CEO guide</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</guid>
+      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
+      <description>As AI adoption races ahead, great value is being left behind. Leaders need an operating model that…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -150,14 +150,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
-      <link>https://openai.com/index/credit-saison</link>
-      <guid>https://openai.com/index/credit-saison</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
       <link>https://huggingface.co/blog/announcing-project-protostar</link>
       <guid>https://huggingface.co/blog/announcing-project-protostar</guid>
@@ -179,6 +171,14 @@
       <guid>https://huggingface.co/blog/anydecisionmodel</guid>
       <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot</title>
+      <link>https://openai.com/index/credit-saison</link>
+      <guid>https://openai.com/index/credit-saison</guid>
+      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+      <description>Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn…</description>
       <category>ai</category>
     </item>
     <item>
