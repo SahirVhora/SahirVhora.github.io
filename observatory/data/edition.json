@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T16:03:29.700568+00:00",
+  "updatedAt": "2026-11-02T23:53:22.065499+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -62,6 +61,17 @@
   ],
   "stories": [
     {
+      "id": "277870ffc8d71544",
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T15:30:00+00:00",
+      "excerpt": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
+    },
+    {
       "id": "5d33ed0c66ace544",
       "title": "Introducing the Grid Protectors Program",
       "url": "https://openai.com/index/grid-protectors-program",
@@ -95,6 +105,17 @@
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
     },
     {
+      "id": "5a014341bc3fc0f1",
+      "title": "LifeVal",
+      "url": "https://openai.com/index/lifeval",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T09:00:00+00:00",
+      "excerpt": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
+    },
+    {
       "id": "82be954a7b7743d7",
       "title": "How India Drives SAP’s AI Future",
       "url": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
@@ -104,6 +125,17 @@
       "published": "2026-11-02T05:15:00+00:00",
       "excerpt": "India has evolved from a regional hub into one of SAP’s most important global innovation hubs.",
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
+    {
+      "id": "4094d4340f9e66f9",
+      "title": "Qodo builds context into AI code review with Codex",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T00:00:00+00:00",
+      "excerpt": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories…",
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
     },
     {
       "id": "63aa33c16615844d",
@@ -137,6 +169,17 @@
       "published": "2026-10-30T17:57:24+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-30T21:32:15.000135+00:00"
+    },
+    {
+      "id": "1b296d8bb115085d",
+      "title": "Speeding up planning decisions with AI",
+      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-10-30T14:18:30+00:00",
+      "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
     },
     {
       "id": "4bd2183207a61542",
@@ -249,17 +292,6 @@
       "firstSeen": "2026-10-30T13:01:32.029143+00:00"
     },
     {
-      "id": "9349f418e7bc7ab4",
-      "title": "An updated Model Spec for more capable and beneficial AI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-29T17:00:00+00:00",
-      "excerpt": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound…",
-      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
-    },
-    {
       "id": "e508e29ae812fe58",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -280,28 +312,6 @@
       "published": "2026-10-29T11:00:00+00:00",
       "excerpt": "Enterprises can build AI agents act with greater…",
       "firstSeen": "2026-10-29T13:08:46.649712+00:00"
-    },
-    {
-      "id": "0f01adb2acab0a67",
-      "title": "How we detect frontier model misalignment",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-29T09:00:00+00:00",
-      "excerpt": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents…",
-      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
-    },
-    {
-      "id": "d948735545c20cf3",
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-29T07:00:00+00:00",
-      "excerpt": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents,…",
-      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
       "id": "718617961cab3abc",
@@ -345,8 +355,7 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
-      "retained": true
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
       "id": "802ea9c24a2e9529",
@@ -423,8 +432,7 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
-      "retained": true
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
     {
       "id": "0b541fa95db69814",
@@ -479,8 +487,7 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
-      "retained": true
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "0e653436fc7097c4",
@@ -535,8 +542,7 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
-      "retained": true
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "422d5c94b0f19090",
@@ -580,8 +586,7 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -592,20 +597,7 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
-    },
-    {
-      "id": "94cc08977f17740f",
-      "title": "Gemini 4 Argon for Robotics",
-      "url": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-13T16:01:58+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
-      "retained": true
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "32d2cdc096a7a0b4",

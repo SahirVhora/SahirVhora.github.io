@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 16:03:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:53:22 +0000</lastBuildDate>
+    <item>
+      <title>Scaling Git at OpenAI</title>
+      <link>https://openai.com/index/scaling-git-at-openai</link>
+      <guid>https://openai.com/index/scaling-git-at-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
+      <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>Introducing the Grid Protectors Program</title>
       <link>https://openai.com/index/grid-protectors-program</link>
@@ -30,12 +38,28 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>LifeVal</title>
+      <link>https://openai.com/index/lifeval</link>
+      <guid>https://openai.com/index/lifeval</guid>
+      <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+      <description>Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>How India Drives SAP’s AI Future</title>
       <link>https://news.sap.com/2026/11/how-india-drives-sap-ai-future/</link>
       <guid>https://news.sap.com/2026/11/how-india-drives-sap-ai-future/</guid>
       <pubDate>Mon, 02 Nov 2026 05:15:00 +0000</pubDate>
       <description>India has evolved from a regional hub into one of SAP’s most important global innovation hubs.</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Qodo builds context into AI code review with Codex</title>
+      <link>https://openai.com/index/qodo-codex-plugin</link>
+      <guid>https://openai.com/index/qodo-codex-plugin</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Critical infrastructure is under threat. Are organizations prepared?</title>
@@ -59,6 +83,14 @@
       <guid>https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
       <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Speeding up planning decisions with AI</title>
+      <link>https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</link>
+      <guid>https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</guid>
+      <pubDate>Fri, 30 Oct 2026 14:18:30 +0000</pubDate>
+      <description>Google DeepMind and UK government work together to reduce planning assessment times</description>
       <category>ai</category>
     </item>
     <item>
@@ -142,14 +174,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>An updated Model Spec for more capable and beneficial AI</title>
-      <link>https://openai.com/index/updated-model-spec</link>
-      <guid>https://openai.com/index/updated-model-spec</guid>
-      <pubDate>Thu, 29 Oct 2026 17:00:00 +0000</pubDate>
-      <description>OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Granite Switch 4.1.1 — Update models like you update software</title>
       <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
       <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
@@ -164,22 +188,6 @@
       <pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
       <description>Enterprises can build AI agents act with greater…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>How we detect frontier model misalignment</title>
-      <link>https://openai.com/index/how-we-detect-frontier-model-misalignment</link>
-      <guid>https://openai.com/index/how-we-detect-frontier-model-misalignment</guid>
-      <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
-      <description>OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>How Ropes &amp; Gray is developing AI for transactional diligence</title>
-      <link>https://openai.com/index/ropes-gray-ai-diligence</link>
-      <guid>https://openai.com/index/ropes-gray-ai-diligence</guid>
-      <pubDate>Thu, 29 Oct 2026 07:00:00 +0000</pubDate>
-      <description>Ropes &amp; Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents,…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
@@ -386,14 +394,6 @@
       <link>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</link>
       <guid>https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/</guid>
       <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Gemini 4 Argon for Robotics</title>
-      <link>https://deepmind.google/blog/gemini-4-argon-for-robotics/</link>
-      <guid>https://deepmind.google/blog/gemini-4-argon-for-robotics/</guid>
-      <pubDate>Tue, 13 Oct 2026 16:01:58 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
