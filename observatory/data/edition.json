@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-01T21:12:51.399762+00:00",
+  "updatedAt": "2026-11-02T16:03:29.700568+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -60,6 +61,72 @@
     }
   ],
   "stories": [
+    {
+      "id": "5d33ed0c66ace544",
+      "title": "Introducing the Grid Protectors Program",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T15:00:00+00:00",
+      "excerpt": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity…",
+      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
+    {
+      "id": "61a16dff2a951566",
+      "title": "AI and Transformation Guidance for Every Customer",
+      "url": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T12:15:00+00:00",
+      "excerpt": "Max Success Plan is now available to every customer, whether they choose to work with SAP directly or…",
+      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
+    {
+      "id": "a793aab7db96348e",
+      "title": "The AI Governance Paradox",
+      "url": "https://sloanreview.mit.edu/article/the-ai-governance-paradox/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-02T12:00:13+00:00",
+      "excerpt": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers…",
+      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
+    {
+      "id": "82be954a7b7743d7",
+      "title": "How India Drives SAP’s AI Future",
+      "url": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T05:15:00+00:00",
+      "excerpt": "India has evolved from a regional hub into one of SAP’s most important global innovation hubs.",
+      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
+    {
+      "id": "63aa33c16615844d",
+      "title": "Critical infrastructure is under threat. Are organizations prepared?",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-02T00:00:00+00:00",
+      "excerpt": "Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here…",
+      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
+    {
+      "id": "363085b1d48fd4e0",
+      "title": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-02T00:00:00+00:00",
+      "excerpt": "The judgment of the CEO and top leaders is one of the most valuable…",
+      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
     {
       "id": "037154e824aaff25",
       "title": "nemotron-halloween",
@@ -182,28 +249,6 @@
       "firstSeen": "2026-10-30T13:01:32.029143+00:00"
     },
     {
-      "id": "e50090821cc6bd4b",
-      "title": "Bob Bowman on winning: Show up and do your work",
-      "url": "https://www.mckinsey.com/featured-insights/bob-bowman-on-winning-show-up-and-do-your-work",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "The coach who guided Michael Phelps to 23 Olympic gold medals explains why consistency beats…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
-      "id": "78f9d057c5b027d9",
-      "title": "Author Talks: Why you can’t separate strategy from value—and vice versa",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-why-you-cant-separate-strategy-from-value-and-vice-versa",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "Three McKinsey experts in strategy and corporate finance explore the four foundational principles that…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
       "id": "9349f418e7bc7ab4",
       "title": "An updated Model Spec for more capable and beneficial AI",
       "url": "https://openai.com/index/updated-model-spec",
@@ -259,17 +304,6 @@
       "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
-      "id": "85f94c0fe8f02a81",
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "url": "https://openai.com/index/credit-saison",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-29T00:00:00+00:00",
-      "excerpt": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI. See how leaders and employees helped turn…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
       "id": "718617961cab3abc",
       "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
       "url": "https://huggingface.co/blog/announcing-project-protostar",
@@ -311,7 +345,8 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
+      "retained": true
     },
     {
       "id": "802ea9c24a2e9529",
@@ -388,7 +423,8 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
+      "retained": true
     },
     {
       "id": "0b541fa95db69814",
@@ -399,28 +435,6 @@
       "evidence": "Management perspective",
       "published": "2026-10-27T11:00:35+00:00",
       "excerpt": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the…",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
-      "id": "e6f17412f5a55b6a",
-      "title": "SAP Empowers AI Developers to Build What Matters and Turn Intent into Autonomous Execution",
-      "url": "https://news.sap.com/2026/10/sap-teched-ai-developers-build-what-matters-autonomous-execution/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-27T08:02:00+00:00",
-      "excerpt": "BERLIN — SAP SE (NYSE: SAP) today announced a series of…",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
-      "id": "c6a0d93ad21de72f",
-      "title": "Innovation News Guide: The Autonomous Enterprise Becomes a Reality",
-      "url": "https://www.sap.com/topics/events/teched/innovation-news-guide-2026",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-27T08:01:00+00:00",
-      "excerpt": "Developers are being equipped to build, connect and govern enterprise AI, from intent to trusted execution.",
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
     },
     {
@@ -465,7 +479,8 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
+      "retained": true
     },
     {
       "id": "0e653436fc7097c4",
@@ -520,7 +535,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "422d5c94b0f19090",
@@ -545,17 +561,6 @@
       "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
-      "id": "f9f5d83c077fa183",
-      "title": "Why Every High-Performing Leader Needs a Pacer",
-      "url": "https://sloanreview.mit.edu/article/why-every-high-performing-leader-needs-a-pacer/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-14T11:00:33+00:00",
-      "excerpt": "Matt Harrison Clough/Ikon Images Jakob Ingebrigtsen, one of the best middle-distance runners ever, has won gold medals for…",
-      "firstSeen": "2026-10-14T11:58:33.800294+00:00"
-    },
-    {
       "id": "3a36184267adec1a",
       "title": "Illuminating Quantum Ferroelectrics",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s132",
@@ -575,7 +580,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "8b1ab1df41ac00d8",
@@ -586,7 +592,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "94cc08977f17740f",
@@ -597,7 +604,8 @@
       "evidence": "Company research",
       "published": "2026-10-13T16:01:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "32d2cdc096a7a0b4",
