@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-02T23:53:22.065499+00:00",
+  "updatedAt": "2026-11-03T14:22:27.612686+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,94 @@
   ],
   "stories": [
     {
+      "id": "e266f669df4ea6c2",
+      "title": "SAP Positioned as a Market Shaper in the Inaugural 2026 Gartner® Emerging Market Quadrant for Integrated Supply Chain AI Agents – Established Vendors",
+      "url": "https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-03T13:15:00+00:00",
+      "excerpt": "The supply…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "60900720b5ab915a",
+      "title": "Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners",
+      "url": "https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-03T12:15:00+00:00",
+      "excerpt": "The vision of SAP Business Network is to become the intelligence…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "3f8e3193e2f549ca",
+      "title": "SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster",
+      "url": "https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-03T09:00:00+00:00",
+      "excerpt": "The combination of SAP Business AI Platform and North can deliver exponential value.",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "fc87a45dcfbf03d4",
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "url": "https://openai.com/index/heimstaden",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-03T08:00:00+00:00",
+      "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "a6f54d325d31634f",
+      "title": "Transformers Model Integration Contracts",
+      "url": "https://huggingface.co/blog/transformers-mic",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-03T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "db423736d3d4b272",
+      "title": "Advancing adaptation: Breaking barriers to a trillion-dollar opportunity",
+      "url": "https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-03T00:00:00+00:00",
+      "excerpt": "Climate adaptation delivers benefits far greater than its costs, but investment lags. What are the barriers to…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "0d297090385ad5a7",
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T18:00:00+00:00",
+      "excerpt": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "bca108e4c77bd86b",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-02T18:00:00+00:00",
+      "excerpt": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
       "id": "277870ffc8d71544",
       "title": "Scaling Git at OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai",
@@ -105,6 +193,17 @@
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
     },
     {
+      "id": "7722f66ddf060eb3",
+      "title": "Using Pulsars to Probe Early Growth of Black Holes",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.146",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-02T10:00:00+00:00",
+      "excerpt": "Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
       "id": "5a014341bc3fc0f1",
       "title": "LifeVal",
       "url": "https://openai.com/index/lifeval",
@@ -127,26 +226,15 @@
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
     },
     {
-      "id": "4094d4340f9e66f9",
-      "title": "Qodo builds context into AI code review with Codex",
-      "url": "https://openai.com/index/qodo-codex-plugin",
+      "id": "945f879ef3a469b4",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
       "published": "2026-11-02T00:00:00+00:00",
-      "excerpt": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories…",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
-    },
-    {
-      "id": "63aa33c16615844d",
-      "title": "Critical infrastructure is under threat. Are organizations prepared?",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-02T00:00:00+00:00",
-      "excerpt": "Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here…",
-      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+      "excerpt": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber…",
+      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
       "id": "363085b1d48fd4e0",
@@ -157,6 +245,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-02T00:00:00+00:00",
       "excerpt": "The judgment of the CEO and top leaders is one of the most valuable…",
+      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
+    },
+    {
+      "id": "63aa33c16615844d",
+      "title": "Critical infrastructure is under threat. Are organizations prepared?",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-02T00:00:00+00:00",
+      "excerpt": "Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here…",
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
     },
     {
@@ -204,39 +303,6 @@
       "firstSeen": "2026-10-31T12:39:14.366383+00:00"
     },
     {
-      "id": "84abd1857de5dfd9",
-      "title": "Making it easier for websites to express AI training preferences",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-30T09:30:00+00:00",
-      "excerpt": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
-      "id": "a86d24c59c826150",
-      "title": "Community safety report and new protections for teens",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-30T09:00:00+00:00",
-      "excerpt": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
-      "id": "574dbaf7fc8731e4",
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports…",
-      "firstSeen": "2026-10-31T12:39:14.366383+00:00"
-    },
-    {
       "id": "7c990df470317775",
       "title": "Closing banking’s AI value gap: A CEO guide",
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
@@ -279,17 +345,6 @@
       "published": "2026-10-30T00:00:00+00:00",
       "excerpt": "AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the…",
       "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
-      "id": "83a6fa3eb8b4deeb",
-      "title": "Wärtsilä CEO Håkan Agnevall: Focus, flexibility, and the next wave of growth",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "Industrial leaders can turn disruption into growth by sharpening their focus, scaling to…",
-      "firstSeen": "2026-10-30T13:01:32.029143+00:00"
     },
     {
       "id": "e508e29ae812fe58",
@@ -358,17 +413,6 @@
       "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
-      "id": "802ea9c24a2e9529",
-      "title": "SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”",
-      "url": "https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-28T16:30:00+00:00",
-      "excerpt": "With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
-    },
-    {
       "id": "3da2b65af0d1313a",
       "title": "AI Is Thriving at Capital One",
       "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
@@ -380,28 +424,6 @@
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
     },
     {
-      "id": "5955c4bbce181eea",
-      "title": "SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations",
-      "url": "https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-28T11:00:00+00:00",
-      "excerpt": "Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness.",
-      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
-    },
-    {
-      "id": "24f667a8b1ce042b",
-      "title": "SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities",
-      "url": "https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-28T08:00:00+00:00",
-      "excerpt": "TOKYO — The companies share the ambition to advance secure,…",
-      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
-    },
-    {
       "id": "1c5b51464767c2ad",
       "title": "Build specialized multimodal models with LFM3",
       "url": "https://huggingface.co/blog/LiquidAI/lfm3",
@@ -409,17 +431,6 @@
       "source": "Hugging Face",
       "evidence": "Community / technical",
       "published": "2026-10-27T17:16:52+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
-      "id": "1d6c5c59e46e52b9",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-27T16:12:42+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
@@ -598,17 +609,6 @@
       "published": "2026-10-13T19:43:07+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
-    },
-    {
-      "id": "32d2cdc096a7a0b4",
-      "title": "Quantum Probability Requires Probability",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.133",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-13T10:00:00+00:00",
-      "excerpt": "Author(s): John B. DeBrota A new analysis reveals that all major derivations of the Born rule depend on a probabilistic assumption.…",
-      "firstSeen": "2026-10-13T21:52:12.044183+00:00"
     },
     {
       "id": "553830d231d34627",

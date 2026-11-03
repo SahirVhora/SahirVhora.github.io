@@ -4,7 +4,71 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 02 Nov 2026 23:53:22 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 14:22:27 +0000</lastBuildDate>
+    <item>
+      <title>SAP Positioned as a Market Shaper in the Inaugural 2026 Gartner® Emerging Market Quadrant for Integrated Supply Chain AI Agents – Established Vendors</title>
+      <link>https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/</link>
+      <guid>https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/</guid>
+      <pubDate>Tue, 03 Nov 2026 13:15:00 +0000</pubDate>
+      <description>The supply…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners</title>
+      <link>https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/</link>
+      <guid>https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/</guid>
+      <pubDate>Tue, 03 Nov 2026 12:15:00 +0000</pubDate>
+      <description>The vision of SAP Business Network is to become the intelligence…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster</title>
+      <link>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</link>
+      <guid>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</guid>
+      <pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+      <description>The combination of SAP Business AI Platform and North can deliver exponential value.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Heimstaden is changing residential real estate management with AI</title>
+      <link>https://openai.com/index/heimstaden</link>
+      <guid>https://openai.com/index/heimstaden</guid>
+      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Transformers Model Integration Contracts</title>
+      <link>https://huggingface.co/blog/transformers-mic</link>
+      <guid>https://huggingface.co/blog/transformers-mic</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Advancing adaptation: Breaking barriers to a trillion-dollar opportunity</title>
+      <link>https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity</link>
+      <guid>https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity</guid>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Climate adaptation delivers benefits far greater than its costs, but investment lags. What are the barriers to…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Preparing our next security sprint to harden OpenAI</title>
+      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+      <guid>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+      <description>OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Rewarding defenders with bigger bug bounties</title>
+      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+      <guid>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+      <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>Scaling Git at OpenAI</title>
       <link>https://openai.com/index/scaling-git-at-openai</link>
@@ -38,6 +102,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Using Pulsars to Probe Early Growth of Black Holes</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.146</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.146</guid>
+      <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>LifeVal</title>
       <link>https://openai.com/index/lifeval</link>
       <guid>https://openai.com/index/lifeval</guid>
@@ -54,20 +126,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Qodo builds context into AI code review with Codex</title>
-      <link>https://openai.com/index/qodo-codex-plugin</link>
-      <guid>https://openai.com/index/qodo-codex-plugin</guid>
+      <title>OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization</title>
+      <link>https://openai.com/index/dan-driscoll-joins-openai</link>
+      <guid>https://openai.com/index/dan-driscoll-joins-openai</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories…</description>
+      <description>OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber…</description>
       <category>ai</category>
-    </item>
-    <item>
-      <title>Critical infrastructure is under threat. Are organizations prepared?</title>
-      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared</link>
-      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership</title>
@@ -75,6 +139,14 @@
       <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <description>The judgment of the CEO and top leaders is one of the most valuable…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Critical infrastructure is under threat. Are organizations prepared?</title>
+      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared</link>
+      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared</guid>
+      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -110,30 +182,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Making it easier for websites to express AI training preferences</title>
-      <link>https://openai.com/index/helping-websites-express-ai-training-preferences</link>
-      <guid>https://openai.com/index/helping-websites-express-ai-training-preferences</guid>
-      <pubDate>Fri, 30 Oct 2026 09:30:00 +0000</pubDate>
-      <description>OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Community safety report and new protections for teens</title>
-      <link>https://openai.com/index/community-safety-report-and-new-protections-for-teens</link>
-      <guid>https://openai.com/index/community-safety-report-and-new-protections-for-teens</guid>
-      <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-      <description>OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Fair use benefits everyone</title>
-      <link>https://openai.com/index/fair-use-benefits-everyone</link>
-      <guid>https://openai.com/index/fair-use-benefits-everyone</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Closing banking’s AI value gap: A CEO guide</title>
       <link>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</link>
       <guid>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</guid>
@@ -163,14 +211,6 @@
       <guid>https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution</guid>
       <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
       <description>AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Wärtsilä CEO Håkan Agnevall: Focus, flexibility, and the next wave of growth</title>
-      <link>https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth</link>
-      <guid>https://www.mckinsey.com/industries/industrials/our-insights/wartsila-ceo-hakan-agnevall-focus-flexibility-and-the-next-wave-of-growth</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>Industrial leaders can turn disruption into growth by sharpening their focus, scaling to…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -222,14 +262,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>SAP TechEd in 2026: SAP Tells Developers “You Can Build the Autonomous Enterprise”</title>
-      <link>https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/</link>
-      <guid>https://news.sap.com/2026/10/sap-teched-developers-you-can-build-autonomous-enterprise/</guid>
-      <pubDate>Wed, 28 Oct 2026 16:30:00 +0000</pubDate>
-      <description>With comprehensive AI tools and the SAP Business AI Platform, developers, customers,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>AI Is Thriving at Capital One</title>
       <link>https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/</link>
       <guid>https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/</guid>
@@ -238,34 +270,10 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>SAP Brings Migration and Modernization Assistants to Customers’ Cloud ERP Transformations</title>
-      <link>https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/</link>
-      <guid>https://news.sap.com/2026/10/migration-and-modernization-assistants-sap-customer-cloud-erp-transformations/</guid>
-      <pubDate>Wed, 28 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Organizations can simplify transformation activities, accelerate project execution, improve decision-making, and increase readiness.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>SAP and NTT to Cooperate on Delivering Trusted Sovereign Cloud and SAP Business AI Capabilities</title>
-      <link>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</link>
-      <guid>https://news.sap.com/2026/10/sap-ntt-to-cooperate-deliver-trusted-sovereign-cloud-sap-business-ai-capabilities/</guid>
-      <pubDate>Wed, 28 Oct 2026 08:00:00 +0000</pubDate>
-      <description>TOKYO — The companies share the ambition to advance secure,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Build specialized multimodal models with LFM3</title>
       <link>https://huggingface.co/blog/LiquidAI/lfm3</link>
       <guid>https://huggingface.co/blog/LiquidAI/lfm3</guid>
       <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Can we trust LLMs to judge whether a research idea is novel?</title>
-      <link>https://huggingface.co/blog/allenai/novelty-bench</link>
-      <guid>https://huggingface.co/blog/allenai/novelty-bench</guid>
-      <pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -396,14 +404,6 @@
       <pubDate>Tue, 13 Oct 2026 19:43:07 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>Quantum Probability Requires Probability</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.133</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.133</guid>
-      <pubDate>Tue, 13 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): John B. DeBrota A new analysis reveals that all major derivations of the Born rule depend on a probabilistic assumption.…</description>
-      <category>physics</category>
     </item>
     <item>
       <title>Scattering neutrinos to probe the fundamental laws of the universe</title>
