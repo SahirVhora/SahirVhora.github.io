@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T14:22:27.612686+00:00",
+  "updatedAt": "2026-11-03T22:19:50.210524+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,39 @@
   ],
   "stories": [
     {
+      "id": "8d86676710497099",
+      "title": "StateBench: Testing how language models track state changes over long documents",
+      "url": "https://huggingface.co/blog/allenai/statebench",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-03T17:15:21+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
+      "id": "da38bc697163569b",
+      "title": "Agentic cheminformatics with Google Antigravity",
+      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-03T17:01:49+00:00",
+      "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
+      "id": "4d3938441f216409",
+      "title": "Palette: teaching a small model to build decks in your design language",
+      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-03T16:35:36+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
       "id": "e266f669df4ea6c2",
       "title": "SAP Positioned as a Market Shaper in the Inaugural 2026 Gartner® Emerging Market Quadrant for Integrated Supply Chain AI Agents – Established Vendors",
       "url": "https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/",
@@ -83,6 +116,17 @@
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
+      "id": "25493a43cba550c7",
+      "title": "Accelerating engineering for the physical world",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-03T12:00:00+00:00",
+      "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical…",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
       "id": "3f8e3193e2f549ca",
       "title": "SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster",
       "url": "https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/",
@@ -92,6 +136,17 @@
       "published": "2026-11-03T09:00:00+00:00",
       "excerpt": "The combination of SAP Business AI Platform and North can deliver exponential value.",
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "34e7d62615202d0d",
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-03T08:00:00+00:00",
+      "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more…",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
       "id": "fc87a45dcfbf03d4",
@@ -105,6 +160,28 @@
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
+      "id": "019edb616369c332",
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-03T00:00:00+00:00",
+      "excerpt": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and…",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
+      "id": "63945bc794809749",
+      "title": "CWE-bench v2: More coverage, quality, and transparency",
+      "url": "https://huggingface.co/blog/cwe-bench",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-03T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
       "id": "a6f54d325d31634f",
       "title": "Transformers Model Integration Contracts",
       "url": "https://huggingface.co/blog/transformers-mic",
@@ -114,6 +191,39 @@
       "published": "2026-11-03T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
+    },
+    {
+      "id": "bc16d5d136a67552",
+      "title": "The 1 percent wake-up call for life insurers",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-03T00:00:00+00:00",
+      "excerpt": "Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around…",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
+      "id": "c99c782731db0bcc",
+      "title": "Future of Wellness 2027: Inside the $2.7 trillion takeover",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-03T00:00:00+00:00",
+      "excerpt": "More consumers are prioritizing their health and scrutinizing what they buy. Our latest Future of Wellness…",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+    },
+    {
+      "id": "0391251efbc187ad",
+      "title": "How frontier AI is rewriting software security rules",
+      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-frontier-ai-is-rewriting-software-security-rules",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-03T00:00:00+00:00",
+      "excerpt": "As AI makes it easier and faster for cyberattackers to discover and exploit vulnerabilities in software, companies…",
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
       "id": "db423736d3d4b272",
@@ -160,17 +270,6 @@
       "firstSeen": "2026-11-02T23:53:22.065499+00:00"
     },
     {
-      "id": "5d33ed0c66ace544",
-      "title": "Introducing the Grid Protectors Program",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-02T15:00:00+00:00",
-      "excerpt": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity…",
-      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
-    },
-    {
       "id": "61a16dff2a951566",
       "title": "AI and Transformation Guidance for Every Customer",
       "url": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
@@ -204,17 +303,6 @@
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
-      "id": "5a014341bc3fc0f1",
-      "title": "LifeVal",
-      "url": "https://openai.com/index/lifeval",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-02T09:00:00+00:00",
-      "excerpt": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwork.",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
-    },
-    {
       "id": "82be954a7b7743d7",
       "title": "How India Drives SAP’s AI Future",
       "url": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
@@ -224,17 +312,6 @@
       "published": "2026-11-02T05:15:00+00:00",
       "excerpt": "India has evolved from a regional hub into one of SAP’s most important global innovation hubs.",
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
-    },
-    {
-      "id": "945f879ef3a469b4",
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Security Modernization",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-02T00:00:00+00:00",
-      "excerpt": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber…",
-      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
       "id": "363085b1d48fd4e0",
@@ -314,39 +391,6 @@
       "firstSeen": "2026-10-30T21:32:15.000135+00:00"
     },
     {
-      "id": "bfd885936b726015",
-      "title": "Shapers and Founders: Scaling without losing soul",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/shapers-and-founders-scaling-without-losing-soul",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "A closer look at Asia’s successful founder-CEOs reveals how they have scaled their businesses without sacrificing their entrepreneurial…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
-      "id": "3be251a288fe6031",
-      "title": "Overcoming the R&D bottleneck: Building a causal decision system",
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/overcoming-the-r-and-d-bottleneck-building-a-causal-decision-system",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "Tackling stalled development productivity requires sharp decision making. Leading biopharma are replacing fragmented analysis with connected,…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
-      "id": "46ae410283aab9bc",
-      "title": "Waniwani’s CEO on the agentic future of insurance distribution",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/waniwanis-ceo-on-the-agentic-future-of-insurance-distribution",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "AI agents could fundamentally change the economics of insurance distribution. Waniwani CEO Robin Diligent explains the…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
       "id": "e508e29ae812fe58",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -380,28 +424,6 @@
       "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
-      "id": "b6b30743068c2627",
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-29T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
-    },
-    {
-      "id": "6394645bd5105adc",
-      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
-      "url": "https://huggingface.co/blog/anydecisionmodel",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-29T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-29T13:08:46.649712+00:00"
-    },
-    {
       "id": "e8e0cb1d0e685ced",
       "title": "Gemini 4 Carbon: Our next frontier model",
       "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -422,17 +444,6 @@
       "published": "2026-10-28T11:00:15+00:00",
       "excerpt": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of…",
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
-    },
-    {
-      "id": "1c5b51464767c2ad",
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-27T17:16:52+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
     {
       "id": "393575ee7d83ff0a",
@@ -597,17 +608,6 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
-    },
-    {
-      "id": "8b1ab1df41ac00d8",
-      "title": "Developing Gemini 4 Argon responsibly and safely",
-      "url": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-13T19:43:07+00:00",
-      "excerpt": "",
       "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
