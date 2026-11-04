@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03T22:19:50.210524+00:00",
+  "updatedAt": "2026-11-04T14:37:53.420199+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -61,6 +62,72 @@
   ],
   "stories": [
     {
+      "id": "e8ff0bd5df4037a8",
+      "title": "From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape",
+      "url": "https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-04T13:15:00+00:00",
+      "excerpt": "The report points to a future where connected data and…",
+      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
+    },
+    {
+      "id": "36e331f0a7011105",
+      "title": "New SAP Incentive Management, Starter Edition, Now Available",
+      "url": "https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-04T12:15:00+00:00",
+      "excerpt": "Growing organizations need the right solutions to turn their strategy into performance.",
+      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
+    },
+    {
+      "id": "d2819faa22a4a215",
+      "title": "When Cultures Collide in Crisis",
+      "url": "https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-04T12:00:49+00:00",
+      "excerpt": "Sergio Ingravalle/Ikon Images High-stakes disruptions test businesses’ cultural agility as well as their operational resilience. As supply chains stretch across…",
+      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
+    },
+    {
+      "id": "3acda4a33563b27b",
+      "title": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness",
+      "url": "https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-04T08:00:00+00:00",
+      "excerpt": "Reliable digital systems are increasingly essential to defense readiness.",
+      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
+    },
+    {
+      "id": "528e71b40096eaa4",
+      "title": "The AI-enabled risk function of the future",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-04T00:00:00+00:00",
+      "excerpt": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk…",
+      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
+    },
+    {
+      "id": "c89b10707b8f9023",
+      "title": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-04T00:00:00+00:00",
+      "excerpt": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed…",
+      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
+    },
+    {
       "id": "8d86676710497099",
       "title": "StateBench: Testing how language models track state changes over long documents",
       "url": "https://huggingface.co/blog/allenai/statebench",
@@ -80,7 +147,8 @@
       "evidence": "Company research",
       "published": "2026-11-03T17:01:49+00:00",
       "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00",
+      "retained": true
     },
     {
       "id": "4d3938441f216409",
@@ -303,17 +371,6 @@
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
-      "id": "82be954a7b7743d7",
-      "title": "How India Drives SAP’s AI Future",
-      "url": "https://news.sap.com/2026/11/how-india-drives-sap-ai-future/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-02T05:15:00+00:00",
-      "excerpt": "India has evolved from a regional hub into one of SAP’s most important global innovation hubs.",
-      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
-    },
-    {
       "id": "363085b1d48fd4e0",
       "title": "Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership",
       "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership",
@@ -322,17 +379,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-02T00:00:00+00:00",
       "excerpt": "The judgment of the CEO and top leaders is one of the most valuable…",
-      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
-    },
-    {
-      "id": "63aa33c16615844d",
-      "title": "Critical infrastructure is under threat. Are organizations prepared?",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-02T00:00:00+00:00",
-      "excerpt": "Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here…",
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
     },
     {
@@ -355,18 +401,8 @@
       "evidence": "Company research",
       "published": "2026-10-30T14:18:30+00:00",
       "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
-    },
-    {
-      "id": "4bd2183207a61542",
-      "title": "SAP Shows How to Lead with AI Governance at SAP TechEd",
-      "url": "https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-30T11:00:00+00:00",
-      "excerpt": "SAP provides the solutions necessary to govern, control, and innovate now and into the…",
-      "firstSeen": "2026-10-30T13:01:32.029143+00:00"
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00",
+      "retained": true
     },
     {
       "id": "4ca66b0e9156bbdb",
@@ -380,17 +416,6 @@
       "firstSeen": "2026-10-31T12:39:14.366383+00:00"
     },
     {
-      "id": "7c990df470317775",
-      "title": "Closing banking’s AI value gap: A CEO guide",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-10-30T00:00:00+00:00",
-      "excerpt": "As AI adoption races ahead, great value is being left behind. Leaders need an operating model that…",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
-    },
-    {
       "id": "e508e29ae812fe58",
       "title": "Granite Switch 4.1.1 — Update models like you update software",
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
@@ -400,17 +425,6 @@
       "published": "2026-10-29T13:37:07+00:00",
       "excerpt": "",
       "firstSeen": "2026-10-29T21:50:19.045362+00:00"
-    },
-    {
-      "id": "883f3919a3783807",
-      "title": "Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise",
-      "url": "https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-10-29T11:00:00+00:00",
-      "excerpt": "Enterprises can build AI agents act with greater…",
-      "firstSeen": "2026-10-29T13:08:46.649712+00:00"
     },
     {
       "id": "718617961cab3abc",
@@ -432,7 +446,8 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
+      "retained": true
     },
     {
       "id": "3da2b65af0d1313a",
@@ -454,7 +469,8 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
+      "retained": true
     },
     {
       "id": "0b541fa95db69814",
@@ -509,7 +525,8 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
+      "retained": true
     },
     {
       "id": "0e653436fc7097c4",
@@ -564,18 +581,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
-    },
-    {
-      "id": "422d5c94b0f19090",
-      "title": "The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts",
-      "url": "https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-15T11:00:55+00:00",
-      "excerpt": "For the fifth year in a row,…",
-      "firstSeen": "2026-10-15T11:35:31.152595+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "9a1b034c834a3021",
@@ -608,7 +615,8 @@
       "evidence": "Company research",
       "published": "2026-10-14T02:00:14+00:00",
       "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
+      "firstSeen": "2026-10-14T20:43:58.974418+00:00",
+      "retained": true
     },
     {
       "id": "553830d231d34627",

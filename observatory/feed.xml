@@ -4,7 +4,55 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 03 Nov 2026 22:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 14:37:53 +0000</lastBuildDate>
+    <item>
+      <title>From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape</title>
+      <link>https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/</link>
+      <guid>https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/</guid>
+      <pubDate>Wed, 04 Nov 2026 13:15:00 +0000</pubDate>
+      <description>The report points to a future where connected data and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>New SAP Incentive Management, Starter Edition, Now Available</title>
+      <link>https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/</link>
+      <guid>https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/</guid>
+      <pubDate>Wed, 04 Nov 2026 12:15:00 +0000</pubDate>
+      <description>Growing organizations need the right solutions to turn their strategy into performance.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>When Cultures Collide in Crisis</title>
+      <link>https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/</link>
+      <guid>https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/</guid>
+      <pubDate>Wed, 04 Nov 2026 12:00:49 +0000</pubDate>
+      <description>Sergio Ingravalle/Ikon Images High-stakes disruptions test businesses’ cultural agility as well as their operational resilience. As supply chains stretch across…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness</title>
+      <link>https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/</link>
+      <guid>https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/</guid>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Reliable digital systems are increasingly essential to defense readiness.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The AI-enabled risk function of the future</title>
+      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</link>
+      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin</title>
+      <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin</link>
+      <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>StateBench: Testing how language models track state changes over long documents</title>
       <link>https://huggingface.co/blog/allenai/statebench</link>
@@ -182,27 +230,11 @@
       <category>physics</category>
     </item>
     <item>
-      <title>How India Drives SAP’s AI Future</title>
-      <link>https://news.sap.com/2026/11/how-india-drives-sap-ai-future/</link>
-      <guid>https://news.sap.com/2026/11/how-india-drives-sap-ai-future/</guid>
-      <pubDate>Mon, 02 Nov 2026 05:15:00 +0000</pubDate>
-      <description>India has evolved from a regional hub into one of SAP’s most important global innovation hubs.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership</title>
       <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership</link>
       <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership</guid>
       <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
       <description>The judgment of the CEO and top leaders is one of the most valuable…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Critical infrastructure is under threat. Are organizations prepared?</title>
-      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared</link>
-      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/critical-infrastructure-is-under-threat-are-organizations-prepared</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Organizations may not recognize their exposure to conventional, cyber, and hybrid risks until a disruption occurs. Here…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -222,14 +254,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>SAP Shows How to Lead with AI Governance at SAP TechEd</title>
-      <link>https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/</link>
-      <guid>https://news.sap.com/2026/10/sap-teched-shows-how-to-lead-with-ai-governance/</guid>
-      <pubDate>Fri, 30 Oct 2026 11:00:00 +0000</pubDate>
-      <description>SAP provides the solutions necessary to govern, control, and innovate now and into the…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Talking to Superconducting Qubits with Millimeter Waves</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s140</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s140</guid>
@@ -238,28 +262,12 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Closing banking’s AI value gap: A CEO guide</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/closing-bankings-ai-value-gap-a-ceo-guide</guid>
-      <pubDate>Fri, 30 Oct 2026 00:00:00 +0000</pubDate>
-      <description>As AI adoption races ahead, great value is being left behind. Leaders need an operating model that…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Granite Switch 4.1.1 — Update models like you update software</title>
       <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
       <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
       <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>Advancing SAP Lakehouse and New Data Fabric Innovations in SAP Business Data Cloud for the Autonomous Enterprise</title>
-      <link>https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/</link>
-      <guid>https://news.sap.com/2026/10/sap-lakehouse-new-data-fabric-innovations-sap-bdc-autonomous-enterprise/</guid>
-      <pubDate>Thu, 29 Oct 2026 11:00:00 +0000</pubDate>
-      <description>Enterprises can build AI agents act with greater…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
@@ -372,14 +380,6 @@
       <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
       <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.</description>
       <category>ai</category>
-    </item>
-    <item>
-      <title>The Defining Challenge of Responsible AI Is Designing Systems That Preserve Human Judgment When and Where It Counts</title>
-      <link>https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/</link>
-      <guid>https://sloanreview.mit.edu/article/the-defining-challenge-of-responsible-ai-is-designing-systems-that-preserve-human-judgment-when-and-where-it-counts/</guid>
-      <pubDate>Thu, 15 Oct 2026 11:00:55 +0000</pubDate>
-      <description>For the fifth year in a row,…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Imaging with Zero Photons</title>
