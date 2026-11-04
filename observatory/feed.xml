@@ -4,7 +4,23 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 14:37:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 22:39:14 +0000</lastBuildDate>
+    <item>
+      <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
+      <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
+      <guid>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
+      <pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>OpenAI to acquire Pierre Computer Company, Inc.</title>
+      <link>https://openai.com/index/openai-to-acquire-pierre</link>
+      <guid>https://openai.com/index/openai-to-acquire-pierre</guid>
+      <pubDate>Wed, 04 Nov 2026 14:30:00 +0000</pubDate>
+      <description>OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape</title>
       <link>https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/</link>
@@ -30,6 +46,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>A thousand fewer paths to root</title>
+      <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
+      <guid>https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
+      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
+      <description>OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness</title>
       <link>https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/</link>
       <guid>https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/</guid>
@@ -38,11 +62,43 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Daybreak Red is now available in AWS GovCloud (US-East)</title>
+      <link>https://openai.com/index/daybreak-red-aws-govcloud</link>
+      <guid>https://openai.com/index/daybreak-red-aws-govcloud</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:00 +0000</pubDate>
+      <description>Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>DevRev delivers autonomous self-service with GPT-6.1 Sol</title>
+      <link>https://openai.com/index/devrev-enterprise-self-service</link>
+      <guid>https://openai.com/index/devrev-enterprise-self-service</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>The AI-enabled risk function of the future</title>
       <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</link>
       <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <description>AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Why growth and specialization matter more than ever in private equity</title>
+      <link>https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity</link>
+      <guid>https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>From science fiction to reality: The next phase of shared autonomous mobility</title>
+      <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</link>
+      <guid>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>As shared autonomous vehicles expand into cities worldwide, operators are evaluating how to…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -102,6 +158,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Calculating Superconductors from Scratch</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s138</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s138</guid>
+      <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Charles Day A new formalism yields the quantities that characterize a conventional superconductor without adjustable parameters. [Physics 19, s138] Published…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster</title>
       <link>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</link>
       <guid>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</guid>
@@ -123,14 +187,6 @@
       <guid>https://openai.com/index/heimstaden</guid>
       <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
       <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer</title>
-      <link>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</link>
-      <guid>https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and…</description>
       <category>ai</category>
     </item>
     <item>
@@ -174,38 +230,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Advancing adaptation: Breaking barriers to a trillion-dollar opportunity</title>
-      <link>https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity</link>
-      <guid>https://www.mckinsey.com/mgi/our-research/advancing-adaptation-breaking-barriers-to-a-trillion-dollar-opportunity</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Climate adaptation delivers benefits far greater than its costs, but investment lags. What are the barriers to…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Preparing our next security sprint to harden OpenAI</title>
-      <link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
-      <guid>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-      <description>OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Rewarding defenders with bigger bug bounties</title>
-      <link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
-      <guid>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
-      <pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
-      <description>OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Scaling Git at OpenAI</title>
-      <link>https://openai.com/index/scaling-git-at-openai</link>
-      <guid>https://openai.com/index/scaling-git-at-openai</guid>
-      <pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
-      <description>How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>AI and Transformation Guidance for Every Customer</title>
       <link>https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/</link>
       <guid>https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/</guid>
@@ -228,14 +252,6 @@
       <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Turning executive judgment into organizational intelligence: Leveraging AI in CEO leadership</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/turning-executive-judgment-into-organizational-intelligence-leveraging-ai-in-ceo-leadership</guid>
-      <pubDate>Mon, 02 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The judgment of the CEO and top leaders is one of the most valuable…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>nemotron-halloween</title>
@@ -266,14 +282,6 @@
       <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
       <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
       <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready</title>
-      <link>https://huggingface.co/blog/announcing-project-protostar</link>
-      <guid>https://huggingface.co/blog/announcing-project-protostar</guid>
-      <pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -387,14 +395,6 @@
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s127</guid>
       <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Marric Stephens A technique known as ghost imaging has been adapted so that an object can be imaged by discarding…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Illuminating Quantum Ferroelectrics</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s132</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s132</guid>
-      <pubDate>Wed, 14 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Sophia Chen An ultrafast optical technique uncovers new clues to the origin of bulk polarization in quantum ferroelectric materials. [Physics 19,…</description>
       <category>physics</category>
     </item>
     <item>
