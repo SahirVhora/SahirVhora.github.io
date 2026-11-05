@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T22:39:14.505848+00:00",
+  "updatedAt": "2026-11-05T14:42:50.874955+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,72 @@
   ],
   "stories": [
     {
+      "id": "177d453df2fac5d6",
+      "title": "SAP Business One: 30 Years of Growing Together",
+      "url": "https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T12:15:00+00:00",
+      "excerpt": "Thirty years later, the solution continues to evolve alongside its customers and the 1.2 million users working…",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "932e9edaff7f03f4",
+      "title": "Three Skills That Define the New Entry-Level Job in the AI Era",
+      "url": "https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T11:15:00+00:00",
+      "excerpt": "As organizations adapt, the expectations placed on employees are evolving just as quickly.",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "25fa4dd18ec78a48",
+      "title": "Setting a new standard for responsible AI infrastructure",
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T02:00:00+00:00",
+      "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs,…",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "c65c7708e93995ca",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "d7661847d4164cdd",
+      "title": "Quality for quantity: The gains from investing in population health",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "McKinsey Senior Partners Drew Ungerman and Pooja Kumar discuss the massive opportunities available to improve…",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "fecf5e78a502cefd",
+      "title": "How AI can help unlock insurance growth in Latin America",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
       "id": "32d4e91d243ef07f",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -116,6 +182,17 @@
       "firstSeen": "2026-11-04T14:37:53.420199+00:00"
     },
     {
+      "id": "7a0e94bb8a3c319b",
+      "title": "Atomic Wave Simulates Black Hole Properties",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.149",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-04T10:00:00+00:00",
+      "excerpt": "Author(s): Susan Curtis Using sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform…",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
       "id": "fbaa86a829ad59fd",
       "title": "A thousand fewer paths to root",
       "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
@@ -149,6 +226,17 @@
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
     },
     {
+      "id": "295354ff422b0d4d",
+      "title": "Introducing Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-04T00:00:00+00:00",
+      "excerpt": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
       "id": "981785a01550309d",
       "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
       "url": "https://openai.com/index/devrev-enterprise-self-service",
@@ -157,6 +245,17 @@
       "evidence": "Company announcement",
       "published": "2026-11-04T00:00:00+00:00",
       "excerpt": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
+    },
+    {
+      "id": "14b5809e83de51ac",
+      "title": "Why growth and specialization matter more than ever in private equity",
+      "url": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-04T00:00:00+00:00",
+      "excerpt": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…",
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
     },
     {
@@ -171,15 +270,15 @@
       "firstSeen": "2026-11-04T14:37:53.420199+00:00"
     },
     {
-      "id": "14b5809e83de51ac",
-      "title": "Why growth and specialization matter more than ever in private equity",
-      "url": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
+      "id": "c89b10707b8f9023",
+      "title": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
+      "excerpt": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed…",
+      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
     },
     {
       "id": "018c4c6f2f5aff56",
@@ -191,17 +290,6 @@
       "published": "2026-11-04T00:00:00+00:00",
       "excerpt": "As shared autonomous vehicles expand into cities worldwide, operators are evaluating how to…",
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "c89b10707b8f9023",
-      "title": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed…",
-      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
     },
     {
       "id": "8d86676710497099",
@@ -281,39 +369,6 @@
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
     },
     {
-      "id": "3f8e3193e2f549ca",
-      "title": "SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster",
-      "url": "https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-03T09:00:00+00:00",
-      "excerpt": "The combination of SAP Business AI Platform and North can deliver exponential value.",
-      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
-    },
-    {
-      "id": "34e7d62615202d0d",
-      "title": "How Cisco defends at machine speed with OpenAI",
-      "url": "https://openai.com/index/cisco-cyber",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-03T08:00:00+00:00",
-      "excerpt": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more…",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
-      "id": "fc87a45dcfbf03d4",
-      "title": "Heimstaden is changing residential real estate management with AI",
-      "url": "https://openai.com/index/heimstaden",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-03T08:00:00+00:00",
-      "excerpt": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and…",
-      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
-    },
-    {
       "id": "63945bc794809749",
       "title": "CWE-bench v2: More coverage, quality, and transparency",
       "url": "https://huggingface.co/blog/cwe-bench",
@@ -345,39 +400,6 @@
       "published": "2026-11-03T00:00:00+00:00",
       "excerpt": "Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around…",
       "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
-      "id": "c99c782731db0bcc",
-      "title": "Future of Wellness 2027: Inside the $2.7 trillion takeover",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-03T00:00:00+00:00",
-      "excerpt": "More consumers are prioritizing their health and scrutinizing what they buy. Our latest Future of Wellness…",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
-      "id": "0391251efbc187ad",
-      "title": "How frontier AI is rewriting software security rules",
-      "url": "https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-frontier-ai-is-rewriting-software-security-rules",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-03T00:00:00+00:00",
-      "excerpt": "As AI makes it easier and faster for cyberattackers to discover and exploit vulnerabilities in software, companies…",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
-      "id": "61a16dff2a951566",
-      "title": "AI and Transformation Guidance for Every Customer",
-      "url": "https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-02T12:15:00+00:00",
-      "excerpt": "Max Success Plan is now available to every customer, whether they choose to work with SAP directly or…",
-      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
     },
     {
       "id": "a793aab7db96348e",
@@ -433,17 +455,6 @@
       "published": "2026-10-30T10:00:00+00:00",
       "excerpt": "Author(s): Sophia Chen A new device uses millimeter-wave radiation to accurately read the states of superconducting qubits without…",
       "firstSeen": "2026-10-31T12:39:14.366383+00:00"
-    },
-    {
-      "id": "e508e29ae812fe58",
-      "title": "Granite Switch 4.1.1 — Update models like you update software",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-29T13:37:07+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-29T21:50:19.045362+00:00"
     },
     {
       "id": "e8e0cb1d0e685ced",
@@ -587,17 +598,6 @@
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "firstSeen": "2026-10-16T11:29:37.965576+00:00"
-    },
-    {
-      "id": "9a1b034c834a3021",
-      "title": "Imaging with Zero Photons",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s127",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-15T10:00:00+00:00",
-      "excerpt": "Author(s): Marric Stephens A technique known as ghost imaging has been adapted so that an object can be imaged by discarding…",
-      "firstSeen": "2026-10-15T20:21:49.001623+00:00"
     },
     {
       "id": "36a7e1c23fbbe3b1",

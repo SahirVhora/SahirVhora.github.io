@@ -4,7 +4,55 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 04 Nov 2026 22:39:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:42:50 +0000</lastBuildDate>
+    <item>
+      <title>SAP Business One: 30 Years of Growing Together</title>
+      <link>https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/</link>
+      <guid>https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/</guid>
+      <pubDate>Thu, 05 Nov 2026 12:15:00 +0000</pubDate>
+      <description>Thirty years later, the solution continues to evolve alongside its customers and the 1.2 million users working…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Three Skills That Define the New Entry-Level Job in the AI Era</title>
+      <link>https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/</link>
+      <guid>https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/</guid>
+      <pubDate>Thu, 05 Nov 2026 11:15:00 +0000</pubDate>
+      <description>As organizations adapt, the expectations placed on employees are evolving just as quickly.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Setting a new standard for responsible AI infrastructure</title>
+      <link>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</link>
+      <guid>https://openai.com/index/setting-new-standard-responsible-ai-infrastructure</guid>
+      <pubDate>Thu, 05 Nov 2026 02:00:00 +0000</pubDate>
+      <description>OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs,…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
+      <link>https://huggingface.co/blog/phonon-tts</link>
+      <guid>https://huggingface.co/blog/phonon-tts</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Quality for quantity: The gains from investing in population health</title>
+      <link>https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health</link>
+      <guid>https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>McKinsey Senior Partners Drew Ungerman and Pooja Kumar discuss the massive opportunities available to improve…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>How AI can help unlock insurance growth in Latin America</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
       <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
@@ -46,6 +94,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Atomic Wave Simulates Black Hole Properties</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.149</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.149</guid>
+      <pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Susan Curtis Using sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>A thousand fewer paths to root</title>
       <link>https://openai.com/index/a-thousand-fewer-paths-to-root</link>
       <guid>https://openai.com/index/a-thousand-fewer-paths-to-root</guid>
@@ -70,20 +126,20 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Introducing Images 2.6</title>
+      <link>https://openai.com/index/introducing-images-2-6</link>
+      <guid>https://openai.com/index/introducing-images-2-6</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>DevRev delivers autonomous self-service with GPT-6.1 Sol</title>
       <link>https://openai.com/index/devrev-enterprise-self-service</link>
       <guid>https://openai.com/index/devrev-enterprise-self-service</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <description>DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.</description>
       <category>ai</category>
-    </item>
-    <item>
-      <title>The AI-enabled risk function of the future</title>
-      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</link>
-      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Why growth and specialization matter more than ever in private equity</title>
@@ -94,11 +150,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>From science fiction to reality: The next phase of shared autonomous mobility</title>
-      <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</link>
-      <guid>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</guid>
+      <title>The AI-enabled risk function of the future</title>
+      <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</link>
+      <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As shared autonomous vehicles expand into cities worldwide, operators are evaluating how to…</description>
+      <description>AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -107,6 +163,14 @@
       <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
       <description>At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>From science fiction to reality: The next phase of shared autonomous mobility</title>
+      <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</link>
+      <guid>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</guid>
+      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
+      <description>As shared autonomous vehicles expand into cities worldwide, operators are evaluating how to…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -166,30 +230,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>SAP and Cohere Empower Regulated Industries to Innovate and Deploy AI Faster</title>
-      <link>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</link>
-      <guid>https://news.sap.com/2026/11/sap-cohere-empower-regulated-industries-innovate-deploy-ai-faster/</guid>
-      <pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
-      <description>The combination of SAP Business AI Platform and North can deliver exponential value.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>How Cisco defends at machine speed with OpenAI</title>
-      <link>https://openai.com/index/cisco-cyber</link>
-      <guid>https://openai.com/index/cisco-cyber</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Heimstaden is changing residential real estate management with AI</title>
-      <link>https://openai.com/index/heimstaden</link>
-      <guid>https://openai.com/index/heimstaden</guid>
-      <pubDate>Tue, 03 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>CWE-bench v2: More coverage, quality, and transparency</title>
       <link>https://huggingface.co/blog/cwe-bench</link>
       <guid>https://huggingface.co/blog/cwe-bench</guid>
@@ -211,30 +251,6 @@
       <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers</guid>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <description>Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Future of Wellness 2027: Inside the $2.7 trillion takeover</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>More consumers are prioritizing their health and scrutinizing what they buy. Our latest Future of Wellness…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>How frontier AI is rewriting software security rules</title>
-      <link>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-frontier-ai-is-rewriting-software-security-rules</link>
-      <guid>https://www.mckinsey.com/capabilities/tech-and-ai/our-insights/how-frontier-ai-is-rewriting-software-security-rules</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As AI makes it easier and faster for cyberattackers to discover and exploit vulnerabilities in software, companies…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>AI and Transformation Guidance for Every Customer</title>
-      <link>https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/</link>
-      <guid>https://news.sap.com/2026/11/ai-transformation-guidance-for-every-customer/</guid>
-      <pubDate>Mon, 02 Nov 2026 12:15:00 +0000</pubDate>
-      <description>Max Success Plan is now available to every customer, whether they choose to work with SAP directly or…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -276,14 +292,6 @@
       <pubDate>Fri, 30 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sophia Chen A new device uses millimeter-wave radiation to accurately read the states of superconducting qubits without…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Granite Switch 4.1.1 — Update models like you update software</title>
-      <link>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</link>
-      <guid>https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1</guid>
-      <pubDate>Thu, 29 Oct 2026 13:37:07 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Gemini 4 Carbon: Our next frontier model</title>
@@ -388,14 +396,6 @@
       <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
       <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.</description>
       <category>ai</category>
-    </item>
-    <item>
-      <title>Imaging with Zero Photons</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s127</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s127</guid>
-      <pubDate>Thu, 15 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Marric Stephens A technique known as ghost imaging has been adapted so that an object can be imaged by discarding…</description>
-      <category>physics</category>
     </item>
     <item>
       <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
