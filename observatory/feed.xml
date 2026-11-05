@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 05 Nov 2026 14:42:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 22:41:27 +0000</lastBuildDate>
+    <item>
+      <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
+      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
+      <guid>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
+      <pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
+      <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
+      <guid>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
+      <pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Pinning down the structure of quark-gluon plasma, the universe’s first fluid</title>
+      <link>https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105</link>
+      <guid>https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105</guid>
+      <pubDate>Thu, 05 Nov 2026 16:20:00 +0000</pubDate>
+      <description>A new method picks up where Einstein left off, to predict how particles move…</description>
+      <category>physics</category>
+    </item>
     <item>
       <title>SAP Business One: 30 Years of Growing Together</title>
       <link>https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/</link>
@@ -20,6 +44,14 @@
       <pubDate>Thu, 05 Nov 2026 11:15:00 +0000</pubDate>
       <description>As organizations adapt, the expectations placed on employees are evolving just as quickly.</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents</title>
+      <link>https://openai.com/index/introducing-gpt-6-cyber</link>
+      <guid>https://openai.com/index/introducing-gpt-6-cyber</guid>
+      <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+      <description>Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Setting a new standard for responsible AI infrastructure</title>
@@ -38,6 +70,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Reinventing the channel: How can your partner ecosystem fuel AI growth?</title>
+      <link>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth</link>
+      <guid>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI presents an opportunity for technology vendors to reinvent their sales channels. This comprehensive…</description>
+      <category>consulting</category>
+    </item>
+    <item>
       <title>Quality for quantity: The gains from investing in population health</title>
       <link>https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health</link>
       <guid>https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health</guid>
@@ -46,11 +86,27 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Beauty, redefined</title>
+      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</link>
+      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…</description>
+      <category>consulting</category>
+    </item>
+    <item>
       <title>How AI can help unlock insurance growth in Latin America</title>
       <link>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</link>
       <guid>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description>Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The spirit of the leader</title>
+      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-spirit-of-the-leader</link>
+      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-spirit-of-the-leader</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Leaders who develop their inner world tap into four unique qualities.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -142,14 +198,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Why growth and specialization matter more than ever in private equity</title>
-      <link>https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity</link>
-      <guid>https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The AI-enabled risk function of the future</title>
       <link>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</link>
       <guid>https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future</guid>
@@ -158,19 +206,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin</title>
-      <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin</link>
-      <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin</guid>
+      <title>Why growth and specialization matter more than ever in private equity</title>
+      <link>https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity</link>
+      <guid>https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity</guid>
       <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>From science fiction to reality: The next phase of shared autonomous mobility</title>
-      <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</link>
-      <guid>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility</guid>
-      <pubDate>Wed, 04 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As shared autonomous vehicles expand into cities worldwide, operators are evaluating how to…</description>
+      <description>Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -214,14 +254,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Accelerating engineering for the physical world</title>
-      <link>https://openai.com/index/accelerating-engineering-for-the-physical-world</link>
-      <guid>https://openai.com/index/accelerating-engineering-for-the-physical-world</guid>
-      <pubDate>Tue, 03 Nov 2026 12:00:00 +0000</pubDate>
-      <description>Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Calculating Superconductors from Scratch</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s138</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s138</guid>
@@ -246,14 +278,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The 1 percent wake-up call for life insurers</title>
-      <link>https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers</link>
-      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>The AI Governance Paradox</title>
       <link>https://sloanreview.mit.edu/article/the-ai-governance-paradox/</link>
       <guid>https://sloanreview.mit.edu/article/the-ai-governance-paradox/</guid>
@@ -268,14 +292,6 @@
       <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>nemotron-halloween</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-halloween</link>
-      <guid>https://huggingface.co/blog/nvidia/nemotron-halloween</guid>
-      <pubDate>Fri, 30 Oct 2026 17:57:24 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Speeding up planning decisions with AI</title>
@@ -395,14 +411,6 @@
       <guid>https://deepmind.google/blog/accelerating-antimicrobial-discovery/</guid>
       <pubDate>Thu, 15 Oct 2026 16:08:03 +0000</pubDate>
       <description>Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection</title>
-      <link>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</link>
-      <guid>https://deepmind.google/blog/on-device-ai-scam-detection-mddi/</guid>
-      <pubDate>Wed, 14 Oct 2026 02:00:14 +0000</pubDate>
-      <description>Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…</description>
       <category>ai</category>
     </item>
     <item>

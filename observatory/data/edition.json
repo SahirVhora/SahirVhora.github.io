@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T14:42:50.874955+00:00",
+  "updatedAt": "2026-11-05T22:41:27.070232+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 3
+      "count": 4
     },
     {
       "name": "MIT Sloan Management Review",
@@ -61,6 +61,39 @@
   ],
   "stories": [
     {
+      "id": "f25b9201ad6bdcc6",
+      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-05T19:35:16+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+    },
+    {
+      "id": "f09d7876c1e95fca",
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-05T17:05:16+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+    },
+    {
+      "id": "d4d36af74f2a2095",
+      "title": "Pinning down the structure of quark-gluon plasma, the universe’s first fluid",
+      "url": "https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-11-05T16:20:00+00:00",
+      "excerpt": "A new method picks up where Einstein left off, to predict how particles move…",
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+    },
+    {
       "id": "177d453df2fac5d6",
       "title": "SAP Business One: 30 Years of Growing Together",
       "url": "https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/",
@@ -81,6 +114,17 @@
       "published": "2026-11-05T11:15:00+00:00",
       "excerpt": "As organizations adapt, the expectations placed on employees are evolving just as quickly.",
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "14e90e72d3401ddf",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T09:00:00+00:00",
+      "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay…",
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "25fa4dd18ec78a48",
@@ -105,6 +149,17 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
+      "id": "2097902c90785b4f",
+      "title": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "AI presents an opportunity for technology vendors to reinvent their sales channels. This comprehensive…",
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+    },
+    {
       "id": "d7661847d4164cdd",
       "title": "Quality for quantity: The gains from investing in population health",
       "url": "https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health",
@@ -116,6 +171,17 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
+      "id": "779af30bf284ca57",
+      "title": "Beauty, redefined",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…",
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+    },
+    {
       "id": "fecf5e78a502cefd",
       "title": "How AI can help unlock insurance growth in Latin America",
       "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
@@ -125,6 +191,17 @@
       "published": "2026-11-05T00:00:00+00:00",
       "excerpt": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…",
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "ef3c29fb651861db",
+      "title": "The spirit of the leader",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-spirit-of-the-leader",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "Leaders who develop their inner world tap into four unique qualities.",
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "32d4e91d243ef07f",
@@ -248,17 +325,6 @@
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
     },
     {
-      "id": "14b5809e83de51ac",
-      "title": "Why growth and specialization matter more than ever in private equity",
-      "url": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
       "id": "528e71b40096eaa4",
       "title": "The AI-enabled risk function of the future",
       "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
@@ -270,25 +336,14 @@
       "firstSeen": "2026-11-04T14:37:53.420199+00:00"
     },
     {
-      "id": "c89b10707b8f9023",
-      "title": "Rethinking growth with AI: A conversation with Slack CMO Ryan Gavin",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/rethinking-growth-with-ai-a-conversation-with-slack-cmo-ryan-gavin",
+      "id": "14b5809e83de51ac",
+      "title": "Why growth and specialization matter more than ever in private equity",
+      "url": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "At Cannes Lions 2026, Slack CMO Ryan Gavin and McKinsey Partner Jeff Jacobs discussed…",
-      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
-    },
-    {
-      "id": "018c4c6f2f5aff56",
-      "title": "From science fiction to reality: The next phase of shared autonomous mobility",
-      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/from-science-fiction-to-reality-the-next-phase-of-shared-autonomous-mobility",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "As shared autonomous vehicles expand into cities worldwide, operators are evaluating how to…",
+      "excerpt": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…",
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
     },
     {
@@ -347,17 +402,6 @@
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
-      "id": "25493a43cba550c7",
-      "title": "Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-03T12:00:00+00:00",
-      "excerpt": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical…",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
       "id": "c0c0a10a54389682",
       "title": "Calculating Superconductors from Scratch",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s138",
@@ -391,17 +435,6 @@
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
-      "id": "bc16d5d136a67552",
-      "title": "The 1 percent wake-up call for life insurers",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-1-percent-wake-up-call-for-life-insurers",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-03T00:00:00+00:00",
-      "excerpt": "Germany’s pension reform is the most explicit expression of an accelerating trend. Across Europe, the moat around…",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
       "id": "a793aab7db96348e",
       "title": "The AI Governance Paradox",
       "url": "https://sloanreview.mit.edu/article/the-ai-governance-paradox/",
@@ -422,17 +455,6 @@
       "published": "2026-11-02T10:00:00+00:00",
       "excerpt": "Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…",
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
-    },
-    {
-      "id": "037154e824aaff25",
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-10-30T17:57:24+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-30T21:32:15.000135+00:00"
     },
     {
       "id": "1b296d8bb115085d",
@@ -598,17 +620,6 @@
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
       "firstSeen": "2026-10-16T11:29:37.965576+00:00"
-    },
-    {
-      "id": "36a7e1c23fbbe3b1",
-      "title": "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection",
-      "url": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-14T02:00:14+00:00",
-      "excerpt": "Learn how Google DeepMind and GovTech Singapore uses lightweight on-device Gemma…",
-      "firstSeen": "2026-10-14T20:43:58.974418+00:00"
     },
     {
       "id": "553830d231d34627",
