@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T14:21:15.684764+00:00",
+  "updatedAt": "2026-11-06T22:08:19.731718+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -92,6 +92,28 @@
       "published": "2026-11-06T12:15:00+00:00",
       "excerpt": "For manufacturers evaluating their own transformation journey, standardization is no longer just an IT objective but…",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "a0a44ed09dc9a108",
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-06T08:00:00+00:00",
+      "excerpt": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses…",
+      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
+    },
+    {
+      "id": "5f721228af3682c2",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle…",
+      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
     },
     {
       "id": "13e4c95dcbaa6d34",
@@ -270,17 +292,6 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "2d1d326185a62641",
-      "title": "Flipsnack grows product signups with conversion optimization",
-      "url": "https://openai.com/ads/customers/flipsnack",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T00:45:15+00:00",
-      "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "c65c7708e93995ca",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
@@ -290,17 +301,6 @@
       "published": "2026-11-05T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "a8e215d1c3fca63a",
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "url": "https://openai.com/index/franklin-templeton",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
       "id": "2097902c90785b4f",
@@ -325,15 +325,15 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "779af30bf284ca57",
-      "title": "Beauty, redefined",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
+      "id": "fecf5e78a502cefd",
+      "title": "How AI can help unlock insurance growth in Latin America",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+      "excerpt": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…",
+      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
     },
     {
       "id": "32d4e91d243ef07f",

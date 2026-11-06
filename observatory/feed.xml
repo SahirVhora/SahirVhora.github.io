@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 06 Nov 2026 14:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 22:08:19 +0000</lastBuildDate>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://huggingface.co/blog/allenai/toyblocks</link>
@@ -28,6 +28,22 @@
       <pubDate>Fri, 06 Nov 2026 12:15:00 +0000</pubDate>
       <description>For manufacturers evaluating their own transformation journey, standardization is no longer just an IT objective but…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Partnering with Hacktron to find vulnerabilities in OpenAI’s systems</title>
+      <link>https://openai.com/index/partnering-with-hacktron</link>
+      <guid>https://openai.com/index/partnering-with-hacktron</guid>
+      <pubDate>Fri, 06 Nov 2026 08:00:00 +0000</pubDate>
+      <description>OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Measuring how AI agents handle everyday wet-lab science</title>
+      <link>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</link>
+      <guid>https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
@@ -158,27 +174,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Flipsnack grows product signups with conversion optimization</title>
-      <link>https://openai.com/ads/customers/flipsnack</link>
-      <guid>https://openai.com/ads/customers/flipsnack</guid>
-      <pubDate>Thu, 05 Nov 2026 00:45:15 +0000</pubDate>
-      <description>Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
       <link>https://huggingface.co/blog/phonon-tts</link>
       <guid>https://huggingface.co/blog/phonon-tts</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Franklin Templeton uses OpenAI to support investment research</title>
-      <link>https://openai.com/index/franklin-templeton</link>
-      <guid>https://openai.com/index/franklin-templeton</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views…</description>
       <category>ai</category>
     </item>
     <item>
@@ -198,11 +198,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Beauty, redefined</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</guid>
+      <title>How AI can help unlock insurance growth in Latin America</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…</description>
+      <description>Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…</description>
       <category>consulting</category>
     </item>
     <item>
