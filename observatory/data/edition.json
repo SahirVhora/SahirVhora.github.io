@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05T22:41:27.070232+00:00",
+  "updatedAt": "2026-11-06T14:21:15.684764+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,105 @@
   ],
   "stories": [
     {
+      "id": "5a90caffb2c87d2e",
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-06T14:00:48+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "2b848204c1409f3f",
+      "title": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt",
+      "url": "https://news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-06T13:15:00+00:00",
+      "excerpt": "A new Economist Enterprise global survey of finance, HR, and supply chain leaders reveals…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "39dc5dfd8cbc67ec",
+      "title": "What Manufacturers Can Learn from ifm’s Digital Manufacturing Journey",
+      "url": "https://news.sap.com/2026/11/what-manufacturers-can-learn-from-ifm/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-06T12:15:00+00:00",
+      "excerpt": "For manufacturers evaluating their own transformation journey, standardization is no longer just an IT objective but…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "13e4c95dcbaa6d34",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "0a977ad70db420d3",
+      "title": "Could aviation at last be close to earning its wings?",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "ec5ef303d5994f01",
+      "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
+      "url": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä –…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "9dd4dd84155f9c8c",
+      "title": "How AI is transforming automotive quality operations",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "5c7e8c4379b5ad16",
+      "title": "Assessing the growth trajectory of Finland’s largest companies",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/assessing-the-growth-trajectory-of-finlands-largest-companies",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "bbd492caba72ca54",
+      "title": "Cult.fit builds operational muscle with Codex",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T20:00:00+00:00",
+      "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
       "id": "f25b9201ad6bdcc6",
       "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
       "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
@@ -81,6 +180,17 @@
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+    },
+    {
+      "id": "616c68177b707eae",
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T17:00:00+00:00",
+      "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
       "id": "d4d36af74f2a2095",
@@ -116,6 +226,17 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
+      "id": "3f3cbfc66a295c47",
+      "title": "Images Capture Unusual Quantum Turbulence",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s137",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-05T10:00:00+00:00",
+      "excerpt": "Author(s): Rachel Berkowitz Random tangles of vortex lines have been observed untangling in an ultracold gas. [Physics 19, s137] Published…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
       "id": "14e90e72d3401ddf",
       "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
@@ -125,6 +246,17 @@
       "published": "2026-11-05T09:00:00+00:00",
       "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay…",
       "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+    },
+    {
+      "id": "db9792e954d44701",
+      "title": "Merge builds product and business tools with OpenAI technology",
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T08:00:00+00:00",
+      "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
       "id": "25fa4dd18ec78a48",
@@ -138,6 +270,17 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
+      "id": "2d1d326185a62641",
+      "title": "Flipsnack grows product signups with conversion optimization",
+      "url": "https://openai.com/ads/customers/flipsnack",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T00:45:15+00:00",
+      "excerpt": "Flipsnack focused its ChatGPT Ads campaigns on getting people to try its product, growing registrations while lowering the…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
       "id": "c65c7708e93995ca",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
@@ -147,6 +290,17 @@
       "published": "2026-11-05T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
+      "id": "a8e215d1c3fca63a",
+      "title": "Franklin Templeton uses OpenAI to support investment research",
+      "url": "https://openai.com/index/franklin-templeton",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
       "id": "2097902c90785b4f",
@@ -182,28 +336,6 @@
       "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
-      "id": "fecf5e78a502cefd",
-      "title": "How AI can help unlock insurance growth in Latin America",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "ef3c29fb651861db",
-      "title": "The spirit of the leader",
-      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-spirit-of-the-leader",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "Leaders who develop their inner world tap into four unique qualities.",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
-    },
-    {
       "id": "32d4e91d243ef07f",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -212,17 +344,6 @@
       "evidence": "Community / technical",
       "published": "2026-11-04T17:50:10+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "1be4fdd8e6ca80f0",
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T14:30:00+00:00",
-      "excerpt": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
     },
     {
@@ -270,17 +391,6 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "fbaa86a829ad59fd",
-      "title": "A thousand fewer paths to root",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T08:00:00+00:00",
-      "excerpt": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux…",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
       "id": "3acda4a33563b27b",
       "title": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness",
       "url": "https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/",
@@ -290,72 +400,6 @@
       "published": "2026-11-04T08:00:00+00:00",
       "excerpt": "Reliable digital systems are increasingly essential to defense readiness.",
       "firstSeen": "2026-11-04T14:37:53.420199+00:00"
-    },
-    {
-      "id": "a3433e936d2c04bf",
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T07:00:00+00:00",
-      "excerpt": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for…",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "295354ff422b0d4d",
-      "title": "Introducing Images 2.6",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "981785a01550309d",
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "528e71b40096eaa4",
-      "title": "The AI-enabled risk function of the future",
-      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/the-ai-enabled-risk-function-of-the-future",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "AI is reshaping how banks manage risk. The next challenge is scaling AI capabilities through a redesigned risk…",
-      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
-    },
-    {
-      "id": "14b5809e83de51ac",
-      "title": "Why growth and specialization matter more than ever in private equity",
-      "url": "https://www.mckinsey.com/industries/private-capital/our-insights/why-growth-and-specialization-matter-more-than-ever-in-private-equity",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-04T00:00:00+00:00",
-      "excerpt": "Creating value in private equity increasingly depends on transforming businesses, growing them profitably, and…",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "8d86676710497099",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-03T17:15:21+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
       "id": "da38bc697163569b",
@@ -380,28 +424,6 @@
       "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
-      "id": "e266f669df4ea6c2",
-      "title": "SAP Positioned as a Market Shaper in the Inaugural 2026 Gartner® Emerging Market Quadrant for Integrated Supply Chain AI Agents – Established Vendors",
-      "url": "https://news.sap.com/2026/11/sap-a-market-shaper-inaugural-2026-gartner-emerging-market-quadrant-integrated-supply-chain-ai-agents-established-vendors/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-03T13:15:00+00:00",
-      "excerpt": "The supply…",
-      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
-    },
-    {
-      "id": "60900720b5ab915a",
-      "title": "Business Networks Harness Agentic AI to Bolster Collaboration and Operational Resilience Among Trading Partners",
-      "url": "https://news.sap.com/2026/11/business-networks-harness-agentic-ai-collaboration-operational-resilience/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-03T12:15:00+00:00",
-      "excerpt": "The vision of SAP Business Network is to become the intelligence…",
-      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
-    },
-    {
       "id": "c0c0a10a54389682",
       "title": "Calculating Superconductors from Scratch",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s138",
@@ -422,17 +444,6 @@
       "published": "2026-11-03T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
-      "id": "a6f54d325d31634f",
-      "title": "Transformers Model Integration Contracts",
-      "url": "https://huggingface.co/blog/transformers-mic",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-03T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
       "id": "a793aab7db96348e",
@@ -587,17 +598,6 @@
       "published": "2026-10-21T11:00:48+00:00",
       "excerpt": "Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…",
       "firstSeen": "2026-10-21T11:55:46.786492+00:00"
-    },
-    {
-      "id": "f3207e9a2bfd0f6c",
-      "title": "A Quantum Cyclotron for Antimatter",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.132",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-21T10:00:00+00:00",
-      "excerpt": "Author(s): Paolo Crivelli A device that stores a single positron and controls its quantum states could measure its magnetic moment…",
-      "firstSeen": "2026-10-22T11:58:19.098251+00:00"
     },
     {
       "id": "debc799cf11468cd",
