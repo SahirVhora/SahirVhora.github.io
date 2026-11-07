@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sat, 07 Nov 2026 13:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 20:55:51 +0000</lastBuildDate>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://huggingface.co/blog/allenai/toyblocks</link>
@@ -46,6 +46,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
+      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
+      <guid>https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
       <title>Could aviation at last be close to earning its wings?</title>
       <link>https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings</link>
       <guid>https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings</guid>
@@ -76,14 +84,6 @@
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>A year after revealing the growth gap between the country’s largest publicly listed companies and their global…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-      <guid>https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Cult.fit builds operational muscle with Codex</title>
@@ -174,6 +174,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
+      <link>https://huggingface.co/blog/phonon-tts</link>
+      <guid>https://huggingface.co/blog/phonon-tts</guid>
+      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
       <title>Reinventing the channel: How can your partner ecosystem fuel AI growth?</title>
       <link>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth</link>
       <guid>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth</guid>
@@ -190,20 +198,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Beauty, redefined</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</guid>
+      <title>How AI can help unlock insurance growth in Latin America</title>
+      <link>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</link>
+      <guid>https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america</guid>
       <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…</description>
+      <description>Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
-      <link>https://huggingface.co/blog/phonon-tts</link>
-      <guid>https://huggingface.co/blog/phonon-tts</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>

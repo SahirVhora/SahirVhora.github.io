@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-07T13:09:27.878781+00:00",
+  "updatedAt": "2026-11-07T20:55:51.569881+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -117,6 +117,17 @@
       "firstSeen": "2026-11-06T22:08:19.731718+00:00"
     },
     {
+      "id": "13e4c95dcbaa6d34",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
       "id": "0a977ad70db420d3",
       "title": "Could aviation at last be close to earning its wings?",
       "url": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
@@ -158,17 +169,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-06T00:00:00+00:00",
       "excerpt": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "13e4c95dcbaa6d34",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
@@ -294,6 +294,17 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
+      "id": "c65c7708e93995ca",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+    },
+    {
       "id": "2097902c90785b4f",
       "title": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
       "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth",
@@ -316,26 +327,15 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "779af30bf284ca57",
-      "title": "Beauty, redefined",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
+      "id": "fecf5e78a502cefd",
+      "title": "How AI can help unlock insurance growth in Latin America",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…",
-      "firstSeen": "2026-11-07T13:09:27.878781+00:00"
-    },
-    {
-      "id": "c65c7708e93995ca",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
+      "excerpt": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…",
+      "firstSeen": "2026-11-07T20:55:51.569881+00:00"
     },
     {
       "id": "32d4e91d243ef07f",
