@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06T22:08:19.731718+00:00",
+  "updatedAt": "2026-11-07T13:09:27.878781+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -116,17 +117,6 @@
       "firstSeen": "2026-11-06T22:08:19.731718+00:00"
     },
     {
-      "id": "13e4c95dcbaa6d34",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "0a977ad70db420d3",
       "title": "Could aviation at last be close to earning its wings?",
       "url": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
@@ -171,6 +161,17 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
+      "id": "13e4c95dcbaa6d34",
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
       "id": "bbd492caba72ca54",
       "title": "Cult.fit builds operational muscle with Codex",
       "url": "https://openai.com/index/cultfit-builds-with-codex",
@@ -201,7 +202,8 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
+      "retained": true
     },
     {
       "id": "616c68177b707eae",
@@ -292,17 +294,6 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "c65c7708e93995ca",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
       "id": "2097902c90785b4f",
       "title": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
       "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth",
@@ -325,15 +316,26 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "fecf5e78a502cefd",
-      "title": "How AI can help unlock insurance growth in Latin America",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-ai-can-help-unlock-insurance-growth-in-latin-america",
+      "id": "779af30bf284ca57",
+      "title": "Beauty, redefined",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "Latin America’s insurance market has strong growth and significant untapped demand. AI could help insurers…",
-      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
+      "excerpt": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…",
+      "firstSeen": "2026-11-07T13:09:27.878781+00:00"
+    },
+    {
+      "id": "c65c7708e93995ca",
+      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
+      "url": "https://huggingface.co/blog/phonon-tts",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-05T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
       "id": "32d4e91d243ef07f",
@@ -410,7 +412,8 @@
       "evidence": "Company research",
       "published": "2026-11-03T17:01:49+00:00",
       "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00",
+      "retained": true
     },
     {
       "id": "4d3938441f216409",
@@ -476,7 +479,8 @@
       "evidence": "Company research",
       "published": "2026-10-30T14:18:30+00:00",
       "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00",
+      "retained": true
     },
     {
       "id": "4ca66b0e9156bbdb",
@@ -498,7 +502,8 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
+      "retained": true
     },
     {
       "id": "3da2b65af0d1313a",
@@ -520,7 +525,8 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
+      "retained": true
     },
     {
       "id": "0b541fa95db69814",
@@ -575,7 +581,8 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
+      "retained": true
     },
     {
       "id": "0e653436fc7097c4",
@@ -619,7 +626,8 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
+      "retained": true
     },
     {
       "id": "553830d231d34627",
