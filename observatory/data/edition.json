@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T13:30:12.508883+00:00",
+  "updatedAt": "2026-11-08T21:13:03.349522+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -139,17 +139,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "ec5ef303d5994f01",
-      "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
-      "url": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä –…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "9dd4dd84155f9c8c",
       "title": "How AI is transforming automotive quality operations",
       "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
@@ -158,6 +147,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-06T00:00:00+00:00",
       "excerpt": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "ec5ef303d5994f01",
+      "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
+      "url": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä –…",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {

@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 13:30:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:13:03 +0000</lastBuildDate>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://huggingface.co/blog/allenai/toyblocks</link>
@@ -62,19 +62,19 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Suomen suuryritysten kasvumahdollisuus: välikatsaus</title>
-      <link>https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus</link>
-      <guid>https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä –…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>How AI is transforming automotive quality operations</title>
       <link>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations</link>
       <guid>https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations</guid>
       <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description>Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Suomen suuryritysten kasvumahdollisuus: välikatsaus</title>
+      <link>https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus</link>
+      <guid>https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus</guid>
+      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä –…</description>
       <category>consulting</category>
     </item>
     <item>
