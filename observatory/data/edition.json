@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-08T21:13:03.349522+00:00",
+  "updatedAt": "2026-11-09T16:28:37.661629+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,105 @@
     }
   ],
   "stories": [
+    {
+      "id": "ac8f18750241a65f",
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-09T15:05:57+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "3782980f6f5794cc",
+      "title": "Oliva Cigar: Crafting a Digital Legacy for the Next Century",
+      "url": "https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T13:15:00+00:00",
+      "excerpt": "In a world of rapid change, even a legacy built on tradition must look to…",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "55d059b88c6c576a",
+      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-09T12:34:29+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "d9a9359c77ee7707",
+      "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises",
+      "url": "https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-product-centric-enterprises/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T12:15:00+00:00",
+      "excerpt": "This is the fifth consecutive year SAP is…",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "64c332871f71e09a",
+      "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises",
+      "url": "https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-service-centric-enterprises/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T12:15:00+00:00",
+      "excerpt": "This is the fifth consecutive year SAP is…",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "cbd0edd4fc2d3f06",
+      "title": "Do More With Sustainability Data",
+      "url": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-09T12:00:41+00:00",
+      "excerpt": "Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the…",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "911c35ae930b7120",
+      "title": "Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”",
+      "url": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T05:15:00+00:00",
+      "excerpt": "SAP India President and MD Manish Prasad makes the case…",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "871120a86632eec8",
+      "title": "Future of healthcare: Extinction or accelerated evolution?",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-09T00:00:00+00:00",
+      "excerpt": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and…",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "5320a02b85a3e9e6",
+      "title": "How CFOs can make AI pay off",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-09T00:00:00+00:00",
+      "excerpt": "Creating value from AI in finance—and beyond—requires setting measurable targets and redesigning processes. Here’s how.",
+      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
     {
       "id": "5a90caffb2c87d2e",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
@@ -183,17 +281,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "f25b9201ad6bdcc6",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-05T19:35:16+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
-    },
-    {
       "id": "f09d7876c1e95fca",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -202,8 +289,7 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
-      "retained": true
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "616c68177b707eae",
@@ -236,17 +322,6 @@
       "evidence": "Company announcement",
       "published": "2026-11-05T12:15:00+00:00",
       "excerpt": "Thirty years later, the solution continues to evolve alongside its customers and the 1.2 million users working…",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "932e9edaff7f03f4",
-      "title": "Three Skills That Define the New Entry-Level Job in the AI Era",
-      "url": "https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T11:15:00+00:00",
-      "excerpt": "As organizations adapt, the expectations placed on employees are evolving just as quickly.",
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
@@ -316,28 +391,6 @@
       "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
-      "id": "d7661847d4164cdd",
-      "title": "Quality for quantity: The gains from investing in population health",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "McKinsey Senior Partners Drew Ungerman and Pooja Kumar discuss the massive opportunities available to improve…",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "779af30bf284ca57",
-      "title": "Beauty, redefined",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…",
-      "firstSeen": "2026-11-08T13:30:12.508883+00:00"
-    },
-    {
       "id": "32d4e91d243ef07f",
       "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
       "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
@@ -347,28 +400,6 @@
       "published": "2026-11-04T17:50:10+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "e8ff0bd5df4037a8",
-      "title": "From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape",
-      "url": "https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T13:15:00+00:00",
-      "excerpt": "The report points to a future where connected data and…",
-      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
-    },
-    {
-      "id": "36e331f0a7011105",
-      "title": "New SAP Incentive Management, Starter Edition, Now Available",
-      "url": "https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T12:15:00+00:00",
-      "excerpt": "Growing organizations need the right solutions to turn their strategy into performance.",
-      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
     },
     {
       "id": "d2819faa22a4a215",
@@ -393,17 +424,6 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "3acda4a33563b27b",
-      "title": "Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness",
-      "url": "https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-04T08:00:00+00:00",
-      "excerpt": "Reliable digital systems are increasingly essential to defense readiness.",
-      "firstSeen": "2026-11-04T14:37:53.420199+00:00"
-    },
-    {
       "id": "da38bc697163569b",
       "title": "Agentic cheminformatics with Google Antigravity",
       "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
@@ -412,8 +432,7 @@
       "evidence": "Company research",
       "published": "2026-11-03T17:01:49+00:00",
       "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00",
-      "retained": true
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
       "id": "4d3938441f216409",
@@ -436,17 +455,6 @@
       "published": "2026-11-03T10:00:00+00:00",
       "excerpt": "Author(s): Charles Day A new formalism yields the quantities that characterize a conventional superconductor without adjustable parameters. [Physics 19, s138] Published…",
       "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "63945bc794809749",
-      "title": "CWE-bench v2: More coverage, quality, and transparency",
-      "url": "https://huggingface.co/blog/cwe-bench",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-03T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
       "id": "a793aab7db96348e",
@@ -479,8 +487,7 @@
       "evidence": "Company research",
       "published": "2026-10-30T14:18:30+00:00",
       "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00",
-      "retained": true
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
     },
     {
       "id": "4ca66b0e9156bbdb",
@@ -502,8 +509,7 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
-      "retained": true
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
     },
     {
       "id": "3da2b65af0d1313a",
@@ -525,8 +531,7 @@
       "evidence": "Company research",
       "published": "2026-10-27T16:01:38+00:00",
       "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00",
-      "retained": true
+      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
     },
     {
       "id": "0b541fa95db69814",
@@ -581,8 +586,7 @@
       "evidence": "Company research",
       "published": "2026-10-22T14:30:24+00:00",
       "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00",
-      "retained": true
+      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "0e653436fc7097c4",
@@ -607,17 +611,6 @@
       "firstSeen": "2026-10-21T11:55:46.786492+00:00"
     },
     {
-      "id": "debc799cf11468cd",
-      "title": "Why Data Modeling Is Not Enough",
-      "url": "https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-19T11:00:59+00:00",
-      "excerpt": "Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data…",
-      "firstSeen": "2026-10-19T13:24:47.340905+00:00"
-    },
-    {
       "id": "ad09b0946a60b7ff",
       "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
       "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
@@ -626,8 +619,7 @@
       "evidence": "Company research",
       "published": "2026-10-15T16:08:03+00:00",
       "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00",
-      "retained": true
+      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "553830d231d34627",

@@ -4,7 +4,79 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 08 Nov 2026 21:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 16:28:37 +0000</lastBuildDate>
+    <item>
+      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
+      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
+      <guid>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
+      <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Oliva Cigar: Crafting a Digital Legacy for the Next Century</title>
+      <link>https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century/</link>
+      <guid>https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century/</guid>
+      <pubDate>Mon, 09 Nov 2026 13:15:00 +0000</pubDate>
+      <description>In a world of rapid change, even a legacy built on tradition must look to…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
+      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
+      <guid>https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
+      <pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises</title>
+      <link>https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-product-centric-enterprises/</link>
+      <guid>https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-product-centric-enterprises/</guid>
+      <pubDate>Mon, 09 Nov 2026 12:15:00 +0000</pubDate>
+      <description>This is the fifth consecutive year SAP is…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises</title>
+      <link>https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-service-centric-enterprises/</link>
+      <guid>https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-service-centric-enterprises/</guid>
+      <pubDate>Mon, 09 Nov 2026 12:15:00 +0000</pubDate>
+      <description>This is the fifth consecutive year SAP is…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Do More With Sustainability Data</title>
+      <link>https://sloanreview.mit.edu/article/do-more-with-sustainability-data/</link>
+      <guid>https://sloanreview.mit.edu/article/do-more-with-sustainability-data/</guid>
+      <pubDate>Mon, 09 Nov 2026 12:00:41 +0000</pubDate>
+      <description>Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”</title>
+      <link>https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/</link>
+      <guid>https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/</guid>
+      <pubDate>Mon, 09 Nov 2026 05:15:00 +0000</pubDate>
+      <description>SAP India President and MD Manish Prasad makes the case…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Future of healthcare: Extinction or accelerated evolution?</title>
+      <link>https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare</link>
+      <guid>https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>How CFOs can make AI pay off</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off</guid>
+      <pubDate>Mon, 09 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Creating value from AI in finance—and beyond—requires setting measurable targets and redesigning processes. Here’s how.</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>ToyBlocks: A controlled world for robot learning and evaluation</title>
       <link>https://huggingface.co/blog/allenai/toyblocks</link>
@@ -94,14 +166,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-      <guid>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</guid>
-      <pubDate>Thu, 05 Nov 2026 19:35:16 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
       <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
       <guid>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
@@ -131,14 +195,6 @@
       <guid>https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/</guid>
       <pubDate>Thu, 05 Nov 2026 12:15:00 +0000</pubDate>
       <description>Thirty years later, the solution continues to evolve alongside its customers and the 1.2 million users working…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Three Skills That Define the New Entry-Level Job in the AI Era</title>
-      <link>https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/</link>
-      <guid>https://news.sap.com/2026/11/three-skills-define-entry-level-job-ai-era/</guid>
-      <pubDate>Thu, 05 Nov 2026 11:15:00 +0000</pubDate>
-      <description>As organizations adapt, the expectations placed on employees are evolving just as quickly.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -190,44 +246,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Quality for quantity: The gains from investing in population health</title>
-      <link>https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health</link>
-      <guid>https://www.mckinsey.com/industries/healthcare/our-insights/quality-for-quantity-the-gains-from-investing-in-population-health</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>McKinsey Senior Partners Drew Ungerman and Pooja Kumar discuss the massive opportunities available to improve…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Beauty, redefined</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/beauty-redefined</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Beauty now stretches from skin care to saunas, from downtown department stores to K-beauty reels. Here’s what these shifts mean for brands seeking…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Dharma Field Extractor: Any Document In, Structured Fields in JSON Out</title>
       <link>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</link>
       <guid>https://huggingface.co/blog/Dharma-AI/dharma-field-extractor</guid>
       <pubDate>Wed, 04 Nov 2026 17:50:10 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>From AI to Analytics: Where SAP Fieldglass Stands Out in the 2026 SIA VMS Landscape</title>
-      <link>https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/</link>
-      <guid>https://news.sap.com/2026/11/sap-fieldglass-stands-out-2026-sia-vms-landscape/</guid>
-      <pubDate>Wed, 04 Nov 2026 13:15:00 +0000</pubDate>
-      <description>The report points to a future where connected data and…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>New SAP Incentive Management, Starter Edition, Now Available</title>
-      <link>https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/</link>
-      <guid>https://news.sap.com/2026/11/sap-incentive-management-starter-edition-now-available/</guid>
-      <pubDate>Wed, 04 Nov 2026 12:15:00 +0000</pubDate>
-      <description>Growing organizations need the right solutions to turn their strategy into performance.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>When Cultures Collide in Crisis</title>
@@ -244,14 +268,6 @@
       <pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Susan Curtis Using sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Dutch Ministry of Defense Chooses SAP Sovereign Cloud: A Milestone for European Defense Readiness</title>
-      <link>https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/</link>
-      <guid>https://news.sap.com/2026/11/dutch-ministry-of-defense-chooses-sap-sovereign-cloud/</guid>
-      <pubDate>Wed, 04 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Reliable digital systems are increasingly essential to defense readiness.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Agentic cheminformatics with Google Antigravity</title>
@@ -276,14 +292,6 @@
       <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Charles Day A new formalism yields the quantities that characterize a conventional superconductor without adjustable parameters. [Physics 19, s138] Published…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>CWE-bench v2: More coverage, quality, and transparency</title>
-      <link>https://huggingface.co/blog/cwe-bench</link>
-      <guid>https://huggingface.co/blog/cwe-bench</guid>
-      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>The AI Governance Paradox</title>
@@ -395,14 +403,6 @@
       <guid>https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/</guid>
       <pubDate>Wed, 21 Oct 2026 11:00:48 +0000</pubDate>
       <description>Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Why Data Modeling Is Not Enough</title>
-      <link>https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/</link>
-      <guid>https://sloanreview.mit.edu/article/why-data-modeling-is-not-enough/</guid>
-      <pubDate>Mon, 19 Oct 2026 11:00:59 +0000</pubDate>
-      <description>Otto Dettmer/Ikon Images Imagine that, as an operations manager at a global retailer, you have invested heavily in data…</description>
       <category>consulting</category>
     </item>
     <item>
