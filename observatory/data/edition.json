@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T14:57:33.058646+00:00",
+  "updatedAt": "2026-11-10T22:23:28.290767+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "name": "MIT Sloan Management Review",
@@ -60,6 +60,28 @@
     }
   ],
   "stories": [
+    {
+      "id": "6e8b7f1820153600",
+      "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
+      "url": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-11-10T16:10:00+00:00",
+      "excerpt": "An MIT faculty member for nearly half a century, Goldstone was a “theoretical physicist…",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "6d8eb3bcd497222d",
+      "title": "Gemini 4 Carbon is now available",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-10T16:03:47+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
     {
       "id": "b7ce1e6c35876952",
       "title": "Supply Chain AI Must Do More Than Inform; It Must Help Businesses Act",
@@ -94,6 +116,17 @@
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
+      "id": "991ad48e8559b2fe",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T10:00:00+00:00",
+      "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
       "id": "69d4d9d74efa0162",
       "title": "Closing the AI guidance gap in education",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -116,15 +149,48 @@
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
-      "id": "d297b85445610d9d",
-      "title": "Global Banking Annual Review 2026: The AI disruption dividend",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
+      "id": "f3fc54cd1d78c100",
+      "title": "Work at the Frontier: AI’s effect on freelance work",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T07:00:00+00:00",
+      "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and…",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "138ff2139612c542",
+      "title": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+      "excerpt": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps…",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "736b28f2b8c65dbf",
+      "title": "Reinventing business planning with agentic AI",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce…",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "ecd908aefcc485c1",
+      "title": "System advantage: The new source of value in chemicals",
+      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/system-advantage-the-new-source-of-value-in-chemicals",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "As the favorable conditions that long supported the chemicals industry fade, advantage is being redefined around…",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "fa6a571155181287",
@@ -136,6 +202,50 @@
       "published": "2026-11-10T00:00:00+00:00",
       "excerpt": "From AI and private brands to premium products and wellness-focused shopping, grocery retailers face…",
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "d297b85445610d9d",
+      "title": "Global Banking Annual Review 2026: The AI disruption dividend",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend…",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "cb93d68b445c05b0",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "5f3963726dbe36e6",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "8827aad4505e69ef",
+      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-09T19:51:47+00:00",
+      "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "caa9073cefb43725",
@@ -237,17 +347,6 @@
       "firstSeen": "2026-11-10T00:42:46.095738+00:00"
     },
     {
-      "id": "2e34e84f0999c607",
-      "title": "Kuken Industries searches 70 years of drawings in minutes",
-      "url": "https://openai.com/index/kuken",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T08:00:00+00:00",
-      "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can…",
-      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
-    },
-    {
       "id": "911c35ae930b7120",
       "title": "Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”",
       "url": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
@@ -281,17 +380,6 @@
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
     {
-      "id": "5320a02b85a3e9e6",
-      "title": "How CFOs can make AI pay off",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/how-cfos-can-make-ai-pay-off",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-09T00:00:00+00:00",
-      "excerpt": "Creating value from AI in finance—and beyond—requires setting measurable targets and redesigning processes. Here’s how.",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
       "id": "5a90caffb2c87d2e",
       "title": "ToyBlocks: A controlled world for robot learning and evaluation",
       "url": "https://huggingface.co/blog/allenai/toyblocks",
@@ -314,17 +402,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "a0a44ed09dc9a108",
-      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-      "url": "https://openai.com/index/partnering-with-hacktron",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-06T08:00:00+00:00",
-      "excerpt": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses…",
-      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
-    },
-    {
       "id": "13e4c95dcbaa6d34",
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
@@ -333,28 +410,6 @@
       "evidence": "Community / technical",
       "published": "2026-11-06T00:00:00+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "0a977ad70db420d3",
-      "title": "Could aviation at last be close to earning its wings?",
-      "url": "https://www.mckinsey.com/industries/travel/our-insights/could-aviation-at-last-be-close-to-earning-its-wings",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "The aviation value chain’s recent performance tells divergent stories: More airlines are creating value, and…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "ec5ef303d5994f01",
-      "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
-      "url": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä –…",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
@@ -402,17 +457,6 @@
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
-      "id": "32d4e91d243ef07f",
-      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
-      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-04T17:50:10+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
       "id": "d2819faa22a4a215",
       "title": "When Cultures Collide in Crisis",
       "url": "https://sloanreview.mit.edu/article/when-cultures-collide-in-crisis/",
@@ -443,17 +487,6 @@
       "evidence": "Company research",
       "published": "2026-11-03T17:01:49+00:00",
       "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
-    },
-    {
-      "id": "4d3938441f216409",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-03T16:35:36+00:00",
-      "excerpt": "",
       "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
@@ -534,17 +567,6 @@
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
     },
     {
-      "id": "393575ee7d83ff0a",
-      "title": "Genie 4: A new generation of world simulation",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-27T16:01:38+00:00",
-      "excerpt": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
-      "firstSeen": "2026-10-27T21:21:57.705022+00:00"
-    },
-    {
       "id": "0b541fa95db69814",
       "title": "What Interruptions Say About Your Organizational Culture",
       "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
@@ -587,17 +609,6 @@
       "published": "2026-10-23T10:00:00+00:00",
       "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
       "firstSeen": "2026-10-24T11:07:17.701381+00:00"
-    },
-    {
-      "id": "301925b8adfcebab",
-      "title": "Beyond tree cover: mapping the world’s forest types",
-      "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-22T14:30:24+00:00",
-      "excerpt": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "0e653436fc7097c4",
