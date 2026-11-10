@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09T16:28:37.661629+00:00",
+  "updatedAt": "2026-11-10T00:42:46.095738+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,17 @@
   ],
   "stories": [
     {
+      "id": "caa9073cefb43725",
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T19:00:00+00:00",
+      "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing…",
+      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
+    },
+    {
       "id": "ac8f18750241a65f",
       "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
       "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
@@ -81,6 +92,17 @@
       "published": "2026-11-09T13:15:00+00:00",
       "excerpt": "In a world of rapid change, even a legacy built on tradition must look to…",
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "952d2516af2e9054",
+      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+      "url": "https://openai.com/index/control-room",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T13:00:00+00:00",
+      "excerpt": "Learn how OpenAI’s Control Room tracks model workloads across our…",
+      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
     },
     {
       "id": "55d059b88c6c576a",
@@ -127,6 +149,28 @@
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
     {
+      "id": "02e9abf47eaf3fa0",
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T08:00:00+00:00",
+      "excerpt": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times…",
+      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
+    },
+    {
+      "id": "2e34e84f0999c607",
+      "title": "Kuken Industries searches 70 years of drawings in minutes",
+      "url": "https://openai.com/index/kuken",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-09T08:00:00+00:00",
+      "excerpt": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can…",
+      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
+    },
+    {
       "id": "911c35ae930b7120",
       "title": "Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”",
       "url": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
@@ -136,6 +180,17 @@
       "published": "2026-11-09T05:15:00+00:00",
       "excerpt": "SAP India President and MD Manish Prasad makes the case…",
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
+    },
+    {
+      "id": "0bdc2e57ca9ffd6c",
+      "title": "Beyond agency boundaries: Building a statewide approach to customer experience",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-09T00:00:00+00:00",
+      "excerpt": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and…",
+      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
     },
     {
       "id": "871120a86632eec8",
@@ -204,17 +259,6 @@
       "firstSeen": "2026-11-06T22:08:19.731718+00:00"
     },
     {
-      "id": "5f721228af3682c2",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle…",
-      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
-    },
-    {
       "id": "13e4c95dcbaa6d34",
       "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
@@ -237,17 +281,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "9dd4dd84155f9c8c",
-      "title": "How AI is transforming automotive quality operations",
-      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "ec5ef303d5994f01",
       "title": "Suomen suuryritysten kasvumahdollisuus: välikatsaus",
       "url": "https://www.mckinsey.com/fi/our-insights/suomen-suuryritysten-kasvumahdollisuus-valikatsaus",
@@ -256,6 +289,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-06T00:00:00+00:00",
       "excerpt": "Vuosi sitten tutkimuksemme osoitti, että Suomen suurimmat listatut yhtiöt ovat kasvaneet selvästi hitaammin kuin globaalit verrokit. Näemme jo myönteistä kehitystä –…",
+      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "9dd4dd84155f9c8c",
+      "title": "How AI is transforming automotive quality operations",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early…",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
@@ -268,6 +312,17 @@
       "published": "2026-11-06T00:00:00+00:00",
       "excerpt": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global…",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
+    },
+    {
+      "id": "5f721228af3682c2",
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-06T00:00:00+00:00",
+      "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle…",
+      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
     },
     {
       "id": "bbd492caba72ca54",
@@ -290,17 +345,6 @@
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-05T22:41:27.070232+00:00"
-    },
-    {
-      "id": "616c68177b707eae",
-      "title": "Australian universities are creating AI-native graduates",
-      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T17:00:00+00:00",
-      "excerpt": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
       "id": "d4d36af74f2a2095",
@@ -336,39 +380,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "14e90e72d3401ddf",
-      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
-      "url": "https://openai.com/index/introducing-gpt-6-cyber",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T09:00:00+00:00",
-      "excerpt": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay…",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
-    },
-    {
-      "id": "db9792e954d44701",
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T08:00:00+00:00",
-      "excerpt": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "25fa4dd18ec78a48",
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T02:00:00+00:00",
-      "excerpt": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs,…",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
       "id": "c65c7708e93995ca",
       "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
       "url": "https://huggingface.co/blog/phonon-tts",
@@ -378,17 +389,6 @@
       "published": "2026-11-05T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "2097902c90785b4f",
-      "title": "Reinventing the channel: How can your partner ecosystem fuel AI growth?",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/reinventing-the-channel-how-can-your-partner-ecosystem-fuel-ai-growth",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "AI presents an opportunity for technology vendors to reinvent their sales channels. This comprehensive…",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "32d4e91d243ef07f",
