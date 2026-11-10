@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T00:42:46.095738+00:00",
+  "updatedAt": "2026-11-10T14:57:33.058646+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -60,6 +60,83 @@
     }
   ],
   "stories": [
+    {
+      "id": "b7ce1e6c35876952",
+      "title": "Supply Chain AI Must Do More Than Inform; It Must Help Businesses Act",
+      "url": "https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T12:15:00+00:00",
+      "excerpt": "Companies with the deepest understanding of their own operations are the ones…",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "f321c904268bcef2",
+      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-10T12:02:28+00:00",
+      "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "0f0020abcf733229",
+      "title": "Helping caregivers use AI in everyday life",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T12:00:00+00:00",
+      "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical…",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "69d4d9d74efa0162",
+      "title": "Closing the AI guidance gap in education",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T09:00:00+00:00",
+      "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "18f3b3d23d0c45d2",
+      "title": "SAP Expands Collaboration with AstraZeneca to Adopt RISE with SAP and Business AI",
+      "url": "https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T09:00:00+00:00",
+      "excerpt": "WALLDORF — Cloud, data and AI create a stronger foundation for innovation…",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "d297b85445610d9d",
+      "title": "Global Banking Annual Review 2026: The AI disruption dividend",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend…",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
+    {
+      "id": "fa6a571155181287",
+      "title": "The new realities of grocery retail in the Americas and Europe",
+      "url": "https://www.mckinsey.com/industries/retail/our-insights/the-new-realities-of-grocery-retail-in-the-americas-and-europe",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "From AI and private brands to premium products and wellness-focused shopping, grocery retailers face…",
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+    },
     {
       "id": "caa9073cefb43725",
       "title": "ChatGPT Enterprise now available in AWS Marketplace",
@@ -237,17 +314,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "39dc5dfd8cbc67ec",
-      "title": "What Manufacturers Can Learn from ifm’s Digital Manufacturing Journey",
-      "url": "https://news.sap.com/2026/11/what-manufacturers-can-learn-from-ifm/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-06T12:15:00+00:00",
-      "excerpt": "For manufacturers evaluating their own transformation journey, standardization is no longer just an IT objective but…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "a0a44ed09dc9a108",
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
       "url": "https://openai.com/index/partnering-with-hacktron",
@@ -292,50 +358,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "9dd4dd84155f9c8c",
-      "title": "How AI is transforming automotive quality operations",
-      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/how-ai-is-transforming-automotive-quality-operations",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "Yoav Levy, cofounder and CEO of Upstream, explains how AI can reduce warranty and recall costs through early…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "5c7e8c4379b5ad16",
-      "title": "Assessing the growth trajectory of Finland’s largest companies",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/assessing-the-growth-trajectory-of-finlands-largest-companies",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "A year after revealing the growth gap between the country’s largest publicly listed companies and their global…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "5f721228af3682c2",
-      "title": "Measuring how AI agents handle everyday wet-lab science",
-      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle…",
-      "firstSeen": "2026-11-06T22:08:19.731718+00:00"
-    },
-    {
-      "id": "bbd492caba72ca54",
-      "title": "Cult.fit builds operational muscle with Codex",
-      "url": "https://openai.com/index/cultfit-builds-with-codex",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T20:00:00+00:00",
-      "excerpt": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "f09d7876c1e95fca",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -356,17 +378,6 @@
       "published": "2026-11-05T16:20:00+00:00",
       "excerpt": "A new method picks up where Einstein left off, to predict how particles move…",
       "firstSeen": "2026-11-05T22:41:27.070232+00:00"
-    },
-    {
-      "id": "177d453df2fac5d6",
-      "title": "SAP Business One: 30 Years of Growing Together",
-      "url": "https://news.sap.com/2026/11/sap-business-one-30-years-of-growing-together/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-05T12:15:00+00:00",
-      "excerpt": "Thirty years later, the solution continues to evolve alongside its customers and the 1.2 million users working…",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
       "id": "3f3cbfc66a295c47",
@@ -609,17 +620,6 @@
       "published": "2026-10-21T11:00:48+00:00",
       "excerpt": "Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…",
       "firstSeen": "2026-10-21T11:55:46.786492+00:00"
-    },
-    {
-      "id": "ad09b0946a60b7ff",
-      "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
-      "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-15T16:08:03+00:00",
-      "excerpt": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
-      "firstSeen": "2026-10-16T11:29:37.965576+00:00"
     },
     {
       "id": "553830d231d34627",
