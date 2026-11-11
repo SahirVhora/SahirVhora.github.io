@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T14:28:00.428519+00:00",
+  "updatedAt": "2026-11-11T23:29:04.170229+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -105,6 +106,28 @@
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
     },
     {
+      "id": "55ff14dc4213127d",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-11T00:00:00+00:00",
+      "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…",
+      "firstSeen": "2026-11-11T23:29:04.170229+00:00"
+    },
+    {
+      "id": "11568aa8dfcf9a3c",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-11T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-11T23:29:04.170229+00:00"
+    },
+    {
       "id": "6e8b7f1820153600",
       "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
       "url": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
@@ -124,7 +147,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "b7ce1e6c35876952",
@@ -146,7 +170,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
+      "retained": true
     },
     {
       "id": "0f0020abcf733229",
@@ -160,17 +185,6 @@
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
-      "id": "991ad48e8559b2fe",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T10:00:00+00:00",
-      "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
       "id": "7ec450a180cc1a66",
       "title": "Gravitational-Wave Observations Implicate Failed Supernovae",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.s149",
@@ -180,6 +194,17 @@
       "published": "2026-11-10T10:00:00+00:00",
       "excerpt": "Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…",
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
+    {
+      "id": "991ad48e8559b2fe",
+      "title": "Introducing Businesses in ChatGPT",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T10:00:00+00:00",
+      "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "69d4d9d74efa0162",
@@ -226,17 +251,6 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
-      "id": "37e4452e64c861cf",
-      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-      "url": "https://openai.com/index/cogent-security",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
-    },
-    {
       "id": "cb93d68b445c05b0",
       "title": "Pay for Hugging Face Hub with your Google Cloud Account",
       "url": "https://huggingface.co/blog/hub-gcp-marketplace",
@@ -259,17 +273,6 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
-      "id": "138ff2139612c542",
-      "title": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps…",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
       "id": "736b28f2b8c65dbf",
       "title": "Reinventing business planning with agentic AI",
       "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
@@ -278,6 +281,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-10T00:00:00+00:00",
       "excerpt": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce…",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "138ff2139612c542",
+      "title": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps…",
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
@@ -322,7 +336,8 @@
       "evidence": "Company research",
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "ac8f18750241a65f",
@@ -424,17 +439,6 @@
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
-      "id": "13e4c95dcbaa6d34",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-06T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "f09d7876c1e95fca",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -443,7 +447,8 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
+      "retained": true
     },
     {
       "id": "d4d36af74f2a2095",
@@ -498,7 +503,8 @@
       "evidence": "Company research",
       "published": "2026-11-03T17:01:49+00:00",
       "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00",
+      "retained": true
     },
     {
       "id": "c0c0a10a54389682",
@@ -542,7 +548,8 @@
       "evidence": "Company research",
       "published": "2026-10-30T14:18:30+00:00",
       "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00",
+      "retained": true
     },
     {
       "id": "4ca66b0e9156bbdb",
@@ -564,7 +571,8 @@
       "evidence": "Company research",
       "published": "2026-10-28T17:00:58+00:00",
       "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00"
+      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
+      "retained": true
     },
     {
       "id": "3da2b65af0d1313a",

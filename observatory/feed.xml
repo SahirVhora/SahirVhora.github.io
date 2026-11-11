@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 14:28:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:29:04 +0000</lastBuildDate>
     <item>
       <title>SAP and VFC Open Intelligent Fashion Store</title>
       <link>https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/</link>
@@ -34,6 +34,22 @@
       <link>https://huggingface.co/blog/qvac/botpsy</link>
       <guid>https://huggingface.co/blog/qvac/botpsy</guid>
       <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <guid>https://openai.com/index/jiostar-vijay-seshadri</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
+      <link>https://huggingface.co/blog/token-pooling</link>
+      <guid>https://huggingface.co/blog/token-pooling</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -78,20 +94,20 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Introducing Businesses in ChatGPT</title>
-      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
-      <guid>https://openai.com/index/introducing-businesses-chatgpt</guid>
-      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Gravitational-Wave Observations Implicate Failed Supernovae</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s149</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s149</guid>
       <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…</description>
       <category>physics</category>
+    </item>
+    <item>
+      <title>Introducing Businesses in ChatGPT</title>
+      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
+      <guid>https://openai.com/index/introducing-businesses-chatgpt</guid>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Closing the AI guidance gap in education</title>
@@ -126,14 +142,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Cogent and OpenAI build cyber defense factories for enterprises</title>
-      <link>https://openai.com/index/cogent-security</link>
-      <guid>https://openai.com/index/cogent-security</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
       <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
       <guid>https://huggingface.co/blog/hub-gcp-marketplace</guid>
@@ -150,19 +158,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Reinventing business planning with agentic AI</title>
       <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai</link>
       <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai</guid>
       <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
       <description>Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun</title>
+      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun</link>
+      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -266,14 +274,6 @@
       <link>https://huggingface.co/blog/allenai/toyblocks</link>
       <guid>https://huggingface.co/blog/allenai/toyblocks</guid>
       <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
-      <link>https://huggingface.co/blog/open-asr-leaderboard-liva</link>
-      <guid>https://huggingface.co/blog/open-asr-leaderboard-liva</guid>
-      <pubDate>Fri, 06 Nov 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
