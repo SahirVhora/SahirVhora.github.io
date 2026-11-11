@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 22:23:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 14:28:00 +0000</lastBuildDate>
+    <item>
+      <title>SAP and VFC Open Intelligent Fashion Store</title>
+      <link>https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/</link>
+      <guid>https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/</guid>
+      <pubDate>Wed, 11 Nov 2026 13:00:00 +0000</pubDate>
+      <description>Industry AI connects the shopper journey with end-to-end retail operations, enhancing the consumer experience WALLDORF — SAP SE…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI</title>
+      <link>https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/</link>
+      <guid>https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/</guid>
+      <pubDate>Wed, 11 Nov 2026 11:15:00 +0000</pubDate>
+      <description>If agents are expected to handle real business tasks, they need to run on a…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>ChatGPT Plus for veterans and servicemembers</title>
+      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
+      <guid>https://openai.com/index/chatgpt-plus-for-veterans</guid>
+      <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
+      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
+      <link>https://huggingface.co/blog/qvac/botpsy</link>
+      <guid>https://huggingface.co/blog/qvac/botpsy</guid>
+      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93</title>
       <link>https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110</link>
@@ -54,6 +86,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Gravitational-Wave Observations Implicate Failed Supernovae</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s149</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s149</guid>
+      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>Closing the AI guidance gap in education</title>
       <link>https://openai.com/index/closing-ai-guidance-gap-education</link>
       <guid>https://openai.com/index/closing-ai-guidance-gap-education</guid>
@@ -70,11 +110,43 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Singapore Airlines elevates travel &amp; work with OpenAI technology</title>
+      <link>https://openai.com/index/singapore-airlines-travel-work</link>
+      <guid>https://openai.com/index/singapore-airlines-travel-work</guid>
+      <pubDate>Tue, 10 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Work at the Frontier: AI’s effect on freelance work</title>
       <link>https://openai.com/index/ai-effect-on-freelance-work</link>
       <guid>https://openai.com/index/ai-effect-on-freelance-work</guid>
       <pubDate>Tue, 10 Nov 2026 07:00:00 +0000</pubDate>
       <description>New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Cogent and OpenAI build cyber defense factories for enterprises</title>
+      <link>https://openai.com/index/cogent-security</link>
+      <guid>https://openai.com/index/cogent-security</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
+      <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
+      <guid>https://huggingface.co/blog/hub-gcp-marketplace</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Decision Models in Hugging Face</title>
+      <link>https://huggingface.co/blog/decision</link>
+      <guid>https://huggingface.co/blog/decision</guid>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -118,35 +190,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
-      <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
-      <guid>https://huggingface.co/blog/hub-gcp-marketplace</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Decision Models in Hugging Face</title>
-      <link>https://huggingface.co/blog/decision</link>
-      <guid>https://huggingface.co/blog/decision</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
       <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
       <guid>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
       <pubDate>Mon, 09 Nov 2026 19:51:47 +0000</pubDate>
       <description>Our most capable vision-language-action model enhances robot dexterity, reliability, and safety</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>ChatGPT Enterprise now available in AWS Marketplace</title>
-      <link>https://openai.com/index/chatgpt-enterprise-aws-marketplace</link>
-      <guid>https://openai.com/index/chatgpt-enterprise-aws-marketplace</guid>
-      <pubDate>Mon, 09 Nov 2026 19:00:00 +0000</pubDate>
-      <description>ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing…</description>
       <category>ai</category>
     </item>
     <item>
@@ -164,14 +212,6 @@
       <pubDate>Mon, 09 Nov 2026 13:15:00 +0000</pubDate>
       <description>In a world of rapid change, even a legacy built on tradition must look to…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Control Room: A central system to track and stop model workloads across our research infrastructure</title>
-      <link>https://openai.com/index/control-room</link>
-      <guid>https://openai.com/index/control-room</guid>
-      <pubDate>Mon, 09 Nov 2026 13:00:00 +0000</pubDate>
-      <description>Learn how OpenAI’s Control Room tracks model workloads across our…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
@@ -206,22 +246,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>CodeRabbit scales agentic software development and ships 20x more</title>
-      <link>https://openai.com/index/coderabbit-codex-daybreak</link>
-      <guid>https://openai.com/index/coderabbit-codex-daybreak</guid>
-      <pubDate>Mon, 09 Nov 2026 08:00:00 +0000</pubDate>
-      <description>CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”</title>
-      <link>https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/</link>
-      <guid>https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/</guid>
-      <pubDate>Mon, 09 Nov 2026 05:15:00 +0000</pubDate>
-      <description>SAP India President and MD Manish Prasad makes the case…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Beyond agency boundaries: Building a statewide approach to customer experience</title>
       <link>https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience</link>
       <guid>https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience</guid>
@@ -244,14 +268,6 @@
       <pubDate>Fri, 06 Nov 2026 14:00:48 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>New Research Finds AI Is Moving Faster Than Organizations Can Adapt</title>
-      <link>https://news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt/</link>
-      <guid>https://news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt/</guid>
-      <pubDate>Fri, 06 Nov 2026 13:15:00 +0000</pubDate>
-      <description>A new Economist Enterprise global survey of finance, HR, and supply chain leaders reveals…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Egyptian and Nigerian English join the Open ASR Leaderboard</title>
@@ -284,14 +300,6 @@
       <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Rachel Berkowitz Random tangles of vortex lines have been observed untangling in an ultracold gas. [Physics 19, s137] Published…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.</title>
-      <link>https://huggingface.co/blog/phonon-tts</link>
-      <guid>https://huggingface.co/blog/phonon-tts</guid>
-      <pubDate>Thu, 05 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>When Cultures Collide in Crisis</title>
@@ -403,14 +411,6 @@
       <guid>http://link.aps.org/doi/10.1103/Physics.19.143</guid>
       <pubDate>Fri, 23 Oct 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Surprising Feature in a Topological Superconductor Candidate</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s134</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s134</guid>
-      <pubDate>Thu, 22 Oct 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Michael Schirber A new hint of topological superconductivity has been identified in an iron-based superconductor. [Physics 19,…</description>
       <category>physics</category>
     </item>
     <item>

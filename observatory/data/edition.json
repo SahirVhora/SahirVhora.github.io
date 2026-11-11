@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T22:23:28.290767+00:00",
+  "updatedAt": "2026-11-11T14:28:00.428519+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -60,6 +60,50 @@
     }
   ],
   "stories": [
+    {
+      "id": "65962362c444e23a",
+      "title": "SAP and VFC Open Intelligent Fashion Store",
+      "url": "https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-11T13:00:00+00:00",
+      "excerpt": "Industry AI connects the shopper journey with end-to-end retail operations, enhancing the consumer experience WALLDORF — SAP SE…",
+      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
+    {
+      "id": "8ce24b65cb0105a8",
+      "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI",
+      "url": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-11T11:15:00+00:00",
+      "excerpt": "If agents are expected to handle real business tasks, they need to run on a…",
+      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
+    {
+      "id": "ac94b61a25ade5ed",
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-11T08:00:00+00:00",
+      "excerpt": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they…",
+      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
+    {
+      "id": "19b4fcb1faac9c9b",
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-11T05:01:16+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
     {
       "id": "6e8b7f1820153600",
       "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
@@ -127,6 +171,17 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
+      "id": "7ec450a180cc1a66",
+      "title": "Gravitational-Wave Observations Implicate Failed Supernovae",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s149",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-10T10:00:00+00:00",
+      "excerpt": "Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…",
+      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
+    {
       "id": "69d4d9d74efa0162",
       "title": "Closing the AI guidance gap in education",
       "url": "https://openai.com/index/closing-ai-guidance-gap-education",
@@ -149,6 +204,17 @@
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
+      "id": "9092d5eb66f29547",
+      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T08:00:00+00:00",
+      "excerpt": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and…",
+      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
+    {
       "id": "f3fc54cd1d78c100",
       "title": "Work at the Frontier: AI’s effect on freelance work",
       "url": "https://openai.com/index/ai-effect-on-freelance-work",
@@ -157,6 +223,39 @@
       "evidence": "Company announcement",
       "published": "2026-11-10T07:00:00+00:00",
       "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and…",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "37e4452e64c861cf",
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "url": "https://openai.com/index/cogent-security",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
+      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+    },
+    {
+      "id": "cb93d68b445c05b0",
+      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
+      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+    },
+    {
+      "id": "5f3963726dbe36e6",
+      "title": "Decision Models in Hugging Face",
+      "url": "https://huggingface.co/blog/decision",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-10T00:00:00+00:00",
+      "excerpt": "",
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
@@ -215,28 +314,6 @@
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
-      "id": "cb93d68b445c05b0",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
-      "id": "5f3963726dbe36e6",
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
       "id": "8827aad4505e69ef",
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
@@ -246,17 +323,6 @@
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
-      "id": "caa9073cefb43725",
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T19:00:00+00:00",
-      "excerpt": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing…",
-      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
     },
     {
       "id": "ac8f18750241a65f",
@@ -279,17 +345,6 @@
       "published": "2026-11-09T13:15:00+00:00",
       "excerpt": "In a world of rapid change, even a legacy built on tradition must look to…",
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
-      "id": "952d2516af2e9054",
-      "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-      "url": "https://openai.com/index/control-room",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T13:00:00+00:00",
-      "excerpt": "Learn how OpenAI’s Control Room tracks model workloads across our…",
-      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
     },
     {
       "id": "55d059b88c6c576a",
@@ -336,28 +391,6 @@
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
     {
-      "id": "02e9abf47eaf3fa0",
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T08:00:00+00:00",
-      "excerpt": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times…",
-      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
-    },
-    {
-      "id": "911c35ae930b7120",
-      "title": "Interview with Manish Prasad: “Touch Any Growth Lever in India and You’ll Find SAP There”",
-      "url": "https://news.sap.com/2026/11/interview-with-manish-prasad-sap-india/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T05:15:00+00:00",
-      "excerpt": "SAP India President and MD Manish Prasad makes the case…",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
       "id": "0bdc2e57ca9ffd6c",
       "title": "Beyond agency boundaries: Building a statewide approach to customer experience",
       "url": "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience",
@@ -388,17 +421,6 @@
       "evidence": "Community / technical",
       "published": "2026-11-06T14:00:48+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "2b848204c1409f3f",
-      "title": "New Research Finds AI Is Moving Faster Than Organizations Can Adapt",
-      "url": "https://news.sap.com/2026/11/new-economist-enterprise-research-ai-moving-faster-than-organizations-can-adapt/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-06T13:15:00+00:00",
-      "excerpt": "A new Economist Enterprise global survey of finance, HR, and supply chain leaders reveals…",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
@@ -444,17 +466,6 @@
       "published": "2026-11-05T10:00:00+00:00",
       "excerpt": "Author(s): Rachel Berkowitz Random tangles of vortex lines have been observed untangling in an ultracold gas. [Physics 19, s137] Published…",
       "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
-      "id": "c65c7708e93995ca",
-      "title": "A Closer Look at Phonon TTS. Launching High-Quality On-Device Speech That Tops the Benchmarks.",
-      "url": "https://huggingface.co/blog/phonon-tts",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-05T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
     },
     {
       "id": "d2819faa22a4a215",
@@ -609,17 +620,6 @@
       "published": "2026-10-23T10:00:00+00:00",
       "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
       "firstSeen": "2026-10-24T11:07:17.701381+00:00"
-    },
-    {
-      "id": "0e653436fc7097c4",
-      "title": "Surprising Feature in a Topological Superconductor Candidate",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s134",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-22T10:00:00+00:00",
-      "excerpt": "Author(s): Michael Schirber A new hint of topological superconductivity has been identified in an iron-based superconductor. [Physics 19,…",
-      "firstSeen": "2026-10-22T20:34:41.059648+00:00"
     },
     {
       "id": "623f6670c231dfa1",
