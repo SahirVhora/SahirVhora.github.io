@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T15:20:36.298221+00:00",
+  "updatedAt": "2026-11-12T22:44:47.299192+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -60,6 +60,39 @@
     }
   ],
   "stories": [
+    {
+      "id": "a491aa90d650ab2b",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/index/amplitude",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T20:00:00+00:00",
+      "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps…",
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+    },
+    {
+      "id": "84ec87286cb35a64",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-12T19:07:35+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+    },
+    {
+      "id": "c7a410ad3b862809",
+      "title": "Introducing Gemini 4 Hydrogen",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-12T18:00:50+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+    },
     {
       "id": "81734b61b9186c24",
       "title": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands",
@@ -191,6 +224,28 @@
       "published": "2026-11-12T00:00:00+00:00",
       "excerpt": "International trade has been resilient, but important vulnerabilities lurk beneath the surface. Identifying…",
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "bd6ab17f91245325",
+      "title": "Beyond delivery: The human and economic toll of preeclampsia in the US",
+      "url": "https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "Preeclampsia affects about one in 11 births a year in the United States,…",
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+    },
+    {
+      "id": "fa7ce9ae15bbcb0e",
+      "title": "Shaping the intelligent age: How Europe can thrive",
+      "url": "https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "Europe has been one of the winners of the industrial age, but it cannot win the intelligent…",
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
     },
     {
       "id": "833534b672b8daa3",
@@ -336,17 +391,6 @@
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
     },
     {
-      "id": "991ad48e8559b2fe",
-      "title": "Introducing Businesses in ChatGPT",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T10:00:00+00:00",
-      "excerpt": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
       "id": "18f3b3d23d0c45d2",
       "title": "SAP Expands Collaboration with AstraZeneca to Adopt RISE with SAP and Business AI",
       "url": "https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/",
@@ -391,28 +435,6 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
-      "id": "138ff2139612c542",
-      "title": "Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun",
-      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps…",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
-      "id": "ecd908aefcc485c1",
-      "title": "System advantage: The new source of value in chemicals",
-      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/system-advantage-the-new-source-of-value-in-chemicals",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "As the favorable conditions that long supported the chemicals industry fade, advantage is being redefined around…",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
       "id": "8827aad4505e69ef",
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
@@ -431,17 +453,6 @@
       "source": "Hugging Face",
       "evidence": "Community / technical",
       "published": "2026-11-09T15:05:57+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
-      "id": "55d059b88c6c576a",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-09T12:34:29+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
@@ -554,17 +565,6 @@
       "published": "2026-11-02T10:00:00+00:00",
       "excerpt": "Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…",
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
-    },
-    {
-      "id": "1b296d8bb115085d",
-      "title": "Speeding up planning decisions with AI",
-      "url": "https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-30T14:18:30+00:00",
-      "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
     },
     {
       "id": "4ca66b0e9156bbdb",

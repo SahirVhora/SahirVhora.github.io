@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 15:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 22:44:47 +0000</lastBuildDate>
+    <item>
+      <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
+      <link>https://openai.com/index/amplitude</link>
+      <guid>https://openai.com/index/amplitude</guid>
+      <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
+      <description>Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
+      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
+      <guid>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
+      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Introducing Gemini 4 Hydrogen</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</guid>
+      <pubDate>Thu, 12 Nov 2026 18:00:50 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands</title>
       <link>https://news.sap.com/2026/11/sap-product-level-cloud-emissions-energy-data-customers/</link>
@@ -99,6 +123,22 @@
       <guid>https://www.mckinsey.com/mgi/our-research/the-achilles-heel-of-global-trade-building-resilience-where-it-matters-most</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>International trade has been resilient, but important vulnerabilities lurk beneath the surface. Identifying…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Beyond delivery: The human and economic toll of preeclampsia in the US</title>
+      <link>https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us</link>
+      <guid>https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Preeclampsia affects about one in 11 births a year in the United States,…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Shaping the intelligent age: How Europe can thrive</title>
+      <link>https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive</link>
+      <guid>https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Europe has been one of the winners of the industrial age, but it cannot win the intelligent…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -206,14 +246,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Introducing Businesses in ChatGPT</title>
-      <link>https://openai.com/index/introducing-businesses-chatgpt</link>
-      <guid>https://openai.com/index/introducing-businesses-chatgpt</guid>
-      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>SAP Expands Collaboration with AstraZeneca to Adopt RISE with SAP and Business AI</title>
       <link>https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/</link>
       <guid>https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/</guid>
@@ -246,22 +278,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Brilliant Moves: Coffee with The Coca-Cola Company CEO Henrique Braun</title>
-      <link>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun</link>
-      <guid>https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/brilliant-moves-coffee-with-the-coca-cola-company-ceo-henrique-braun</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The Coca-Cola Company’s Henrique Braun and McKinsey’s Vik Malhotra discuss how an enduring institution keeps…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>System advantage: The new source of value in chemicals</title>
-      <link>https://www.mckinsey.com/industries/chemicals/our-insights/system-advantage-the-new-source-of-value-in-chemicals</link>
-      <guid>https://www.mckinsey.com/industries/chemicals/our-insights/system-advantage-the-new-source-of-value-in-chemicals</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As the favorable conditions that long supported the chemicals industry fade, advantage is being redefined around…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
       <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
       <guid>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
@@ -274,14 +290,6 @@
       <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
       <guid>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
       <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Your Experts Have Partners. There's HOPE for Keeping Them Together</title>
-      <link>https://huggingface.co/blog/amazon/higher-order-pruning-experts</link>
-      <guid>https://huggingface.co/blog/amazon/higher-order-pruning-experts</guid>
-      <pubDate>Mon, 09 Nov 2026 12:34:29 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -364,14 +372,6 @@
       <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Speeding up planning decisions with AI</title>
-      <link>https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</link>
-      <guid>https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/</guid>
-      <pubDate>Fri, 30 Oct 2026 14:18:30 +0000</pubDate>
-      <description>Google DeepMind and UK government work together to reduce planning assessment times</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Talking to Superconducting Qubits with Millimeter Waves</title>
