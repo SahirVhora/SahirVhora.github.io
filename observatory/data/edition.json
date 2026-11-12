@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-11T23:29:04.170229+00:00",
+  "updatedAt": "2026-11-12T15:20:36.298221+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,149 @@
     }
   ],
   "stories": [
+    {
+      "id": "81734b61b9186c24",
+      "title": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands",
+      "url": "https://news.sap.com/2026/11/sap-product-level-cloud-emissions-energy-data-customers/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T13:15:00+00:00",
+      "excerpt": "SAP is making the carbon footprint of cloud software visible product by product, customer…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "b4accbe90afc5bc4",
+      "title": "A Smooth Ride Through Peak Season with Trek Bikes",
+      "url": "https://news.sap.com/2026/11/a-smooth-ride-through-peak-season-with-trek-bikes/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T12:15:00+00:00",
+      "excerpt": "When demand accelerates, businesses need to keep pace. For Trek Bikes, that means speed across all…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "9b52875eb1c53b2c",
+      "title": "Lessons From Tech’s Diversity Disclosures",
+      "url": "https://sloanreview.mit.edu/article/lessons-from-techs-diversity-disclosures/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-12T12:00:12+00:00",
+      "excerpt": "Aron Vellekoop León/Ikon Images Transparency can be a powerful lever, yet it is also combustible. When businesses raise visibility faster…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "f924a40c3fb6e664",
+      "title": "Meet the Hybrid AI Buyer: The Customer Journey Is Fractured, and That’s Progress",
+      "url": "https://news.sap.com/2026/11/hybrid-ai-buyer-customer-experience-research-data-journey-progress/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T11:15:00+00:00",
+      "excerpt": "New research reveals there’s a structural shift changing how businesses get chosen.",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "4922ca6fb0dd9299",
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T09:30:00+00:00",
+      "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "d7c1da8cb7dc41da",
+      "title": "Supporting research on AI and children’s safety",
+      "url": "https://openai.com/index/children-first-declaration",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "65b96c238445cded",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "cbda9238a3684b28",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "d8c93229c44950eb",
+      "title": "Programmatic M&A in Australia: The most reliable way to unlock value",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "Fewer than one in 20 Australian-listed companies pursued programmatic M&A over the past decade,…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "3d57f0a932498580",
+      "title": "Rural healthcare and America’s $340 billion workforce earnings opportunity",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "9dae6e1c6a96849e",
+      "title": "Proving AI’s business value: Views from PayPal Ads SVP and GM Mark Grether",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "PayPal Ads’ Mark Grether describes how marketers connect technology investment to measurable…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "e810884244a24be5",
+      "title": "The Achilles’ heel of global trade: Building resilience where it matters most",
+      "url": "https://www.mckinsey.com/mgi/our-research/the-achilles-heel-of-global-trade-building-resilience-where-it-matters-most",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "International trade has been resilient, but important vulnerabilities lurk beneath the surface. Identifying…",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
+      "id": "833534b672b8daa3",
+      "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-11T15:00:15+00:00",
+      "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
     {
       "id": "65962362c444e23a",
       "title": "SAP and VFC Open Intelligent Fashion Store",
@@ -147,8 +289,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "b7ce1e6c35876952",
@@ -170,8 +311,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
       "id": "0f0020abcf733229",
@@ -207,17 +347,6 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
-      "id": "69d4d9d74efa0162",
-      "title": "Closing the AI guidance gap in education",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T09:00:00+00:00",
-      "excerpt": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
-    },
-    {
       "id": "18f3b3d23d0c45d2",
       "title": "SAP Expands Collaboration with AstraZeneca to Adopt RISE with SAP and Business AI",
       "url": "https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/",
@@ -227,28 +356,6 @@
       "published": "2026-11-10T09:00:00+00:00",
       "excerpt": "WALLDORF — Cloud, data and AI create a stronger foundation for innovation…",
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
-    },
-    {
-      "id": "9092d5eb66f29547",
-      "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T08:00:00+00:00",
-      "excerpt": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and…",
-      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
-    },
-    {
-      "id": "f3fc54cd1d78c100",
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T07:00:00+00:00",
-      "excerpt": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and…",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "cb93d68b445c05b0",
@@ -306,28 +413,6 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
-      "id": "fa6a571155181287",
-      "title": "The new realities of grocery retail in the Americas and Europe",
-      "url": "https://www.mckinsey.com/industries/retail/our-insights/the-new-realities-of-grocery-retail-in-the-americas-and-europe",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "From AI and private brands to premium products and wellness-focused shopping, grocery retailers face…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
-    },
-    {
-      "id": "d297b85445610d9d",
-      "title": "Global Banking Annual Review 2026: The AI disruption dividend",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
-    },
-    {
       "id": "8827aad4505e69ef",
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
@@ -336,8 +421,7 @@
       "evidence": "Company research",
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "ac8f18750241a65f",
@@ -348,17 +432,6 @@
       "evidence": "Community / technical",
       "published": "2026-11-09T15:05:57+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
-      "id": "3782980f6f5794cc",
-      "title": "Oliva Cigar: Crafting a Digital Legacy for the Next Century",
-      "url": "https://news.sap.com/2026/11/oliva-cigar-crafting-digital-legacy-for-next-century/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T13:15:00+00:00",
-      "excerpt": "In a world of rapid change, even a legacy built on tradition must look to…",
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
     {
@@ -373,28 +446,6 @@
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
     {
-      "id": "d9a9359c77ee7707",
-      "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Product-Centric Enterprises",
-      "url": "https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-product-centric-enterprises/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T12:15:00+00:00",
-      "excerpt": "This is the fifth consecutive year SAP is…",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
-      "id": "64c332871f71e09a",
-      "title": "SAP Recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Cloud ERP for Service-Centric Enterprises",
-      "url": "https://news.sap.com/2026/11/sap-a-leader-2026-gartner-magic-quadrant-cloud-erp-service-centric-enterprises/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-09T12:15:00+00:00",
-      "excerpt": "This is the fifth consecutive year SAP is…",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
       "id": "cbd0edd4fc2d3f06",
       "title": "Do More With Sustainability Data",
       "url": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
@@ -406,39 +457,6 @@
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
     {
-      "id": "0bdc2e57ca9ffd6c",
-      "title": "Beyond agency boundaries: Building a statewide approach to customer experience",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/beyond-agency-boundaries-building-a-statewide-approach-to-customer-experience",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-09T00:00:00+00:00",
-      "excerpt": "As expectations for government evolve, three opportunities can help US states strengthen customer experience and…",
-      "firstSeen": "2026-11-10T00:42:46.095738+00:00"
-    },
-    {
-      "id": "871120a86632eec8",
-      "title": "Future of healthcare: Extinction or accelerated evolution?",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/the-future-of-healthcare",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-09T00:00:00+00:00",
-      "excerpt": "Shapers of healthcare’s future must evolve under relentless economic pressure. To avoid extinction, they must harness AI and…",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
-      "id": "5a90caffb2c87d2e",
-      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
-      "url": "https://huggingface.co/blog/allenai/toyblocks",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-06T14:00:48+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
-    },
-    {
       "id": "f09d7876c1e95fca",
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
       "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
@@ -447,8 +465,7 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
-      "retained": true
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "d4d36af74f2a2095",
@@ -503,8 +520,7 @@
       "evidence": "Company research",
       "published": "2026-11-03T17:01:49+00:00",
       "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00",
-      "retained": true
+      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
       "id": "c0c0a10a54389682",
@@ -548,8 +564,7 @@
       "evidence": "Company research",
       "published": "2026-10-30T14:18:30+00:00",
       "excerpt": "Google DeepMind and UK government work together to reduce planning assessment times",
-      "firstSeen": "2026-11-02T23:53:22.065499+00:00",
-      "retained": true
+      "firstSeen": "2026-11-02T23:53:22.065499+00:00"
     },
     {
       "id": "4ca66b0e9156bbdb",
@@ -561,18 +576,6 @@
       "published": "2026-10-30T10:00:00+00:00",
       "excerpt": "Author(s): Sophia Chen A new device uses millimeter-wave radiation to accurately read the states of superconducting qubits without…",
       "firstSeen": "2026-10-31T12:39:14.366383+00:00"
-    },
-    {
-      "id": "e8e0cb1d0e685ced",
-      "title": "Gemini 4 Carbon: Our next frontier model",
-      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-10-28T17:00:58+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-10-28T21:41:39.209814+00:00",
-      "retained": true
     },
     {
       "id": "3da2b65af0d1313a",
@@ -628,17 +631,6 @@
       "published": "2026-10-23T10:00:00+00:00",
       "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
       "firstSeen": "2026-10-24T11:07:17.701381+00:00"
-    },
-    {
-      "id": "623f6670c231dfa1",
-      "title": "The Hidden Upside of Tech Challenges",
-      "url": "https://sloanreview.mit.edu/article/the-hidden-upside-of-tech-challenges/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-21T11:00:48+00:00",
-      "excerpt": "Alice Mollon/Ikon Images Employee stress is a major social issue both within and outside of our workplaces. As of…",
-      "firstSeen": "2026-10-21T11:55:46.786492+00:00"
     },
     {
       "id": "553830d231d34627",
