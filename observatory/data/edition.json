@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T22:44:47.299192+00:00",
+  "updatedAt": "2026-11-13T14:39:07.384574+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,15 +61,70 @@
   ],
   "stories": [
     {
-      "id": "a491aa90d650ab2b",
+      "id": "6841e619fcd7e8d9",
+      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-13T14:05:22+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+    },
+    {
+      "id": "c4a57ce51924ca1b",
+      "title": "SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail",
+      "url": "https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-13T12:15:00+00:00",
+      "excerpt": "We continue to work with our customers to…",
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+    },
+    {
+      "id": "7968b0240e88b635",
+      "title": "Successful SAP Transformation Starts With Business Processes, Not Tech",
+      "url": "https://news.sap.com/2026/11/successful-sap-transformation-business-processes/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-13T11:15:00+00:00",
+      "excerpt": "Connecting business processes, architecture, data, and human decision-making are key to successful transformation.",
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+    },
+    {
+      "id": "755f6e309a43ae4d",
+      "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-13T00:00:00+00:00",
+      "excerpt": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data…",
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+    },
+    {
+      "id": "18d79cee9726e750",
+      "title": "Separating signal from noise: The always-on finance intelligence layer",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-13T00:00:00+00:00",
+      "excerpt": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s…",
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+    },
+    {
+      "id": "67672a694e389b29",
       "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/index/amplitude",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
       "published": "2026-11-12T20:00:00+00:00",
       "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps…",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
       "id": "84ec87286cb35a64",
@@ -127,6 +182,17 @@
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
+      "id": "b9840fd67063a36a",
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-12T12:00:00+00:00",
+      "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output…",
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+    },
+    {
       "id": "f924a40c3fb6e664",
       "title": "Meet the Hybrid AI Buyer: The Customer Journey Is Fractured, and That’s Progress",
       "url": "https://news.sap.com/2026/11/hybrid-ai-buyer-customer-experience-research-data-journey-progress/",
@@ -149,6 +215,17 @@
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
+      "id": "cbda9238a3684b28",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
       "id": "d7c1da8cb7dc41da",
       "title": "Supporting research on AI and children’s safety",
       "url": "https://openai.com/index/children-first-declaration",
@@ -168,17 +245,6 @@
       "evidence": "Company announcement",
       "published": "2026-11-12T00:00:00+00:00",
       "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "cbda9238a3684b28",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "",
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
@@ -237,17 +303,6 @@
       "firstSeen": "2026-11-12T22:44:47.299192+00:00"
     },
     {
-      "id": "fa7ce9ae15bbcb0e",
-      "title": "Shaping the intelligent age: How Europe can thrive",
-      "url": "https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "Europe has been one of the winners of the industrial age, but it cannot win the intelligent…",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
-    },
-    {
       "id": "833534b672b8daa3",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -303,17 +358,6 @@
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
     },
     {
-      "id": "55ff14dc4213127d",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-11T00:00:00+00:00",
-      "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…",
-      "firstSeen": "2026-11-11T23:29:04.170229+00:00"
-    },
-    {
       "id": "11568aa8dfcf9a3c",
       "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
       "url": "https://huggingface.co/blog/token-pooling",
@@ -322,6 +366,17 @@
       "evidence": "Community / technical",
       "published": "2026-11-11T00:00:00+00:00",
       "excerpt": "",
+      "firstSeen": "2026-11-11T23:29:04.170229+00:00"
+    },
+    {
+      "id": "55ff14dc4213127d",
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-11T00:00:00+00:00",
+      "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…",
       "firstSeen": "2026-11-11T23:29:04.170229+00:00"
     },
     {
@@ -347,17 +402,6 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
-      "id": "b7ce1e6c35876952",
-      "title": "Supply Chain AI Must Do More Than Inform; It Must Help Businesses Act",
-      "url": "https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T12:15:00+00:00",
-      "excerpt": "Companies with the deepest understanding of their own operations are the ones…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
-    },
-    {
       "id": "f321c904268bcef2",
       "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
       "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
@@ -369,15 +413,15 @@
       "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
-      "id": "0f0020abcf733229",
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "id": "d0f9bf46fa9dba7c",
+      "title": "Opening the datasets behind our AI weather models",
+      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
       "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T12:00:00+00:00",
-      "excerpt": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-10T11:13:04+00:00",
+      "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
       "id": "7ec450a180cc1a66",
@@ -389,17 +433,6 @@
       "published": "2026-11-10T10:00:00+00:00",
       "excerpt": "Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…",
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
-    },
-    {
-      "id": "18f3b3d23d0c45d2",
-      "title": "SAP Expands Collaboration with AstraZeneca to Adopt RISE with SAP and Business AI",
-      "url": "https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-10T09:00:00+00:00",
-      "excerpt": "WALLDORF — Cloud, data and AI create a stronger foundation for innovation…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
       "id": "cb93d68b445c05b0",
@@ -424,17 +457,6 @@
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
-      "id": "736b28f2b8c65dbf",
-      "title": "Reinventing business planning with agentic AI",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce…",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
       "id": "8827aad4505e69ef",
       "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
       "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
@@ -444,17 +466,6 @@
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
       "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
-      "id": "ac8f18750241a65f",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-09T15:05:57+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-09T16:28:37.661629+00:00"
     },
     {
       "id": "cbd0edd4fc2d3f06",
@@ -521,17 +532,6 @@
       "published": "2026-11-04T10:00:00+00:00",
       "excerpt": "Author(s): Susan Curtis Using sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform…",
       "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "da38bc697163569b",
-      "title": "Agentic cheminformatics with Google Antigravity",
-      "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-11-03T17:01:49+00:00",
-      "excerpt": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
-      "firstSeen": "2026-11-03T22:19:50.210524+00:00"
     },
     {
       "id": "c0c0a10a54389682",

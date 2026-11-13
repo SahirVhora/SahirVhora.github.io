@@ -4,11 +4,51 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 12 Nov 2026 22:44:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 14:39:07 +0000</lastBuildDate>
+    <item>
+      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
+      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
+      <guid>https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
+      <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail</title>
+      <link>https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/</link>
+      <guid>https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/</guid>
+      <pubDate>Fri, 13 Nov 2026 12:15:00 +0000</pubDate>
+      <description>We continue to work with our customers to…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Successful SAP Transformation Starts With Business Processes, Not Tech</title>
+      <link>https://news.sap.com/2026/11/successful-sap-transformation-business-processes/</link>
+      <guid>https://news.sap.com/2026/11/successful-sap-transformation-business-processes/</guid>
+      <pubDate>Fri, 13 Nov 2026 11:15:00 +0000</pubDate>
+      <description>Connecting business processes, architecture, data, and human decision-making are key to successful transformation.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Prenuvo’s Andrew Lacy on making healthcare proactive</title>
+      <link>https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</link>
+      <guid>https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>The founder of the whole-body MRI company explains why disease is a process, not binary, and how data…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Separating signal from noise: The always-on finance intelligence layer</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>How Amplitude ships product improvements in 1–2 days with OpenAI</title>
-      <link>https://openai.com/index/amplitude</link>
-      <guid>https://openai.com/index/amplitude</guid>
+      <link>https://openai.com/business/customer-stories/amplitude</link>
+      <guid>https://openai.com/business/customer-stories/amplitude</guid>
       <pubDate>Thu, 12 Nov 2026 20:00:00 +0000</pubDate>
       <description>Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps…</description>
       <category>ai</category>
@@ -54,6 +94,14 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Gondola doubles revenue as its team builds more with Codex</title>
+      <link>https://openai.com/business/customer-stories/gondola</link>
+      <guid>https://openai.com/business/customer-stories/gondola</guid>
+      <pubDate>Thu, 12 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>Meet the Hybrid AI Buyer: The Customer Journey Is Fractured, and That’s Progress</title>
       <link>https://news.sap.com/2026/11/hybrid-ai-buyer-customer-experience-research-data-journey-progress/</link>
       <guid>https://news.sap.com/2026/11/hybrid-ai-buyer-customer-experience-research-data-journey-progress/</guid>
@@ -70,6 +118,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
+      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
       <title>Supporting research on AI and children’s safety</title>
       <link>https://openai.com/index/children-first-declaration</link>
       <guid>https://openai.com/index/children-first-declaration</guid>
@@ -83,14 +139,6 @@
       <guid>https://openai.com/index/gilbert-tobin-sam-nickless</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
-      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
-      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
       <category>ai</category>
     </item>
     <item>
@@ -134,14 +182,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Shaping the intelligent age: How Europe can thrive</title>
-      <link>https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive</link>
-      <guid>https://www.mckinsey.com/featured-insights/insights-on-europe/shaping-the-intelligent-age-how-europe-can-thrive</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Europe has been one of the winners of the industrial age, but it cannot win the intelligent…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
       <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
       <guid>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
@@ -182,19 +222,19 @@
       <category>ai</category>
     </item>
     <item>
-      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
-      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
-      <guid>https://openai.com/index/jiostar-vijay-seshadri</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
       <link>https://huggingface.co/blog/token-pooling</link>
       <guid>https://huggingface.co/blog/token-pooling</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
+      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
+      <guid>https://openai.com/index/jiostar-vijay-seshadri</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
+      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…</description>
       <category>ai</category>
     </item>
     <item>
@@ -214,14 +254,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Supply Chain AI Must Do More Than Inform; It Must Help Businesses Act</title>
-      <link>https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/</link>
-      <guid>https://news.sap.com/2026/11/supply-chain-ai-must-do-more-than-inform-it-must-help-businesses-act/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:15:00 +0000</pubDate>
-      <description>Companies with the deepest understanding of their own operations are the ones…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
       <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
       <guid>https://deepmind.google/blog/introducing-alphaproof-code/</guid>
@@ -230,11 +262,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Helping caregivers use AI in everyday life</title>
-      <link>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</link>
-      <guid>https://openai.com/index/helping-caregivers-use-ai-in-everyday-life</guid>
-      <pubDate>Tue, 10 Nov 2026 12:00:00 +0000</pubDate>
-      <description>OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical…</description>
+      <title>Opening the datasets behind our AI weather models</title>
+      <link>https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/</link>
+      <guid>https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/</guid>
+      <pubDate>Tue, 10 Nov 2026 11:13:04 +0000</pubDate>
+      <description>Foundational precipitation and geostationary satellite datasets to observe the planet clearly.</description>
       <category>ai</category>
     </item>
     <item>
@@ -244,14 +276,6 @@
       <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>SAP Expands Collaboration with AstraZeneca to Adopt RISE with SAP and Business AI</title>
-      <link>https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/</link>
-      <guid>https://news.sap.com/2026/11/sap-expands-collaboration-astrazeneca-rise-with-sap-business-ai/</guid>
-      <pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
-      <description>WALLDORF — Cloud, data and AI create a stronger foundation for innovation…</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
@@ -270,27 +294,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Reinventing business planning with agentic AI</title>
-      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai</link>
-      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/reinventing-business-planning-with-agentic-ai</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Combining better forecasting with AI agents will turn planning into a more continuous, intelligent, and responsive decision-making system—and reduce…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
       <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
       <guid>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
       <pubDate>Mon, 09 Nov 2026 19:51:47 +0000</pubDate>
       <description>Our most capable vision-language-action model enhances robot dexterity, reliability, and safety</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context</title>
-      <link>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</link>
-      <guid>https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan</guid>
-      <pubDate>Mon, 09 Nov 2026 15:05:57 +0000</pubDate>
-      <description />
       <category>ai</category>
     </item>
     <item>
@@ -340,14 +348,6 @@
       <pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Susan Curtis Using sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Agentic cheminformatics with Google Antigravity</title>
-      <link>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</link>
-      <guid>https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/</guid>
-      <pubDate>Tue, 03 Nov 2026 17:01:49 +0000</pubDate>
-      <description>Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.</description>
-      <category>ai</category>
     </item>
     <item>
       <title>Calculating Superconductors from Scratch</title>
