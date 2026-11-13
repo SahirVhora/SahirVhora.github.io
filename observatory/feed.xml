@@ -4,7 +4,31 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 14:39:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 22:40:37 +0000</lastBuildDate>
+    <item>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <guid>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <guid>https://huggingface.co/blog/allenai/xybench</guid>
+      <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Wallet</title>
+      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
+      <guid>https://openai.com/index/introducing-chatgpt-wallet</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
       <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
@@ -31,10 +55,18 @@
     </item>
     <item>
       <title>Prenuvo’s Andrew Lacy on making healthcare proactive</title>
-      <link>https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</link>
-      <guid>https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</guid>
+      <link>https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</link>
+      <guid>https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</guid>
       <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
       <description>The founder of the whole-body MRI company explains why disease is a process, not binary, and how data…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Always orbiting: How consumers plan travel experiences now</title>
+      <link>https://www.mckinsey.com/industries/travel/our-insights/always-orbiting-how-consumers-plan-travel-experiences-now</link>
+      <guid>https://www.mckinsey.com/industries/travel/our-insights/always-orbiting-how-consumers-plan-travel-experiences-now</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Most travelers keep researching after they book a trip. The travel industry needs to spark interest early,…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -174,14 +206,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Beyond delivery: The human and economic toll of preeclampsia in the US</title>
-      <link>https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us</link>
-      <guid>https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Preeclampsia affects about one in 11 births a year in the United States,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
       <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
       <guid>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
@@ -230,14 +254,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>JioStar’s chief architect on AI discovery at 500M-user scale</title>
-      <link>https://openai.com/index/jiostar-vijay-seshadri</link>
-      <guid>https://openai.com/index/jiostar-vijay-seshadri</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
-      <description>JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93</title>
       <link>https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110</link>
       <guid>https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110</guid>
@@ -276,22 +292,6 @@
       <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Pay for Hugging Face Hub with your Google Cloud Account</title>
-      <link>https://huggingface.co/blog/hub-gcp-marketplace</link>
-      <guid>https://huggingface.co/blog/hub-gcp-marketplace</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Decision Models in Hugging Face</title>
-      <link>https://huggingface.co/blog/decision</link>
-      <guid>https://huggingface.co/blog/decision</guid>
-      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>

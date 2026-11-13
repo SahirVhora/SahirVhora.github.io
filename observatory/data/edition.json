@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13T14:39:07.384574+00:00",
+  "updatedAt": "2026-11-13T22:40:37.702070+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,39 @@
   ],
   "stories": [
     {
+      "id": "cdc8eef67bc55a0d",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-13T18:00:39+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
+    },
+    {
+      "id": "96c7f67bef86f831",
+      "title": "XYBench: Helping with the problem behind the question",
+      "url": "https://huggingface.co/blog/allenai/xybench",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-13T17:02:35+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
+    },
+    {
+      "id": "7d4d71d056da0286",
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-13T15:00:00+00:00",
+      "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing…",
+      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
+    },
+    {
       "id": "6841e619fcd7e8d9",
       "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
@@ -94,15 +127,26 @@
       "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
-      "id": "755f6e309a43ae4d",
+      "id": "0e1e3a8181b93e81",
       "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
+      "url": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
       "category": "consulting",
       "source": "McKinsey",
       "evidence": "Consulting perspective",
       "published": "2026-11-13T00:00:00+00:00",
       "excerpt": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data…",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
+    },
+    {
+      "id": "22c03607adb8b68d",
+      "title": "Always orbiting: How consumers plan travel experiences now",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/always-orbiting-how-consumers-plan-travel-experiences-now",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-13T00:00:00+00:00",
+      "excerpt": "Most travelers keep researching after they book a trip. The travel industry needs to spark interest early,…",
+      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
     },
     {
       "id": "18d79cee9726e750",
@@ -292,17 +336,6 @@
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
-      "id": "bd6ab17f91245325",
-      "title": "Beyond delivery: The human and economic toll of preeclampsia in the US",
-      "url": "https://www.mckinsey.com/mhi/our-insights/beyond-delivery-the-human-and-economic-toll-of-preeclampsia-in-the-us",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "Preeclampsia affects about one in 11 births a year in the United States,…",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
-    },
-    {
       "id": "833534b672b8daa3",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -369,17 +402,6 @@
       "firstSeen": "2026-11-11T23:29:04.170229+00:00"
     },
     {
-      "id": "55ff14dc4213127d",
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-11T00:00:00+00:00",
-      "excerpt": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and…",
-      "firstSeen": "2026-11-11T23:29:04.170229+00:00"
-    },
-    {
       "id": "6e8b7f1820153600",
       "title": "Professor Emeritus Jeffrey Goldstone, highly influential theoretical physicist, dies at 93",
       "url": "https://news.mit.edu/2026/physicist-jeffrey-goldstone-dies-1110",
@@ -433,28 +455,6 @@
       "published": "2026-11-10T10:00:00+00:00",
       "excerpt": "Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…",
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
-    },
-    {
-      "id": "cb93d68b445c05b0",
-      "title": "Pay for Hugging Face Hub with your Google Cloud Account",
-      "url": "https://huggingface.co/blog/hub-gcp-marketplace",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
-      "id": "5f3963726dbe36e6",
-      "title": "Decision Models in Hugging Face",
-      "url": "https://huggingface.co/blog/decision",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-10T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "8827aad4505e69ef",
