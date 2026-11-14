@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 13 Nov 2026 22:40:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:36:18 +0000</lastBuildDate>
     <item>
       <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
       <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
@@ -52,6 +52,14 @@
       <pubDate>Fri, 13 Nov 2026 11:15:00 +0000</pubDate>
       <description>Connecting business processes, architecture, data, and human decision-making are key to successful transformation.</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Shield helps technicians hand off legacy portal work with OpenAI</title>
+      <link>https://openai.com/business/customer-stories/shield</link>
+      <guid>https://openai.com/business/customer-stories/shield</guid>
+      <pubDate>Fri, 13 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>Prenuvo’s Andrew Lacy on making healthcare proactive</title>
@@ -150,14 +158,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
-      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
-      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Supporting research on AI and children’s safety</title>
       <link>https://openai.com/index/children-first-declaration</link>
       <guid>https://openai.com/index/children-first-declaration</guid>
@@ -171,6 +171,14 @@
       <guid>https://openai.com/index/gilbert-tobin-sam-nickless</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
+      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -228,14 +236,6 @@
       <pubDate>Wed, 11 Nov 2026 11:15:00 +0000</pubDate>
       <description>If agents are expected to handle real business tasks, they need to run on a…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>ChatGPT Plus for veterans and servicemembers</title>
-      <link>https://openai.com/index/chatgpt-plus-for-veterans</link>
-      <guid>https://openai.com/index/chatgpt-plus-for-veterans</guid>
-      <pubDate>Wed, 11 Nov 2026 08:00:00 +0000</pubDate>
-      <description>More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they…</description>
-      <category>ai</category>
     </item>
     <item>
       <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
