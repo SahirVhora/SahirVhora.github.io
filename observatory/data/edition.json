@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T13:59:23.985916+00:00",
+  "updatedAt": "2026-11-15T21:51:53.458355+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -28,7 +29,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 5
+      "count": 4
     },
     {
       "name": "MIT Sloan Management Review",
@@ -201,7 +202,8 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
+      "retained": true
     },
     {
       "id": "81734b61b9186c24",
@@ -270,6 +272,17 @@
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
+      "id": "cbda9238a3684b28",
+      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+      "url": "https://huggingface.co/blog/3d-lora-finetuning",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-12T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+    },
+    {
       "id": "d7c1da8cb7dc41da",
       "title": "Supporting research on AI and children’s safety",
       "url": "https://openai.com/index/children-first-declaration",
@@ -289,17 +302,6 @@
       "evidence": "Company announcement",
       "published": "2026-11-12T00:00:00+00:00",
       "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "cbda9238a3684b28",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "",
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
@@ -355,7 +357,8 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
+      "retained": true
     },
     {
       "id": "65962362c444e23a",
@@ -421,7 +424,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "f321c904268bcef2",
@@ -432,7 +436,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
+      "retained": true
     },
     {
       "id": "d0f9bf46fa9dba7c",
@@ -443,7 +448,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T11:13:04+00:00",
       "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00",
+      "retained": true
     },
     {
       "id": "7ec450a180cc1a66",
@@ -465,7 +471,8 @@
       "evidence": "Company research",
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "cbd0edd4fc2d3f06",
@@ -487,7 +494,8 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
+      "retained": true
     },
     {
       "id": "d4d36af74f2a2095",
@@ -648,17 +656,6 @@
         "caveat": "This is a researcher profile. The headline should not be read as an announcement of a new physical law.",
         "basis": "Paraphrased from the publisher's RSS title and description; not a full-article review."
       }
-    },
-    {
-      "id": "37b027149dbf3256",
-      "title": "New artist residency program at MIT expands views of the cosmos",
-      "url": "https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916",
-      "category": "physics",
-      "source": "MIT Physics",
-      "evidence": "University reporting",
-      "published": "2026-09-16T18:30:00+00:00",
-      "excerpt": "Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00"
     }
   ]
 }

@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 13:59:23 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 21:51:53 +0000</lastBuildDate>
     <item>
       <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
       <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
@@ -158,6 +158,14 @@
       <category>ai</category>
     </item>
     <item>
+      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
+      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
+      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
       <title>Supporting research on AI and children’s safety</title>
       <link>https://openai.com/index/children-first-declaration</link>
       <guid>https://openai.com/index/children-first-declaration</guid>
@@ -171,14 +179,6 @@
       <guid>https://openai.com/index/gilbert-tobin-sam-nickless</guid>
       <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
       <description>A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
-      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
-      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
       <category>ai</category>
     </item>
     <item>
@@ -427,14 +427,6 @@
       <guid>https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925</guid>
       <pubDate>Fri, 25 Sep 2026 04:00:00 +0000</pubDate>
       <description>MIT profiles a doctoral researcher working on an international neutrino experiment. It offers a human entry point into the patient experimental work behind fundamental physics.</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>New artist residency program at MIT expands views of the cosmos</title>
-      <link>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</link>
-      <guid>https://news.mit.edu/2026/new-artist-residency-program-expands-views-cosmos-0916</guid>
-      <pubDate>Wed, 16 Sep 2026 18:30:00 +0000</pubDate>
-      <description>Inaugural artist Amy Karle will join astrophysicists at MIT’s Kavli Institute to explore questions…</description>
       <category>physics</category>
     </item>
   </channel>
