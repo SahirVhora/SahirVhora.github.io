@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-15T21:51:53.458355+00:00",
+  "updatedAt": "2026-11-16T15:53:06.055481+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,160 @@
     }
   ],
   "stories": [
+    {
+      "id": "dd23ccc69da2c8ea",
+      "title": "SAP Completes Acquisition of TechWolf",
+      "url": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T15:00:00+00:00",
+      "excerpt": "WALLDORF — SAP has completed the acquisition of the AI work intelligence platform provider.",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "67d152032baf1ca8",
+      "title": "The Silent Eldercare Crisis: How Leaders Can Help",
+      "url": "https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-16T12:46:23+00:00",
+      "excerpt": "Andrew Baker/Ikon Images As of 2024, over 38 million Americans were providing unpaid care to an older…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "599316aa30565b68",
+      "title": "Order Management Built Straight into SAP",
+      "url": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T12:15:00+00:00",
+      "excerpt": "The fewer systems you have to stitch together, the fewer things there are to break.",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "ff7833693fa2a067",
+      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T09:00:00+00:00",
+      "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "21b4758ab52123ac",
+      "title": "Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T06:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "21e886491b30cfff",
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T06:00:00+00:00",
+      "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "8fd4b584a25fbb18",
+      "title": "India’s Rise: From Promise to Platform for Global Growth",
+      "url": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T05:15:00+00:00",
+      "excerpt": "For much of the past three decades, India's global economic story was defined by potential. That…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "60f3c7381bc61eae",
+      "title": "The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T00:00:00+00:00",
+      "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "136133aefa16d9fb",
+      "title": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-16T00:00:00+00:00",
+      "excerpt": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "87ca7b7dd400131c",
+      "title": "Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power",
+      "url": "https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-16T00:00:00+00:00",
+      "excerpt": "Companies that address the toughest bottlenecks in Britain’s power system could capture…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "430c40e7ff012eaf",
+      "title": "AI in Asia: Reimagining insurance operations through agentic AI",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-16T00:00:00+00:00",
+      "excerpt": "Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "09f367c0c7e32b93",
+      "title": "The CEO’s role in leading on sustainability",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-16T00:00:00+00:00",
+      "excerpt": "Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "2e8f421d2ee2a3df",
+      "title": "A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-15T22:00:01+00:00",
+      "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped…",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "33b95c2112c46efd",
+      "title": "Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-15T22:00:00+00:00",
+      "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
     {
       "id": "cdc8eef67bc55a0d",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
@@ -128,17 +281,6 @@
       "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
-      "id": "a99dfdd20d85acbb",
-      "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-      "url": "https://openai.com/business/customer-stories/shield",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-13T08:00:00+00:00",
-      "excerpt": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge…",
-      "firstSeen": "2026-11-14T13:36:18.545001+00:00"
-    },
-    {
       "id": "0e1e3a8181b93e81",
       "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
       "url": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
@@ -172,17 +314,6 @@
       "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
-      "id": "67672a694e389b29",
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T20:00:00+00:00",
-      "excerpt": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps…",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
-    },
-    {
       "id": "84ec87286cb35a64",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -202,8 +333,7 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
-      "retained": true
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
     },
     {
       "id": "81734b61b9186c24",
@@ -239,39 +369,6 @@
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
-      "id": "b9840fd67063a36a",
-      "title": "Gondola doubles revenue as its team builds more with Codex",
-      "url": "https://openai.com/business/customer-stories/gondola",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T12:00:00+00:00",
-      "excerpt": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output…",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
-    },
-    {
-      "id": "f924a40c3fb6e664",
-      "title": "Meet the Hybrid AI Buyer: The Customer Journey Is Fractured, and That’s Progress",
-      "url": "https://news.sap.com/2026/11/hybrid-ai-buyer-customer-experience-research-data-journey-progress/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T11:15:00+00:00",
-      "excerpt": "New research reveals there’s a structural shift changing how businesses get chosen.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "4922ca6fb0dd9299",
-      "title": "Holiday Extras is rethinking what it can build with Codex",
-      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T09:30:00+00:00",
-      "excerpt": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
       "id": "cbda9238a3684b28",
       "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
       "url": "https://huggingface.co/blog/3d-lora-finetuning",
@@ -283,72 +380,6 @@
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
-      "id": "d7c1da8cb7dc41da",
-      "title": "Supporting research on AI and children’s safety",
-      "url": "https://openai.com/index/children-first-declaration",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "65b96c238445cded",
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "d8c93229c44950eb",
-      "title": "Programmatic M&A in Australia: The most reliable way to unlock value",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/programmatic-m-and-a-in-australia-the-most-reliable-way-to-unlock-value",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "Fewer than one in 20 Australian-listed companies pursued programmatic M&A over the past decade,…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "3d57f0a932498580",
-      "title": "Rural healthcare and America’s $340 billion workforce earnings opportunity",
-      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/rural-healthcare-and-americas-340-billion-dollar-workforce-earnings-opportunity",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "Rural facilities are closing as staffing shortages worsen. Yet 38 million “bridge workers”—nearly 100 times the…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "9dae6e1c6a96849e",
-      "title": "Proving AI’s business value: Views from PayPal Ads SVP and GM Mark Grether",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/proving-ais-business-value-views-from-paypal-ads-svp-and-gm-mark-grether",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "PayPal Ads’ Mark Grether describes how marketers connect technology investment to measurable…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "e810884244a24be5",
-      "title": "The Achilles’ heel of global trade: Building resilience where it matters most",
-      "url": "https://www.mckinsey.com/mgi/our-research/the-achilles-heel-of-global-trade-building-resilience-where-it-matters-most",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "International trade has been resilient, but important vulnerabilities lurk beneath the surface. Identifying…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
       "id": "833534b672b8daa3",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -357,30 +388,7 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
-      "retained": true
-    },
-    {
-      "id": "65962362c444e23a",
-      "title": "SAP and VFC Open Intelligent Fashion Store",
-      "url": "https://news.sap.com/2026/11/sap-and-vf-corporation-open-intelligent-fashion-store/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-11T13:00:00+00:00",
-      "excerpt": "Industry AI connects the shopper journey with end-to-end retail operations, enhancing the consumer experience WALLDORF — SAP SE…",
-      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
-    },
-    {
-      "id": "8ce24b65cb0105a8",
-      "title": "ABAP Platform Becoming an Enterprise-Grade Execution Backbone for Agentic AI",
-      "url": "https://news.sap.com/2026/11/abap-platform-becoming-enterprise-grade-execution-backbone-agentic-ai/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-11T11:15:00+00:00",
-      "excerpt": "If agents are expected to handle real business tasks, they need to run on a…",
-      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
       "id": "19b4fcb1faac9c9b",
@@ -424,8 +432,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "f321c904268bcef2",
@@ -436,8 +443,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
       "id": "d0f9bf46fa9dba7c",
@@ -448,8 +454,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T11:13:04+00:00",
       "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00",
-      "retained": true
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
       "id": "7ec450a180cc1a66",
@@ -471,8 +476,7 @@
       "evidence": "Company research",
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "cbd0edd4fc2d3f06",
@@ -494,8 +498,7 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
-      "retained": true
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "d4d36af74f2a2095",
@@ -606,17 +609,6 @@
       "published": "2026-10-27T11:00:35+00:00",
       "excerpt": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the…",
       "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
-      "id": "2a5b4af9078abd04",
-      "title": "Is HR Tech Undermining Your Strategy?",
-      "url": "https://sloanreview.mit.edu/article/is-hr-tech-undermining-your-strategy/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-26T11:00:29+00:00",
-      "excerpt": "Getty Images HR technology is no longer peripheral to how organizations operate. A fast-growing assortment of platforms is touching…",
-      "firstSeen": "2026-10-26T13:10:08.665792+00:00"
     },
     {
       "id": "19160e849b3790b1",
