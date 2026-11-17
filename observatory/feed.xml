@@ -4,7 +4,23 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 16 Nov 2026 15:53:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 00:50:00 +0000</lastBuildDate>
+    <item>
+      <title>Broadening access to AI for scientists</title>
+      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
+      <guid>https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
+      <link>https://openai.com/index/strengthening-online-child-safety</link>
+      <guid>https://openai.com/index/strengthening-online-child-safety</guid>
+      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
+      <description>New tools, practical guidance, and partnerships will help prevent, detect and respond…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>SAP Completes Acquisition of TechWolf</title>
       <link>https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/</link>
@@ -30,11 +46,27 @@
       <category>consulting</category>
     </item>
     <item>
+      <title>Science at the Frontier: How scientists use ChatGPT</title>
+      <link>https://openai.com/index/science-at-the-frontier</link>
+      <guid>https://openai.com/index/science-at-the-frontier</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:00 +0000</pubDate>
+      <description>Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity,…</description>
+      <category>ai</category>
+    </item>
+    <item>
       <title>LVMH’s Media Division announces strategic partnership with OpenAI</title>
       <link>https://openai.com/index/lvmh-media-division-partnership</link>
       <guid>https://openai.com/index/lvmh-media-division-partnership</guid>
       <pubDate>Mon, 16 Nov 2026 09:00:00 +0000</pubDate>
       <description>LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Our first phase of embedded assessments</title>
+      <link>https://openai.com/index/our-first-phase-of-embedded-assessments</link>
+      <guid>https://openai.com/index/our-first-phase-of-embedded-assessments</guid>
+      <pubDate>Mon, 16 Nov 2026 08:00:00 +0000</pubDate>
+      <description>OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and…</description>
       <category>ai</category>
     </item>
     <item>
@@ -62,11 +94,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The King’s Trust and OpenAI launch £1m partnership</title>
-      <link>https://openai.com/index/the-kings-trust-and-openai</link>
-      <guid>https://openai.com/index/the-kings-trust-and-openai</guid>
+      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
+      <link>https://huggingface.co/blog/openrouter</link>
+      <guid>https://huggingface.co/blog/openrouter</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across…</description>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -102,22 +134,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>A step toward defining the Standard Model on a lattice</title>
-      <link>https://openai.com/index/step-toward-defining-the-standard-model</link>
-      <guid>https://openai.com/index/step-toward-defining-the-standard-model</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:01 +0000</pubDate>
-      <description>Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Our new blog for science</title>
-      <link>https://openai.com/index/our-new-blog-for-science</link>
-      <guid>https://openai.com/index/our-new-blog-for-science</guid>
-      <pubDate>Sun, 15 Nov 2026 22:00:00 +0000</pubDate>
-      <description>The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
       <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
       <guid>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
@@ -131,14 +147,6 @@
       <guid>https://huggingface.co/blog/allenai/xybench</guid>
       <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing ChatGPT Wallet</title>
-      <link>https://openai.com/index/introducing-chatgpt-wallet</link>
-      <guid>https://openai.com/index/introducing-chatgpt-wallet</guid>
-      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
-      <description>Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing…</description>
       <category>ai</category>
     </item>
     <item>
@@ -250,14 +258,6 @@
       <link>https://huggingface.co/blog/qvac/botpsy</link>
       <guid>https://huggingface.co/blog/qvac/botpsy</guid>
       <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Token Pooling-Aware Training for Multi-Vector Embedding Models</title>
-      <link>https://huggingface.co/blog/token-pooling</link>
-      <guid>https://huggingface.co/blog/token-pooling</guid>
-      <pubDate>Wed, 11 Nov 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>

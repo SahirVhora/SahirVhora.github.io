@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16T15:53:06.055481+00:00",
+  "updatedAt": "2026-11-17T00:50:00.781232+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -61,6 +62,28 @@
   ],
   "stories": [
     {
+      "id": "2d7a5d6b20fff3cd",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T17:00:00+00:00",
+      "excerpt": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
+    },
+    {
+      "id": "dd659f011024f04f",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T17:00:00+00:00",
+      "excerpt": "New tools, practical guidance, and partnerships will help prevent, detect and respond…",
+      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
+    },
+    {
       "id": "dd23ccc69da2c8ea",
       "title": "SAP Completes Acquisition of TechWolf",
       "url": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
@@ -94,6 +117,17 @@
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
+      "id": "d91fd06de7b8771e",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T12:00:00+00:00",
+      "excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity,…",
+      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
+    },
+    {
       "id": "ff7833693fa2a067",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -103,6 +137,17 @@
       "published": "2026-11-16T09:00:00+00:00",
       "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications…",
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+    },
+    {
+      "id": "9fe6d2ae73e55f52",
+      "title": "Our first phase of embedded assessments",
+      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T08:00:00+00:00",
+      "excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and…",
+      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
     },
     {
       "id": "21b4758ab52123ac",
@@ -138,15 +183,15 @@
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
-      "id": "60f3c7381bc61eae",
-      "title": "The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "id": "8ec21efa2c622734",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
       "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
       "published": "2026-11-16T00:00:00+00:00",
-      "excerpt": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
+      "excerpt": "",
+      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
     },
     {
       "id": "136133aefa16d9fb",
@@ -193,28 +238,6 @@
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
-      "id": "2e8f421d2ee2a3df",
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-15T22:00:01+00:00",
-      "excerpt": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
-      "id": "33b95c2112c46efd",
-      "title": "Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-15T22:00:00+00:00",
-      "excerpt": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
       "id": "cdc8eef67bc55a0d",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
@@ -234,17 +257,6 @@
       "evidence": "Community / technical",
       "published": "2026-11-13T17:02:35+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
-    },
-    {
-      "id": "7d4d71d056da0286",
-      "title": "Introducing ChatGPT Wallet",
-      "url": "https://openai.com/index/introducing-chatgpt-wallet",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-13T15:00:00+00:00",
-      "excerpt": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing…",
       "firstSeen": "2026-11-13T22:40:37.702070+00:00"
     },
     {
@@ -333,7 +345,8 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
+      "retained": true
     },
     {
       "id": "81734b61b9186c24",
@@ -388,7 +401,8 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
+      "retained": true
     },
     {
       "id": "19b4fcb1faac9c9b",
@@ -400,17 +414,6 @@
       "published": "2026-11-11T05:01:16+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
-    },
-    {
-      "id": "11568aa8dfcf9a3c",
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-11T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-11T23:29:04.170229+00:00"
     },
     {
       "id": "6e8b7f1820153600",
@@ -432,7 +435,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "f321c904268bcef2",
@@ -443,7 +447,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
+      "retained": true
     },
     {
       "id": "d0f9bf46fa9dba7c",
@@ -454,7 +459,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T11:13:04+00:00",
       "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00",
+      "retained": true
     },
     {
       "id": "7ec450a180cc1a66",
@@ -476,7 +482,8 @@
       "evidence": "Company research",
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "cbd0edd4fc2d3f06",
@@ -498,7 +505,8 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
+      "retained": true
     },
     {
       "id": "d4d36af74f2a2095",
