@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T00:50:00.781232+00:00",
+  "updatedAt": "2026-11-17T16:06:13.782642+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,83 @@
     }
   ],
   "stories": [
+    {
+      "id": "4d519963d1184a0b",
+      "title": "Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments",
+      "url": "https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T13:15:00+00:00",
+      "excerpt": "It's an important moment for supply chain leaders, with persistent disruption,…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "de645760ce532647",
+      "title": "GxP Compliance in Life Sciences Is Non-Negotiable: SAP Is Raising the Standard",
+      "url": "https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T12:15:00+00:00",
+      "excerpt": "Supporting good practice across enterprise systems is more critical than ever.",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "6b58f7f5b6967ffa",
+      "title": "Designing Customization Journeys to Build More Valuable Customer Relationships",
+      "url": "https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-17T12:00:16+00:00",
+      "excerpt": "Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "1f65441f8e069476",
+      "title": "Thomas Saueressig to Leave SAP Executive Board",
+      "url": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T08:00:00+00:00",
+      "excerpt": "WALLDORF — Saueressig will remain fully in charge of his current responsibilities until end of March 2027.",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "0e7f690aa4ff229b",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T00:00:00+00:00",
+      "excerpt": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "3b3be741a87f5e21",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T00:00:00+00:00",
+      "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "d38b1257757865fa",
+      "title": "Steel: Forging the foundation for the future of India",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-17T00:00:00+00:00",
+      "excerpt": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
     {
       "id": "2d7a5d6b20fff3cd",
       "title": "Broadening access to AI for scientists",
@@ -128,6 +204,39 @@
       "firstSeen": "2026-11-17T00:50:00.781232+00:00"
     },
     {
+      "id": "b58eee41715aa2df",
+      "title": "Winding Spins Toward Better Quantum Sensing",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.153",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-16T10:00:00+00:00",
+      "excerpt": "Author(s): Ren-Bao Liu Robust collective spin dynamics have been achieved in diamond by winding the spins into a nanoscale…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "ce6785853b5664a5",
+      "title": "Quantum Dots Emit Photons in Desired Directions",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.155",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-16T10:00:00+00:00",
+      "excerpt": "Author(s): Michael Schirber Researchers demonstrate directional control of a single-photon source by coupling two quantum dots together. [Physics…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "b82b64ef90f76e66",
+      "title": "How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-16T09:30:00+00:00",
+      "excerpt": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime…",
+      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
       "id": "ff7833693fa2a067",
       "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
@@ -136,39 +245,6 @@
       "evidence": "Company announcement",
       "published": "2026-11-16T09:00:00+00:00",
       "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
-      "id": "9fe6d2ae73e55f52",
-      "title": "Our first phase of embedded assessments",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T08:00:00+00:00",
-      "excerpt": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and…",
-      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
-    },
-    {
-      "id": "21b4758ab52123ac",
-      "title": "Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T06:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
-      "id": "21e886491b30cfff",
-      "title": "More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T06:00:00+00:00",
-      "excerpt": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software…",
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
@@ -282,17 +358,6 @@
       "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
-      "id": "7968b0240e88b635",
-      "title": "Successful SAP Transformation Starts With Business Processes, Not Tech",
-      "url": "https://news.sap.com/2026/11/successful-sap-transformation-business-processes/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-13T11:15:00+00:00",
-      "excerpt": "Connecting business processes, architecture, data, and human decision-making are key to successful transformation.",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
-    },
-    {
       "id": "0e1e3a8181b93e81",
       "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
       "url": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
@@ -315,17 +380,6 @@
       "firstSeen": "2026-11-13T22:40:37.702070+00:00"
     },
     {
-      "id": "18d79cee9726e750",
-      "title": "Separating signal from noise: The always-on finance intelligence layer",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/separating-signal-from-noise-the-always-on-finance-intelligence-layer",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-13T00:00:00+00:00",
-      "excerpt": "A suite of AI-powered tools can be integrated into finance functions to dramatically improve decision-making. Here’s…",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
-    },
-    {
       "id": "84ec87286cb35a64",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -345,30 +399,7 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
-      "retained": true
-    },
-    {
-      "id": "81734b61b9186c24",
-      "title": "SAP Puts Product-Level Cloud Emissions and Energy Data in Customers’ Hands",
-      "url": "https://news.sap.com/2026/11/sap-product-level-cloud-emissions-energy-data-customers/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T13:15:00+00:00",
-      "excerpt": "SAP is making the carbon footprint of cloud software visible product by product, customer…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "b4accbe90afc5bc4",
-      "title": "A Smooth Ride Through Peak Season with Trek Bikes",
-      "url": "https://news.sap.com/2026/11/a-smooth-ride-through-peak-season-with-trek-bikes/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-12T12:15:00+00:00",
-      "excerpt": "When demand accelerates, businesses need to keep pace. For Trek Bikes, that means speed across all…",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
     },
     {
       "id": "9b52875eb1c53b2c",
@@ -401,8 +432,7 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
-      "retained": true
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
       "id": "19b4fcb1faac9c9b",
@@ -435,8 +465,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "f321c904268bcef2",
@@ -447,8 +476,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
       "id": "d0f9bf46fa9dba7c",
@@ -459,8 +487,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T11:13:04+00:00",
       "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00",
-      "retained": true
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
       "id": "7ec450a180cc1a66",
@@ -482,8 +509,7 @@
       "evidence": "Company research",
       "published": "2026-11-09T19:51:47+00:00",
       "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "cbd0edd4fc2d3f06",
@@ -505,8 +531,7 @@
       "evidence": "Company research",
       "published": "2026-11-05T17:05:16+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00",
-      "retained": true
+      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "d4d36af74f2a2095",
@@ -586,17 +611,6 @@
       "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
-      "id": "4ca66b0e9156bbdb",
-      "title": "Talking to Superconducting Qubits with Millimeter Waves",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s140",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-30T10:00:00+00:00",
-      "excerpt": "Author(s): Sophia Chen A new device uses millimeter-wave radiation to accurately read the states of superconducting qubits without…",
-      "firstSeen": "2026-10-31T12:39:14.366383+00:00"
-    },
-    {
       "id": "3da2b65af0d1313a",
       "title": "AI Is Thriving at Capital One",
       "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
@@ -608,17 +622,6 @@
       "firstSeen": "2026-10-28T13:01:25.645071+00:00"
     },
     {
-      "id": "0b541fa95db69814",
-      "title": "What Interruptions Say About Your Organizational Culture",
-      "url": "https://sloanreview.mit.edu/article/what-interruptions-say-about-your-organizational-culture/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-27T11:00:35+00:00",
-      "excerpt": "Mark Airs/Ikon Images Leaders tend to talk about culture in abstract terms: values, norms, trust, belonging, and the…",
-      "firstSeen": "2026-10-27T12:18:08.405697+00:00"
-    },
-    {
       "id": "19160e849b3790b1",
       "title": "Watch the universe emerge from the dark ages, with Lumina",
       "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
@@ -628,17 +631,6 @@
       "published": "2026-10-26T04:00:00+00:00",
       "excerpt": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first…",
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
-    },
-    {
-      "id": "aa100c46e2079509",
-      "title": "Tiny Particles Charge Like Capacitors",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.143",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-10-23T10:00:00+00:00",
-      "excerpt": "Author(s): Mark Buchanan Lab experiments provide new details about the charge-transfer process that occurs in ash clouds and other collections…",
-      "firstSeen": "2026-10-24T11:07:17.701381+00:00"
     },
     {
       "id": "553830d231d34627",
