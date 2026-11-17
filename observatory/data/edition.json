@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T16:06:13.782642+00:00",
+  "updatedAt": "2026-11-17T23:52:01.549075+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,17 @@
   ],
   "stories": [
     {
+      "id": "8f6af8c44a4a1bfb",
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T17:45:00+00:00",
+      "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work,…",
+      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
+    },
+    {
       "id": "4d519963d1184a0b",
       "title": "Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments",
       "url": "https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/",
@@ -94,6 +105,17 @@
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
     },
     {
+      "id": "3047d7657748ea76",
+      "title": "Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T08:00:00+00:00",
+      "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your…",
+      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
+    },
+    {
       "id": "1f65441f8e069476",
       "title": "Thomas Saueressig to Leave SAP Executive Board",
       "url": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/",
@@ -116,6 +138,17 @@
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
     },
     {
+      "id": "b43ef08ac3ed4f7a",
+      "title": "Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-17T00:00:00+00:00",
+      "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer…",
+      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
+    },
+    {
       "id": "3b3be741a87f5e21",
       "title": "Introducing OpenAI for Chile",
       "url": "https://openai.com/index/introducing-openai-for-chile",
@@ -136,6 +169,17 @@
       "published": "2026-11-17T00:00:00+00:00",
       "excerpt": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen…",
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "d297b85445610d9d",
+      "title": "Global Banking Annual Review 2026: Precision with speed",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-17T00:00:00+00:00",
+      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is…",
+      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
     },
     {
       "id": "2d7a5d6b20fff3cd",
@@ -193,17 +237,6 @@
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
-      "id": "d91fd06de7b8771e",
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T12:00:00+00:00",
-      "excerpt": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity,…",
-      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
-    },
-    {
       "id": "b58eee41715aa2df",
       "title": "Winding Spins Toward Better Quantum Sensing",
       "url": "http://link.aps.org/doi/10.1103/Physics.19.153",
@@ -224,28 +257,6 @@
       "published": "2026-11-16T10:00:00+00:00",
       "excerpt": "Author(s): Michael Schirber Researchers demonstrate directional control of a single-photon source by coupling two quantum dots together. [Physics…",
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "b82b64ef90f76e66",
-      "title": "How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T09:30:00+00:00",
-      "excerpt": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime…",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "ff7833693fa2a067",
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T09:00:00+00:00",
-      "excerpt": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
       "id": "8fd4b584a25fbb18",
@@ -366,17 +377,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-13T00:00:00+00:00",
       "excerpt": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data…",
-      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
-    },
-    {
-      "id": "22c03607adb8b68d",
-      "title": "Always orbiting: How consumers plan travel experiences now",
-      "url": "https://www.mckinsey.com/industries/travel/our-insights/always-orbiting-how-consumers-plan-travel-experiences-now",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-13T00:00:00+00:00",
-      "excerpt": "Most travelers keep researching after they book a trip. The travel industry needs to spark interest early,…",
       "firstSeen": "2026-11-13T22:40:37.702070+00:00"
     },
     {
