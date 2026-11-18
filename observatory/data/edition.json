@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T15:43:40.610819+00:00",
+  "updatedAt": "2026-11-18T23:24:57.568209+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,50 @@
   ],
   "stories": [
     {
+      "id": "95da0fde7d56c751",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-18T21:35:43+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
+      "id": "f0b81ce3c1461288",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-18T19:54:56+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
+      "id": "e55c8f2df06c07ff",
+      "title": "Why your fine-tuning job takes longer than the FLOPs say",
+      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-18T18:53:43+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
+      "id": "cac57b5217ba2caa",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-18T18:13:42+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
       "id": "aef632472a5e3af7",
       "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
       "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
@@ -94,15 +138,48 @@
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
-      "id": "a1de396d3910fa2e",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "id": "184d931227f2504d",
+      "title": "The Silent Consensus",
+      "url": "https://openai.com/index/the-silent-consensus",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
+      "published": "2026-11-18T10:00:00+00:00",
+      "excerpt": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control…",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
+      "id": "67952d9a918d2536",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T08:00:00+00:00",
+      "excerpt": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and…",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
+      "id": "99be0c0a7e074380",
+      "title": "Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T06:00:00+00:00",
+      "excerpt": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking…",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
+      "id": "ec56b5eff9affb1c",
+      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
+      "url": "https://huggingface.co/blog/moe-expert-streaming",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
       "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+      "excerpt": "",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "5b89a2db7f60ae90",
@@ -114,6 +191,28 @@
       "published": "2026-11-18T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "a1de396d3910fa2e",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "68ddb817fe4001c0",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design…",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "cc098f79a29af09e",
@@ -147,6 +246,17 @@
       "published": "2026-11-18T00:00:00+00:00",
       "excerpt": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "7234b8a744551ef6",
+      "title": "Technology’s next frontier",
+      "url": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment…",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "2d40a71b02e18878",
@@ -237,39 +347,6 @@
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
     },
     {
-      "id": "0e7f690aa4ff229b",
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T00:00:00+00:00",
-      "excerpt": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test…",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "b43ef08ac3ed4f7a",
-      "title": "Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T00:00:00+00:00",
-      "excerpt": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer…",
-      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
-    },
-    {
-      "id": "3b3be741a87f5e21",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T00:00:00+00:00",
-      "excerpt": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop…",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
       "id": "d38b1257757865fa",
       "title": "Steel: Forging the foundation for the future of India",
       "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
@@ -290,17 +367,6 @@
       "published": "2026-11-17T00:00:00+00:00",
       "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is…",
       "firstSeen": "2026-11-17T23:52:01.549075+00:00"
-    },
-    {
-      "id": "2d7a5d6b20fff3cd",
-      "title": "Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T17:00:00+00:00",
-      "excerpt": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
     },
     {
       "id": "dd23ccc69da2c8ea",
@@ -369,17 +435,6 @@
       "firstSeen": "2026-11-17T00:50:00.781232+00:00"
     },
     {
-      "id": "136133aefa16d9fb",
-      "title": "Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-16T00:00:00+00:00",
-      "excerpt": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
       "id": "cdc8eef67bc55a0d",
       "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
       "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
@@ -389,39 +444,6 @@
       "published": "2026-11-13T18:00:39+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-13T22:40:37.702070+00:00"
-    },
-    {
-      "id": "96c7f67bef86f831",
-      "title": "XYBench: Helping with the problem behind the question",
-      "url": "https://huggingface.co/blog/allenai/xybench",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-13T17:02:35+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
-    },
-    {
-      "id": "6841e619fcd7e8d9",
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-13T14:05:22+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
-    },
-    {
-      "id": "84ec87286cb35a64",
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-12T19:07:35+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
     },
     {
       "id": "c7a410ad3b862809",
@@ -512,17 +534,6 @@
       "firstSeen": "2026-11-11T14:28:00.428519+00:00"
     },
     {
-      "id": "8827aad4505e69ef",
-      "title": "Gemini Robotics 2.5 accelerates real-world general dexterity",
-      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-11-09T19:51:47+00:00",
-      "excerpt": "Our most capable vision-language-action model enhances robot dexterity, reliability, and safety",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
-    },
-    {
       "id": "cbd0edd4fc2d3f06",
       "title": "Do More With Sustainability Data",
       "url": "https://sloanreview.mit.edu/article/do-more-with-sustainability-data/",
@@ -532,17 +543,6 @@
       "published": "2026-11-09T12:00:41+00:00",
       "excerpt": "Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the…",
       "firstSeen": "2026-11-09T16:28:37.661629+00:00"
-    },
-    {
-      "id": "f09d7876c1e95fca",
-      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
-      "url": "https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-11-05T17:05:16+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-05T22:41:27.070232+00:00"
     },
     {
       "id": "d4d36af74f2a2095",

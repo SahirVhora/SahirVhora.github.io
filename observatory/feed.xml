@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 15:43:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:24:57 +0000</lastBuildDate>
+    <item>
+      <title>Introducing Gemini 4 Neon</title>
+      <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
+      <guid>https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
+      <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
+      <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
+      <guid>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
+      <pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Why your fine-tuning job takes longer than the FLOPs say</title>
+      <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
+      <guid>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
+      <pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Genie 4 is now available</title>
+      <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
+      <guid>https://deepmind.google/blog/genie-4-is-now-available/</guid>
+      <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
       <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
@@ -30,11 +62,35 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
-      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-      <guid>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+      <title>The Silent Consensus</title>
+      <link>https://openai.com/index/the-silent-consensus</link>
+      <guid>https://openai.com/index/the-silent-consensus</guid>
+      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Inside the Codex sandbox</title>
+      <link>https://openai.com/index/inside-the-codex-sandbox</link>
+      <guid>https://openai.com/index/inside-the-codex-sandbox</guid>
+      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
+      <description>See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Managing frontier AI risk: From training to deployment</title>
+      <link>https://openai.com/index/managing-frontier-ai-risk</link>
+      <guid>https://openai.com/index/managing-frontier-ai-risk</guid>
+      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
+      <description>OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
+      <link>https://huggingface.co/blog/moe-expert-streaming</link>
+      <guid>https://huggingface.co/blog/moe-expert-streaming</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…</description>
+      <description />
       <category>ai</category>
     </item>
     <item>
@@ -43,6 +99,22 @@
       <guid>https://huggingface.co/blog/rumble-2-flash</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+      <guid>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Advancing chip design with OpenAI models</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
+      <guid>https://openai.com/index/advancing-chip-design-with-our-models</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design…</description>
       <category>ai</category>
     </item>
     <item>
@@ -67,6 +139,14 @@
       <guid>https://www.mckinsey.com/our-people/what-is-cloud-computing--test</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <description>Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Technology’s next frontier</title>
+      <link>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier</link>
+      <guid>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -134,30 +214,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Strengthening NATO and allied cyber defenses with AI</title>
-      <link>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</link>
-      <guid>https://openai.com/index/strengthening-nato-allied-cyber-defences-ai</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Astra for Law leads in legal intelligence</title>
-      <link>https://openai.com/index/astra-law-6-2</link>
-      <guid>https://openai.com/index/astra-law-6-2</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing OpenAI for Chile</title>
-      <link>https://openai.com/index/introducing-openai-for-chile</link>
-      <guid>https://openai.com/index/introducing-openai-for-chile</guid>
-      <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Steel: Forging the foundation for the future of India</title>
       <link>https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india</link>
       <guid>https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india</guid>
@@ -172,14 +228,6 @@
       <pubDate>Tue, 17 Nov 2026 00:00:00 +0000</pubDate>
       <description>Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Broadening access to AI for scientists</title>
-      <link>https://openai.com/index/expanding-chatgpt-for-academic-researchers</link>
-      <guid>https://openai.com/index/expanding-chatgpt-for-academic-researchers</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-      <description>We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.</description>
-      <category>ai</category>
     </item>
     <item>
       <title>SAP Completes Acquisition of TechWolf</title>
@@ -230,42 +278,10 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Navigating the AI infrastructure mismatch: Equinix CEO Adaire Fox-Martin</title>
-      <link>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin</link>
-      <guid>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
       <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
       <guid>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
       <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>XYBench: Helping with the problem behind the question</title>
-      <link>https://huggingface.co/blog/allenai/xybench</link>
-      <guid>https://huggingface.co/blog/allenai/xybench</guid>
-      <pubDate>Fri, 13 Nov 2026 17:02:35 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem</title>
-      <link>https://huggingface.co/blog/ggml-org/llama-cpp-v1</link>
-      <guid>https://huggingface.co/blog/ggml-org/llama-cpp-v1</guid>
-      <pubDate>Fri, 13 Nov 2026 14:05:22 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
-      <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
-      <guid>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
-      <pubDate>Thu, 12 Nov 2026 19:07:35 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -334,28 +350,12 @@
       <category>physics</category>
     </item>
     <item>
-      <title>Gemini Robotics 2.5 accelerates real-world general dexterity</title>
-      <link>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</link>
-      <guid>https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:51:47 +0000</pubDate>
-      <description>Our most capable vision-language-action model enhances robot dexterity, reliability, and safety</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Do More With Sustainability Data</title>
       <link>https://sloanreview.mit.edu/article/do-more-with-sustainability-data/</link>
       <guid>https://sloanreview.mit.edu/article/do-more-with-sustainability-data/</guid>
       <pubDate>Mon, 09 Nov 2026 12:00:41 +0000</pubDate>
       <description>Maria Bloom/Ikon Images Many large companies have invested significant amounts of time and capital into sustainability reporting. In 2022, the…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-      <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-      <guid>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</guid>
-      <pubDate>Thu, 05 Nov 2026 17:05:16 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Pinning down the structure of quark-gluon plasma, the universe’s first fluid</title>
