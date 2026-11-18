@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T23:52:01.549075+00:00",
+  "updatedAt": "2026-11-18T15:43:40.610819+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,105 @@
   ],
   "stories": [
     {
+      "id": "aef632472a5e3af7",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-18T15:00:23+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "6153453f3e5f1dc0",
+      "title": "How Bestseller Turned Fragmented Workforce Data into Trusted People Intelligence",
+      "url": "https://news.sap.com/2026/11/bestseller-turned-fragmented-workforce-data-into-trusted-people-intelligence/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T12:15:00+00:00",
+      "excerpt": "Now, leaders across all brands and countries at the fashion group can work from the…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "1320ec75c232d81b",
+      "title": "SAP Recognized as a Customers’ Choice in the 2026 Gartner Peer Insights™ Voice of the Customer for Talent Acquisition (Recruiting) Suites",
+      "url": "https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T11:15:00+00:00",
+      "excerpt": "The recognition captures the…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "a1de396d3910fa2e",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "5b89a2db7f60ae90",
+      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "cc098f79a29af09e",
+      "title": "Capex in chemicals: Generating value through performance excellence",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "c8a116c38360a4d4",
+      "title": "What is cloud computing? -test",
+      "url": "https://www.mckinsey.com/what-is-cloud-computing--test",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "8a979f930f69f64e",
+      "title": "What is cloud computing? -test",
+      "url": "https://www.mckinsey.com/our-people/what-is-cloud-computing--test",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "2d40a71b02e18878",
+      "title": "Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI",
+      "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
       "id": "8f6af8c44a4a1bfb",
       "title": "Introducing GPT-6.2 Astra and Sol",
       "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
@@ -103,6 +202,17 @@
       "published": "2026-11-17T12:00:16+00:00",
       "excerpt": "Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted…",
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
+    },
+    {
+      "id": "4b21719b0f9b7312",
+      "title": "Hawking’s Black Hole Paradox Exposed Clash Between Physics Theories",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.156",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-17T10:00:00+00:00",
+      "excerpt": "Author(s): Philip Ball Published 50 years ago, the information paradox dramatically illustrated the conflicts between general…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
       "id": "3047d7657748ea76",
@@ -193,17 +303,6 @@
       "firstSeen": "2026-11-17T00:50:00.781232+00:00"
     },
     {
-      "id": "dd659f011024f04f",
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T17:00:00+00:00",
-      "excerpt": "New tools, practical guidance, and partnerships will help prevent, detect and respond…",
-      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
-    },
-    {
       "id": "dd23ccc69da2c8ea",
       "title": "SAP Completes Acquisition of TechWolf",
       "url": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
@@ -259,17 +358,6 @@
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
     },
     {
-      "id": "8fd4b584a25fbb18",
-      "title": "India’s Rise: From Promise to Platform for Global Growth",
-      "url": "https://news.sap.com/2026/11/india-promise-to-platform-global-growth/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T05:15:00+00:00",
-      "excerpt": "For much of the past three decades, India's global economic story was defined by potential. That…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
       "id": "8ec21efa2c622734",
       "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
       "url": "https://huggingface.co/blog/openrouter",
@@ -289,39 +377,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-16T00:00:00+00:00",
       "excerpt": "A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
-      "id": "87ca7b7dd400131c",
-      "title": "Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power",
-      "url": "https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-16T00:00:00+00:00",
-      "excerpt": "Companies that address the toughest bottlenecks in Britain’s power system could capture…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
-      "id": "430c40e7ff012eaf",
-      "title": "AI in Asia: Reimagining insurance operations through agentic AI",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-16T00:00:00+00:00",
-      "excerpt": "Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
-      "id": "09f367c0c7e32b93",
-      "title": "The CEO’s role in leading on sustainability",
-      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-16T00:00:00+00:00",
-      "excerpt": "Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands…",
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
@@ -358,28 +413,6 @@
       "firstSeen": "2026-11-13T14:39:07.384574+00:00"
     },
     {
-      "id": "c4a57ce51924ca1b",
-      "title": "SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail",
-      "url": "https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-13T12:15:00+00:00",
-      "excerpt": "We continue to work with our customers to…",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
-    },
-    {
-      "id": "0e1e3a8181b93e81",
-      "title": "Prenuvo’s Andrew Lacy on making healthcare proactive",
-      "url": "https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-13T00:00:00+00:00",
-      "excerpt": "The founder of the whole-body MRI company explains why disease is a process, not binary, and how data…",
-      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
-    },
-    {
       "id": "84ec87286cb35a64",
       "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
       "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
@@ -413,17 +446,6 @@
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
-      "id": "cbda9238a3684b28",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-12T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
       "id": "833534b672b8daa3",
       "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
       "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
@@ -433,17 +455,6 @@
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "firstSeen": "2026-11-12T15:20:36.298221+00:00"
-    },
-    {
-      "id": "19b4fcb1faac9c9b",
-      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-      "url": "https://huggingface.co/blog/qvac/botpsy",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-11T05:01:16+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
     },
     {
       "id": "6e8b7f1820153600",
@@ -598,17 +609,6 @@
       "published": "2026-11-02T12:00:13+00:00",
       "excerpt": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers…",
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
-    },
-    {
-      "id": "7722f66ddf060eb3",
-      "title": "Using Pulsars to Probe Early Growth of Black Holes",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.146",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-02T10:00:00+00:00",
-      "excerpt": "Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…",
-      "firstSeen": "2026-11-03T14:22:27.612686+00:00"
     },
     {
       "id": "3da2b65af0d1313a",

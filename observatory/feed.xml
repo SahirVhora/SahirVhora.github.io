@@ -4,7 +4,79 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 17 Nov 2026 23:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 15:43:40 +0000</lastBuildDate>
+    <item>
+      <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+      <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+      <guid>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How Bestseller Turned Fragmented Workforce Data into Trusted People Intelligence</title>
+      <link>https://news.sap.com/2026/11/bestseller-turned-fragmented-workforce-data-into-trusted-people-intelligence/</link>
+      <guid>https://news.sap.com/2026/11/bestseller-turned-fragmented-workforce-data-into-trusted-people-intelligence/</guid>
+      <pubDate>Wed, 18 Nov 2026 12:15:00 +0000</pubDate>
+      <description>Now, leaders across all brands and countries at the fashion group can work from the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>SAP Recognized as a Customers’ Choice in the 2026 Gartner Peer Insights™ Voice of the Customer for Talent Acquisition (Recruiting) Suites</title>
+      <link>https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/</link>
+      <guid>https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/</guid>
+      <pubDate>Wed, 18 Nov 2026 11:15:00 +0000</pubDate>
+      <description>The recognition captures the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
+      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
+      <guid>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+      <link>https://huggingface.co/blog/rumble-2-flash</link>
+      <guid>https://huggingface.co/blog/rumble-2-flash</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Capex in chemicals: Generating value through performance excellence</title>
+      <link>https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence</link>
+      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>What is cloud computing? -test</title>
+      <link>https://www.mckinsey.com/what-is-cloud-computing--test</link>
+      <guid>https://www.mckinsey.com/what-is-cloud-computing--test</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>What is cloud computing? -test</title>
+      <link>https://www.mckinsey.com/our-people/what-is-cloud-computing--test</link>
+      <guid>https://www.mckinsey.com/our-people/what-is-cloud-computing--test</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI</title>
+      <link>https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age</link>
+      <guid>https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age</guid>
+      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+      <description>How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Introducing GPT-6.2 Astra and Sol</title>
       <link>https://openai.com/index/introducing-gpt-6-2-astra-sol</link>
@@ -36,6 +108,14 @@
       <pubDate>Tue, 17 Nov 2026 12:00:16 +0000</pubDate>
       <description>Gillian Blease/Ikon Images When fast-casual restaurant chain Sweetgreen had its 2021 initial public offering, it highlighted…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Hawking’s Black Hole Paradox Exposed Clash Between Physics Theories</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.156</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.156</guid>
+      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Philip Ball Published 50 years ago, the information paradox dramatically illustrated the conflicts between general…</description>
+      <category>physics</category>
     </item>
     <item>
       <title>Introducing ChatGPT for Sales</title>
@@ -102,14 +182,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Strengthening the fight against online child sexual abuse with new tools and support</title>
-      <link>https://openai.com/index/strengthening-online-child-safety</link>
-      <guid>https://openai.com/index/strengthening-online-child-safety</guid>
-      <pubDate>Mon, 16 Nov 2026 17:00:00 +0000</pubDate>
-      <description>New tools, practical guidance, and partnerships will help prevent, detect and respond…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>SAP Completes Acquisition of TechWolf</title>
       <link>https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/</link>
       <guid>https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/</guid>
@@ -150,14 +222,6 @@
       <category>physics</category>
     </item>
     <item>
-      <title>India’s Rise: From Promise to Platform for Global Growth</title>
-      <link>https://news.sap.com/2026/11/india-promise-to-platform-global-growth/</link>
-      <guid>https://news.sap.com/2026/11/india-promise-to-platform-global-growth/</guid>
-      <pubDate>Mon, 16 Nov 2026 05:15:00 +0000</pubDate>
-      <description>For much of the past three decades, India's global economic story was defined by potential. That…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
       <link>https://huggingface.co/blog/openrouter</link>
       <guid>https://huggingface.co/blog/openrouter</guid>
@@ -171,30 +235,6 @@
       <guid>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/navigating-the-ai-infrastructure-mismatch-equinix-ceo-adaire-fox-martin</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
       <description>A data center sector leader discusses how shifting economics, energy constraints, and a looming connectivity bottleneck…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Solving Britain’s energy bottlenecks: The £78 billion-a-year opportunity for cleaner, more affordable power</title>
-      <link>https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power</link>
-      <guid>https://www.mckinsey.com/uk/our-insights/solving-britains-energy-bottlenecks-the-78-billion-pounds-a-year-opportunity-for-cleaner-more-affordable-power</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Companies that address the toughest bottlenecks in Britain’s power system could capture…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>AI in Asia: Reimagining insurance operations through agentic AI</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/ai-in-asia-reimagining-insurance-operations-through-agentic-ai</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Insurers in Asia–Pacific can realize value from agentic AI by redesigning insurance operations around what AI…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>The CEO’s role in leading on sustainability</title>
-      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability</link>
-      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/the-ceos-role-in-leading-on-sustainability</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Sustainability is a defining challenge of our time. Here’s how CEOs can move beyond merely balancing competing demands…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -222,22 +262,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>SAP Named a Leader in Two 2026 IDC MarketScapes: Worldwide Warehouse Management for Manufacturing and for Retail</title>
-      <link>https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/</link>
-      <guid>https://news.sap.com/2026/11/sap-leader-idc-marketscapes-warehouse-management-manufacturing-retail/</guid>
-      <pubDate>Fri, 13 Nov 2026 12:15:00 +0000</pubDate>
-      <description>We continue to work with our customers to…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Prenuvo’s Andrew Lacy on making healthcare proactive</title>
-      <link>https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</link>
-      <guid>https://www.mckinsey.com/featured-insights/prenuvos-andrew-lacy-on-making-healthcare-proactive</guid>
-      <pubDate>Fri, 13 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The founder of the whole-body MRI company explains why disease is a process, not binary, and how data…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B</title>
       <link>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</link>
       <guid>https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite</guid>
@@ -262,27 +286,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The Definitive Fine-Tuning Guide for 3D Generation Models</title>
-      <link>https://huggingface.co/blog/3d-lora-finetuning</link>
-      <guid>https://huggingface.co/blog/3d-lora-finetuning</guid>
-      <pubDate>Thu, 12 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>AlphaGenome 2: Deciphering how cells read DNA to better understand disease</title>
       <link>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</link>
       <guid>https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/</guid>
       <pubDate>Wed, 11 Nov 2026 15:00:15 +0000</pubDate>
       <description>Predicting how DNA sequences and their variations impact specific human cell types and disease.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model</title>
-      <link>https://huggingface.co/blog/qvac/botpsy</link>
-      <guid>https://huggingface.co/blog/qvac/botpsy</guid>
-      <pubDate>Wed, 11 Nov 2026 05:01:16 +0000</pubDate>
-      <description />
       <category>ai</category>
     </item>
     <item>
@@ -396,14 +404,6 @@
       <pubDate>Mon, 02 Nov 2026 12:00:13 +0000</pubDate>
       <description>Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Using Pulsars to Probe Early Growth of Black Holes</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.146</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.146</guid>
-      <pubDate>Mon, 02 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Sarah Burke-Spolaor Researchers have used radio observations of rapidly spinning neutron stars to search for…</description>
-      <category>physics</category>
     </item>
     <item>
       <title>AI Is Thriving at Capital One</title>
