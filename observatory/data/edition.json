@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T15:48:49.095479+00:00",
+  "updatedAt": "2026-11-19T23:36:06.715636+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 4
+      "count": 5
     },
     {
       "name": "MIT Sloan Management Review",
@@ -61,6 +61,17 @@
   ],
   "stories": [
     {
+      "id": "3cbf012c5545ff09",
+      "title": "If tiny “primordial” black holes exist, here’s how we might find them",
+      "url": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-11-19T15:00:00+00:00",
+      "excerpt": "When engulfed by a star, the small but massive object should devour the…",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+    },
+    {
       "id": "da6bfb394cf02cd6",
       "title": "Who Wins the Next Disruption: Five Rules for Creating Supply Chains that Can Take a Hit",
       "url": "https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/",
@@ -70,6 +81,61 @@
       "published": "2026-11-19T12:15:00+00:00",
       "excerpt": "The goal is to build a supply chain that…",
       "firstSeen": "2026-11-19T15:48:49.095479+00:00"
+    },
+    {
+      "id": "9342dbf934e428aa",
+      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-19T08:00:00+00:00",
+      "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues…",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+    },
+    {
+      "id": "82fe289fe466dcc1",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+    },
+    {
+      "id": "17b7a2b39f098895",
+      "title": "See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+    },
+    {
+      "id": "da30645137037f00",
+      "title": "Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get…",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+    },
+    {
+      "id": "8e2eaf2738ae263b",
+      "title": "Building pharma’s laboratory of the future",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "Leading biopharma organizations are integrating artificial intelligence and physical automation into their laboratories to escape the R&D productivity trap.",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
       "id": "73b7c234f9554339",
@@ -92,6 +158,17 @@
       "published": "2026-11-19T00:00:00+00:00",
       "excerpt": "A productivity revolution could more than double the country’s economic growth and ensure future prosperity.",
       "firstSeen": "2026-11-19T15:48:49.095479+00:00"
+    },
+    {
+      "id": "89b699cf00058b73",
+      "title": "Author Talks: Defining customer needs locally to create global value",
+      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-defining-customer-needs-locally-to-create-global-value",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "What is one of the biggest mistakes companies make when designing products? Dartmouth’s Vijay Govindarajan…",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
       "id": "95da0fde7d56c751",
@@ -182,17 +259,6 @@
       "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
-      "id": "58da586369f33999",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T08:00:00+00:00",
-      "excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive…",
-      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
-    },
-    {
       "id": "53d809d7420a3923",
       "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
       "url": "https://openai.com/business/customer-stories/sumitomo-life",
@@ -204,48 +270,15 @@
       "firstSeen": "2026-11-19T15:48:49.095479+00:00"
     },
     {
-      "id": "67952d9a918d2536",
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "id": "58da586369f33999",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
       "published": "2026-11-18T08:00:00+00:00",
-      "excerpt": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and…",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "99be0c0a7e074380",
-      "title": "Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T06:00:00+00:00",
-      "excerpt": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking…",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "a1de396d3910fa2e",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "68ddb817fe4001c0",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design…",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+      "excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive…",
+      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
     },
     {
       "id": "ec56b5eff9affb1c",
@@ -292,17 +325,6 @@
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
-      "id": "8a979f930f69f64e",
-      "title": "What is cloud computing? -test",
-      "url": "https://www.mckinsey.com/our-people/what-is-cloud-computing--test",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
       "id": "7234b8a744551ef6",
       "title": "Technology’s next frontier",
       "url": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier",
@@ -312,17 +334,6 @@
       "published": "2026-11-18T00:00:00+00:00",
       "excerpt": "Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment…",
       "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "2d40a71b02e18878",
-      "title": "Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI",
-      "url": "https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
       "id": "4d519963d1184a0b",

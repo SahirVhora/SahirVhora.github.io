@@ -4,13 +4,61 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 15:48:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:36:06 +0000</lastBuildDate>
+    <item>
+      <title>If tiny “primordial” black holes exist, here’s how we might find them</title>
+      <link>https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119</link>
+      <guid>https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119</guid>
+      <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
+      <description>When engulfed by a star, the small but massive object should devour the…</description>
+      <category>physics</category>
+    </item>
     <item>
       <title>Who Wins the Next Disruption: Five Rules for Creating Supply Chains that Can Take a Hit</title>
       <link>https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/</link>
       <guid>https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/</guid>
       <pubDate>Thu, 19 Nov 2026 12:15:00 +0000</pubDate>
       <description>The goal is to build a supply chain that…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
+      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
+      <guid>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
+      <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Explore the Codex Security Plugin</title>
+      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+      <guid>https://openai.com/business/learn/codex-security-plugin-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>See PR scans in action</title>
+      <link>https://openai.com/business/learn/pr-scans-demo</link>
+      <guid>https://openai.com/business/learn/pr-scans-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Get started with Daybreak Blue</title>
+      <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
+      <guid>https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Building pharma’s laboratory of the future</title>
+      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future</link>
+      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Leading biopharma organizations are integrating artificial intelligence and physical automation into their laboratories to escape the R&amp;D productivity trap.</description>
       <category>consulting</category>
     </item>
     <item>
@@ -27,6 +75,14 @@
       <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <description>A productivity revolution could more than double the country’s economic growth and ensure future prosperity.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Author Talks: Defining customer needs locally to create global value</title>
+      <link>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-defining-customer-needs-locally-to-create-global-value</link>
+      <guid>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-defining-customer-needs-locally-to-create-global-value</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>What is one of the biggest mistakes companies make when designing products? Dartmouth’s Vijay Govindarajan…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -94,14 +150,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Research acceleration: The jagged frontier</title>
-      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-      <guid>https://openai.com/index/research-acceleration-jagged-frontier</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-      <description>OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
       <link>https://openai.com/business/customer-stories/sumitomo-life</link>
       <guid>https://openai.com/business/customer-stories/sumitomo-life</guid>
@@ -110,35 +158,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Inside the Codex sandbox</title>
-      <link>https://openai.com/index/inside-the-codex-sandbox</link>
-      <guid>https://openai.com/index/inside-the-codex-sandbox</guid>
+      <title>Research acceleration: The jagged frontier</title>
+      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
+      <guid>https://openai.com/index/research-acceleration-jagged-frontier</guid>
       <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-      <description>See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Managing frontier AI risk: From training to deployment</title>
-      <link>https://openai.com/index/managing-frontier-ai-risk</link>
-      <guid>https://openai.com/index/managing-frontier-ai-risk</guid>
-      <pubDate>Wed, 18 Nov 2026 06:00:00 +0000</pubDate>
-      <description>OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT</title>
-      <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
-      <guid>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Advancing chip design with OpenAI models</title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models</link>
-      <guid>https://openai.com/index/advancing-chip-design-with-our-models</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design…</description>
+      <description>OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive…</description>
       <category>ai</category>
     </item>
     <item>
@@ -174,27 +198,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>What is cloud computing? -test</title>
-      <link>https://www.mckinsey.com/our-people/what-is-cloud-computing--test</link>
-      <guid>https://www.mckinsey.com/our-people/what-is-cloud-computing--test</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Technology’s next frontier</title>
       <link>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier</link>
       <guid>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier</guid>
       <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <description>Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Infrastructure entrepreneurs: How HOCHTIEF captures growth with AI</title>
-      <link>https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age</link>
-      <guid>https://www.mckinsey.com/capabilities/business-building/our-insights/infrastructure-entrepreneurs-how-hochtief-captures-growth-in-the-ai-age</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>How does a 150-year-old engineering company become a growth champion? McKinsey Partner Jerome Königsfeld interviews two leaders…</description>
       <category>consulting</category>
     </item>
     <item>
