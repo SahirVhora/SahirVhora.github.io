@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T23:24:57.568209+00:00",
+  "updatedAt": "2026-11-19T15:48:49.095479+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -60,6 +60,39 @@
     }
   ],
   "stories": [
+    {
+      "id": "da6bfb394cf02cd6",
+      "title": "Who Wins the Next Disruption: Five Rules for Creating Supply Chains that Can Take a Hit",
+      "url": "https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-19T12:15:00+00:00",
+      "excerpt": "The goal is to build a supply chain that…",
+      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
+    },
+    {
+      "id": "73b7c234f9554339",
+      "title": "Stefan Latuski on transforming public sector services at scale",
+      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "The chief information officer of Germany’s Federal Employment Agency shares how his organization has reimagined customer…",
+      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
+    },
+    {
+      "id": "b9a96cb3f2ac3377",
+      "title": "A bold vision for Belgium",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "A productivity revolution could more than double the country’s economic growth and ensure future prosperity.",
+      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
+    },
     {
       "id": "95da0fde7d56c751",
       "title": "Introducing Gemini 4 Neon",
@@ -149,6 +182,28 @@
       "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
+      "id": "58da586369f33999",
+      "title": "Research acceleration: The jagged frontier",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T08:00:00+00:00",
+      "excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive…",
+      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
+    },
+    {
+      "id": "53d809d7420a3923",
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T08:00:00+00:00",
+      "excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.…",
+      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
+    },
+    {
       "id": "67952d9a918d2536",
       "title": "Inside the Codex sandbox",
       "url": "https://openai.com/index/inside-the-codex-sandbox",
@@ -168,6 +223,28 @@
       "evidence": "Company announcement",
       "published": "2026-11-18T06:00:00+00:00",
       "excerpt": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking…",
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+    },
+    {
+      "id": "a1de396d3910fa2e",
+      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…",
+      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
+    },
+    {
+      "id": "68ddb817fe4001c0",
+      "title": "Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-18T00:00:00+00:00",
+      "excerpt": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design…",
       "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
@@ -191,28 +268,6 @@
       "published": "2026-11-18T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "a1de396d3910fa2e",
-      "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "68ddb817fe4001c0",
-      "title": "Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design…",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "cc098f79a29af09e",
@@ -270,17 +325,6 @@
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
-      "id": "8f6af8c44a4a1bfb",
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T17:45:00+00:00",
-      "excerpt": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work,…",
-      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
-    },
-    {
       "id": "4d519963d1184a0b",
       "title": "Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments",
       "url": "https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/",
@@ -325,17 +369,6 @@
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
-      "id": "3047d7657748ea76",
-      "title": "Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T08:00:00+00:00",
-      "excerpt": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your…",
-      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
-    },
-    {
       "id": "1f65441f8e069476",
       "title": "Thomas Saueressig to Leave SAP Executive Board",
       "url": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/",
@@ -345,28 +378,6 @@
       "published": "2026-11-17T08:00:00+00:00",
       "excerpt": "WALLDORF — Saueressig will remain fully in charge of his current responsibilities until end of March 2027.",
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "d38b1257757865fa",
-      "title": "Steel: Forging the foundation for the future of India",
-      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/steel-forging-the-foundation-for-the-future-of-india",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-17T00:00:00+00:00",
-      "excerpt": "As India’s steel industry expands capacity to meet rising demand, it has an opportunity to sharpen…",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "d297b85445610d9d",
-      "title": "Global Banking Annual Review 2026: Precision with speed",
-      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-banking-annual-review",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-17T00:00:00+00:00",
-      "excerpt": "Banking outdid itself—again—earning a record $1.3 trillion in profits in 2025. Now the AI disruption dividend is…",
-      "firstSeen": "2026-11-17T23:52:01.549075+00:00"
     },
     {
       "id": "dd23ccc69da2c8ea",
@@ -388,17 +399,6 @@
       "evidence": "Management perspective",
       "published": "2026-11-16T12:46:23+00:00",
       "excerpt": "Andrew Baker/Ikon Images As of 2024, over 38 million Americans were providing unpaid care to an older…",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
-    },
-    {
-      "id": "599316aa30565b68",
-      "title": "Order Management Built Straight into SAP",
-      "url": "https://news.sap.com/2026/11/order-management-built-straight-into-sap-dataxstream/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T12:15:00+00:00",
-      "excerpt": "The fewer systems you have to stitch together, the fewer things there are to break.",
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
