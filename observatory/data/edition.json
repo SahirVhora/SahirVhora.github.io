@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T15:31:22.323186+00:00",
+  "updatedAt": "2026-11-20T23:07:01.062435+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 5
+      "count": 6
     },
     {
       "name": "MIT Sloan Management Review",
@@ -60,6 +60,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "06caffa3d555e0ae",
+      "title": "A tiny superconducting sandwich could help computers use less energy",
+      "url": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
+      "category": "physics",
+      "source": "MIT Physics",
+      "evidence": "University reporting",
+      "published": "2026-11-20T21:00:00+00:00",
+      "excerpt": "MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and…",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
     {
       "id": "a1a3ec9d6d14be71",
       "title": "How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise",
@@ -103,6 +114,50 @@
       "published": "2026-11-20T11:15:00+00:00",
       "excerpt": "Trusted data, business context, and human accountability are essential to turning AI ambition into business value.",
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "7ad44f990f0c53ef",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T10:00:00+00:00",
+      "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "8145fefb47ff1ca9",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "c1a2af93db54bfcf",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "824c03b970f1dc58",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
       "id": "701a571706ec6c00",
@@ -182,15 +237,15 @@
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
-      "id": "a890a236270cc5e3",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
+      "id": "82fe289fe466dcc1",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
       "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
       "id": "17b7a2b39f098895",
@@ -201,17 +256,6 @@
       "evidence": "Company announcement",
       "published": "2026-11-19T00:00:00+00:00",
       "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
-    },
-    {
-      "id": "82fe289fe466dcc1",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…",
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
@@ -347,28 +391,6 @@
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
-      "id": "184d931227f2504d",
-      "title": "The Silent Consensus",
-      "url": "https://openai.com/index/the-silent-consensus",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T10:00:00+00:00",
-      "excerpt": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control…",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "58da586369f33999",
-      "title": "Research acceleration: The jagged frontier",
-      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T08:00:00+00:00",
-      "excerpt": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive…",
-      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
-    },
-    {
       "id": "ec56b5eff9affb1c",
       "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
       "url": "https://huggingface.co/blog/moe-expert-streaming",
@@ -444,17 +466,6 @@
       "published": "2026-11-16T10:00:00+00:00",
       "excerpt": "Author(s): Michael Schirber Researchers demonstrate directional control of a single-photon source by coupling two quantum dots together. [Physics…",
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "8ec21efa2c622734",
-      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
-      "url": "https://huggingface.co/blog/openrouter",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-16T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-17T00:50:00.781232+00:00"
     },
     {
       "id": "c7a410ad3b862809",

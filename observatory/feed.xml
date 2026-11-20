@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 15:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:07:01 +0000</lastBuildDate>
+    <item>
+      <title>A tiny superconducting sandwich could help computers use less energy</title>
+      <link>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</link>
+      <guid>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</guid>
+      <pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
+      <description>MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and…</description>
+      <category>physics</category>
+    </item>
     <item>
       <title>How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise</title>
       <link>https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/</link>
@@ -36,6 +44,38 @@
       <pubDate>Fri, 20 Nov 2026 11:15:00 +0000</pubDate>
       <description>Trusted data, business context, and human accountability are essential to turning AI ambition into business value.</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>Combatting adversarial distillation</title>
+      <link>https://openai.com/index/combatting-adversarial-distillation</link>
+      <guid>https://openai.com/index/combatting-adversarial-distillation</guid>
+      <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
+      <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+      <link>https://openai.com/business/customer-stories/hebbia</link>
+      <guid>https://openai.com/business/customer-stories/hebbia</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Can AI help scientists identify promising drug candidates?</title>
+      <link>https://openai.com/index/introducing-medchembench</link>
+      <guid>https://openai.com/index/introducing-medchembench</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+      <link>https://huggingface.co/blog/inkling2mini</link>
+      <guid>https://huggingface.co/blog/inkling2mini</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
     </item>
     <item>
       <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
@@ -94,11 +134,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Deploying Daybreak Red</title>
-      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
-      <guid>https://openai.com/business/learn/deploying-daybreak-red</guid>
+      <title>Explore the Codex Security Plugin</title>
+      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+      <guid>https://openai.com/business/learn/codex-security-plugin-demo</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</description>
+      <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…</description>
       <category>ai</category>
     </item>
     <item>
@@ -107,14 +147,6 @@
       <guid>https://openai.com/business/learn/pr-scans-demo</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <description>Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Explore the Codex Security Plugin</title>
-      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-      <guid>https://openai.com/business/learn/codex-security-plugin-demo</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…</description>
       <category>ai</category>
     </item>
     <item>
@@ -214,22 +246,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>The Silent Consensus</title>
-      <link>https://openai.com/index/the-silent-consensus</link>
-      <guid>https://openai.com/index/the-silent-consensus</guid>
-      <pubDate>Wed, 18 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Research acceleration: The jagged frontier</title>
-      <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
-      <guid>https://openai.com/index/research-acceleration-jagged-frontier</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-      <description>OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
       <link>https://huggingface.co/blog/moe-expert-streaming</link>
       <guid>https://huggingface.co/blog/moe-expert-streaming</guid>
@@ -284,14 +300,6 @@
       <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Michael Schirber Researchers demonstrate directional control of a single-photon source by coupling two quantum dots together. [Physics…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Hugging Face and OpenRouter join forces to make open-weight models easy to run</title>
-      <link>https://huggingface.co/blog/openrouter</link>
-      <guid>https://huggingface.co/blog/openrouter</guid>
-      <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>Introducing Gemini 4 Hydrogen</title>
