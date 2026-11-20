@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T23:36:06.715636+00:00",
+  "updatedAt": "2026-11-20T15:31:22.323186+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,94 @@
   ],
   "stories": [
     {
+      "id": "a1a3ec9d6d14be71",
+      "title": "How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise",
+      "url": "https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T14:15:00+00:00",
+      "excerpt": "Together, SAP and Microsoft solve challenges and unlock exponential AI value.",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "e5c6e3aee232b71e",
+      "title": "From Melbourne to Mexico: How SAP Concur and AI Help the San Francisco 49ers Take Their Game Global",
+      "url": "https://news.sap.com/2026/11/how-sap-concur-helps-san-francisco-49ers-take-game-global/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T13:15:00+00:00",
+      "excerpt": "Traveling across continents during the 2026 NFL…",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "a7b0fa3af868496f",
+      "title": "Takeda Turns to SAP S/4HANA to Support Digital Transformation",
+      "url": "https://news.sap.com/2026/11/takeda-turns-to-sap-erp-digital-transformation/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T12:15:00+00:00",
+      "excerpt": "The biotech company’s move to SAP S/4HANA supports process simplification, AI adoption, and a more connected…",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "9c28b038a27125a7",
+      "title": "Why Enterprise Architecture Is Becoming Key to Successful AI",
+      "url": "https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T11:15:00+00:00",
+      "excerpt": "Trusted data, business context, and human accountability are essential to turning AI ambition into business value.",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "701a571706ec6c00",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "683d21fb513fd670",
+      "title": "The new consolidation: M&A shifts in European consumer tech and media",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "As Europe’s media landscape evolves, our analysis identifies the deal archetypes driving consolidation and…",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "bd4b170cb368ed9a",
+      "title": "Physical AI is breaking out of the box",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded…",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "46ebeb83ce7ce3fe",
+      "title": "Advancing US economic mobility in the age of AI",
+      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "AI could widen economic gaps in the United States—or help close them. Whether it becomes a…",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
       "id": "3cbf012c5545ff09",
       "title": "If tiny “primordial” black holes exist, here’s how we might find them",
       "url": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
@@ -94,15 +182,15 @@
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
-      "id": "82fe289fe466dcc1",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "id": "a890a236270cc5e3",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
       "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+      "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
       "id": "17b7a2b39f098895",
@@ -113,6 +201,17 @@
       "evidence": "Company announcement",
       "published": "2026-11-19T00:00:00+00:00",
       "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+    },
+    {
+      "id": "82fe289fe466dcc1",
+      "title": "Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-19T00:00:00+00:00",
+      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…",
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
@@ -259,17 +358,6 @@
       "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
-      "id": "53d809d7420a3923",
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T08:00:00+00:00",
-      "excerpt": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.…",
-      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
-    },
-    {
       "id": "58da586369f33999",
       "title": "Research acceleration: The jagged frontier",
       "url": "https://openai.com/index/research-acceleration-jagged-frontier",
@@ -303,61 +391,6 @@
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
-      "id": "cc098f79a29af09e",
-      "title": "Capex in chemicals: Generating value through performance excellence",
-      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "c8a116c38360a4d4",
-      "title": "What is cloud computing? -test",
-      "url": "https://www.mckinsey.com/what-is-cloud-computing--test",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "7234b8a744551ef6",
-      "title": "Technology’s next frontier",
-      "url": "https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment…",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "4d519963d1184a0b",
-      "title": "Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments",
-      "url": "https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T13:15:00+00:00",
-      "excerpt": "It's an important moment for supply chain leaders, with persistent disruption,…",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "de645760ce532647",
-      "title": "GxP Compliance in Life Sciences Is Non-Negotiable: SAP Is Raising the Standard",
-      "url": "https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T12:15:00+00:00",
-      "excerpt": "Supporting good practice across enterprise systems is more critical than ever.",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
       "id": "6b58f7f5b6967ffa",
       "title": "Designing Customization Journeys to Build More Valuable Customer Relationships",
       "url": "https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/",
@@ -378,28 +411,6 @@
       "published": "2026-11-17T10:00:00+00:00",
       "excerpt": "Author(s): Philip Ball Published 50 years ago, the information paradox dramatically illustrated the conflicts between general…",
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "1f65441f8e069476",
-      "title": "Thomas Saueressig to Leave SAP Executive Board",
-      "url": "https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-17T08:00:00+00:00",
-      "excerpt": "WALLDORF — Saueressig will remain fully in charge of his current responsibilities until end of March 2027.",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
-      "id": "dd23ccc69da2c8ea",
-      "title": "SAP Completes Acquisition of TechWolf",
-      "url": "https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-16T15:00:00+00:00",
-      "excerpt": "WALLDORF — SAP has completed the acquisition of the AI work intelligence platform provider.",
-      "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
       "id": "67d152032baf1ca8",
@@ -444,17 +455,6 @@
       "published": "2026-11-16T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-17T00:50:00.781232+00:00"
-    },
-    {
-      "id": "cdc8eef67bc55a0d",
-      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
-      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-13T18:00:39+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-13T22:40:37.702070+00:00"
     },
     {
       "id": "c7a410ad3b862809",

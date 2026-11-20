@@ -4,7 +4,71 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Thu, 19 Nov 2026 23:36:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 15:31:22 +0000</lastBuildDate>
+    <item>
+      <title>How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise</title>
+      <link>https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/</link>
+      <guid>https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/</guid>
+      <pubDate>Fri, 20 Nov 2026 14:15:00 +0000</pubDate>
+      <description>Together, SAP and Microsoft solve challenges and unlock exponential AI value.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>From Melbourne to Mexico: How SAP Concur and AI Help the San Francisco 49ers Take Their Game Global</title>
+      <link>https://news.sap.com/2026/11/how-sap-concur-helps-san-francisco-49ers-take-game-global/</link>
+      <guid>https://news.sap.com/2026/11/how-sap-concur-helps-san-francisco-49ers-take-game-global/</guid>
+      <pubDate>Fri, 20 Nov 2026 13:15:00 +0000</pubDate>
+      <description>Traveling across continents during the 2026 NFL…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Takeda Turns to SAP S/4HANA to Support Digital Transformation</title>
+      <link>https://news.sap.com/2026/11/takeda-turns-to-sap-erp-digital-transformation/</link>
+      <guid>https://news.sap.com/2026/11/takeda-turns-to-sap-erp-digital-transformation/</guid>
+      <pubDate>Fri, 20 Nov 2026 12:15:00 +0000</pubDate>
+      <description>The biotech company’s move to SAP S/4HANA supports process simplification, AI adoption, and a more connected…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Why Enterprise Architecture Is Becoming Key to Successful AI</title>
+      <link>https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai/</link>
+      <guid>https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai/</guid>
+      <pubDate>Fri, 20 Nov 2026 11:15:00 +0000</pubDate>
+      <description>Trusted data, business context, and human accountability are essential to turning AI ambition into business value.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+      <guid>https://huggingface.co/blog/harness-adapters-at-scale</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The new consolidation: M&amp;A shifts in European consumer tech and media</title>
+      <link>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media</link>
+      <guid>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>As Europe’s media landscape evolves, our analysis identifies the deal archetypes driving consolidation and…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Physical AI is breaking out of the box</title>
+      <link>https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box</link>
+      <guid>https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Advancing US economic mobility in the age of AI</title>
+      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai</link>
+      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI could widen economic gaps in the United States—or help close them. Whether it becomes a…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>If tiny “primordial” black holes exist, here’s how we might find them</title>
       <link>https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119</link>
@@ -30,11 +94,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Explore the Codex Security Plugin</title>
-      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-      <guid>https://openai.com/business/learn/codex-security-plugin-demo</guid>
+      <title>Deploying Daybreak Red</title>
+      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+      <guid>https://openai.com/business/learn/deploying-daybreak-red</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…</description>
+      <description>Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</description>
       <category>ai</category>
     </item>
     <item>
@@ -43,6 +107,14 @@
       <guid>https://openai.com/business/learn/pr-scans-demo</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <description>Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Explore the Codex Security Plugin</title>
+      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
+      <guid>https://openai.com/business/learn/codex-security-plugin-demo</guid>
+      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…</description>
       <category>ai</category>
     </item>
     <item>
@@ -150,14 +222,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise</title>
-      <link>https://openai.com/business/customer-stories/sumitomo-life</link>
-      <guid>https://openai.com/business/customer-stories/sumitomo-life</guid>
-      <pubDate>Wed, 18 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis.…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Research acceleration: The jagged frontier</title>
       <link>https://openai.com/index/research-acceleration-jagged-frontier</link>
       <guid>https://openai.com/index/research-acceleration-jagged-frontier</guid>
@@ -182,46 +246,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Capex in chemicals: Generating value through performance excellence</title>
-      <link>https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence</link>
-      <guid>https://www.mckinsey.com/capabilities/operations/our-insights/capex-in-chemicals-generating-value-through-performance-excellence</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>With the chemicals industry, especially in Europe, under pressure from converging external challenges, capital excellence is one…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>What is cloud computing? -test</title>
-      <link>https://www.mckinsey.com/what-is-cloud-computing--test</link>
-      <guid>https://www.mckinsey.com/what-is-cloud-computing--test</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Cloud computing allows companies to store their infrastructures remotely via the internet, ultimately reducing costs and creating value.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Technology’s next frontier</title>
-      <link>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier</link>
-      <guid>https://www.mckinsey.com/quarterly/the-five-fifty/five-fifty-technologys-next-frontier</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Five of the 14 trends in McKinsey’s 2026 tech trends report are on pace to attract at least twice as much investment…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Advancing Supply Chain Planning: SAP Named a Leader in Multiple 2026 IDC MarketScape Assessments</title>
-      <link>https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/</link>
-      <guid>https://news.sap.com/2026/11/sap-named-leader-idc-marketscape-supply-chain-assessments/</guid>
-      <pubDate>Tue, 17 Nov 2026 13:15:00 +0000</pubDate>
-      <description>It's an important moment for supply chain leaders, with persistent disruption,…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>GxP Compliance in Life Sciences Is Non-Negotiable: SAP Is Raising the Standard</title>
-      <link>https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard/</link>
-      <guid>https://news.sap.com/2026/11/gxp-compliance-life-sciences-sap-raising-standard/</guid>
-      <pubDate>Tue, 17 Nov 2026 12:15:00 +0000</pubDate>
-      <description>Supporting good practice across enterprise systems is more critical than ever.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Designing Customization Journeys to Build More Valuable Customer Relationships</title>
       <link>https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/</link>
       <guid>https://sloanreview.mit.edu/article/designing-customization-journeys-to-build-more-valuable-customer-relationships/</guid>
@@ -236,22 +260,6 @@
       <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Philip Ball Published 50 years ago, the information paradox dramatically illustrated the conflicts between general…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Thomas Saueressig to Leave SAP Executive Board</title>
-      <link>https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/</link>
-      <guid>https://news.sap.com/2026/11/thomas-saueressig-to-leave-sap-executive-board/</guid>
-      <pubDate>Tue, 17 Nov 2026 08:00:00 +0000</pubDate>
-      <description>WALLDORF — Saueressig will remain fully in charge of his current responsibilities until end of March 2027.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>SAP Completes Acquisition of TechWolf</title>
-      <link>https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/</link>
-      <guid>https://news.sap.com/2026/11/sap-completes-acquisition-of-techwolf/</guid>
-      <pubDate>Mon, 16 Nov 2026 15:00:00 +0000</pubDate>
-      <description>WALLDORF — SAP has completed the acquisition of the AI work intelligence platform provider.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>The Silent Eldercare Crisis: How Leaders Can Help</title>
@@ -282,14 +290,6 @@
       <link>https://huggingface.co/blog/openrouter</link>
       <guid>https://huggingface.co/blog/openrouter</guid>
       <pubDate>Mon, 16 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
-      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
-      <guid>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</guid>
-      <pubDate>Fri, 13 Nov 2026 18:00:39 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
