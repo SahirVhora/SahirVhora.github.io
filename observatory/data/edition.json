@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T14:42:54.641505+00:00",
+  "updatedAt": "2026-11-21T22:11:44.325222+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -128,28 +128,6 @@
       "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
-      "id": "824c03b970f1dc58",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "701a571706ec6c00",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
       "id": "8145fefb47ff1ca9",
       "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
       "url": "https://openai.com/business/customer-stories/hebbia",
@@ -170,6 +148,28 @@
       "published": "2026-11-20T00:00:00+00:00",
       "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…",
       "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "824c03b970f1dc58",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "701a571706ec6c00",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
       "id": "683d21fb513fd670",

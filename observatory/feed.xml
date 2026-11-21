@@ -4,7 +4,7 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sat, 21 Nov 2026 14:42:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 22:11:44 +0000</lastBuildDate>
     <item>
       <title>A tiny superconducting sandwich could help computers use less energy</title>
       <link>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</link>
@@ -54,22 +54,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-      <link>https://huggingface.co/blog/inkling2mini</link>
-      <guid>https://huggingface.co/blog/inkling2mini</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
-      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
-      <guid>https://huggingface.co/blog/harness-adapters-at-scale</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
       <link>https://openai.com/business/customer-stories/hebbia</link>
       <guid>https://openai.com/business/customer-stories/hebbia</guid>
@@ -83,6 +67,22 @@
       <guid>https://openai.com/index/introducing-medchembench</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+      <link>https://huggingface.co/blog/inkling2mini</link>
+      <guid>https://huggingface.co/blog/inkling2mini</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+      <guid>https://huggingface.co/blog/harness-adapters-at-scale</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
       <category>ai</category>
     </item>
     <item>
