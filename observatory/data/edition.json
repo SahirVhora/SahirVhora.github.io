@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T23:07:01.062435+00:00",
+  "updatedAt": "2026-11-21T14:42:54.641505+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -127,28 +128,6 @@
       "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
-      "id": "8145fefb47ff1ca9",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "c1a2af93db54bfcf",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
       "id": "824c03b970f1dc58",
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "url": "https://huggingface.co/blog/inkling2mini",
@@ -169,6 +148,28 @@
       "published": "2026-11-20T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "8145fefb47ff1ca9",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "c1a2af93db54bfcf",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
       "id": "683d21fb513fd670",
@@ -322,7 +323,8 @@
       "evidence": "Company research",
       "published": "2026-11-18T21:35:43+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
+      "retained": true
     },
     {
       "id": "f0b81ce3c1461288",
@@ -355,7 +357,8 @@
       "evidence": "Company research",
       "published": "2026-11-18T18:13:42+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
+      "retained": true
     },
     {
       "id": "aef632472a5e3af7",
@@ -476,7 +479,8 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
+      "retained": true
     },
     {
       "id": "9b52875eb1c53b2c",
@@ -498,7 +502,8 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
+      "retained": true
     },
     {
       "id": "6e8b7f1820153600",
@@ -520,7 +525,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "f321c904268bcef2",
@@ -531,7 +537,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
+      "retained": true
     },
     {
       "id": "d0f9bf46fa9dba7c",
@@ -542,7 +549,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T11:13:04+00:00",
       "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00"
+      "firstSeen": "2026-11-13T14:39:07.384574+00:00",
+      "retained": true
     },
     {
       "id": "7ec450a180cc1a66",
