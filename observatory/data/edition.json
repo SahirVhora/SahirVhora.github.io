@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T22:11:44.325222+00:00",
+  "updatedAt": "2026-11-22T14:38:56.493064+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -150,28 +150,6 @@
       "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
-      "id": "824c03b970f1dc58",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "701a571706ec6c00",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
       "id": "683d21fb513fd670",
       "title": "The new consolidation: M&A shifts in European consumer tech and media",
       "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media",
@@ -202,6 +180,28 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-20T00:00:00+00:00",
       "excerpt": "AI could widen economic gaps in the United States—or help close them. Whether it becomes a…",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
+      "id": "824c03b970f1dc58",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "701a571706ec6c00",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
