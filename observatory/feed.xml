@@ -4,7 +4,15 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 14:38:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 22:29:02 +0000</lastBuildDate>
+    <item>
+      <title>Perplexity and Intelligence</title>
+      <link>https://openai.com/index/perplexity-and-intelligence</link>
+      <guid>https://openai.com/index/perplexity-and-intelligence</guid>
+      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
+      <description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>A tiny superconducting sandwich could help computers use less energy</title>
       <link>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</link>
@@ -70,6 +78,22 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
+      <link>https://huggingface.co/blog/inkling2mini</link>
+      <guid>https://huggingface.co/blog/inkling2mini</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
+      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
+      <guid>https://huggingface.co/blog/harness-adapters-at-scale</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
       <title>The new consolidation: M&amp;A shifts in European consumer tech and media</title>
       <link>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media</link>
       <guid>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media</guid>
@@ -92,22 +116,6 @@
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
       <description>AI could widen economic gaps in the United States—or help close them. Whether it becomes a…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-      <link>https://huggingface.co/blog/inkling2mini</link>
-      <guid>https://huggingface.co/blog/inkling2mini</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
-      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
-      <guid>https://huggingface.co/blog/harness-adapters-at-scale</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>If tiny “primordial” black holes exist, here’s how we might find them</title>
@@ -134,11 +142,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Explore the Codex Security Plugin</title>
-      <link>https://openai.com/business/learn/codex-security-plugin-demo</link>
-      <guid>https://openai.com/business/learn/codex-security-plugin-demo</guid>
+      <title>Deploying Daybreak Red</title>
+      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
+      <guid>https://openai.com/business/learn/deploying-daybreak-red</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…</description>
+      <description>Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</description>
       <category>ai</category>
     </item>
     <item>
@@ -147,14 +155,6 @@
       <guid>https://openai.com/business/learn/pr-scans-demo</guid>
       <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
       <description>Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Get started with Daybreak Blue</title>
-      <link>https://openai.com/business/learn/daybreak-blue-onboarding-demo</link>
-      <guid>https://openai.com/business/learn/daybreak-blue-onboarding-demo</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get…</description>
       <category>ai</category>
     </item>
     <item>

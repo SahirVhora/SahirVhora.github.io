@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T14:38:56.493064+00:00",
+  "updatedAt": "2026-11-22T22:29:02.799316+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -61,6 +61,17 @@
     }
   ],
   "stories": [
+    {
+      "id": "1a10f1676d46fc01",
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-22T00:00:00+00:00",
+      "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "firstSeen": "2026-11-22T22:29:02.799316+00:00"
+    },
     {
       "id": "06caffa3d555e0ae",
       "title": "A tiny superconducting sandwich could help computers use less energy",
@@ -150,6 +161,28 @@
       "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
+      "id": "824c03b970f1dc58",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
+    },
+    {
+      "id": "701a571706ec6c00",
+      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
+      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-20T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+    },
+    {
       "id": "683d21fb513fd670",
       "title": "The new consolidation: M&A shifts in European consumer tech and media",
       "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media",
@@ -180,28 +213,6 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-20T00:00:00+00:00",
       "excerpt": "AI could widen economic gaps in the United States—or help close them. Whether it becomes a…",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
-      "id": "824c03b970f1dc58",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "701a571706ec6c00",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
@@ -238,15 +249,15 @@
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
-      "id": "82fe289fe466dcc1",
-      "title": "Explore the Codex Security Plugin",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "id": "a890a236270cc5e3",
+      "title": "Deploying Daybreak Red",
+      "url": "https://openai.com/business/learn/deploying-daybreak-red",
       "category": "ai",
       "source": "OpenAI",
       "evidence": "Company announcement",
       "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the…",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
+      "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+      "firstSeen": "2026-11-22T22:29:02.799316+00:00"
     },
     {
       "id": "17b7a2b39f098895",
@@ -257,17 +268,6 @@
       "evidence": "Company announcement",
       "published": "2026-11-19T00:00:00+00:00",
       "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
-    },
-    {
-      "id": "da30645137037f00",
-      "title": "Get started with Daybreak Blue",
-      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get…",
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
