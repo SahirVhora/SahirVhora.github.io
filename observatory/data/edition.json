@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22T22:29:02.799316+00:00",
+  "updatedAt": "2026-11-23T18:17:33.838309+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -61,6 +60,105 @@
     }
   ],
   "stories": [
+    {
+      "id": "eb2701ff66febea2",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-23T17:20:37+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "3ffa5c39e01e3431",
+      "title": "Finding faster quantum algorithms with agents and formal verification",
+      "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+      "category": "ai",
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-23T16:59:40+00:00",
+      "excerpt": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "9c6e2a9370bb8851",
+      "title": "How SAP Store Certification Turns into Customer Trust for Vertex",
+      "url": "https://news.sap.com/2026/11/how-sap-store-certification-turns-into-customer-trust-for-vertex/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-23T12:15:00+00:00",
+      "excerpt": "For partners weighing whether SAP Store certification effort is worth it, Vertex's experience makes the…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "291bedbe6039488b",
+      "title": "The Trouble With Continuous Personal Growth",
+      "url": "https://sloanreview.mit.edu/article/the-trouble-with-continuous-personal-growth/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-23T12:00:07+00:00",
+      "excerpt": "Grundini/Ikon Images For four decades, I have studied work and working lives. During that time, I have watched assumptions…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "72984f306a838587",
+      "title": "Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India'”",
+      "url": "https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-23T05:15:00+00:00",
+      "excerpt": "As SAP's biggest R&D base outside Walldorf, SAP Labs India sits…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "00d52199bef25f9e",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "aed2792ec76a543e",
+      "title": "The unit of activation: How industrial companies can make AI work",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-unit-of-activation-how-industrial-companies-can-make-ai-work",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "Industrial companies won’t unlock AI’s full potential by adding new tools to old processes.…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "ba4be53989be447e",
+      "title": "Is Japan due for a business reset?",
+      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "After three decades of stagnant economic growth, a new McKinsey report shows how Japan could unlock its potential…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "9cbf2af53a1189ae",
+      "title": "Rewiring GCC countries for AI: Realizing value in government",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/rewiring-gcc-countries-for-ai-realizing-value-in-government",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "AI use is near universal in the Gulf Cooperation Council, but value creation has not kept…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
     {
       "id": "1a10f1676d46fc01",
       "title": "Perplexity and Intelligence",
@@ -282,39 +380,6 @@
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
-      "id": "73b7c234f9554339",
-      "title": "Stefan Latuski on transforming public sector services at scale",
-      "url": "https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "The chief information officer of Germany’s Federal Employment Agency shares how his organization has reimagined customer…",
-      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
-    },
-    {
-      "id": "b9a96cb3f2ac3377",
-      "title": "A bold vision for Belgium",
-      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "A productivity revolution could more than double the country’s economic growth and ensure future prosperity.",
-      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
-    },
-    {
-      "id": "89b699cf00058b73",
-      "title": "Author Talks: Defining customer needs locally to create global value",
-      "url": "https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-defining-customer-needs-locally-to-create-global-value",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "What is one of the biggest mistakes companies make when designing products? Dartmouth’s Vijay Govindarajan…",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
-    },
-    {
       "id": "95da0fde7d56c751",
       "title": "Introducing Gemini 4 Neon",
       "url": "https://deepmind.google/blog/introducing-gemini-4-neon/",
@@ -323,8 +388,7 @@
       "evidence": "Company research",
       "published": "2026-11-18T21:35:43+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
-      "retained": true
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "f0b81ce3c1461288",
@@ -357,8 +421,7 @@
       "evidence": "Company research",
       "published": "2026-11-18T18:13:42+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
-      "retained": true
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "aef632472a5e3af7",
@@ -368,50 +431,6 @@
       "source": "Hugging Face",
       "evidence": "Community / technical",
       "published": "2026-11-18T15:00:23+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "6153453f3e5f1dc0",
-      "title": "How Bestseller Turned Fragmented Workforce Data into Trusted People Intelligence",
-      "url": "https://news.sap.com/2026/11/bestseller-turned-fragmented-workforce-data-into-trusted-people-intelligence/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T12:15:00+00:00",
-      "excerpt": "Now, leaders across all brands and countries at the fashion group can work from the…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "1320ec75c232d81b",
-      "title": "SAP Recognized as a Customers’ Choice in the 2026 Gartner Peer Insights™ Voice of the Customer for Talent Acquisition (Recruiting) Suites",
-      "url": "https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-18T11:15:00+00:00",
-      "excerpt": "The recognition captures the…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
-      "id": "ec56b5eff9affb1c",
-      "title": "180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers",
-      "url": "https://huggingface.co/blog/moe-expert-streaming",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-18T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "5b89a2db7f60ae90",
-      "title": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
-      "url": "https://huggingface.co/blog/rumble-2-flash",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-18T00:00:00+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
@@ -479,8 +498,7 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
-      "retained": true
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
     },
     {
       "id": "9b52875eb1c53b2c",
@@ -502,8 +520,7 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
-      "retained": true
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
       "id": "6e8b7f1820153600",
@@ -525,8 +542,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "f321c904268bcef2",
@@ -537,20 +553,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
-      "retained": true
-    },
-    {
-      "id": "d0f9bf46fa9dba7c",
-      "title": "Opening the datasets behind our AI weather models",
-      "url": "https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-11-10T11:13:04+00:00",
-      "excerpt": "Foundational precipitation and geostationary satellite datasets to observe the planet clearly.",
-      "firstSeen": "2026-11-13T14:39:07.384574+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
     },
     {
       "id": "7ec450a180cc1a66",
@@ -639,17 +642,6 @@
       "published": "2026-11-02T12:00:13+00:00",
       "excerpt": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers…",
       "firstSeen": "2026-11-02T16:03:29.700568+00:00"
-    },
-    {
-      "id": "3da2b65af0d1313a",
-      "title": "AI Is Thriving at Capital One",
-      "url": "https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-10-28T11:00:15+00:00",
-      "excerpt": "Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of…",
-      "firstSeen": "2026-10-28T13:01:25.645071+00:00"
     },
     {
       "id": "19160e849b3790b1",

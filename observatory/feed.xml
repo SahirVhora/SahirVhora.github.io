@@ -4,7 +4,79 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 22:29:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 18:17:33 +0000</lastBuildDate>
+    <item>
+      <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
+      <link>https://huggingface.co/blog/allenai/robotrack</link>
+      <guid>https://huggingface.co/blog/allenai/robotrack</guid>
+      <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Finding faster quantum algorithms with agents and formal verification</title>
+      <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
+      <guid>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
+      <pubDate>Mon, 23 Nov 2026 16:59:40 +0000</pubDate>
+      <description>Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How SAP Store Certification Turns into Customer Trust for Vertex</title>
+      <link>https://news.sap.com/2026/11/how-sap-store-certification-turns-into-customer-trust-for-vertex/</link>
+      <guid>https://news.sap.com/2026/11/how-sap-store-certification-turns-into-customer-trust-for-vertex/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:15:00 +0000</pubDate>
+      <description>For partners weighing whether SAP Store certification effort is worth it, Vertex's experience makes the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>The Trouble With Continuous Personal Growth</title>
+      <link>https://sloanreview.mit.edu/article/the-trouble-with-continuous-personal-growth/</link>
+      <guid>https://sloanreview.mit.edu/article/the-trouble-with-continuous-personal-growth/</guid>
+      <pubDate>Mon, 23 Nov 2026 12:00:07 +0000</pubDate>
+      <description>Grundini/Ikon Images For four decades, I have studied work and working lives. During that time, I have watched assumptions…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India'”</title>
+      <link>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</link>
+      <guid>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</guid>
+      <pubDate>Mon, 23 Nov 2026 05:15:00 +0000</pubDate>
+      <description>As SAP's biggest R&amp;D base outside Walldorf, SAP Labs India sits…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>How to build and maintain an agentic evaluation</title>
+      <link>https://huggingface.co/blog/agentic-evals</link>
+      <guid>https://huggingface.co/blog/agentic-evals</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The unit of activation: How industrial companies can make AI work</title>
+      <link>https://www.mckinsey.com/industries/industrials/our-insights/the-unit-of-activation-how-industrial-companies-can-make-ai-work</link>
+      <guid>https://www.mckinsey.com/industries/industrials/our-insights/the-unit-of-activation-how-industrial-companies-can-make-ai-work</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Industrial companies won’t unlock AI’s full potential by adding new tools to old processes.…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Is Japan due for a business reset?</title>
+      <link>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset</link>
+      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>After three decades of stagnant economic growth, a new McKinsey report shows how Japan could unlock its potential…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Rewiring GCC countries for AI: Realizing value in government</title>
+      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/rewiring-gcc-countries-for-ai-realizing-value-in-government</link>
+      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/rewiring-gcc-countries-for-ai-realizing-value-in-government</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>AI use is near universal in the Gulf Cooperation Council, but value creation has not kept…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>Perplexity and Intelligence</title>
       <link>https://openai.com/index/perplexity-and-intelligence</link>
@@ -166,30 +238,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Stefan Latuski on transforming public sector services at scale</title>
-      <link>https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale</link>
-      <guid>https://www.mckinsey.com/industries/public-sector/our-insights/stefan-latuski-on-transforming-public-sector-services-at-scale</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>The chief information officer of Germany’s Federal Employment Agency shares how his organization has reimagined customer…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>A bold vision for Belgium</title>
-      <link>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium</link>
-      <guid>https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/a-bold-vision-for-belgium</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>A productivity revolution could more than double the country’s economic growth and ensure future prosperity.</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Author Talks: Defining customer needs locally to create global value</title>
-      <link>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-defining-customer-needs-locally-to-create-global-value</link>
-      <guid>https://www.mckinsey.com/featured-insights/mckinsey-on-books/author-talks-defining-customer-needs-locally-to-create-global-value</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>What is one of the biggest mistakes companies make when designing products? Dartmouth’s Vijay Govindarajan…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Introducing Gemini 4 Neon</title>
       <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
       <guid>https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
@@ -226,38 +274,6 @@
       <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
       <guid>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
       <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>How Bestseller Turned Fragmented Workforce Data into Trusted People Intelligence</title>
-      <link>https://news.sap.com/2026/11/bestseller-turned-fragmented-workforce-data-into-trusted-people-intelligence/</link>
-      <guid>https://news.sap.com/2026/11/bestseller-turned-fragmented-workforce-data-into-trusted-people-intelligence/</guid>
-      <pubDate>Wed, 18 Nov 2026 12:15:00 +0000</pubDate>
-      <description>Now, leaders across all brands and countries at the fashion group can work from the…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>SAP Recognized as a Customers’ Choice in the 2026 Gartner Peer Insights™ Voice of the Customer for Talent Acquisition (Recruiting) Suites</title>
-      <link>https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/</link>
-      <guid>https://news.sap.com/2026/11/sap-recognized-gartner-peer-insights-talent-acquisition/</guid>
-      <pubDate>Wed, 18 Nov 2026 11:15:00 +0000</pubDate>
-      <description>The recognition captures the…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>180B Parameters, 32GB of RAM: Pushing MoE Inference to the Limit with Transformers</title>
-      <link>https://huggingface.co/blog/moe-expert-streaming</link>
-      <guid>https://huggingface.co/blog/moe-expert-streaming</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
-      <link>https://huggingface.co/blog/rumble-2-flash</link>
-      <guid>https://huggingface.co/blog/rumble-2-flash</guid>
-      <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -350,14 +366,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Opening the datasets behind our AI weather models</title>
-      <link>https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/</link>
-      <guid>https://deepmind.google/blog/opening-the-datasets-behind-our-ai-weather-models/</guid>
-      <pubDate>Tue, 10 Nov 2026 11:13:04 +0000</pubDate>
-      <description>Foundational precipitation and geostationary satellite datasets to observe the planet clearly.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Gravitational-Wave Observations Implicate Failed Supernovae</title>
       <link>http://link.aps.org/doi/10.1103/Physics.19.s149</link>
       <guid>http://link.aps.org/doi/10.1103/Physics.19.s149</guid>
@@ -419,14 +427,6 @@
       <guid>https://sloanreview.mit.edu/article/the-ai-governance-paradox/</guid>
       <pubDate>Mon, 02 Nov 2026 12:00:13 +0000</pubDate>
       <description>Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>AI Is Thriving at Capital One</title>
-      <link>https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/</link>
-      <guid>https://sloanreview.mit.edu/article/ai-is-thriving-at-capital-one/</guid>
-      <pubDate>Wed, 28 Oct 2026 11:00:15 +0000</pubDate>
-      <description>Eliot Wyatt/Ikon Images If one were making a list of the companies that have most exploited the potential of…</description>
       <category>consulting</category>
     </item>
     <item>
