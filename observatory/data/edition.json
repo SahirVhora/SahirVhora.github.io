@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-23T18:17:33.838309+00:00",
+  "updatedAt": "2026-11-24T17:51:03.676842+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -28,7 +28,7 @@
       "category": "physics",
       "url": "https://news.mit.edu/rss/topic/physics",
       "ok": true,
-      "count": 6
+      "count": 5
     },
     {
       "name": "MIT Sloan Management Review",
@@ -60,6 +60,83 @@
     }
   ],
   "stories": [
+    {
+      "id": "6a28e842b3bf4bfd",
+      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
+      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-24T16:34:13+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "ca50cb4fe46ca2b1",
+      "title": "How the Atlas Copco Group Makes Skills Visible Throughout the Organization",
+      "url": "https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-24T12:15:00+00:00",
+      "excerpt": "Becoming a skills-enabled organization starts with the way you think about talent.",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "26d1b790ead3c134",
+      "title": "Four Habits of Tech-Savvy Leaders",
+      "url": "https://sloanreview.mit.edu/article/four-habits-of-tech-savvy-leaders/",
+      "category": "consulting",
+      "source": "MIT Sloan Management Review",
+      "evidence": "Management perspective",
+      "published": "2026-11-24T12:00:48+00:00",
+      "excerpt": "Sidsel Sorensen / Ikon Images The new technology thundered onto the scene, generating fear and elation. Financial markets gyrated. An…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "4bb0fbfc69c616a3",
+      "title": "Less Code, More Context: How AI Is Reshaping the Developer Role",
+      "url": "https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-24T11:15:00+00:00",
+      "excerpt": "As developers delegate more work to AI, where does their expertise matter most?",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "aa334d9e6eddd968",
+      "title": "Global Economics Intelligence executive summary, October 2026",
+      "url": "https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-24T00:00:00+00:00",
+      "excerpt": "Energy market shocks, rising bond yields, mounting sovereign debt, and climbing inflation challenge policymakers and central bankers, but…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "65ecd23117de50e0",
+      "title": "What is the agentic factory? An update to the machinery of transformation for financial-services businesses",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-24T00:00:00+00:00",
+      "excerpt": "An agentic factory is a centralized model to accelerate the…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "b0689cf87ab570a4",
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-23T21:20:00+00:00",
+      "excerpt": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
     {
       "id": "eb2701ff66febea2",
       "title": "RoboTrack: Point tracking for real-world robotic manipulation",
@@ -105,8 +182,52 @@
       "firstSeen": "2026-11-23T18:17:33.838309+00:00"
     },
     {
+      "id": "51319465788bd8e8",
+      "title": "Symmetry Guides the Search for Magnetic Order",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.157",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-23T10:00:00+00:00",
+      "excerpt": "Author(s): Zhi-Da Song New symmetry-based computational approaches could make it easier to identify magnetic materials for spintronic devices…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "913315609fe3d729",
+      "title": "A Paradox That Still Puzzles Physicists",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.162",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-23T10:00:00+00:00",
+      "excerpt": "Author(s): Michael Schirber A survey of leading researchers finds broad agreement that information escapes from black holes—but little consensus…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "10878202550bbbf9",
+      "title": "Connected intelligence for in-house legal",
+      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-23T08:00:00+00:00",
+      "excerpt": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "1259b534687dd8b3",
+      "title": "Richpanel helps companies automate 50% of support in 30 days",
+      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-23T08:00:00+00:00",
+      "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
       "id": "72984f306a838587",
-      "title": "Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India'”",
+      "title": "Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India’”",
       "url": "https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/",
       "category": "consulting",
       "source": "SAP News",
@@ -116,15 +237,15 @@
       "firstSeen": "2026-11-23T18:17:33.838309+00:00"
     },
     {
-      "id": "00d52199bef25f9e",
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
+      "id": "e7620dd6ef1f4c62",
+      "title": "What it really takes to get value from AI: Highlights from McKinsey Media Day",
+      "url": "https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
       "published": "2026-11-23T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+      "excerpt": "Companies are pouring money into AI, but few see returns. McKinsey…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
     },
     {
       "id": "aed2792ec76a543e",
@@ -136,6 +257,17 @@
       "published": "2026-11-23T00:00:00+00:00",
       "excerpt": "Industrial companies won’t unlock AI’s full potential by adding new tools to old processes.…",
       "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "1c521c8664419435",
+      "title": "AI economics in action: What four companies have done and learned",
+      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "As the cost of AI increases, some companies have found a way to lower…",
+      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
     },
     {
       "id": "ba4be53989be447e",
@@ -157,6 +289,17 @@
       "evidence": "Consulting perspective",
       "published": "2026-11-23T00:00:00+00:00",
       "excerpt": "AI use is near universal in the Gulf Cooperation Council, but value creation has not kept…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "00d52199bef25f9e",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "",
       "firstSeen": "2026-11-23T18:17:33.838309+00:00"
     },
     {
@@ -215,17 +358,6 @@
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
-      "id": "9c28b038a27125a7",
-      "title": "Why Enterprise Architecture Is Becoming Key to Successful AI",
-      "url": "https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T11:15:00+00:00",
-      "excerpt": "Trusted data, business context, and human accountability are essential to turning AI ambition into business value.",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
       "id": "7ad44f990f0c53ef",
       "title": "Combatting adversarial distillation",
       "url": "https://openai.com/index/combatting-adversarial-distillation",
@@ -234,28 +366,6 @@
       "evidence": "Company announcement",
       "published": "2026-11-20T10:00:00+00:00",
       "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "8145fefb47ff1ca9",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "c1a2af93db54bfcf",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…",
       "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
@@ -281,37 +391,26 @@
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
-      "id": "683d21fb513fd670",
-      "title": "The new consolidation: M&A shifts in European consumer tech and media",
-      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
+      "id": "8145fefb47ff1ca9",
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
       "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "As Europe’s media landscape evolves, our analysis identifies the deal archetypes driving consolidation and…",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+      "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
-      "id": "bd4b170cb368ed9a",
-      "title": "Physical AI is breaking out of the box",
-      "url": "https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
+      "id": "c1a2af93db54bfcf",
+      "title": "Can AI help scientists identify promising drug candidates?",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
       "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded…",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
-      "id": "46ebeb83ce7ce3fe",
-      "title": "Advancing US economic mobility in the age of AI",
-      "url": "https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "AI could widen economic gaps in the United States—or help close them. Whether it becomes a…",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
+      "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…",
+      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
     },
     {
       "id": "3cbf012c5545ff09",
@@ -322,61 +421,6 @@
       "evidence": "University reporting",
       "published": "2026-11-19T15:00:00+00:00",
       "excerpt": "When engulfed by a star, the small but massive object should devour the…",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
-    },
-    {
-      "id": "da6bfb394cf02cd6",
-      "title": "Who Wins the Next Disruption: Five Rules for Creating Supply Chains that Can Take a Hit",
-      "url": "https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-19T12:15:00+00:00",
-      "excerpt": "The goal is to build a supply chain that…",
-      "firstSeen": "2026-11-19T15:48:49.095479+00:00"
-    },
-    {
-      "id": "9342dbf934e428aa",
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-19T08:00:00+00:00",
-      "excerpt": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues…",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
-    },
-    {
-      "id": "a890a236270cc5e3",
-      "title": "Deploying Daybreak Red",
-      "url": "https://openai.com/business/learn/deploying-daybreak-red",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-      "firstSeen": "2026-11-22T22:29:02.799316+00:00"
-    },
-    {
-      "id": "17b7a2b39f098895",
-      "title": "See PR scans in action",
-      "url": "https://openai.com/business/learn/pr-scans-demo",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
-      "firstSeen": "2026-11-19T23:36:06.715636+00:00"
-    },
-    {
-      "id": "8e2eaf2738ae263b",
-      "title": "Building pharma’s laboratory of the future",
-      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-19T00:00:00+00:00",
-      "excerpt": "Leading biopharma organizations are integrating artificial intelligence and physical automation into their laboratories to escape the R&D productivity trap.",
       "firstSeen": "2026-11-19T23:36:06.715636+00:00"
     },
     {
@@ -422,17 +466,6 @@
       "published": "2026-11-18T18:13:42+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "aef632472a5e3af7",
-      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-18T15:00:23+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
     },
     {
       "id": "6b58f7f5b6967ffa",
@@ -611,39 +644,6 @@
       "firstSeen": "2026-11-04T14:37:53.420199+00:00"
     },
     {
-      "id": "7a0e94bb8a3c319b",
-      "title": "Atomic Wave Simulates Black Hole Properties",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.149",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-04T10:00:00+00:00",
-      "excerpt": "Author(s): Susan Curtis Using sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform…",
-      "firstSeen": "2026-11-05T14:42:50.874955+00:00"
-    },
-    {
-      "id": "c0c0a10a54389682",
-      "title": "Calculating Superconductors from Scratch",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s138",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-03T10:00:00+00:00",
-      "excerpt": "Author(s): Charles Day A new formalism yields the quantities that characterize a conventional superconductor without adjustable parameters. [Physics 19, s138] Published…",
-      "firstSeen": "2026-11-04T22:39:14.505848+00:00"
-    },
-    {
-      "id": "a793aab7db96348e",
-      "title": "The AI Governance Paradox",
-      "url": "https://sloanreview.mit.edu/article/the-ai-governance-paradox/",
-      "category": "consulting",
-      "source": "MIT Sloan Management Review",
-      "evidence": "Management perspective",
-      "published": "2026-11-02T12:00:13+00:00",
-      "excerpt": "Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers…",
-      "firstSeen": "2026-11-02T16:03:29.700568+00:00"
-    },
-    {
       "id": "19160e849b3790b1",
       "title": "Watch the universe emerge from the dark ages, with Lumina",
       "url": "https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026",
@@ -653,23 +653,6 @@
       "published": "2026-10-26T04:00:00+00:00",
       "excerpt": "The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first…",
       "firstSeen": "2026-10-26T13:10:08.665792+00:00"
-    },
-    {
-      "id": "553830d231d34627",
-      "title": "Scattering neutrinos to probe the fundamental laws of the universe",
-      "url": "https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925",
-      "category": "physics",
-      "source": "MIT Physics",
-      "evidence": "University reporting",
-      "published": "2026-09-25T04:00:00+00:00",
-      "excerpt": "As she became integral to an international particle physics experiment, PhD student Faith Reyes found…",
-      "firstSeen": "2026-10-03T17:26:58.550846+00:00",
-      "brief": {
-        "summary": "MIT profiles a doctoral researcher working on an international neutrino experiment. It offers a human entry point into the patient experimental work behind fundamental physics.",
-        "question": "How can scientists learn about particles they cannot observe directly? Look for the signals left by their interactions.",
-        "caveat": "This is a researcher profile. The headline should not be read as an announcement of a new physical law.",
-        "basis": "Paraphrased from the publisher's RSS title and description; not a full-article review."
-      }
     }
   ]
 }

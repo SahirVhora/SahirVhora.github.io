@@ -4,7 +4,63 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 18:17:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:51:03 +0000</lastBuildDate>
+    <item>
+      <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
+      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
+      <guid>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
+      <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How the Atlas Copco Group Makes Skills Visible Throughout the Organization</title>
+      <link>https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization/</link>
+      <guid>https://news.sap.com/2026/11/how-atlas-copco-group-makes-skills-visible-throughout-organization/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:15:00 +0000</pubDate>
+      <description>Becoming a skills-enabled organization starts with the way you think about talent.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Four Habits of Tech-Savvy Leaders</title>
+      <link>https://sloanreview.mit.edu/article/four-habits-of-tech-savvy-leaders/</link>
+      <guid>https://sloanreview.mit.edu/article/four-habits-of-tech-savvy-leaders/</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:48 +0000</pubDate>
+      <description>Sidsel Sorensen / Ikon Images The new technology thundered onto the scene, generating fear and elation. Financial markets gyrated. An…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Less Code, More Context: How AI Is Reshaping the Developer Role</title>
+      <link>https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/</link>
+      <guid>https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/</guid>
+      <pubDate>Tue, 24 Nov 2026 11:15:00 +0000</pubDate>
+      <description>As developers delegate more work to AI, where does their expertise matter most?</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Global Economics Intelligence executive summary, October 2026</title>
+      <link>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence</link>
+      <guid>https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/global-economics-intelligence</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Energy market shocks, rising bond yields, mounting sovereign debt, and climbing inflation challenge policymakers and central bankers, but…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>What is the agentic factory? An update to the machinery of transformation for financial-services businesses</title>
+      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses</link>
+      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/what-is-the-agentic-factory-an-update-to-the-machinery-of-transformation-for-financial-services-businesses</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>An agentic factory is a centralized model to accelerate the…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>OpenAI and Cisco introduce Shirudo</title>
+      <link>https://openai.com/index/introducing-shirudo</link>
+      <guid>https://openai.com/index/introducing-shirudo</guid>
+      <pubDate>Mon, 23 Nov 2026 21:20:00 +0000</pubDate>
+      <description>OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out…</description>
+      <category>ai</category>
+    </item>
     <item>
       <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
       <link>https://huggingface.co/blog/allenai/robotrack</link>
@@ -38,7 +94,39 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India'”</title>
+      <title>Symmetry Guides the Search for Magnetic Order</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.157</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.157</guid>
+      <pubDate>Mon, 23 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Zhi-Da Song New symmetry-based computational approaches could make it easier to identify magnetic materials for spintronic devices…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>A Paradox That Still Puzzles Physicists</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.162</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.162</guid>
+      <pubDate>Mon, 23 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Michael Schirber A survey of leading researchers finds broad agreement that information escapes from black holes—but little consensus…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Connected intelligence for in-house legal</title>
+      <link>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</link>
+      <guid>https://openai.com/business/learn/connected-intelligence-for-in-house-legal</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Richpanel helps companies automate 50% of support in 30 days</title>
+      <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
+      <guid>https://openai.com/business/customer-stories/richpanel-ai-customer-support</guid>
+      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
+      <description>Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India’”</title>
       <link>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</link>
       <guid>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</guid>
       <pubDate>Mon, 23 Nov 2026 05:15:00 +0000</pubDate>
@@ -46,12 +134,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>How to build and maintain an agentic evaluation</title>
-      <link>https://huggingface.co/blog/agentic-evals</link>
-      <guid>https://huggingface.co/blog/agentic-evals</guid>
+      <title>What it really takes to get value from AI: Highlights from McKinsey Media Day</title>
+      <link>https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day</link>
+      <guid>https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
+      <description>Companies are pouring money into AI, but few see returns. McKinsey…</description>
+      <category>consulting</category>
     </item>
     <item>
       <title>The unit of activation: How industrial companies can make AI work</title>
@@ -59,6 +147,14 @@
       <guid>https://www.mckinsey.com/industries/industrials/our-insights/the-unit-of-activation-how-industrial-companies-can-make-ai-work</guid>
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <description>Industrial companies won’t unlock AI’s full potential by adding new tools to old processes.…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>AI economics in action: What four companies have done and learned</title>
+      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned</link>
+      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description>As the cost of AI increases, some companies have found a way to lower…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -76,6 +172,14 @@
       <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
       <description>AI use is near universal in the Gulf Cooperation Council, but value creation has not kept…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>How to build and maintain an agentic evaluation</title>
+      <link>https://huggingface.co/blog/agentic-evals</link>
+      <guid>https://huggingface.co/blog/agentic-evals</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
     </item>
     <item>
       <title>Perplexity and Intelligence</title>
@@ -118,35 +222,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Why Enterprise Architecture Is Becoming Key to Successful AI</title>
-      <link>https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai/</link>
-      <guid>https://news.sap.com/2026/11/why-enterprise-architecture-is-becoming-key-to-successful-ai/</guid>
-      <pubDate>Fri, 20 Nov 2026 11:15:00 +0000</pubDate>
-      <description>Trusted data, business context, and human accountability are essential to turning AI ambition into business value.</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Combatting adversarial distillation</title>
       <link>https://openai.com/index/combatting-adversarial-distillation</link>
       <guid>https://openai.com/index/combatting-adversarial-distillation</guid>
       <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
       <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
-      <link>https://openai.com/business/customer-stories/hebbia</link>
-      <guid>https://openai.com/business/customer-stories/hebbia</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Can AI help scientists identify promising drug candidates?</title>
-      <link>https://openai.com/index/introducing-medchembench</link>
-      <guid>https://openai.com/index/introducing-medchembench</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…</description>
       <category>ai</category>
     </item>
     <item>
@@ -166,28 +246,20 @@
       <category>ai</category>
     </item>
     <item>
-      <title>The new consolidation: M&amp;A shifts in European consumer tech and media</title>
-      <link>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media</link>
-      <guid>https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-new-consolidation-m-and-a-shifts-in-european-consumer-tech-and-media</guid>
+      <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
+      <link>https://openai.com/business/customer-stories/hebbia</link>
+      <guid>https://openai.com/business/customer-stories/hebbia</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As Europe’s media landscape evolves, our analysis identifies the deal archetypes driving consolidation and…</description>
-      <category>consulting</category>
+      <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…</description>
+      <category>ai</category>
     </item>
     <item>
-      <title>Physical AI is breaking out of the box</title>
-      <link>https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box</link>
-      <guid>https://www.mckinsey.com/industries/industrials/our-insights/physical-ai-is-breaking-out-of-the-box</guid>
+      <title>Can AI help scientists identify promising drug candidates?</title>
+      <link>https://openai.com/index/introducing-medchembench</link>
+      <guid>https://openai.com/index/introducing-medchembench</guid>
       <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As physical AI scales, the biggest opportunities may extend well beyond today’s most visible applications and best-funded…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Advancing US economic mobility in the age of AI</title>
-      <link>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai</link>
-      <guid>https://www.mckinsey.com/institute-for-economic-mobility/our-insights/advancing-us-economic-mobility-in-the-age-of-ai</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>AI could widen economic gaps in the United States—or help close them. Whether it becomes a…</description>
-      <category>consulting</category>
+      <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…</description>
+      <category>ai</category>
     </item>
     <item>
       <title>If tiny “primordial” black holes exist, here’s how we might find them</title>
@@ -196,46 +268,6 @@
       <pubDate>Thu, 19 Nov 2026 15:00:00 +0000</pubDate>
       <description>When engulfed by a star, the small but massive object should devour the…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>Who Wins the Next Disruption: Five Rules for Creating Supply Chains that Can Take a Hit</title>
-      <link>https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/</link>
-      <guid>https://news.sap.com/2026/11/five-rules-creating-supply-chains-that-can-take-a-hit/</guid>
-      <pubDate>Thu, 19 Nov 2026 12:15:00 +0000</pubDate>
-      <description>The goal is to build a supply chain that…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>How OpenAI’s Performance Factory keeps ChatGPT fast</title>
-      <link>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</link>
-      <guid>https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast</guid>
-      <pubDate>Thu, 19 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Deploying Daybreak Red</title>
-      <link>https://openai.com/business/learn/deploying-daybreak-red</link>
-      <guid>https://openai.com/business/learn/deploying-daybreak-red</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>See PR scans in action</title>
-      <link>https://openai.com/business/learn/pr-scans-demo</link>
-      <guid>https://openai.com/business/learn/pr-scans-demo</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Building pharma’s laboratory of the future</title>
-      <link>https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future</link>
-      <guid>https://www.mckinsey.com/industries/life-sciences/our-insights/building-pharmas-laboratory-of-the-future</guid>
-      <pubDate>Thu, 19 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Leading biopharma organizations are integrating artificial intelligence and physical automation into their laboratories to escape the R&amp;D productivity trap.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Introducing Gemini 4 Neon</title>
@@ -266,14 +298,6 @@
       <link>https://deepmind.google/blog/genie-4-is-now-available/</link>
       <guid>https://deepmind.google/blog/genie-4-is-now-available/</guid>
       <pubDate>Wed, 18 Nov 2026 18:13:42 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
-      <link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
-      <guid>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
-      <pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -406,43 +430,11 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Atomic Wave Simulates Black Hole Properties</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.149</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.149</guid>
-      <pubDate>Wed, 04 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Susan Curtis Using sheets of light to corral waves of ultracold atoms, researchers have created an experimental platform…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Calculating Superconductors from Scratch</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s138</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s138</guid>
-      <pubDate>Tue, 03 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Charles Day A new formalism yields the quantities that characterize a conventional superconductor without adjustable parameters. [Physics 19, s138] Published…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>The AI Governance Paradox</title>
-      <link>https://sloanreview.mit.edu/article/the-ai-governance-paradox/</link>
-      <guid>https://sloanreview.mit.edu/article/the-ai-governance-paradox/</guid>
-      <pubDate>Mon, 02 Nov 2026 12:00:13 +0000</pubDate>
-      <description>Getty Images Operations that run under extreme risk — such as nuclear power plants, aircraft carriers, and air traffic control centers…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>Watch the universe emerge from the dark ages, with Lumina</title>
       <link>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</link>
       <guid>https://news.mit.edu/2026/watch-universe-emerge-from-dark-ages-with-lumina-1026</guid>
       <pubDate>Mon, 26 Oct 2026 04:00:00 +0000</pubDate>
       <description>The new simulation tracks dark matter, galaxies, stars, and cosmic structures over the universe’s first…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Scattering neutrinos to probe the fundamental laws of the universe</title>
-      <link>https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925</link>
-      <guid>https://news.mit.edu/2026/probing-fundamental-laws-of-universe-faith-reyes-0925</guid>
-      <pubDate>Fri, 25 Sep 2026 04:00:00 +0000</pubDate>
-      <description>MIT profiles a doctoral researcher working on an international neutrino experiment. It offers a human entry point into the patient experimental work behind fundamental physics.</description>
       <category>physics</category>
     </item>
   </channel>
