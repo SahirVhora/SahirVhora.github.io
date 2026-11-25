@@ -4,13 +4,45 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 17:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 17:17:57 +0000</lastBuildDate>
+    <item>
+      <title>AI Is Changing the First Job: Why Youth Employment Belongs on Every Business Agenda</title>
+      <link>https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda/</link>
+      <guid>https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda/</guid>
+      <pubDate>Wed, 25 Nov 2026 11:15:00 +0000</pubDate>
+      <description>The future of work cannot be built without young people.</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>An Indic Voice Agent with CUGA</title>
+      <link>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</link>
+      <guid>https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga</guid>
+      <pubDate>Wed, 25 Nov 2026 10:22:09 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
+      <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
+      <guid>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
+      <pubDate>Wed, 25 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
       <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
       <guid>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
       <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
       <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>GPT-6 models demonstrate intrinsic protein-design capabilities</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</link>
+      <guid>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities</guid>
+      <pubDate>Tue, 24 Nov 2026 13:00:00 +0000</pubDate>
+      <description>GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five…</description>
       <category>ai</category>
     </item>
     <item>
@@ -35,6 +67,78 @@
       <guid>https://news.sap.com/2026/11/less-code-more-context-how-ai-is-reshaping-developer-role/</guid>
       <pubDate>Tue, 24 Nov 2026 11:15:00 +0000</pubDate>
       <description>As developers delegate more work to AI, where does their expertise matter most?</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Searching for distant planets with Astra</title>
+      <link>https://openai.com/index/searching-for-distant-planets-with-astra</link>
+      <guid>https://openai.com/index/searching-for-distant-planets-with-astra</guid>
+      <pubDate>Tue, 24 Nov 2026 11:00:00 +0000</pubDate>
+      <description>See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Free Electrons Get Bound in a Metal</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.161</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.161</guid>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Samuel Jarman Researchers observe spatial confinement of electrons that would normally be conducting in a metal. [Physics…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Quantum Computing with Location-Based Bits</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.163</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.163</guid>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Rachel Berkowitz Researchers demonstrate quantum computing with ultracold atoms in an optical lattice in which information is stored in…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Pulsar Data Mask Gravitational-Wave Secrets</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s143</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s143</guid>
+      <pubDate>Tue, 24 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Rachel Berkowitz One promising test fails to distinguish between signals from supermassive black holes and those from primordial gravitational…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>How Intentful uses dots to make more time for growth</title>
+      <link>https://openai.com/business/customer-stories/intentful-dots</link>
+      <guid>https://openai.com/business/customer-stories/intentful-dots</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>How iFood scales coding agents across 15,000 repositories</title>
+      <link>https://openai.com/business/customer-stories/ifood</link>
+      <guid>https://openai.com/business/customer-stories/ifood</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Clay helps sales teams win with Codex and ChatGPT</title>
+      <link>https://openai.com/business/customer-stories/clay-plugins-openai</link>
+      <guid>https://openai.com/business/customer-stories/clay-plugins-openai</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with…</description>
+      <category>ai</category>
+    </item>
+    <item>
+      <title>The AI readiness gap</title>
+      <link>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap</link>
+      <guid>https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Employees are ready for the AI transition. What’s preventing leaders from turning that readiness into results?</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Regaining the competitiveness of Europe’s industrials the European way</title>
+      <link>https://www.mckinsey.com/industries/industrials/our-insights/regaining-the-competitiveness-of-europes-industrials-the-european-way</link>
+      <guid>https://www.mckinsey.com/industries/industrials/our-insights/regaining-the-competitiveness-of-europes-industrials-the-european-way</guid>
+      <pubDate>Tue, 24 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Our research shows that 45 percent of European industrial companies exhibit heightened levels of financial stress…</description>
       <category>consulting</category>
     </item>
     <item>
@@ -118,20 +222,20 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Richpanel helps companies automate 50% of support in 30 days</title>
-      <link>https://openai.com/business/customer-stories/richpanel-ai-customer-support</link>
-      <guid>https://openai.com/business/customer-stories/richpanel-ai-customer-support</guid>
-      <pubDate>Mon, 23 Nov 2026 08:00:00 +0000</pubDate>
-      <description>Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India’”</title>
       <link>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</link>
       <guid>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</guid>
       <pubDate>Mon, 23 Nov 2026 05:15:00 +0000</pubDate>
       <description>As SAP's biggest R&amp;D base outside Walldorf, SAP Labs India sits…</description>
       <category>consulting</category>
+    </item>
+    <item>
+      <title>How to build and maintain an agentic evaluation</title>
+      <link>https://huggingface.co/blog/agentic-evals</link>
+      <guid>https://huggingface.co/blog/agentic-evals</guid>
+      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
     </item>
     <item>
       <title>What it really takes to get value from AI: Highlights from McKinsey Media Day</title>
@@ -158,38 +262,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Is Japan due for a business reset?</title>
-      <link>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset</link>
-      <guid>https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <description>After three decades of stagnant economic growth, a new McKinsey report shows how Japan could unlock its potential…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Rewiring GCC countries for AI: Realizing value in government</title>
-      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/rewiring-gcc-countries-for-ai-realizing-value-in-government</link>
-      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/rewiring-gcc-countries-for-ai-realizing-value-in-government</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <description>AI use is near universal in the Gulf Cooperation Council, but value creation has not kept…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>How to build and maintain an agentic evaluation</title>
-      <link>https://huggingface.co/blog/agentic-evals</link>
-      <guid>https://huggingface.co/blog/agentic-evals</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Perplexity and Intelligence</title>
-      <link>https://openai.com/index/perplexity-and-intelligence</link>
-      <guid>https://openai.com/index/perplexity-and-intelligence</guid>
-      <pubDate>Sun, 22 Nov 2026 00:00:00 +0000</pubDate>
-      <description>How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>A tiny superconducting sandwich could help computers use less energy</title>
       <link>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</link>
       <guid>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</guid>
@@ -214,22 +286,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Takeda Turns to SAP S/4HANA to Support Digital Transformation</title>
-      <link>https://news.sap.com/2026/11/takeda-turns-to-sap-erp-digital-transformation/</link>
-      <guid>https://news.sap.com/2026/11/takeda-turns-to-sap-erp-digital-transformation/</guid>
-      <pubDate>Fri, 20 Nov 2026 12:15:00 +0000</pubDate>
-      <description>The biotech company’s move to SAP S/4HANA supports process simplification, AI adoption, and a more connected…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Combatting adversarial distillation</title>
-      <link>https://openai.com/index/combatting-adversarial-distillation</link>
-      <guid>https://openai.com/index/combatting-adversarial-distillation</guid>
-      <pubDate>Fri, 20 Nov 2026 10:00:00 +0000</pubDate>
-      <description>OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
       <link>https://huggingface.co/blog/inkling2mini</link>
       <guid>https://huggingface.co/blog/inkling2mini</guid>
@@ -246,22 +302,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Hebbia sees improvements in financial research with GPT-6 Astra</title>
-      <link>https://openai.com/business/customer-stories/hebbia</link>
-      <guid>https://openai.com/business/customer-stories/hebbia</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…</description>
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Can AI help scientists identify promising drug candidates?</title>
-      <link>https://openai.com/index/introducing-medchembench</link>
-      <guid>https://openai.com/index/introducing-medchembench</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description>MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…</description>
-      <category>ai</category>
-    </item>
-    <item>
       <title>If tiny “primordial” black holes exist, here’s how we might find them</title>
       <link>https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119</link>
       <guid>https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119</guid>
@@ -274,22 +314,6 @@
       <link>https://deepmind.google/blog/introducing-gemini-4-neon/</link>
       <guid>https://deepmind.google/blog/introducing-gemini-4-neon/</guid>
       <pubDate>Wed, 18 Nov 2026 21:35:43 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency</title>
-      <link>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</link>
-      <guid>https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin</guid>
-      <pubDate>Wed, 18 Nov 2026 19:54:56 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Why your fine-tuning job takes longer than the FLOPs say</title>
-      <link>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</link>
-      <guid>https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time</guid>
-      <pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate>
       <description />
       <category>ai</category>
     </item>
@@ -331,14 +355,6 @@
       <guid>http://link.aps.org/doi/10.1103/Physics.19.153</guid>
       <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
       <description>Author(s): Ren-Bao Liu Robust collective spin dynamics have been achieved in diamond by winding the spins into a nanoscale…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Quantum Dots Emit Photons in Desired Directions</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.155</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.155</guid>
-      <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Michael Schirber Researchers demonstrate directional control of a single-photon source by coupling two quantum dots together. [Physics…</description>
       <category>physics</category>
     </item>
     <item>
@@ -390,14 +406,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Gravitational-Wave Observations Implicate Failed Supernovae</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s149</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s149</guid>
-      <pubDate>Tue, 10 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>Do More With Sustainability Data</title>
       <link>https://sloanreview.mit.edu/article/do-more-with-sustainability-data/</link>
       <guid>https://sloanreview.mit.edu/article/do-more-with-sustainability-data/</guid>
@@ -411,14 +419,6 @@
       <guid>https://news.mit.edu/2026/pinning-down-quark-gluon-plasma-structure-1105</guid>
       <pubDate>Thu, 05 Nov 2026 16:20:00 +0000</pubDate>
       <description>A new method picks up where Einstein left off, to predict how particles move…</description>
-      <category>physics</category>
-    </item>
-    <item>
-      <title>Images Capture Unusual Quantum Turbulence</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.s137</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.s137</guid>
-      <pubDate>Thu, 05 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Rachel Berkowitz Random tangles of vortex lines have been observed untangling in an ultracold gas. [Physics 19, s137] Published…</description>
       <category>physics</category>
     </item>
     <item>

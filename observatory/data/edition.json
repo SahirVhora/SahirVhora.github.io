@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24T17:51:03.676842+00:00",
+  "updatedAt": "2026-11-25T17:17:57.090348+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -61,6 +62,39 @@
   ],
   "stories": [
     {
+      "id": "de04c856fa060971",
+      "title": "AI Is Changing the First Job: Why Youth Employment Belongs on Every Business Agenda",
+      "url": "https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-25T11:15:00+00:00",
+      "excerpt": "The future of work cannot be built without young people.",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "0077e07924e43bf7",
+      "title": "An Indic Voice Agent with CUGA",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-25T10:22:09+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "df3be113c8aed13f",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-25T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
       "id": "6a28e842b3bf4bfd",
       "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
       "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
@@ -70,6 +104,17 @@
       "published": "2026-11-24T16:34:13+00:00",
       "excerpt": "",
       "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "ac2f786b30f6d457",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-24T13:00:00+00:00",
+      "excerpt": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
     },
     {
       "id": "ca50cb4fe46ca2b1",
@@ -103,6 +148,105 @@
       "published": "2026-11-24T11:15:00+00:00",
       "excerpt": "As developers delegate more work to AI, where does their expertise matter most?",
       "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+    },
+    {
+      "id": "7758c04a629331bf",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-24T11:00:00+00:00",
+      "excerpt": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "b5233d6721cccaf4",
+      "title": "Free Electrons Get Bound in a Metal",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.161",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-24T10:00:00+00:00",
+      "excerpt": "Author(s): Samuel Jarman Researchers observe spatial confinement of electrons that would normally be conducting in a metal. [Physics…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "d7ae7d9cd85d36ee",
+      "title": "Quantum Computing with Location-Based Bits",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.163",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-24T10:00:00+00:00",
+      "excerpt": "Author(s): Rachel Berkowitz Researchers demonstrate quantum computing with ultracold atoms in an optical lattice in which information is stored in…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "afd9c7d3c709c3ac",
+      "title": "Pulsar Data Mask Gravitational-Wave Secrets",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s143",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-24T10:00:00+00:00",
+      "excerpt": "Author(s): Rachel Berkowitz One promising test fails to distinguish between signals from supermassive black holes and those from primordial gravitational…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "7e14b56be6744308",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-24T00:00:00+00:00",
+      "excerpt": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "89a905d5eae9fa3e",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-24T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "a3c9028eefd69cfd",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "category": "ai",
+      "source": "OpenAI",
+      "evidence": "Company announcement",
+      "published": "2026-11-24T00:00:00+00:00",
+      "excerpt": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "dcf3f8cffeeece14",
+      "title": "The AI readiness gap",
+      "url": "https://www.mckinsey.com/capabilities/people-and-organization/our-insights/the-ai-readiness-gap",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-24T00:00:00+00:00",
+      "excerpt": "Employees are ready for the AI transition. What’s preventing leaders from turning that readiness into results?",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
+    },
+    {
+      "id": "ba00c64cf5d66a89",
+      "title": "Regaining the competitiveness of Europe’s industrials the European way",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/regaining-the-competitiveness-of-europes-industrials-the-european-way",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-24T00:00:00+00:00",
+      "excerpt": "Our research shows that 45 percent of European industrial companies exhibit heightened levels of financial stress…",
+      "firstSeen": "2026-11-25T17:17:57.090348+00:00"
     },
     {
       "id": "aa334d9e6eddd968",
@@ -157,7 +301,8 @@
       "evidence": "Company research",
       "published": "2026-11-23T16:59:40+00:00",
       "excerpt": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00",
+      "retained": true
     },
     {
       "id": "9c6e2a9370bb8851",
@@ -215,17 +360,6 @@
       "firstSeen": "2026-11-24T17:51:03.676842+00:00"
     },
     {
-      "id": "1259b534687dd8b3",
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-23T08:00:00+00:00",
-      "excerpt": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools…",
-      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
-    },
-    {
       "id": "72984f306a838587",
       "title": "Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India’”",
       "url": "https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/",
@@ -234,6 +368,17 @@
       "evidence": "Company announcement",
       "published": "2026-11-23T05:15:00+00:00",
       "excerpt": "As SAP's biggest R&D base outside Walldorf, SAP Labs India sits…",
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+    },
+    {
+      "id": "00d52199bef25f9e",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-23T00:00:00+00:00",
+      "excerpt": "",
       "firstSeen": "2026-11-23T18:17:33.838309+00:00"
     },
     {
@@ -270,50 +415,6 @@
       "firstSeen": "2026-11-24T17:51:03.676842+00:00"
     },
     {
-      "id": "ba4be53989be447e",
-      "title": "Is Japan due for a business reset?",
-      "url": "https://www.mckinsey.com/featured-insights/future-of-asia/future-of-asia-podcasts/is-japan-due-for-a-business-reset",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-23T00:00:00+00:00",
-      "excerpt": "After three decades of stagnant economic growth, a new McKinsey report shows how Japan could unlock its potential…",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
-    },
-    {
-      "id": "9cbf2af53a1189ae",
-      "title": "Rewiring GCC countries for AI: Realizing value in government",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/rewiring-gcc-countries-for-ai-realizing-value-in-government",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-23T00:00:00+00:00",
-      "excerpt": "AI use is near universal in the Gulf Cooperation Council, but value creation has not kept…",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
-    },
-    {
-      "id": "00d52199bef25f9e",
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-23T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
-    },
-    {
-      "id": "1a10f1676d46fc01",
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-22T00:00:00+00:00",
-      "excerpt": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "firstSeen": "2026-11-22T22:29:02.799316+00:00"
-    },
-    {
       "id": "06caffa3d555e0ae",
       "title": "A tiny superconducting sandwich could help computers use less energy",
       "url": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
@@ -347,28 +448,6 @@
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
-      "id": "a7b0fa3af868496f",
-      "title": "Takeda Turns to SAP S/4HANA to Support Digital Transformation",
-      "url": "https://news.sap.com/2026/11/takeda-turns-to-sap-erp-digital-transformation/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T12:15:00+00:00",
-      "excerpt": "The biotech company’s move to SAP S/4HANA supports process simplification, AI adoption, and a more connected…",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
-      "id": "7ad44f990f0c53ef",
-      "title": "Combatting adversarial distillation",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T10:00:00+00:00",
-      "excerpt": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
       "id": "824c03b970f1dc58",
       "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
       "url": "https://huggingface.co/blog/inkling2mini",
@@ -391,28 +470,6 @@
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
-      "id": "8145fefb47ff1ca9",
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "Hebbia tested GPT-6 Astra for financial research. Its prerelease evaluations found gains in source coverage, citation…",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "c1a2af93db54bfcf",
-      "title": "Can AI help scientists identify promising drug candidates?",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "category": "ai",
-      "source": "OpenAI",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in…",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
       "id": "3cbf012c5545ff09",
       "title": "If tiny “primordial” black holes exist, here’s how we might find them",
       "url": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
@@ -432,29 +489,8 @@
       "evidence": "Company research",
       "published": "2026-11-18T21:35:43+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "f0b81ce3c1461288",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-18T19:54:56+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
-    },
-    {
-      "id": "e55c8f2df06c07ff",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-18T18:53:43+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
+      "retained": true
     },
     {
       "id": "cac57b5217ba2caa",
@@ -465,7 +501,8 @@
       "evidence": "Company research",
       "published": "2026-11-18T18:13:42+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
+      "retained": true
     },
     {
       "id": "6b58f7f5b6967ffa",
@@ -512,17 +549,6 @@
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
     },
     {
-      "id": "ce6785853b5664a5",
-      "title": "Quantum Dots Emit Photons in Desired Directions",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.155",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-16T10:00:00+00:00",
-      "excerpt": "Author(s): Michael Schirber Researchers demonstrate directional control of a single-photon source by coupling two quantum dots together. [Physics…",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
       "id": "c7a410ad3b862809",
       "title": "Introducing Gemini 4 Hydrogen",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
@@ -531,7 +557,8 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
+      "retained": true
     },
     {
       "id": "9b52875eb1c53b2c",
@@ -553,7 +580,8 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
+      "retained": true
     },
     {
       "id": "6e8b7f1820153600",
@@ -575,7 +603,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "f321c904268bcef2",
@@ -586,18 +615,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T12:02:28+00:00",
       "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00"
-    },
-    {
-      "id": "7ec450a180cc1a66",
-      "title": "Gravitational-Wave Observations Implicate Failed Supernovae",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s149",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-10T10:00:00+00:00",
-      "excerpt": "Author(s): Sophia Chen Stars collapsing directly into black holes might explain the surprising number of merging black holes of about…",
-      "firstSeen": "2026-11-11T14:28:00.428519+00:00"
+      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
+      "retained": true
     },
     {
       "id": "cbd0edd4fc2d3f06",
@@ -620,17 +639,6 @@
       "published": "2026-11-05T16:20:00+00:00",
       "excerpt": "A new method picks up where Einstein left off, to predict how particles move…",
       "firstSeen": "2026-11-05T22:41:27.070232+00:00"
-    },
-    {
-      "id": "3f3cbfc66a295c47",
-      "title": "Images Capture Unusual Quantum Turbulence",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.s137",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-05T10:00:00+00:00",
-      "excerpt": "Author(s): Rachel Berkowitz Random tangles of vortex lines have been observed untangling in an ultracold gas. [Physics 19, s137] Published…",
-      "firstSeen": "2026-11-06T14:21:15.684764+00:00"
     },
     {
       "id": "d2819faa22a4a215",
