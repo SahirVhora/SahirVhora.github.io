@@ -4,7 +4,55 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Wed, 25 Nov 2026 17:17:57 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:58:24 +0000</lastBuildDate>
+    <item>
+      <title>SAP and planqc Bring Quantum Computing into Business Processes</title>
+      <link>https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/</link>
+      <guid>https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/</guid>
+      <pubDate>Thu, 26 Nov 2026 12:30:00 +0000</pubDate>
+      <description>MUNICH — With planqc, SAP can develop directly on real quantum hardware and shorten the path…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon</title>
+      <link>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</link>
+      <guid>https://huggingface.co/blog/ggml-org/llamacpp-amd-bench</guid>
+      <pubDate>Thu, 26 Nov 2026 11:37:17 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference</title>
+      <link>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</link>
+      <guid>https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin</guid>
+      <pubDate>Thu, 26 Nov 2026 05:05:36 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems</title>
+      <link>https://huggingface.co/blog/training-swarms</link>
+      <guid>https://huggingface.co/blog/training-swarms</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>Testing Article CS</title>
+      <link>https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs</link>
+      <guid>https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs</guid>
+      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
+      <description>Testing Article CS updated dek</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Where scientists draw the line on AI agents</title>
+      <link>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</link>
+      <guid>https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents</guid>
+      <pubDate>Wed, 25 Nov 2026 18:52:55 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
     <item>
       <title>AI Is Changing the First Job: Why Youth Employment Belongs on Every Business Agenda</title>
       <link>https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda/</link>
@@ -22,6 +70,22 @@
       <category>ai</category>
     </item>
     <item>
+      <title>Creating Nature’s Magnetic Explosions in the Lab</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.158</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.158</guid>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Haihong Che A new experiment decodes the small-scale physical processes responsible for large-scale, cosmic manifestations of magnetic…</description>
+      <category>physics</category>
+    </item>
+    <item>
+      <title>Getting More Photons Out of Quantum Memory</title>
+      <link>http://link.aps.org/doi/10.1103/Physics.19.s147</link>
+      <guid>http://link.aps.org/doi/10.1103/Physics.19.s147</guid>
+      <pubDate>Wed, 25 Nov 2026 10:00:00 +0000</pubDate>
+      <description>Author(s): Sophia Chen A new solid-state quantum memory combines multiple innovations to more efficiently store and retrieve photons.…</description>
+      <category>physics</category>
+    </item>
+    <item>
       <title>Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000</title>
       <link>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</link>
       <guid>https://huggingface.co/blog/inkling-2-mini-inference-hillclimb</guid>
@@ -30,11 +94,11 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton</title>
-      <link>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</link>
-      <guid>https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance</guid>
-      <pubDate>Tue, 24 Nov 2026 16:34:13 +0000</pubDate>
-      <description />
+      <title>From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity</title>
+      <link>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/</link>
+      <guid>https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/</guid>
+      <pubDate>Tue, 24 Nov 2026 13:07:53 +0000</pubDate>
+      <description>Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass…</description>
       <category>ai</category>
     </item>
     <item>
@@ -166,14 +230,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>RoboTrack: Point tracking for real-world robotic manipulation</title>
-      <link>https://huggingface.co/blog/allenai/robotrack</link>
-      <guid>https://huggingface.co/blog/allenai/robotrack</guid>
-      <pubDate>Mon, 23 Nov 2026 17:20:37 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>Finding faster quantum algorithms with agents and formal verification</title>
       <link>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</link>
       <guid>https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/</guid>
@@ -254,14 +310,6 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>AI economics in action: What four companies have done and learned</title>
-      <link>https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned</link>
-      <guid>https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <description>As the cost of AI increases, some companies have found a way to lower…</description>
-      <category>consulting</category>
-    </item>
-    <item>
       <title>A tiny superconducting sandwich could help computers use less energy</title>
       <link>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</link>
       <guid>https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120</guid>
@@ -276,30 +324,6 @@
       <pubDate>Fri, 20 Nov 2026 14:15:00 +0000</pubDate>
       <description>Together, SAP and Microsoft solve challenges and unlock exponential AI value.</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>From Melbourne to Mexico: How SAP Concur and AI Help the San Francisco 49ers Take Their Game Global</title>
-      <link>https://news.sap.com/2026/11/how-sap-concur-helps-san-francisco-49ers-take-game-global/</link>
-      <guid>https://news.sap.com/2026/11/how-sap-concur-helps-san-francisco-49ers-take-game-global/</guid>
-      <pubDate>Fri, 20 Nov 2026 13:15:00 +0000</pubDate>
-      <description>Traveling across continents during the 2026 NFL…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup</title>
-      <link>https://huggingface.co/blog/inkling2mini</link>
-      <guid>https://huggingface.co/blog/inkling2mini</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost</title>
-      <link>https://huggingface.co/blog/harness-adapters-at-scale</link>
-      <guid>https://huggingface.co/blog/harness-adapters-at-scale</guid>
-      <pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
     </item>
     <item>
       <title>If tiny “primordial” black holes exist, here’s how we might find them</title>
@@ -334,28 +358,12 @@
       <category>consulting</category>
     </item>
     <item>
-      <title>Hawking’s Black Hole Paradox Exposed Clash Between Physics Theories</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.156</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.156</guid>
-      <pubDate>Tue, 17 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Philip Ball Published 50 years ago, the information paradox dramatically illustrated the conflicts between general…</description>
-      <category>physics</category>
-    </item>
-    <item>
       <title>The Silent Eldercare Crisis: How Leaders Can Help</title>
       <link>https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/</link>
       <guid>https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/</guid>
       <pubDate>Mon, 16 Nov 2026 12:46:23 +0000</pubDate>
       <description>Andrew Baker/Ikon Images As of 2024, over 38 million Americans were providing unpaid care to an older…</description>
       <category>consulting</category>
-    </item>
-    <item>
-      <title>Winding Spins Toward Better Quantum Sensing</title>
-      <link>http://link.aps.org/doi/10.1103/Physics.19.153</link>
-      <guid>http://link.aps.org/doi/10.1103/Physics.19.153</guid>
-      <pubDate>Mon, 16 Nov 2026 10:00:00 +0000</pubDate>
-      <description>Author(s): Ren-Bao Liu Robust collective spin dynamics have been achieved in diamond by winding the spins into a nanoscale…</description>
-      <category>physics</category>
     </item>
     <item>
       <title>Introducing Gemini 4 Hydrogen</title>
@@ -395,14 +403,6 @@
       <guid>https://deepmind.google/blog/gemini-4-carbon-is-now-available/</guid>
       <pubDate>Tue, 10 Nov 2026 16:03:47 +0000</pubDate>
       <description />
-      <category>ai</category>
-    </item>
-    <item>
-      <title>Introducing AlphaProof Code: a breakthrough in verifying complex software at depth</title>
-      <link>https://deepmind.google/blog/introducing-alphaproof-code/</link>
-      <guid>https://deepmind.google/blog/introducing-alphaproof-code/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:02:28 +0000</pubDate>
-      <description>AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…</description>
       <category>ai</category>
     </item>
     <item>

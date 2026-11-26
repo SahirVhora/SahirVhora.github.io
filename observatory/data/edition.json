@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T17:17:57.090348+00:00",
+  "updatedAt": "2026-11-26T16:58:24.257507+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,9 +13,8 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": false,
-      "count": 7,
-      "error": "ParseError"
+      "ok": true,
+      "count": 7
     },
     {
       "name": "Hugging Face",
@@ -62,6 +61,72 @@
   ],
   "stories": [
     {
+      "id": "d8ae01de3d2bd88f",
+      "title": "SAP and planqc Bring Quantum Computing into Business Processes",
+      "url": "https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-26T12:30:00+00:00",
+      "excerpt": "MUNICH — With planqc, SAP can develop directly on real quantum hardware and shorten the path…",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
+      "id": "a734da9d3a1d8760",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-26T11:37:17+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
+      "id": "3d2697b636d74b83",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-26T05:05:36+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
+      "id": "819f2bb8e324e5e7",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-26T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
+      "id": "bc376cdc0dfb5d12",
+      "title": "Testing Article CS",
+      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-26T00:00:00+00:00",
+      "excerpt": "Testing Article CS updated dek",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
+      "id": "88bd06d7e0e9b82f",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-25T18:52:55+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
       "id": "de04c856fa060971",
       "title": "AI Is Changing the First Job: Why Youth Employment Belongs on Every Business Agenda",
       "url": "https://news.sap.com/2026/11/ai-changing-first-job-youth-employment-business-agenda/",
@@ -84,6 +149,28 @@
       "firstSeen": "2026-11-25T17:17:57.090348+00:00"
     },
     {
+      "id": "f2b3efc43e719a95",
+      "title": "Creating Nature’s Magnetic Explosions in the Lab",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.158",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-25T10:00:00+00:00",
+      "excerpt": "Author(s): Haihong Che A new experiment decodes the small-scale physical processes responsible for large-scale, cosmic manifestations of magnetic…",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
+      "id": "24b6b04d8ea02568",
+      "title": "Getting More Photons Out of Quantum Memory",
+      "url": "http://link.aps.org/doi/10.1103/Physics.19.s147",
+      "category": "physics",
+      "source": "APS Physics",
+      "evidence": "Research commentary",
+      "published": "2026-11-25T10:00:00+00:00",
+      "excerpt": "Author(s): Sophia Chen A new solid-state quantum memory combines multiple innovations to more efficiently store and retrieve photons.…",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+    },
+    {
       "id": "df3be113c8aed13f",
       "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
       "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
@@ -95,15 +182,15 @@
       "firstSeen": "2026-11-25T17:17:57.090348+00:00"
     },
     {
-      "id": "6a28e842b3bf4bfd",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "id": "10ef75306f1db512",
+      "title": "From spectrum to structure: Identifying molecules with Mass Spec Skills for Google Antigravity",
+      "url": "https://deepmind.google/blog/interpreting-mass-spectra-with-google-antigravity/",
       "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-24T16:34:13+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
+      "source": "Google DeepMind",
+      "evidence": "Company research",
+      "published": "2026-11-24T13:07:53+00:00",
+      "excerpt": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass…",
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
     },
     {
       "id": "ac2f786b30f6d457",
@@ -282,17 +369,6 @@
       "firstSeen": "2026-11-24T17:51:03.676842+00:00"
     },
     {
-      "id": "eb2701ff66febea2",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-23T17:20:37+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
-    },
-    {
       "id": "3ffa5c39e01e3431",
       "title": "Finding faster quantum algorithms with agents and formal verification",
       "url": "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
@@ -301,8 +377,7 @@
       "evidence": "Company research",
       "published": "2026-11-23T16:59:40+00:00",
       "excerpt": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00",
-      "retained": true
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
     },
     {
       "id": "9c6e2a9370bb8851",
@@ -404,17 +479,6 @@
       "firstSeen": "2026-11-23T18:17:33.838309+00:00"
     },
     {
-      "id": "1c521c8664419435",
-      "title": "AI economics in action: What four companies have done and learned",
-      "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/ai-economics-in-action-what-four-companies-have-done-and-learned",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-23T00:00:00+00:00",
-      "excerpt": "As the cost of AI increases, some companies have found a way to lower…",
-      "firstSeen": "2026-11-24T17:51:03.676842+00:00"
-    },
-    {
       "id": "06caffa3d555e0ae",
       "title": "A tiny superconducting sandwich could help computers use less energy",
       "url": "https://news.mit.edu/2026/tiny-superconducting-sandwich-could-help-computers-use-less-energy-1120",
@@ -437,39 +501,6 @@
       "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
-      "id": "e5c6e3aee232b71e",
-      "title": "From Melbourne to Mexico: How SAP Concur and AI Help the San Francisco 49ers Take Their Game Global",
-      "url": "https://news.sap.com/2026/11/how-sap-concur-helps-san-francisco-49ers-take-game-global/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T13:15:00+00:00",
-      "excerpt": "Traveling across continents during the 2026 NFL…",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
-      "id": "824c03b970f1dc58",
-      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
-      "url": "https://huggingface.co/blog/inkling2mini",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "701a571706ec6c00",
-      "title": "Introducing harness adapters: adapt your favorite model to your harness to improve performance and cost",
-      "url": "https://huggingface.co/blog/harness-adapters-at-scale",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-20T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
-    },
-    {
       "id": "3cbf012c5545ff09",
       "title": "If tiny “primordial” black holes exist, here’s how we might find them",
       "url": "https://news.mit.edu/2026/if-tiny-primordial-black-holes-exist-heres-how-we-might-find-them-1119",
@@ -489,8 +520,7 @@
       "evidence": "Company research",
       "published": "2026-11-18T21:35:43+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
-      "retained": true
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "cac57b5217ba2caa",
@@ -501,8 +531,7 @@
       "evidence": "Company research",
       "published": "2026-11-18T18:13:42+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
-      "retained": true
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
     },
     {
       "id": "6b58f7f5b6967ffa",
@@ -516,17 +545,6 @@
       "firstSeen": "2026-11-17T16:06:13.782642+00:00"
     },
     {
-      "id": "4b21719b0f9b7312",
-      "title": "Hawking’s Black Hole Paradox Exposed Clash Between Physics Theories",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.156",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-17T10:00:00+00:00",
-      "excerpt": "Author(s): Philip Ball Published 50 years ago, the information paradox dramatically illustrated the conflicts between general…",
-      "firstSeen": "2026-11-18T15:43:40.610819+00:00"
-    },
-    {
       "id": "67d152032baf1ca8",
       "title": "The Silent Eldercare Crisis: How Leaders Can Help",
       "url": "https://sloanreview.mit.edu/article/the-silent-eldercare-crisis-how-leaders-can-help/",
@@ -538,17 +556,6 @@
       "firstSeen": "2026-11-16T15:53:06.055481+00:00"
     },
     {
-      "id": "b58eee41715aa2df",
-      "title": "Winding Spins Toward Better Quantum Sensing",
-      "url": "http://link.aps.org/doi/10.1103/Physics.19.153",
-      "category": "physics",
-      "source": "APS Physics",
-      "evidence": "Research commentary",
-      "published": "2026-11-16T10:00:00+00:00",
-      "excerpt": "Author(s): Ren-Bao Liu Robust collective spin dynamics have been achieved in diamond by winding the spins into a nanoscale…",
-      "firstSeen": "2026-11-17T16:06:13.782642+00:00"
-    },
-    {
       "id": "c7a410ad3b862809",
       "title": "Introducing Gemini 4 Hydrogen",
       "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
@@ -557,8 +564,7 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
-      "retained": true
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
     },
     {
       "id": "9b52875eb1c53b2c",
@@ -580,8 +586,7 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
-      "retained": true
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
     },
     {
       "id": "6e8b7f1820153600",
@@ -603,20 +608,7 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
-      "retained": true
-    },
-    {
-      "id": "f321c904268bcef2",
-      "title": "Introducing AlphaProof Code: a breakthrough in verifying complex software at depth",
-      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
-      "category": "ai",
-      "source": "Google DeepMind",
-      "evidence": "Company research",
-      "published": "2026-11-10T12:02:28+00:00",
-      "excerpt": "AlphaProof Code agents wrote three million lines of proofs in Lean to verify Signal’s…",
-      "firstSeen": "2026-11-10T14:57:33.058646+00:00",
-      "retained": true
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
     },
     {
       "id": "cbd0edd4fc2d3f06",
