@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26T16:58:24.257507+00:00",
+  "updatedAt": "2026-11-27T01:01:40.222881+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -13,8 +13,9 @@
       "name": "Google DeepMind",
       "category": "ai",
       "url": "https://deepmind.google/blog/rss.xml",
-      "ok": true,
-      "count": 7
+      "ok": false,
+      "count": 7,
+      "error": "ParseError"
     },
     {
       "name": "Hugging Face",
@@ -190,7 +191,8 @@
       "evidence": "Company research",
       "published": "2026-11-24T13:07:53+00:00",
       "excerpt": "Mass Spec Skills empowers scientists using Google Antigravity to interpret tandem mass…",
-      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
+      "firstSeen": "2026-11-26T16:58:24.257507+00:00",
+      "retained": true
     },
     {
       "id": "ac2f786b30f6d457",
@@ -377,7 +379,8 @@
       "evidence": "Company research",
       "published": "2026-11-23T16:59:40+00:00",
       "excerpt": "Using agent teams and formal verification to improve quantum algorithms for fusion and chemistry.",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
+      "firstSeen": "2026-11-23T18:17:33.838309+00:00",
+      "retained": true
     },
     {
       "id": "9c6e2a9370bb8851",
@@ -520,7 +523,8 @@
       "evidence": "Company research",
       "published": "2026-11-18T21:35:43+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
+      "retained": true
     },
     {
       "id": "cac57b5217ba2caa",
@@ -531,7 +535,8 @@
       "evidence": "Company research",
       "published": "2026-11-18T18:13:42+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-18T23:24:57.568209+00:00"
+      "firstSeen": "2026-11-18T23:24:57.568209+00:00",
+      "retained": true
     },
     {
       "id": "6b58f7f5b6967ffa",
@@ -564,7 +569,8 @@
       "evidence": "Company research",
       "published": "2026-11-12T18:00:50+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-12T22:44:47.299192+00:00"
+      "firstSeen": "2026-11-12T22:44:47.299192+00:00",
+      "retained": true
     },
     {
       "id": "9b52875eb1c53b2c",
@@ -586,7 +592,8 @@
       "evidence": "Company research",
       "published": "2026-11-11T15:00:15+00:00",
       "excerpt": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "firstSeen": "2026-11-12T15:20:36.298221+00:00"
+      "firstSeen": "2026-11-12T15:20:36.298221+00:00",
+      "retained": true
     },
     {
       "id": "6e8b7f1820153600",
@@ -608,7 +615,8 @@
       "evidence": "Company research",
       "published": "2026-11-10T16:03:47+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-10T22:23:28.290767+00:00"
+      "firstSeen": "2026-11-10T22:23:28.290767+00:00",
+      "retained": true
     },
     {
       "id": "cbd0edd4fc2d3f06",
