@@ -4,7 +4,39 @@
     <title>The Observatory</title>
     <link>https://sahirvhora.github.io/observatory/</link>
     <description>AI, physics and consulting. A small daily reading ritual.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 01:01:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 16:44:19 +0000</lastBuildDate>
+    <item>
+      <title>Mastering CBAM Compliance: What SAP’s Latest Release Means for Declarants</title>
+      <link>https://news.sap.com/2026/11/mastering-cbam-compliance-what-latest-sap-release-means-for-declarants/</link>
+      <guid>https://news.sap.com/2026/11/mastering-cbam-compliance-what-latest-sap-release-means-for-declarants/</guid>
+      <pubDate>Fri, 27 Nov 2026 11:15:00 +0000</pubDate>
+      <description>Businesses have less than a year to ensure their often manual and fragmented compliance processes…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Building Your First Agentic Use Case: New Whitepaper Offers a Road Map for Enterprise AI</title>
+      <link>https://news.sap.com/2026/11/build-first-agentic-use-case-new-whitepaper-road-map-enterprise-ai/</link>
+      <guid>https://news.sap.com/2026/11/build-first-agentic-use-case-new-whitepaper-road-map-enterprise-ai/</guid>
+      <pubDate>Fri, 27 Nov 2026 10:15:00 +0000</pubDate>
+      <description>Enterprise AI success depends on trusted data, business context, human…</description>
+      <category>consulting</category>
+    </item>
+    <item>
+      <title>Taking Trainium3 to the Track: Generating Videos with LTX-2.5</title>
+      <link>https://huggingface.co/blog/video-trainium3</link>
+      <guid>https://huggingface.co/blog/video-trainium3</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <description />
+      <category>ai</category>
+    </item>
+    <item>
+      <title>A blueprint for the United Kingdom’s next era of growth</title>
+      <link>https://www.mckinsey.com/uk/our-insights/a-blueprint-for-the-united-kingdoms-next-era-of-growth</link>
+      <guid>https://www.mckinsey.com/uk/our-insights/a-blueprint-for-the-united-kingdoms-next-era-of-growth</guid>
+      <pubDate>Fri, 27 Nov 2026 00:00:00 +0000</pubDate>
+      <description>After years of economic stagnation, the United Kingdom has an opportunity to renew its economic…</description>
+      <category>consulting</category>
+    </item>
     <item>
       <title>SAP and planqc Bring Quantum Computing into Business Processes</title>
       <link>https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/</link>
@@ -36,14 +68,6 @@
       <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
       <description />
       <category>ai</category>
-    </item>
-    <item>
-      <title>Testing Article CS</title>
-      <link>https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs</link>
-      <guid>https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs</guid>
-      <pubDate>Thu, 26 Nov 2026 00:00:00 +0000</pubDate>
-      <description>Testing Article CS updated dek</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>Where scientists draw the line on AI agents</title>
@@ -278,22 +302,6 @@
       <category>ai</category>
     </item>
     <item>
-      <title>Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India’”</title>
-      <link>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</link>
-      <guid>https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/</guid>
-      <pubDate>Mon, 23 Nov 2026 05:15:00 +0000</pubDate>
-      <description>As SAP's biggest R&amp;D base outside Walldorf, SAP Labs India sits…</description>
-      <category>consulting</category>
-    </item>
-    <item>
-      <title>How to build and maintain an agentic evaluation</title>
-      <link>https://huggingface.co/blog/agentic-evals</link>
-      <guid>https://huggingface.co/blog/agentic-evals</guid>
-      <pubDate>Mon, 23 Nov 2026 00:00:00 +0000</pubDate>
-      <description />
-      <category>ai</category>
-    </item>
-    <item>
       <title>What it really takes to get value from AI: Highlights from McKinsey Media Day</title>
       <link>https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day</link>
       <guid>https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day</guid>
@@ -316,14 +324,6 @@
       <pubDate>Fri, 20 Nov 2026 21:00:00 +0000</pubDate>
       <description>MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and…</description>
       <category>physics</category>
-    </item>
-    <item>
-      <title>How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise</title>
-      <link>https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/</link>
-      <guid>https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/</guid>
-      <pubDate>Fri, 20 Nov 2026 14:15:00 +0000</pubDate>
-      <description>Together, SAP and Microsoft solve challenges and unlock exponential AI value.</description>
-      <category>consulting</category>
     </item>
     <item>
       <title>If tiny “primordial” black holes exist, here’s how we might find them</title>

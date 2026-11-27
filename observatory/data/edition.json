@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T01:01:40.222881+00:00",
+  "updatedAt": "2026-11-27T16:44:19.842713+00:00",
   "sources": [
     {
       "name": "APS Physics",
@@ -62,6 +62,50 @@
   ],
   "stories": [
     {
+      "id": "fb740a5ff9d3d0e5",
+      "title": "Mastering CBAM Compliance: What SAP’s Latest Release Means for Declarants",
+      "url": "https://news.sap.com/2026/11/mastering-cbam-compliance-what-latest-sap-release-means-for-declarants/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-27T11:15:00+00:00",
+      "excerpt": "Businesses have less than a year to ensure their often manual and fragmented compliance processes…",
+      "firstSeen": "2026-11-27T16:44:19.842713+00:00"
+    },
+    {
+      "id": "301bd3822774fe27",
+      "title": "Building Your First Agentic Use Case: New Whitepaper Offers a Road Map for Enterprise AI",
+      "url": "https://news.sap.com/2026/11/build-first-agentic-use-case-new-whitepaper-road-map-enterprise-ai/",
+      "category": "consulting",
+      "source": "SAP News",
+      "evidence": "Company announcement",
+      "published": "2026-11-27T10:15:00+00:00",
+      "excerpt": "Enterprise AI success depends on trusted data, business context, human…",
+      "firstSeen": "2026-11-27T16:44:19.842713+00:00"
+    },
+    {
+      "id": "c2bd7953104652e4",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "category": "ai",
+      "source": "Hugging Face",
+      "evidence": "Community / technical",
+      "published": "2026-11-27T00:00:00+00:00",
+      "excerpt": "",
+      "firstSeen": "2026-11-27T16:44:19.842713+00:00"
+    },
+    {
+      "id": "a663e6e3d7daa34a",
+      "title": "A blueprint for the United Kingdom’s next era of growth",
+      "url": "https://www.mckinsey.com/uk/our-insights/a-blueprint-for-the-united-kingdoms-next-era-of-growth",
+      "category": "consulting",
+      "source": "McKinsey",
+      "evidence": "Consulting perspective",
+      "published": "2026-11-27T00:00:00+00:00",
+      "excerpt": "After years of economic stagnation, the United Kingdom has an opportunity to renew its economic…",
+      "firstSeen": "2026-11-27T16:44:19.842713+00:00"
+    },
+    {
       "id": "d8ae01de3d2bd88f",
       "title": "SAP and planqc Bring Quantum Computing into Business Processes",
       "url": "https://news.sap.com/2026/11/sap-planqc-bring-quantum-computing-business-processes/",
@@ -103,17 +147,6 @@
       "evidence": "Community / technical",
       "published": "2026-11-26T00:00:00+00:00",
       "excerpt": "",
-      "firstSeen": "2026-11-26T16:58:24.257507+00:00"
-    },
-    {
-      "id": "bc376cdc0dfb5d12",
-      "title": "Testing Article CS",
-      "url": "https://www.mckinsey.com/industries/healthcare/our-insights/testing-article-cs",
-      "category": "consulting",
-      "source": "McKinsey",
-      "evidence": "Consulting perspective",
-      "published": "2026-11-26T00:00:00+00:00",
-      "excerpt": "Testing Article CS updated dek",
       "firstSeen": "2026-11-26T16:58:24.257507+00:00"
     },
     {
@@ -438,28 +471,6 @@
       "firstSeen": "2026-11-24T17:51:03.676842+00:00"
     },
     {
-      "id": "72984f306a838587",
-      "title": "Interview with Sindhu Gangadharan: “I Want People to Say ‘That Idea Started in India’”",
-      "url": "https://news.sap.com/2026/11/interview-sindhu-gangadharan-sap-labs-india/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-23T05:15:00+00:00",
-      "excerpt": "As SAP's biggest R&D base outside Walldorf, SAP Labs India sits…",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
-    },
-    {
-      "id": "00d52199bef25f9e",
-      "title": "How to build and maintain an agentic evaluation",
-      "url": "https://huggingface.co/blog/agentic-evals",
-      "category": "ai",
-      "source": "Hugging Face",
-      "evidence": "Community / technical",
-      "published": "2026-11-23T00:00:00+00:00",
-      "excerpt": "",
-      "firstSeen": "2026-11-23T18:17:33.838309+00:00"
-    },
-    {
       "id": "e7620dd6ef1f4c62",
       "title": "What it really takes to get value from AI: Highlights from McKinsey Media Day",
       "url": "https://www.mckinsey.com/featured-insights/what-it-really-takes-to-get-value-from-ai-highlights-from-mckinsey-media-day",
@@ -491,17 +502,6 @@
       "published": "2026-11-20T21:00:00+00:00",
       "excerpt": "MIT researchers combined superconducting and magnetic layers in a tiny device offering persistent memory and…",
       "firstSeen": "2026-11-20T23:07:01.062435+00:00"
-    },
-    {
-      "id": "a1a3ec9d6d14be71",
-      "title": "How SAP and Microsoft Innovate Together to Deliver AI Value for the Enterprise",
-      "url": "https://news.sap.com/2026/11/how-sap-microsoft-innovate-deliver-ai-value-enterprise/",
-      "category": "consulting",
-      "source": "SAP News",
-      "evidence": "Company announcement",
-      "published": "2026-11-20T14:15:00+00:00",
-      "excerpt": "Together, SAP and Microsoft solve challenges and unlock exponential AI value.",
-      "firstSeen": "2026-11-20T15:31:22.323186+00:00"
     },
     {
       "id": "3cbf012c5545ff09",
